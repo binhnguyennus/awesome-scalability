@@ -38,6 +38,7 @@ Contributions are always welcome!
 * [NoSQL](https://www.thoughtworks.com/insights/blog/nosql-databases-overview)
 	* [Key-Value Databases (Voldemort, Dynomite)](http://highscalability.com/anti-rdbms-list-distributed-key-value-stores)
 	* [Document Databases (Cassandra, Vertica, Sybase IQ)](https://msdn.microsoft.com/en-us/magazine/hh547103.aspx)
+		* [Consistent Hashing in Cassandra](https://blog.imaginea.com/consistent-hashing-in-cassandra/)
 	* [Graph Databases (MongoDB, CouchDB, Neo4j)](https://neo4j.com/blog/neo4j-scalability-infographic/)
 	* [Datastructure Databases (Redis, Hazelcast)](http://highscalability.com/blog/2014/9/8/how-twitter-uses-redis-to-scale-105tb-ram-39mm-qps-10000-ins.html)
 * [RDBMS](https://www.mysql.com/products/cluster/scalability.html)
