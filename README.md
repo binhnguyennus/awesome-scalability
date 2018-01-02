@@ -39,7 +39,7 @@ Contributions are always welcome!
 		* [Reasons for Choosing S3 over HDFS at Databricks](https://databricks.com/blog/2017/05/31/top-5-reasons-for-choosing-s3-over-hdfs.html)
 		* [S3 in the Data Infrastructure at Airbnb](https://medium.com/airbnb-engineering/data-infrastructure-at-airbnb-8adfb34f169c)
 		* [Quantcast File System on Amazon S3](https://www.quantcast.com/blog/quantcast-file-system-on-amazon-s3/)
-		* [S3 in Netflix](https://medium.com/netflix-techblog/evolution-of-the-netflix-data-pipeline-da246ca36905)	
+		* [Using S3 in Netflix Chukwa](https://medium.com/netflix-techblog/evolution-of-the-netflix-data-pipeline-da246ca36905)	
 * [NoSQL](https://www.thoughtworks.com/insights/blog/nosql-databases-overview)
 	* [Key-Value Databases (Voldemort, Dynomite)](http://highscalability.com/anti-rdbms-list-distributed-key-value-stores)
 	* [Document Databases (Cassandra, Vertica, Sybase IQ)](https://msdn.microsoft.com/en-us/magazine/hh547103.aspx)
