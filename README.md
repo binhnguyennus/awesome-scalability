@@ -34,6 +34,7 @@ Contributions are always welcome!
 	* [Peer-To-Peer Caching](https://en.wikipedia.org/wiki/P2P_caching)
 * [Storage](http://highscalability.com/blog/2011/11/1/finding-the-right-data-solution-for-your-application-in-the.html)
 	* [In-memory Storage](https://medium.com/@denisanikin/what-an-in-memory-database-is-and-how-it-persists-data-efficiently-f43868cff4c1)
+		* [Optimizing Memcached Efficiency at Quora](https://engineering.quora.com/Optimizing-Memcached-Efficiency)
 	* [Durable Storage](https://code.facebook.com/posts/357056558062811/logdevice-a-distributed-data-store-for-logs/)
 * [NoSQL](https://www.thoughtworks.com/insights/blog/nosql-databases-overview)
 	* [Key-Value Databases (Voldemort, Dynomite)](http://highscalability.com/anti-rdbms-list-distributed-key-value-stores)
@@ -102,4 +103,4 @@ Contributions are always welcome!
 * [Throttling: Maintain a steady pace](http://www.sosp.org/2001/papers/welsh.pdf)
 
 ## Special Thanks
-* Jonas Bonér, CTO at Lightbend, for the awesome [main reference source](https://www.slideshare.net/jboner/scalability-availability-stability-patterns)
+* Jonas Bonér, CTO at Lightbend, for the [original reference](https://www.slideshare.net/jboner/scalability-availability-stability-patterns)
