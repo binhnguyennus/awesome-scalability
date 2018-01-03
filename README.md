@@ -51,6 +51,7 @@ Contributions are always welcome!
 		* [How Discord Stores Billions of Messages with Cassandra](https://blog.discordapp.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7)
 	* [Graph Databases (MongoDB, CouchDB, Neo4j)](https://neo4j.com/blog/neo4j-scalability-infographic/)
 		* [eBay: Building Mission-Critical Multi-Data Center Applications with MongoDB](https://www.mongodb.com/blog/post/ebay-building-mission-critical-multi-data-center-applications-with-mongodb)
+		* [MongoDB at Baidu: Multi-Tenant Cluster Storing 200+ Billion Documents across 160 Shards](https://www.mongodb.com/blog/post/mongodb-at-baidu-powering-100-apps-across-600-nodes-at-pb-scale)
 	* [Datastructure Databases (Redis, Hazelcast)](http://highscalability.com/blog/2014/9/8/how-twitter-uses-redis-to-scale-105tb-ram-39mm-qps-10000-ins.html)
 * [RDBMS](https://www.mysql.com/products/cluster/scalability.html)
 	* [Sharding](https://medium.com/@Pinterest_Engineering/sharding-pinterest-how-we-scaled-our-mysql-fleet-3f341e96ca6f)
