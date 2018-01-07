@@ -131,6 +131,7 @@ Contributions are always welcome!
 
 ## Others
 * [Scalable Gaming Patterns on AWS (Sep 2017)](https://d0.awsstatic.com/whitepapers/aws-scalable-gaming-patterns.pdf)
+* [Building a Modern Bank Backend](https://monzo.com/blog/2016/09/19/building-a-modern-bank-backend/)
 
 ## Special Thanks
 * Jonas Bonér, CTO at Lightbend, for the [original inspiration](https://www.slideshare.net/jboner/scalability-availability-stability-patterns)
