@@ -108,7 +108,8 @@ Contributions are always welcome!
 	* [Consistent Hashing](https://medium.com/vimeo-engineering-blog/improving-load-balancing-with-a-new-consistent-hashing-algorithm-9f1bd75709ed)
 	* [UDP Load Balancing](https://developers.500px.com/udp-load-balancing-with-keepalived-167382d7ad08)
 	* [Cloud Load Balancing](https://www.nginx.com/resources/glossary/cloud-load-balancing/)
-		* [Three Types of AWS ELB: Application Load Balancer, Network Load Balancer, Classic Load Balancer](https://aws.amazon.com/elasticloadbalancing/details/#details)
+		* [AWS ELB: Application Load Balancer, Network Load Balancer, Classic Load Balancer](https://aws.amazon.com/elasticloadbalancing/details/#details)
+			* [AWS ELB issues at Asana, 2012](https://blog.asana.com/2012/06/issues-moving-to-amazon%E2%80%99s-elastic-load-balancer/)
 		* [Global Cloud Load Balancing](https://cloud.google.com/load-balancing/)
 * [Parallel Computing](https://blogs.msdn.microsoft.com/ddperf/2009/05/02/are-we-taking-advantage-of-parallelism/)
 	* [SPMD (Single Program Multiple Data): The Genetic Pattern](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-186.html)
@@ -140,7 +141,7 @@ Contributions are always welcome!
 * [Building a Modern Bank Backend](https://monzo.com/blog/2016/09/19/building-a-modern-bank-backend/)
 * [Best Practices For Horizontal Application Scaling (by Shekhar Gulati - OpenShift)](https://blog.openshift.com/best-practices-for-horizontal-application-scaling/)
 
-## Books
+## Classic Books
 * [The Art of Scalability](http://theartofscalability.com/)
 * [Designing Data-Intensive Applications](https://dataintensive.net/)
 
