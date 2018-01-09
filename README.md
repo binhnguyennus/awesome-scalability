@@ -75,6 +75,7 @@ Contributions are always welcome!
 	* [Scaling MySQL-based financial reporting system at Airbnb](https://medium.com/airbnb-engineering/tracking-the-money-scaling-financial-reporting-at-airbnb-6d742b80f040)
 	* [Scaling to 100M at Wix: MySQL is a Better NoSQL](https://www.wix.engineering/single-post/scaling-to-100m-mysql-is-a-better-nosql)
 	* [Why Uber Engineering Switched from Postgres to MySQL](https://eng.uber.com/mysql-migration/)
+	* [Handling Growth with Postgres at Instagram](https://engineering.instagram.com/handling-growth-with-postgres-5-tips-from-instagram-d5d7e7ffdfcb)
 * [HTTP Caching](https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching)
 	* [Reverse Proxy (Nginx, Varnish, Squid, rack-cache)](https://www.mertech.com/overview-reverse-proxying/)
 	* [CDN (Akamai)](https://building.coursera.org/blog/2015/07/09/improving-coursera-global-site-performance-a-head-to-head-cdn-battle-with-production-traffic/)
