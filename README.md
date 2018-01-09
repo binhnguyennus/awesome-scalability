@@ -110,7 +110,7 @@ Contributions are always welcome!
 	* [Cloud Load Balancing](https://www.nginx.com/resources/glossary/cloud-load-balancing/)
 		* [AWS ELB: Application Load Balancer, Network Load Balancer, Classic Load Balancer](https://aws.amazon.com/elasticloadbalancing/details/#details)
 			* [AWS ELB issues at Asana, 2012](https://blog.asana.com/2012/06/issues-moving-to-amazon%E2%80%99s-elastic-load-balancer/)
-		* [Global Cloud Load Balancing](https://cloud.google.com/load-balancing/)
+		* [Google Cloud Load Balancing](https://cloud.google.com/load-balancing/)
 * [Parallel Computing](https://blogs.msdn.microsoft.com/ddperf/2009/05/02/are-we-taking-advantage-of-parallelism/)
 	* [SPMD (Single Program Multiple Data): The Genetic Pattern](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-186.html)
 	* [Master/Worker Pattern](https://docs.gigaspaces.com/sbp/master-worker-pattern.html)
