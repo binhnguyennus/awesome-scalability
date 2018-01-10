@@ -1,6 +1,6 @@
 # Awesome Scalability, Availability, and Stability Backend [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of selected readings/case studies to illustrate [Scalability](https://news.ycombinator.com/item?id=4339174), [Availability](https://www.digitalocean.com/community/tutorials/what-is-high-availability), and [Stability](http://blog.dialpad.com/blog/2015/12/4/engineering-values-infrastructure-stability) patterns in backend design.
+A curated list of selected readings to illustrate Scalability, Availability, and Stability design patterns in backend development.
 
 #### What if your backend went slow?
 > Understand your problems: performance problem (slow for a single user) or scalability problem (fast for a single user but slow under heavy load) by reviewing some [basic design concepts](#basic).
