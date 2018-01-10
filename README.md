@@ -3,7 +3,7 @@
 A curated list of selected readings/case studies to illustrate [Scalability](https://news.ycombinator.com/item?id=4339174), [Availability](https://www.digitalocean.com/community/tutorials/what-is-high-availability), and [Stability](http://blog.dialpad.com/blog/2015/12/4/engineering-values-infrastructure-stability) patterns in backend design.
 
 #### What if your backend went slow?
-> Understand your problems: performance problem (slow for a single user) or scalability problem (fast for a single user but slow under heavy load) from [basic](#basic).
+> Understand your problems: performance problem (slow for a single user) or scalability problem (fast for a single user but slow under heavy load) by reviewing some [basic design concepts](#basic).
 
 #### What if your backend went down?
 > "Even if you lose all one day, you can build all over again if you retain your calm!" - Thuan Pham, CTO at Uber Technologies Inc.
@@ -27,6 +27,11 @@ Contributions are always welcome!
 * [Architecture Issues: Bottlenecks, Database, CPU, IO](http://highscalability.com/blog/2014/5/12/4-architecture-issues-when-scaling-web-applications-bottlene.html)
 * [Immutability](https://eng.uber.com/immutable-collections/)
 * [Advantages and Drawbacks of Microservices](https://cloudacademy.com/blog/microservices-architecture-challenge-advantage-drawback/)
+* [Avoid Overengineering](https://hackernoon.com/how-to-accept-over-engineering-for-what-it-really-is-6fca9a919263)
+* [Don't Repeat Yourself (DRY)](https://softwareengineering.stackexchange.com/questions/103233/why-is-dry-important)
+	* [DRY in Django](https://www.webforefront.com/django/designprinciples.html)
+* [Deal with Latency](http://highscalability.com/latency-everywhere-and-it-costs-you-sales-how-crush-it)
+* [The Importance of Loose Coupling in REST API Design](https://dzone.com/articles/the-importance-of-loose-coupling-in-rest-api-desig)	
 
 ## Scalability
 * [Distributed Caching](https://www.wix.engineering/single-post/scaling-to-100m-to-cache-or-not-to-cache)
