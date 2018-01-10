@@ -19,6 +19,9 @@ Contributions are always welcome!
 - [Scalability](#scalability)
 - [Availability](#availability)
 - [Stability](#stability)
+- [Other Design Aspects](#others)
+- [Awesome Books](#books)
+- [Awesome Talks](#talks)
 
 ## Basic
 * [CAP theorem and the trade-offs](http://robertgreiner.com/2014/08/cap-theorem-revisited/)	
@@ -152,12 +155,12 @@ Contributions are always welcome!
 * [Building a Modern Bank Backend](https://monzo.com/blog/2016/09/19/building-a-modern-bank-backend/)
 * [Best Practices For Horizontal Application Scaling (by Shekhar Gulati - OpenShift)](https://blog.openshift.com/best-practices-for-horizontal-application-scaling/)
 
-## Awesome Books
+## Books
 * [The Art of Scalability](http://theartofscalability.com/)
 * [Designing Data-Intensive Applications](https://dataintensive.net/)
 * [Web Scalability for Startup Engineers](https://www.goodreads.com/book/show/23615147-web-scalability-for-startup-engineers)
 
-## Awesome Lectures and Talks
+## Talks
 * [Harvard CS75 - Lecture 9: Scalability](https://www.youtube.com/watch?v=-W9F__D3oY4)
 * [How We've Scaled Dropbox - Kevin Modzelewski, Back-end Engineer at Dropbox](https://www.youtube.com/watch?v=PE4gwstWhmc)
 * [Lessons of Scale at Facebook - Bobby Johnson, Director of Engineering at Facebook](https://www.youtube.com/watch?v=QCHiNEw73AU)
