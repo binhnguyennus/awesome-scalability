@@ -151,9 +151,10 @@ Contributions are always welcome!
 * [Building a Modern Bank Backend](https://monzo.com/blog/2016/09/19/building-a-modern-bank-backend/)
 * [Best Practices For Horizontal Application Scaling (by Shekhar Gulati - OpenShift)](https://blog.openshift.com/best-practices-for-horizontal-application-scaling/)
 
-## Classic Books
+## Awesome Books
 * [The Art of Scalability](http://theartofscalability.com/)
 * [Designing Data-Intensive Applications](https://dataintensive.net/)
+* [Web Scalability for Startup Engineers](https://www.goodreads.com/book/show/23615147-web-scalability-for-startup-engineers)
 
 ## Special Thanks
 * Jonas Bonér, CTO at Lightbend, for the [original inspiration](https://www.slideshare.net/jboner/scalability-availability-stability-patterns)
