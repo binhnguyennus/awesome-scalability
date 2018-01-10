@@ -26,12 +26,12 @@ Contributions are always welcome!
 	* [Dropbox case: Striving for maximal throughput with acceptable latency](https://blogs.dropbox.com/tech/2017/09/optimizing-web-servers-for-high-throughput-and-low-latency/)
 * [What is ACID?](http://highscalability.com/drop-acid-and-think-about-data)
 * [Architecture issues: Bottlenecks, Database, CPU, IO](http://highscalability.com/blog/2014/5/12/4-architecture-issues-when-scaling-web-applications-bottlene.html)
-* [What is immutability?](https://eng.uber.com/immutable-collections/)
 * [Advantages and drawbacks of Microservices](https://cloudacademy.com/blog/microservices-architecture-challenge-advantage-drawback/)
-* [Overengineering problem](https://hackernoon.com/how-to-accept-over-engineering-for-what-it-really-is-6fca9a919263)
+* [Avoid Overengineering](https://hackernoon.com/how-to-accept-over-engineering-for-what-it-really-is-6fca9a919263)
 * [Don't Repeat Yourself (DRY)](https://softwareengineering.stackexchange.com/questions/103233/why-is-dry-important)
 	* [DRY in Django](https://www.webforefront.com/django/designprinciples.html)
-* [Loose coupling design](https://dzone.com/articles/the-importance-of-loose-coupling-in-rest-api-desig)	
+* [Designing for loose coupling](https://dzone.com/articles/the-importance-of-loose-coupling-in-rest-api-desig)
+* [Designing for resiliency](http://highscalability.com/blog/2012/12/31/designing-for-resiliency-will-be-so-2013.html)	
 
 ## Scalability
 * [Distributed Caching](https://www.wix.engineering/single-post/scaling-to-100m-to-cache-or-not-to-cache)
