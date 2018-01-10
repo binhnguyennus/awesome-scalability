@@ -20,18 +20,18 @@ Contributions are always welcome!
 - [Stability](#stability)
 
 ## Basic
-* [CAP Theorem and the Trade-offs](http://robertgreiner.com/2014/08/cap-theorem-revisited/)	
+* [CAP theorem and the trade-offs](http://robertgreiner.com/2014/08/cap-theorem-revisited/)	
 * [Scale up vs Scale out](https://blogs.technet.microsoft.com/admoore/2015/02/17/scaling-out-vs-scaling-up/)
-* [Latency vs Throughput: Striving for maximal throughput with acceptable latency](https://blogs.dropbox.com/tech/2017/09/optimizing-web-servers-for-high-throughput-and-low-latency/)
-* [ACID?](http://highscalability.com/drop-acid-and-think-about-data)
-* [Architecture Issues: Bottlenecks, Database, CPU, IO](http://highscalability.com/blog/2014/5/12/4-architecture-issues-when-scaling-web-applications-bottlene.html)
-* [Immutability](https://eng.uber.com/immutable-collections/)
-* [Advantages and Drawbacks of Microservices](https://cloudacademy.com/blog/microservices-architecture-challenge-advantage-drawback/)
-* [Avoid Overengineering](https://hackernoon.com/how-to-accept-over-engineering-for-what-it-really-is-6fca9a919263)
+* [How to deal with latency](http://highscalability.com/latency-everywhere-and-it-costs-you-sales-how-crush-it)
+	* [Dropbox case: Striving for maximal throughput with acceptable latency](https://blogs.dropbox.com/tech/2017/09/optimizing-web-servers-for-high-throughput-and-low-latency/)
+* [What is ACID?](http://highscalability.com/drop-acid-and-think-about-data)
+* [Architecture issues: Bottlenecks, Database, CPU, IO](http://highscalability.com/blog/2014/5/12/4-architecture-issues-when-scaling-web-applications-bottlene.html)
+* [What is immutability?](https://eng.uber.com/immutable-collections/)
+* [Advantages and drawbacks of Microservices](https://cloudacademy.com/blog/microservices-architecture-challenge-advantage-drawback/)
+* [Overengineering problem](https://hackernoon.com/how-to-accept-over-engineering-for-what-it-really-is-6fca9a919263)
 * [Don't Repeat Yourself (DRY)](https://softwareengineering.stackexchange.com/questions/103233/why-is-dry-important)
 	* [DRY in Django](https://www.webforefront.com/django/designprinciples.html)
-* [Deal with Latency](http://highscalability.com/latency-everywhere-and-it-costs-you-sales-how-crush-it)
-* [The Importance of Loose Coupling in REST API Design](https://dzone.com/articles/the-importance-of-loose-coupling-in-rest-api-desig)	
+* [Loose coupling design](https://dzone.com/articles/the-importance-of-loose-coupling-in-rest-api-desig)	
 
 ## Scalability
 * [Distributed Caching](https://www.wix.engineering/single-post/scaling-to-100m-to-cache-or-not-to-cache)
