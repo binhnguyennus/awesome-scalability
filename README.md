@@ -1,4 +1,6 @@
-# Awesome Scalability, Availability, and Stability Back-end Design Patterns[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Scalability, Availability, and Stability Back-end Design Patterns[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
+
+(https://github.com/sindresorhus/awesome)
 
 A curated list of selected readings to illustrate Scalability, Availability, and Stability Design Patterns in Back-end Development.
 
@@ -160,6 +162,7 @@ Contributions are always welcome!
 * [Harvard CS75 - Lecture 9: Scalability](https://www.youtube.com/watch?v=-W9F__D3oY4)
 * [How We've Scaled Dropbox - Kevin Modzelewski, Back-end Engineer at Dropbox](https://www.youtube.com/watch?v=PE4gwstWhmc)
 * [Lessons of Scale at Facebook - Bobby Johnson, Director of Engineering at Facebook](https://www.youtube.com/watch?v=QCHiNEw73AU)
+* [Scaling Instagram Infrastructure - Lisa Guo, Instagram Engineering](https://www.youtube.com/watch?v=hnpzNAPiC0E)
 
 ## Special Thanks
 * Jonas Bonér, CTO at Lightbend, for the [original inspiration](https://www.slideshare.net/jboner/scalability-availability-stability-patterns)
