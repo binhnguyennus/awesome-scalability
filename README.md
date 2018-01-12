@@ -47,6 +47,7 @@ Contributions are always welcome!
 	* [Write-behind and Write-through](https://docs.oracle.com/cd/E15357_01/coh.360/e15723/cache_rtwtwbra.htm#COHDG5177)
 	* [Eviction Policies](http://highscalability.com/blog/2016/1/25/design-of-a-modern-cache.html)
 	* [Peer-To-Peer Caching](https://en.wikipedia.org/wiki/P2P_caching)
+	* [Distributed Caching at Netflix with EVCache](https://medium.com/netflix-techblog/caching-for-a-global-netflix-7bcc457012f1)
 * [Distributed Logging & Tracing](https://blog.treasuredata.com/blog/2016/08/03/distributed-logging-architecture-in-the-container-era/)
 	* [Building DistributedLog at Twitter: High-performance replicated log service](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2015/building-distributedlog-twitter-s-high-performance-replicated-log-servic.html)
 	* [Distributed tracing at Pinterest with Pintrace](https://medium.com/@Pinterest_Engineering/distributed-tracing-at-pinterest-with-new-open-source-tools-a4f8a5562f6b)
