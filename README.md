@@ -30,6 +30,7 @@ Contributions are always welcome!
 	* [Dropbox case: Striving for maximal throughput with acceptable latency](https://blogs.dropbox.com/tech/2017/09/optimizing-web-servers-for-high-throughput-and-low-latency/)
 * [What is ACID?](http://highscalability.com/drop-acid-and-think-about-data)
 * [Architecture issues: Bottlenecks, Database, CPU, IO](http://highscalability.com/blog/2014/5/12/4-architecture-issues-when-scaling-web-applications-bottlene.html)
+	* [How eBay's Shopping Cart used compression techniques to solve network I/O bottlenecks](https://www.ebayinc.com/stories/blogs/tech/how-ebays-shopping-cart-used-compression-techniques-to-solve-network-io-bottlenecks/)
 * [Performance and Scalability patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/category/performance-scalability)
 * [Advantages and drawbacks of Microservices](https://cloudacademy.com/blog/microservices-architecture-challenge-advantage-drawback/)
 * [Avoid Overengineering](https://hackernoon.com/how-to-accept-over-engineering-for-what-it-really-is-6fca9a919263)
