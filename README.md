@@ -97,7 +97,7 @@ Contributions are always welcome!
 	* [Datastructure Databases (Redis, Hazelcast)](https://db-engines.com/en/system/Hazelcast%3BMemcached%3BRedis)
 		* [How Twitter Uses Redis To Scale](http://highscalability.com/blog/2014/9/8/how-twitter-uses-redis-to-scale-105tb-ram-39mm-qps-10000-ins.html)
 		* [How Twitter Uses Redis To Scale - Video](https://www.youtube.com/watch?v=QznaOSk20nU)
-		* [Redis in Slack job queue](https://slack.engineering/scaling-slacks-job-queue-687222e9d100)
+		* [Scaling Slack’s Job Queue with Redis](https://slack.engineering/scaling-slacks-job-queue-687222e9d100)
 		* [Moving persistent data out of Redis at Github](https://githubengineering.com/moving-persistent-data-out-of-redis/)
 * [RDBMS (MySQL, PostgreSQL)](https://www.mysql.com/products/cluster/scalability.html)
 	* [Why SQL is beating NoSQL, and what this means for the future of data](https://blog.timescale.com/why-sql-beating-nosql-what-this-means-for-future-of-data-time-series-database-348b777b847a)
