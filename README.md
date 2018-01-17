@@ -184,6 +184,7 @@ Contributions are always welcome!
 * [The Art of Scalability](http://theartofscalability.com/)
 * [Designing Data-Intensive Applications](https://dataintensive.net/)
 * [Web Scalability for Startup Engineers](https://www.goodreads.com/book/show/23615147-web-scalability-for-startup-engineers)
+* [Scalability Rules: 50 Principles for Scaling Web Sites](http://scalabilityrules.com/)
 
 ## Talks
 * [Harvard CS75 - Lecture 9: Scalability](https://www.youtube.com/watch?v=-W9F__D3oY4)
