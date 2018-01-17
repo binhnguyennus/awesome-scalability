@@ -165,8 +165,9 @@ Contributions are always welcome!
 
 ## Others
 * [Scalable Gaming Patterns on AWS (Sep 2017)](https://d0.awsstatic.com/whitepapers/aws-scalable-gaming-patterns.pdf)
-* [Building a Modern Bank Backend](https://monzo.com/blog/2016/09/19/building-a-modern-bank-backend/)
-* [Best Practices For Horizontal Application Scaling (by Shekhar Gulati - OpenShift)](https://blog.openshift.com/best-practices-for-horizontal-application-scaling/)
+* [Building a Modern Bank Backend at Monzo](https://monzo.com/blog/2016/09/19/building-a-modern-bank-backend/)
+* [Best Practices For Horizontal Application Scaling](https://blog.openshift.com/best-practices-for-horizontal-application-scaling/)
+* [Selecting a Cloud Provider at Etsy](https://codeascraft.com/2018/01/04/selecting-a-cloud-provider/)
 
 ## Books
 * [The Art of Scalability](http://theartofscalability.com/)
