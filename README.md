@@ -154,6 +154,7 @@ Contributions are always welcome!
 * [Distributed Machine Learning](https://arxiv.org/pdf/1512.09295.pdf)
 	* [Scalable Deep Learning Platform On Spark In Baidu](https://www.slideshare.net/JenAman/scalable-deep-learning-platform-on-spark-in-baidu)
 	* [Horovod: Uber’s Open Source Distributed Deep Learning Framework for TensorFlow](https://eng.uber.com/horovod/)	
+	* [Scaling Gradient Boosted Trees for Click-Through-Rate Prediction at Yelp](https://engineeringblog.yelp.com/2018/01/building-a-distributed-ml-pipeline-part1.html)
 
 ## Availability
 * [Fail-over](https://activemq.apache.org/artemis/docs/1.0.0/ha.html)
