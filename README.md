@@ -123,6 +123,7 @@ Contributions are always welcome!
 	* [Enterprise Service Bus](http://www.oracle.com/technetwork/articles/soa/ind-soa-esb-1967705.html)
 	* [Domain Events](https://www.oreilly.com/ideas/the-evolution-of-scalable-microservices)
 	* [Event Stream Processing](https://dl.acm.org/citation.cfm?id=2933288)
+		* [Kafka Streams on Heroku](https://blog.heroku.com/kafka-streams-on-heroku)
 	* [Event Sourcing](https://medium.com/lcom-techblog/scalable-microservices-with-event-sourcing-and-redis-6aa245574db0)
 	* [Command & Query Responsibility Segregation (CQRS)](https://docs.microsoft.com/en-us/azure/architecture/patterns/cqrs)
 * [Load Balancing](https://blog.vivekpanyam.com/scaling-a-web-service-load-balancing/)
