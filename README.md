@@ -174,6 +174,7 @@ Contributions are always welcome!
 * [Multi-clustering: Improving Resiliency and Stability of a Large-scale Monolithic API Service at LinkedIn](https://engineering.linkedin.com/blog/2017/11/improving-resiliency-and-stability-of-a-large-scale-api)
 
 ## Others
+* [Distributed Git Server at Palantir](https://medium.com/@palantir/stemma-distributed-git-server-70afbca0fc29)
 * [Scalable Gaming Patterns on AWS (Sep 2017)](https://d0.awsstatic.com/whitepapers/aws-scalable-gaming-patterns.pdf)
 * [Building a Modern Bank Backend at Monzo](https://monzo.com/blog/2016/09/19/building-a-modern-bank-backend/)
 * [Best Practices For Horizontal Application Scaling](https://blog.openshift.com/best-practices-for-horizontal-application-scaling/)
