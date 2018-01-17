@@ -25,7 +25,8 @@ Contributions are always welcome!
 
 ## Basic
 * [CAP theorem and the trade-offs](http://robertgreiner.com/2014/08/cap-theorem-revisited/)	
-* [Scale up vs Scale out](https://blogs.technet.microsoft.com/admoore/2015/02/17/scaling-out-vs-scaling-up/)
+* [Scaling Up versus Scaling Out](https://blogs.technet.microsoft.com/admoore/2015/02/17/scaling-out-vs-scaling-up/)
+	* [Best Practices for Scaling Out](https://blog.openshift.com/best-practices-for-horizontal-application-scaling/)
 * [How to deal with latency](http://highscalability.com/latency-everywhere-and-it-costs-you-sales-how-crush-it)
 	* [Dropbox case: Striving for maximal throughput with acceptable latency](https://blogs.dropbox.com/tech/2017/09/optimizing-web-servers-for-high-throughput-and-low-latency/)
 * [What is ACID?](http://highscalability.com/drop-acid-and-think-about-data)
@@ -176,9 +177,9 @@ Contributions are always welcome!
 
 ## Others
 * [Distributed Git Server at Palantir](https://medium.com/@palantir/stemma-distributed-git-server-70afbca0fc29)
+* [Seagull: Distributed system that helps running > 20 million tests per day at Yelp](https://engineeringblog.yelp.com/2017/04/how-yelp-runs-millions-of-tests-every-day.html)
 * [Scalable Gaming Patterns on AWS (Sep 2017)](https://d0.awsstatic.com/whitepapers/aws-scalable-gaming-patterns.pdf)
 * [Building a Modern Bank Backend at Monzo](https://monzo.com/blog/2016/09/19/building-a-modern-bank-backend/)
-* [Best Practices For Horizontal Application Scaling](https://blog.openshift.com/best-practices-for-horizontal-application-scaling/)
 * [Selecting a Cloud Provider at Etsy](https://codeascraft.com/2018/01/04/selecting-a-cloud-provider/)
 
 ## Books
