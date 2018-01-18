@@ -183,6 +183,7 @@ Contributions are always welcome!
 * [Scalable gaming patterns on AWS (Sep 2017)](https://d0.awsstatic.com/whitepapers/aws-scalable-gaming-patterns.pdf)
 * [Building a modern bank backend at Monzo](https://monzo.com/blog/2016/09/19/building-a-modern-bank-backend/)
 * [Selecting a cloud provider at Etsy](https://codeascraft.com/2018/01/04/selecting-a-cloud-provider/)
+* [Architecture of Tripod (Flickr’s Backend)](https://yahooeng.tumblr.com/post/157200523046/introducing-tripod-flickrs-backend-refactored)
 
 ## Books
 * [The Art of Scalability](http://theartofscalability.com/)
