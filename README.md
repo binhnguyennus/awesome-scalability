@@ -79,7 +79,7 @@ Contributions are always welcome!
 			* [S3 in the Data Infrastructure at Airbnb](https://medium.com/airbnb-engineering/data-infrastructure-at-airbnb-8adfb34f169c)
 			* [Quantcast File System on Amazon S3](https://www.quantcast.com/blog/quantcast-file-system-on-amazon-s3/)
 			* [Using S3 in Netflix Chukwa](https://medium.com/netflix-techblog/evolution-of-the-netflix-data-pipeline-da246ca36905)	
-		* [Other Object Storage]
+		* [Other Object Storages](https://www.theregister.co.uk/2016/04/13/high_performance_object_storage_why_not/)
 			* [Yahoo Cloud Object Store - Object Storage at Exabyte Scale](https://yahooeng.tumblr.com/post/116391291701/yahoo-cloud-object-store-object-storage-at)
 * [NoSQL](https://www.thoughtworks.com/insights/blog/nosql-databases-overview)
 	* [Key-Value Databases (DynamoDB, Voldemort, Manhattan)](http://highscalability.com/anti-rdbms-list-distributed-key-value-stores)
