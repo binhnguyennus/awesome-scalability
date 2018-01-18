@@ -120,6 +120,7 @@ Contributions are always welcome!
 * [Time Series Database (TSDB)](https://www.influxdata.com/time-series-database/)
 	* [Beringei: high-performance time series storage engine at Facebook](https://code.facebook.com/posts/952820474848503/beringei-a-high-performance-time-series-storage-engine/)	
 	* [Atlas: In-memory dimensional time series database at Netflix](https://medium.com/netflix-techblog/introducing-atlas-netflixs-primary-telemetry-platform-bd31f4d8ed9a)
+	* [Heroic: in-house time series database of Spotify](https://labs.spotify.com/2015/11/17/monitoring-at-spotify-introducing-heroic/)
 * [HTTP Caching](https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching)
 	* [Reverse Proxy (Nginx, Varnish, Squid, rack-cache)](https://www.mertech.com/overview-reverse-proxying/)
 	* [CDN (Akamai, Amazon CloudFront)](https://building.coursera.org/blog/2015/07/09/improving-coursera-global-site-performance-a-head-to-head-cdn-battle-with-production-traffic/)
