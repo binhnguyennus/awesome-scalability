@@ -185,6 +185,7 @@ Contributions are always welcome!
 	* [Master-Master](http://sabbour.me/highly-available-and-scalable-master-master-mysql-on-azure-virtual-machines/)
 	* [Buddy Replication](https://developer.jboss.org/wiki/JBossCacheBuddyReplicationDesign)
 * [NodeJS High Availability at Yahoo](https://yahooeng.tumblr.com/post/68823943185/nodejs-high-availability)
+* [Every Day Is Monday in Operations - LinkedIn (11 part series)](https://www.linkedin.com/pulse/introduction-every-day-monday-operations-benjamin-purgason)
 
 ## Stability
 * [Circuit Breaker](https://doc.akka.io/docs/akka/current/common/circuitbreaker.html)
