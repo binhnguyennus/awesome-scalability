@@ -67,6 +67,7 @@ Contributions are always welcome!
 	* [BookKeeper: Distributed Log Storage at Yahoo](https://yahooeng.tumblr.com/post/109908973316/bookkeeper-yahoos-distributed-log-storage-is)
 * [Distributed Messaging](https://arxiv.org/pdf/1704.00411.pdf)
 	* [Understanding When to use RabbitMQ or Apache Kafka](https://content.pivotal.io/blog/understanding-when-to-use-rabbitmq-or-apache-kafka)
+	* [Running Kafka at scale at Linkedin](https://engineering.linkedin.com/kafka/running-kafka-scale)
 	* [Delaying Asynchronous Message Processing with RabbitMQ at Indeed](http://engineering.indeedblog.com/blog/2017/06/delaying-messages/)
 	* [Yelp's Real-time Data Pipeline with Kafka](https://engineeringblog.yelp.com/2016/07/billions-of-messages-a-day-yelps-real-time-data-pipeline.html)
 	* [Deduplication Techniques](https://en.wikipedia.org/wiki/Data_deduplication)
