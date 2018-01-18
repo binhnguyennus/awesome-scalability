@@ -174,6 +174,7 @@ Contributions are always welcome!
 	* [Tree Replication](https://link.springer.com/chapter/10.1007/3-540-44863-2_47)
 	* [Master-Master](http://sabbour.me/highly-available-and-scalable-master-master-mysql-on-azure-virtual-machines/)
 	* [Buddy Replication](https://developer.jboss.org/wiki/JBossCacheBuddyReplicationDesign)
+* [NodeJS High Availability at Yahoo](https://yahooeng.tumblr.com/post/68823943185/nodejs-high-availability)
 
 ## Stability
 * [Circuit Breaker](https://doc.akka.io/docs/akka/current/common/circuitbreaker.html)
