@@ -61,6 +61,7 @@ Contributions are always welcome!
 * [Distributed Logging & Tracing](https://blog.treasuredata.com/blog/2016/08/03/distributed-logging-architecture-in-the-container-era/)
 	* [Distributed tracing with Pintrace at Pinterest](https://medium.com/@Pinterest_Engineering/distributed-tracing-at-pinterest-with-new-open-source-tools-a4f8a5562f6b)
 	* [Analyzing distributed trace data at Pinterest](https://medium.com/@Pinterest_Engineering/analyzing-distributed-trace-data-6aae58919949)
+	* [Distributed tracing at Uber](https://eng.uber.com/distributed-tracing/)
 	* [Scalable and reliable log ingestion at Pinterest](https://medium.com/@Pinterest_Engineering/scalable-and-reliable-data-ingestion-at-pinterest-b921c2ee8754)
 	* [Building DistributedLog at Twitter: High-performance replicated log service](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2015/building-distributedlog-twitter-s-high-performance-replicated-log-servic.html)
 	* [CERN Accelerator Logging Service with Spark](https://databricks.com/blog/2017/12/14/the-architecture-of-the-next-cern-accelerator-logging-service.html)
