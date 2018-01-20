@@ -32,6 +32,7 @@ Contributions are always welcome!
 * [Understand why Cache is King!](https://www.stevesouders.com/blog/2012/10/11/cache-is-king/)
 * [Understand Latency](http://highscalability.com/latency-everywhere-and-it-costs-you-sales-how-crush-it)
 * [Architecture Issues When Scaling Web Applications: Bottlenecks, Database, CPU, IO](http://highscalability.com/blog/2014/5/12/4-architecture-issues-when-scaling-web-applications-bottlene.html)	
+* [20 Common Bottlenecks](http://highscalability.com/blog/2012/5/16/big-list-of-20-common-bottlenecks.html)
 * [Advantages and Drawbacks of Microservices](https://cloudacademy.com/blog/microservices-architecture-challenge-advantage-drawback/)
 * [Avoid Overengineering](https://medium.com/@rdsubhas/10-modern-software-engineering-mistakes-bc67fbef4fc8)
 * [Don't Repeat Yourself (DRY)](https://softwareengineering.stackexchange.com/questions/103233/why-is-dry-important)
@@ -39,7 +40,7 @@ Contributions are always welcome!
 * [Design for Resiliency](http://highscalability.com/blog/2012/12/31/designing-for-resiliency-will-be-so-2013.html)
 * [Design for Self-healing when failures occur](https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/self-healing)
 * [Design for Scale out](https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/scale-out)
-* [Best Practices for Scaling Out (by Steve Souders, author of "High Performance Web Sites")](https://blog.openshift.com/best-practices-for-horizontal-application-scaling/)	
+* [Best Practices for Scaling Out](https://blog.openshift.com/best-practices-for-horizontal-application-scaling/)	
 * [Design for Evolution](https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/design-for-evolution)	
 
 ## Scalability
