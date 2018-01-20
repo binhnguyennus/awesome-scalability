@@ -4,7 +4,7 @@
 A curated list of selected readings to illustrate Scalability, Availability, and Stability Design Patterns in Back-end Development.
 
 #### What if your backend went slow?
-> Understand your problems: performance problem (slow for a single user) or scalability problem (fast for a single user but slow under heavy load) by reviewing some [basic design concepts](#basic).
+> Understand your problems: performance problem (slow for a single user) or scalability problem (fast for a single user but slow under heavy load) by reviewing some [basic design principles](#principles).
 
 #### What if your backend went down?
 > "Even if you lose all one day, you can build all over again if you retain your calm!" - Thuan Pham, CTO at Uber Technologies Inc.
@@ -15,7 +15,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
 Contributions are always welcome!
 
 ## Contents
-- [Basic](#basic)
+- [Principles](#principles)
 - [Scalability](#scalability)
 - [Availability](#availability)
 - [Stability](#stability)
@@ -23,25 +23,22 @@ Contributions are always welcome!
 - [Books](#books)
 - [Talks](#talks)
 
-## Basic
-* [CAP theorem and the trade-offs](http://robertgreiner.com/2014/08/cap-theorem-revisited/)	
+## Principles
+* [CAP Theorem and Trade-offs](http://robertgreiner.com/2014/08/cap-theorem-revisited/)	
 * [Scaling Up versus Scaling Out](https://blogs.technet.microsoft.com/admoore/2015/02/17/scaling-out-vs-scaling-up/)
-	* [Best Practices for Scaling Out](https://blog.openshift.com/best-practices-for-horizontal-application-scaling/)
-* [How to deal with latency](http://highscalability.com/latency-everywhere-and-it-costs-you-sales-how-crush-it)
-	* [Dropbox case: Striving for maximal throughput with acceptable latency](https://blogs.dropbox.com/tech/2017/09/optimizing-web-servers-for-high-throughput-and-low-latency/)
-* [What is ACID?](http://highscalability.com/drop-acid-and-think-about-data)
-* [Architecture issues: Bottlenecks, Database, CPU, IO](http://highscalability.com/blog/2014/5/12/4-architecture-issues-when-scaling-web-applications-bottlene.html)
-	* [How eBay's Shopping Cart used compression techniques to solve network I/O bottlenecks](https://www.ebayinc.com/stories/blogs/tech/how-ebays-shopping-cart-used-compression-techniques-to-solve-network-io-bottlenecks/)
+* [Best Practices for Scaling Out](https://blog.openshift.com/best-practices-for-horizontal-application-scaling/)
+* [Understanding Latency](http://highscalability.com/latency-everywhere-and-it-costs-you-sales-how-crush-it)
+* [Maximal Throughput with Acceptable Latency (Dropbox case)](https://blogs.dropbox.com/tech/2017/09/optimizing-web-servers-for-high-throughput-and-low-latency/)
+* [ACID and BASE](https://neo4j.com/blog/acid-vs-base-consistency-models-explained/)
+* [Architecture Issues When Scaling Web Applications: Bottlenecks, Database, CPU, IO](http://highscalability.com/blog/2014/5/12/4-architecture-issues-when-scaling-web-applications-bottlene.html)	
 * [Performance and Scalability patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/category/performance-scalability)
-* [Advantages and drawbacks of Microservices](https://cloudacademy.com/blog/microservices-architecture-challenge-advantage-drawback/)
-* [Avoid Overengineering](https://hackernoon.com/how-to-accept-over-engineering-for-what-it-really-is-6fca9a919263)
+* [Advantages and Drawbacks of Microservices](https://cloudacademy.com/blog/microservices-architecture-challenge-advantage-drawback/)
+* [Avoid Overengineering](https://medium.com/@rdsubhas/10-modern-software-engineering-mistakes-bc67fbef4fc8)
 * [Don't Repeat Yourself (DRY)](https://softwareengineering.stackexchange.com/questions/103233/why-is-dry-important)
-	* [DRY in Django](https://www.webforefront.com/django/designprinciples.html)
 * [Design for Loose-coupling](https://dzone.com/articles/the-importance-of-loose-coupling-in-rest-api-desig)
 * [Design for Resiliency](http://highscalability.com/blog/2012/12/31/designing-for-resiliency-will-be-so-2013.html)
 * [Design for Self-healing when failures occur](https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/self-healing)
-* [Design for Scale out](https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/scale-out)
-	* [Design for Scale: Three best practices](http://highscalability.com/blog/2015/5/11/designing-for-scale-three-principles-and-three-practices-fro.html)
+* [Design for Scale out](https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/scale-out)	
 * [Design for Evolution](https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/design-for-evolution)	
 
 ## Scalability
@@ -214,6 +211,7 @@ Contributions are always welcome!
 * [Building a modern bank backend at Monzo](https://monzo.com/blog/2016/09/19/building-a-modern-bank-backend/)
 * [Selecting a cloud provider at Etsy](https://codeascraft.com/2018/01/04/selecting-a-cloud-provider/)
 * [Architecture of Tripod (Flickr’s Backend)](https://yahooeng.tumblr.com/post/157200523046/introducing-tripod-flickrs-backend-refactored)
+* [How eBay's Shopping Cart used compression techniques to solve network I/O bottlenecks](https://www.ebayinc.com/stories/blogs/tech/how-ebays-shopping-cart-used-compression-techniques-to-solve-network-io-bottlenecks/)
 
 ## Books
 * [The Art of Scalability](http://theartofscalability.com/)
