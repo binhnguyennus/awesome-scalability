@@ -20,8 +20,8 @@ Contributions are always welcome!
 - [Availability](#availability)
 - [Stability](#stability)
 - [Other Design Aspects](#others)
-- [Awesome Books](#books)
-- [Awesome Talks](#talks)
+- [Books](#books)
+- [Talks](#talks)
 
 ## Basic
 * [CAP theorem and the trade-offs](http://robertgreiner.com/2014/08/cap-theorem-revisited/)	
@@ -134,6 +134,12 @@ Contributions are always welcome!
 	* [Software Transactional Memory](https://dl.acm.org/citation.cfm?id=3037750)
 	* [Dataflow Concurrency](http://www.marketwired.com/press-release/java-concurrency-and-scalability-platform-akka-celebrates-fifth-anniversary-1928674.htm)
 	* [Shared-State Concurrency](https://common-lisp.net/project/ssc/darcs/spec/specification.pdf)
+	* [Concurrency series by Larry Osterman (Principal SDE at Microsoft)](https://social.msdn.microsoft.com/Profile/Larry%2bOsterman%2b%5BMSFT%5D/activity)
+		* [Part 8 – Concurrency for scalability](https://blogs.msdn.microsoft.com/larryosterman/2005/02/28/concurrency-part-8-concurrency-for-scalability/)
+		* [Part 9 - APIs that enable scalable programming](https://blogs.msdn.microsoft.com/larryosterman/2005/03/02/concurrency-part-9-apis-that-enable-scalable-programming/)
+		* [Part 10 - How do you know if you’ve got a scalability issue?](https://blogs.msdn.microsoft.com/larryosterman/2005/03/03/concurrency-part-10-how-do-you-know-if-youve-got-a-scalability-issue/)
+		* [Part 11 – Hidden scalability issues](https://blogs.msdn.microsoft.com/larryosterman/2005/03/04/concurrency-part-11-hidden-scalability-issues/)
+		* [Part 12 – Hidden scalability issues (cont)](https://blogs.msdn.microsoft.com/larryosterman/2005/03/07/concurrency-part-12-hidden-scalability-issues-part-2/)
 * [Event-Driven Architecture](https://martinfowler.com/articles/201701-event-driven.html)
 	* [Messaging](https://www.ibm.com/support/knowledgecenter/en/SSAW57_8.5.5/com.ibm.websphere.nd.doc/ae/cjt1004_.html)
 		* [Publish-Subscribe](https://aws.amazon.com/pub-sub-messaging/)
