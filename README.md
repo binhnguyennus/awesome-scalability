@@ -71,6 +71,7 @@ Contributions are always welcome!
 	* [Running Kafka at scale at Linkedin](https://engineering.linkedin.com/kafka/running-kafka-scale)
 	* [Delaying Asynchronous Message Processing with RabbitMQ at Indeed](http://engineering.indeedblog.com/blog/2017/06/delaying-messages/)
 	* [Yelp's Real-time Data Pipeline with Kafka](https://engineeringblog.yelp.com/2016/07/billions-of-messages-a-day-yelps-real-time-data-pipeline.html)
+	* [Audits Kafka End-to-End at Uber](https://eng.uber.com/chaperone/)
 	* [Deduplication Techniques](https://en.wikipedia.org/wiki/Data_deduplication)
 		* [Real-time Deduping at Scale with Kafka-based Pipleline at Tapjoy](http://eng.tapjoy.com/blog-list/real-time-deduping-at-scale)
 		* [Delivering Billions of Messages Exactly Once: Deduping at Segment](https://segment.com/blog/exactly-once-delivery/)		
