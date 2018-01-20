@@ -111,6 +111,7 @@ Contributions are always welcome!
 		* [How Twitter Uses Redis To Scale - Video](https://www.youtube.com/watch?v=QznaOSk20nU)
 		* [Scaling Slack’s Job Queue with Redis](https://slack.engineering/scaling-slacks-job-queue-687222e9d100)
 		* [Moving persistent data out of Redis at Github](https://githubengineering.com/moving-persistent-data-out-of-redis/)
+	* [Practical NoSQL resilience design pattern for the enterprise (eBay)](https://www.ebayinc.com/stories/blogs/tech/practical-nosql-resilience-design-pattern-for-the-enterprise/)		
 * [RDBMS (MySQL, PostgreSQL)](https://www.mysql.com/products/cluster/scalability.html)
 	* [Why SQL is beating NoSQL, and what this means for the future of data](https://blog.timescale.com/why-sql-beating-nosql-what-this-means-for-future-of-data-time-series-database-348b777b847a)
 	* [Sharding MySQL at Pinterest](https://medium.com/@Pinterest_Engineering/sharding-pinterest-how-we-scaled-our-mysql-fleet-3f341e96ca6f)
