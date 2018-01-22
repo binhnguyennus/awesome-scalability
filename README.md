@@ -249,6 +249,7 @@ Contributions are always welcome!
 * [Designing Data-Intensive Applications](https://dataintensive.net/)
 * [Web Scalability for Startup Engineers](https://www.goodreads.com/book/show/23615147-web-scalability-for-startup-engineers)
 * [Scalability Rules: 50 Principles for Scaling Web Sites](http://scalabilityrules.com/)
+* [Chaos Engineering - Building Confidence in System Behavior through Experiments](http://www.oreilly.com/webops-perf/free/chaos-engineering.csp?intcmp=il-webops-free-product-na_new_site_chaos_engineering_text_cta)
 
 ## Special Thanks
 * Jonas Bonér, CTO at Lightbend, for the [original inspiration](https://www.slideshare.net/jboner/scalability-availability-stability-patterns)
