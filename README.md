@@ -136,7 +136,7 @@ Contributions are always welcome!
 * [HTTP Caching](https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching)
 	* [Reverse Proxy (Nginx, Varnish, Squid, rack-cache)](https://www.mertech.com/overview-reverse-proxying/)
 	* [CDN (Akamai, Amazon CloudFront)](https://building.coursera.org/blog/2015/07/09/improving-coursera-global-site-performance-a-head-to-head-cdn-battle-with-production-traffic/)
-		* [NASA - Streaming 4K Live from the International Space Station Using CloudFront](https://live.awsevents.com/nasa4k)
+	* [Strategy: Caching 404s Saved 66% On Server Time at The Onion](http://highscalability.com/blog/2010/3/26/strategy-caching-404s-saved-the-onion-66-on-server-time.html)
 * [Concurrency](https://lambda.grofers.com/open-sourcing-codon-workflow-framework-for-building-aggregator-apis-f8e591a158b4)
 	* [Message-Passing Concurrency](https://link.springer.com/chapter/10.1007/978-3-642-35170-9_11)
 	* [Software Transactional Memory](https://dl.acm.org/citation.cfm?id=3037750)
