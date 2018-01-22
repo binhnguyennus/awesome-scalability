@@ -4,7 +4,7 @@
 A curated list of selected readings to illustrate Scalability, Availability, and Stability Design Patterns in Back-end Development.
 
 #### What if your backend went slow?
-> Understand your problems: performance problem (slow for a single user) or scalability problem (fast for a single user but slow under heavy load) by reviewing [design principles as well as best pratices](#principles). You can also check some [talks](#talks) of engineers from tech giants (Google, Facebook, Netflix, etc).
+> Understand your problems: performance problem (slow for a single user) or scalability problem (fast for a single user but slow under heavy load) by reviewing [design principles](#principles). You can also check some [talks](#talks) of elite engineers from tech giants (Google, Facebook, Netflix, etc).
 
 #### What if your backend went down?
 > "Even if you lose all one day, you can build all over again if you retain your calm!" - Thuan Pham, CTO at Uber Technologies Inc.
@@ -226,12 +226,6 @@ Contributions are always welcome!
 * [How eBay's Shopping Cart used compression techniques to solve network I/O bottlenecks](https://www.ebayinc.com/stories/blogs/tech/how-ebays-shopping-cart-used-compression-techniques-to-solve-network-io-bottlenecks/)
 * [Optimizing web servers for high throughput and low latency at Dropbox](https://blogs.dropbox.com/tech/2017/09/optimizing-web-servers-for-high-throughput-and-low-latency/)
 
-## Books
-* [The Art of Scalability](http://theartofscalability.com/)
-* [Designing Data-Intensive Applications](https://dataintensive.net/)
-* [Web Scalability for Startup Engineers](https://www.goodreads.com/book/show/23615147-web-scalability-for-startup-engineers)
-* [Scalability Rules: 50 Principles for Scaling Web Sites](http://scalabilityrules.com/)
-
 ## Talks
 * [Building Real Time Infrastructure at Facebook](https://www.usenix.org/conference/srecon17americas/program/presentation/erlich)
 * [How We've Scaled Dropbox - Kevin Modzelewski, Back-end Engineer at Dropbox](https://www.youtube.com/watch?v=PE4gwstWhmc)
@@ -243,6 +237,12 @@ Contributions are always welcome!
 * [Designing for Failure: Scaling Uber's Backend by Breaking Everything - Matt Ranney, Chief Systems Architect at Uber](https://www.youtube.com/watch?v=nuiLcWE8sPA)
 * [Netflix Guide to Microservices - Josh Evans, Director of Operations Engineering at Netflix](https://www.youtube.com/watch?v=CZ3wIuvmHeM&t=2837s)
 * [Achieving Rapid Response Times in Large Online Services - Jeff Dean, Google Senior Fellow](https://www.youtube.com/watch?v=1-3Ahy7Fxsc)
+
+## Books
+* [The Art of Scalability](http://theartofscalability.com/)
+* [Designing Data-Intensive Applications](https://dataintensive.net/)
+* [Web Scalability for Startup Engineers](https://www.goodreads.com/book/show/23615147-web-scalability-for-startup-engineers)
+* [Scalability Rules: 50 Principles for Scaling Web Sites](http://scalabilityrules.com/)
 
 ## Special Thanks
 * Jonas Bonér, CTO at Lightbend, for the [original inspiration](https://www.slideshare.net/jboner/scalability-availability-stability-patterns)
