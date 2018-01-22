@@ -194,6 +194,7 @@ Contributions are always welcome!
 	* [Scaling Gradient Boosted Trees for Click-Through-Rate Prediction at Yelp](https://engineeringblog.yelp.com/2018/01/building-a-distributed-ml-pipeline-part1.html)
 	* [TensorFlowOnSpark: Distributed Deep Learning on Big Data Clusters at Yahoo](https://yahooeng.tumblr.com/post/157196488076/open-sourcing-tensorflowonspark-distributed-deep)
 	* [CaffeOnSpark: Distributed Deep Learning on Big Data Clusters at Yahoo](https://yahooeng.tumblr.com/post/139916828451/caffeonspark-open-sourced-for-distributed-deep)
+	* [AIOps in Practice at Baidu](https://www.usenix.org/conference/srecon17asia/program/presentation/qu)
 
 ## Availability
 * [Fail-over](https://activemq.apache.org/artemis/docs/1.0.0/ha.html)
