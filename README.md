@@ -199,6 +199,7 @@ Contributions are always welcome!
 	* [Buddy Replication](https://developer.jboss.org/wiki/JBossCacheBuddyReplicationDesign)
 * [NodeJS High Availability at Yahoo](https://yahooeng.tumblr.com/post/68823943185/nodejs-high-availability)
 * [Every Day Is Monday in Operations - LinkedIn (11 part series)](https://www.linkedin.com/pulse/introduction-every-day-monday-operations-benjamin-purgason)
+* [Practical Guide to Monitoring and Alerting with Time Series at Scale](https://www.usenix.org/conference/srecon17americas/program/presentation/wilkinson)
 
 ## Stability
 * [Circuit Breaker](https://doc.akka.io/docs/akka/current/common/circuitbreaker.html)
