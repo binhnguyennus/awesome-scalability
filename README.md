@@ -136,6 +136,7 @@ Contributions are always welcome!
 * [HTTP Caching (Reverse Proxy, CDN)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching)
 	* [Reverse Proxy (Nginx, Varnish, Squid, rack-cache)](https://www.mertech.com/overview-reverse-proxying/)
 	* [Stop worrying and love the proxy](https://blog.turbinelabs.io/how-we-learned-to-stop-worrying-and-love-the-proxy-89af98fabaf8)
+	* [Playing HTTP Tricks with Nginx](https://www.elastic.co/blog/playing-http-tricks-nginx)
 	* [Using CDN to improve site performance at Coursera](https://building.coursera.org/blog/2015/07/09/improving-coursera-global-site-performance-a-head-to-head-cdn-battle-with-production-traffic/)
 	* [Strategy: Caching 404s Saved 66% On Server Time at The Onion](http://highscalability.com/blog/2010/3/26/strategy-caching-404s-saved-the-onion-66-on-server-time.html)
 * [Concurrency](https://lambda.grofers.com/open-sourcing-codon-workflow-framework-for-building-aggregator-apis-f8e591a158b4)
