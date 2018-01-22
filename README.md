@@ -198,6 +198,7 @@ Contributions are always welcome!
 ## Availability
 * [Fail-over](https://activemq.apache.org/artemis/docs/1.0.0/ha.html)
 	* [The Evolution of Global Traffic Routing and Failover](https://www.usenix.org/conference/srecon16/program/presentation/heady)
+	* [Testing for Disaster Recovery Failover Testing](https://www.usenix.org/conference/srecon17asia/program/presentation/liu_zehua)
 * [Replication](https://m.alphasights.com/a-primer-on-database-replication-381b319cd032)
 	* [Master-Slave](https://engineering.bitnami.com/articles/enabling-additional-nodes-to-bitnami-mysql-with-replication.html)
 	* [Tree Replication](https://link.springer.com/chapter/10.1007/3-540-44863-2_47)
