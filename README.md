@@ -3,10 +3,10 @@
 
 A curated list of selected readings to illustrate Scalability, Availability, and Stability Design Patterns in Back-end Development.
 
-#### What if your backend went slow?
+#### What if your Back-end went slow?
 > Understand your problems: performance problem (slow for a single user) or scalability problem (fast for a single user but slow under heavy load) by reviewing [design principles](#principles). You can also check some [talks](#talks) of elite engineers from tech giants (Google, Facebook, Netflix, etc) to see how they build and scale their systems.
 
-#### What if your backend went down?
+#### What if your Back-end went down?
 > "Even if you lose all one day, you can build all over again if you retain your calm!" - Thuan Pham, CTO at Uber Technologies Inc.
 
 ## Contributing
@@ -41,6 +41,7 @@ Contributions are always welcome!
 * [Advantages and Drawbacks of Microservices](https://cloudacademy.com/blog/microservices-architecture-challenge-advantage-drawback/)
 * [Breaking Things on Purpose](https://www.usenix.org/conference/srecon17americas/program/presentation/andrus)
 * [Avoid Overengineering](https://medium.com/@rdsubhas/10-modern-software-engineering-mistakes-bc67fbef4fc8)
+* [Use Solid Technologies - Don’t Re-invent the Wheel - Keep It Simple!](https://medium.com/@DataStax/instagram-engineerings-3-rules-to-a-scalable-cloud-application-architecture-c44afed31406)
 * [Performance is a Feature](https://blog.codinghorror.com/performance-is-a-feature/)
 * [Design for Loose-coupling](https://dzone.com/articles/the-importance-of-loose-coupling-in-rest-api-desig)
 * [Design for Resiliency](http://highscalability.com/blog/2012/12/31/designing-for-resiliency-will-be-so-2013.html)
