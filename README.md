@@ -41,6 +41,7 @@ Contributions are always welcome!
 * [Advantages and Drawbacks of Microservices](https://cloudacademy.com/blog/microservices-architecture-challenge-advantage-drawback/)
 * [Breaking Things on Purpose](https://www.usenix.org/conference/srecon17americas/program/presentation/andrus)
 * [Avoid Overengineering](https://medium.com/@rdsubhas/10-modern-software-engineering-mistakes-bc67fbef4fc8)
+* [Performance is a Feature](https://blog.codinghorror.com/performance-is-a-feature/)
 * [Design for Loose-coupling](https://dzone.com/articles/the-importance-of-loose-coupling-in-rest-api-desig)
 * [Design for Resiliency](http://highscalability.com/blog/2012/12/31/designing-for-resiliency-will-be-so-2013.html)
 * [Design for Self-healing](https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/self-healing)
