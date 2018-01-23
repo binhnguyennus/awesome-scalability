@@ -51,6 +51,7 @@ Contributions are always welcome!
 
 ## Scalability
 * [Microservices](https://hackernoon.com/microservices-are-hard-an-invaluable-guide-to-microservices-2d06bd7bcf5d)
+	* [Microservices Resource Guide - Martin Fowler, Chief Scientist at ThoughtWorks](https://martinfowler.com/microservices/)
 	* [Thinking Inside the Container - Riot Games (8 part series)](https://engineering.riotgames.com/news/thinking-inside-container)
 	* [Containerization at Pinterest](https://medium.com/@Pinterest_Engineering/containerization-at-pinterest-92295347f2f3)
 	* [The Evolution of Container Usage at Netflix](https://medium.com/netflix-techblog/the-evolution-of-container-usage-at-netflix-3abfc096781b)
