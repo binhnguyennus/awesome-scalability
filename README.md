@@ -73,6 +73,7 @@ Contributions are always welcome!
 	* [Analyzing Distributed Trace Data at Pinterest](https://medium.com/@Pinterest_Engineering/analyzing-distributed-trace-data-6aae58919949)
 	* [Distributed Tracing at Uber](https://eng.uber.com/distributed-tracing/)
 	* [Data Checking at Dropbox](https://www.usenix.org/conference/srecon17asia/program/presentation/mah)
+	* [Tracing distributed systems at Showmax](https://tech.showmax.com/2016/10/tracing-distributed-systems-at-showmax/)
 * [Distributed Logging](https://blog.treasuredata.com/blog/2016/08/03/distributed-logging-architecture-in-the-container-era/)	
 	* [Scalable and reliable log ingestion at Pinterest](https://medium.com/@Pinterest_Engineering/scalable-and-reliable-data-ingestion-at-pinterest-b921c2ee8754)
 	* [Building DistributedLog at Twitter: High-performance replicated log service](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2015/building-distributedlog-twitter-s-high-performance-replicated-log-servic.html)
