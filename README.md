@@ -45,6 +45,7 @@ Contributions are always welcome!
 * [Use Solid Technologies - Don’t Re-invent the Wheel - Keep It Simple!](https://medium.com/@DataStax/instagram-engineerings-3-rules-to-a-scalable-cloud-application-architecture-c44afed31406)
 * [Performance is a Feature](https://blog.codinghorror.com/performance-is-a-feature/)
 * [Writing Code that Scales](https://blog.rackspace.com/writing-code-that-scales)
+* [AWS Do's and Don'ts](https://8thlight.com/blog/sarah-sunday/2017/09/15/aws-dos-and-donts.html)
 * [(UI) Design Doesn’t Scale - Stanley Wood, Design Director at Spotify](https://medium.com/@hellostanley/design-doesnt-scale-4d81e12cbc3e)
 * [Design for Loose-coupling](https://dzone.com/articles/the-importance-of-loose-coupling-in-rest-api-desig)
 * [Design for Resiliency](http://highscalability.com/blog/2012/12/31/designing-for-resiliency-will-be-so-2013.html)
