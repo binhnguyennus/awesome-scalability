@@ -190,6 +190,7 @@ Contributions are always welcome!
 			* [Autoscaling Pub-Sub Consumers at Spotify](https://labs.spotify.com/2017/11/20/autoscaling-pub-sub-consumers/)
 			* [Pulsar: Pub-Sub Messaging at Scale at Yahoo](https://yahooeng.tumblr.com/post/150078336821/open-sourcing-pulsar-pub-sub-messaging-at-scale)
 			* [Wormhole: Pub-Sub system at Facebook (2013)](https://code.facebook.com/posts/188966771280871/wormhole-pub-sub-system-moving-data-through-space-and-time/)
+			* [Pub-Sub in Chatting Architecture on LINE LIVE](https://engineering.linecorp.com/en/blog/detail/85)
 		* [Point-to-Point](https://content.pivotal.io/blog/understanding-when-to-use-rabbitmq-or-apache-kafka)
 		* [Store-Forward](https://medium.com/netflix-techblog/announcing-suro-backbone-of-netflixs-data-pipeline-5c660ca917b6)
 		* [Request-Reply](http://edwardost.github.io/talend/camel/2015/05/15/Scalable-JMS-Request-Reply/)
