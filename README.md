@@ -9,10 +9,10 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 #### What if your Back-end went down?
 > "Even if you lose all one day, you can build all over again if you retain your calm!" - Thuan Pham, CTO at Uber Technologies Inc.
 
-## Contributing
+## Community Power
 
-Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
-Contributions are always welcome!
+Contributions are greatly welcome! You may want to take a look at the [contribution guidelines](CONTRIBUTING.md).
+If you find this project helpful, please help me share it to more and more people! Thank you very much!
 
 ## Contents
 - [Principles](#principles)
