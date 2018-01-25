@@ -44,6 +44,7 @@ Contributions are always welcome!
 * [Advantages and Drawbacks of Microservices](https://cloudacademy.com/blog/microservices-architecture-challenge-advantage-drawback/)
 * [Breaking Things on Purpose](https://www.usenix.org/conference/srecon17americas/program/presentation/andrus)
 * [Avoid Over Engineering](https://medium.com/@rdsubhas/10-modern-software-engineering-mistakes-bc67fbef4fc8)
+* [Scalability Worst Practices](https://www.infoq.com/articles/scalability-worst-practices)
 * [Use Solid Technologies - Don’t Re-invent the Wheel - Keep It Simple!](https://medium.com/@DataStax/instagram-engineerings-3-rules-to-a-scalable-cloud-application-architecture-c44afed31406)
 * [Performance is a Feature](https://blog.codinghorror.com/performance-is-a-feature/)
 * [Writing Code that Scales](https://blog.rackspace.com/writing-code-that-scales)
