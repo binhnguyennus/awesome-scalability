@@ -264,6 +264,7 @@ Contributions are always welcome!
 * [Talks on Efficiency, Reliability, and Scaling - James Hamilton, Vice President and Distinguished Engineer at AWS](http://mvdirona.com/jrh/work/)
 * [Building Real Time Infrastructure at Facebook - Jeff Barber and Shie Erlich, Software Engineer at Facebook](https://www.usenix.org/conference/srecon17americas/program/presentation/erlich)
 * [Building Reliable Social Infrastructure for Google - Marc Alvidrez, Senior Manager at Google](https://www.usenix.org/conference/srecon16/program/presentation/alvidrez)
+* [How Google Does Planet-Scale Engineering for Planet-Scale Infra - Melissa Binde, SRE Director for Google Cloud Platform](https://www.youtube.com/watch?v=H4vMcD7zKM0)
 * [Netflix Guide to Microservices - Josh Evans, Director of Operations Engineering at Netflix](https://www.youtube.com/watch?v=CZ3wIuvmHeM&t=2837s)
 * [Achieving Rapid Response Times in Large Online Services - Jeff Dean, Google Senior Fellow](https://www.youtube.com/watch?v=1-3Ahy7Fxsc)
 * [How We've Scaled Dropbox - Kevin Modzelewski, Back-end Engineer at Dropbox](https://www.youtube.com/watch?v=PE4gwstWhmc)
