@@ -177,7 +177,7 @@ Contributions are always welcome!
 		* [Part 10 - How do you know if you’ve got a scalability issue?](https://blogs.msdn.microsoft.com/larryosterman/2005/03/03/concurrency-part-10-how-do-you-know-if-youve-got-a-scalability-issue/)
 		* [Part 11 – Hidden scalability issues](https://blogs.msdn.microsoft.com/larryosterman/2005/03/04/concurrency-part-11-hidden-scalability-issues/)
 		* [Part 12 – Hidden scalability issues (cont)](https://blogs.msdn.microsoft.com/larryosterman/2005/03/07/concurrency-part-12-hidden-scalability-issues-part-2/)
-	[Concurrency with Erlang](http://learnyousomeerlang.com/the-hitchhikers-guide-to-concurrency)
+	* [Concurrency with Erlang](http://learnyousomeerlang.com/the-hitchhikers-guide-to-concurrency)
 		* [Erlang in WhatsApp](https://blog.whatsapp.com/196/1-million-is-so-2011)
 		* [Erlang in Riot Chat Server](https://engineering.riotgames.com/news/chat-service-architecture-servers)
 		* [How Discord Scaled Elixir to Five Millions Concurrent Users](https://blog.discordapp.com/scaling-elixir-f9b8e1e7c29b)
