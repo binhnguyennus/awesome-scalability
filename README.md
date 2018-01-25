@@ -1,7 +1,7 @@
 # Awesome Scalability, Availability, and Stability Back-end Design Patterns
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of selected readings to illustrate Scalability, Availability, and Stability Design Patterns in Back-end Development.
+A curated list of selected readings to illustrate Scalability, Availability, and Stability Design Patterns in Back-end Development. Concepts are explained in the articles of notable engineers (Martin Fowler, Robert C. Martin, Tom White, etc) and high quality sources (highscalability.com, infoq.com, etc). Case studies are taken from battle-tested systems that serve millions of users (Netflix, Instagram, Riot Games, LINE, etc).
 
 #### What if your Back-end went slow?
 > Understand your problems: performance problem (slow for a single user) or scalability problem (fast for a single user but slow under heavy load) by reviewing [design principles](#principles). You can also check some [talks](#talks) of elite engineers from tech giants (Google, Facebook, Netflix, etc) to see how they build and scale their systems.
@@ -19,7 +19,7 @@ Contributions are always welcome!
 - [Scalability](#scalability)
 - [Availability](#availability)
 - [Stability](#stability)
-- [Other Design Aspects](#others)
+- [Other Aspects](#others)
 - [Books](#books)
 - [Talks](#talks)
 
