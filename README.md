@@ -19,8 +19,8 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 - [Availability](#availability)
 - [Stability](#stability)
 - [Other Aspects](#others)
-- [Books](#books)
 - [Talks](#talks)
+- [Books](#books)
 
 ## Principles
 * [Principles of Chaos Engineering](https://www.usenix.org/conference/srecon17americas/program/presentation/rosenthal)
