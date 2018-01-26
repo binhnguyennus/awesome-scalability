@@ -208,6 +208,7 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 		* [Request-Reply](https://docs.tibco.com/pub/ftl/4.3.0/doc/html/GUID-A64ABED1-682E-4E1D-A94A-5590CB91B9BB.html)
 	* [Enterprise Service Bus](http://www.oracle.com/technetwork/articles/soa/ind-soa-esb-1967705.html)
 	* [Domain Events](https://martinfowler.com/eaaDev/DomainEvent.html)
+		* [Domain Events: Simple and Reliable Solution](http://enterprisecraftsmanship.com/2017/10/03/domain-events-simple-and-reliable-solution/)
 	* [Event Stream Processing](https://www.sas.com/en_us/insights/articles/big-data/3-things-about-event-stream-processing.html)
 		* [Kafka Streams on Heroku](https://blog.heroku.com/kafka-streams-on-heroku)
 		* [Bullet: Forward-Looking Query Engine for Streaming Data at Yahoo](https://yahooeng.tumblr.com/post/161855616651/open-sourcing-bullet-yahoos-forward-looking)
