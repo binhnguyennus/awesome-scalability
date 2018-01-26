@@ -1,7 +1,7 @@
 # Awesome Scalability, Availability, and Stability Back-end Design Patterns
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of selected readings to illustrate Scalability, Availability, and Stability Design Patterns in Back-end Development. Concepts are explained in the articles of notable engineers (Martin Fowler, Robert C. Martin, Tom White, etc) and high quality sources (highscalability.com, infoq.com, etc). Case studies are taken from battle-tested systems those are serving millions of users (Netflix, Instagram, Riot Games, LINE, Expedia, etc).
+A curated list of selected readings to illustrate Scalability, Availability, and Stability Design Patterns in Back-end Development. Concepts are explained in the articles of notable engineers (Werner Vogels, James Hamilton, Martin Fowler, Robert C. Martin, Tom White, etc) and high quality reference sources (highscalability.com, infoq.com, etc). Case studies are taken from battle-tested systems those are serving millions of users (Netflix, Instagram, Riot Games, LINE, Expedia, etc).
 
 #### What if your Back-end went slow?
 > Understand your problems: performance problem (slow for a single user) or scalability problem (fast for a single user but slow under heavy load) by reviewing [design principles](#principles). You can also check some [talks](#talks) of elite engineers from tech giants (Google, Facebook, Netflix, etc) to see how they build and scale their systems.
@@ -28,7 +28,7 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 * [Finding the Order in Chaos](https://www.usenix.org/conference/srecon16/program/presentation/lueder)
 * [The Clean Architecture - Robert C. Martin (Uncle Bob)](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
 * [CAP Theorem and Trade-offs](http://robertgreiner.com/2014/08/cap-theorem-revisited/)
-* [CAP Twelve Years Later: How the "Rules" Have Changed (2012) - Eric Brewer (VP of Infrastructure at Google)](https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed)	
+* [CAP Twelve Years Later: How the "Rules" Have Changed (2012) - Eric Brewer, VP of Infrastructure at Google](https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed)	
 * [Scale Up or Scale Out, What it is and Why You Should Care](https://www.brianjgraf.com/2013/05/17/scalability-scale-up-scale-out-care/)
 * [Scaling Up vs Scaling Out: Hidden Costs](https://blog.codinghorror.com/scaling-up-vs-scaling-out-hidden-costs/)
 * [ACID and BASE](https://neo4j.com/blog/acid-vs-base-consistency-models-explained/)
@@ -36,6 +36,7 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 * [Why Non-Blocking?](https://techblog.bozho.net/why-non-blocking/)
 * [SQL and NoSQL](https://www.upwork.com/hiring/data/sql-vs-nosql-databases-whats-the-difference/)
 * [Consistent Hashing - Tom White, author of 'Hadoop: the Definitive Guide'](http://www.tom-e-white.com/2007/11/consistent-hashing.html)
+* [Eventually Consistent - Werner Vogels, CTO at Amazon](https://www.allthingsdistributed.com/2008/12/eventually_consistent.html)
 * [Cache is King!](https://www.stevesouders.com/blog/2012/10/11/cache-is-king/)
 * [Anti-Caching](http://the-paper-trail.org/blog/paper-notes-anti-caching/)
 * [Understand Latency](http://highscalability.com/latency-everywhere-and-it-costs-you-sales-how-crush-it)
