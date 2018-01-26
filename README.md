@@ -212,7 +212,7 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 	* [Fork/Join Pattern: Good for recursive data processing](http://highscalability.com/learn-how-exploit-multiple-cores-better-performance-and-scalability)
 	* [Map-Reduce: Born for Simplified Data Processing on Large Clusters](http://static.googleusercontent.com/media/research.google.com/en/us/archive/mapreduce-osdi04.pdf)
 	* [On the Death of Map-Reduce - Henry Robinson, Cloudera](http://the-paper-trail.org/blog/the-elephant-was-a-trojan-horse-on-the-death-of-map-reduce-at-google/)
-	* [Parallelize the rendering of web pages: Use case of Yelp.com](https://engineeringblog.yelp.com/2017/07/generating-web-pages-in-parallel-with-pagelets.html)
+	* [Server-side Optimization to Parallelize the Rendering of Web Pages at Yelp](https://engineeringblog.yelp.com/2017/07/generating-web-pages-in-parallel-with-pagelets.html)
 * [Event-Driven Architecture](https://martinfowler.com/articles/201701-event-driven.html)
 	* [Messaging](https://www.ibm.com/support/knowledgecenter/en/SSAW57_8.5.5/com.ibm.websphere.nd.doc/ae/cjt1004_.html)
 		* [Publish-Subscribe](https://aws.amazon.com/pub-sub-messaging/)
