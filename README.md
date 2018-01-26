@@ -243,7 +243,7 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 	* [Learning with Privacy at Scale - Differential Privacy Team, Apple](https://machinelearning.apple.com/2017/12/06/learning-with-privacy-at-scale.html)
 
 ## Availability
-* [Fail-over](https://activemq.apache.org/artemis/docs/1.0.0/ha.html)
+* [Failover](http://cloudpatterns.org/mechanisms/failover_system)
 	* [The Evolution of Global Traffic Routing and Failover](https://www.usenix.org/conference/srecon16/program/presentation/heady)
 	* [Testing for Disaster Recovery Failover Testing](https://www.usenix.org/conference/srecon17asia/program/presentation/liu_zehua)
 * [Replication](https://m.alphasights.com/a-primer-on-database-replication-381b319cd032)
