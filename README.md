@@ -18,6 +18,7 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 - [Scalability](#scalability)
 - [Availability](#availability)
 - [Stability](#stability)
+- [Performance](#performance)
 - [Other Aspects](#others)
 - [Talks](#talks)
 - [Books](#books)
@@ -262,6 +263,14 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 * [Throttling: Maintain a steady pace](http://www.sosp.org/2001/papers/welsh.pdf)
 * [Multi-clustering: Improving Resiliency and Stability of a Large-scale Monolithic API Service at LinkedIn](https://engineering.linkedin.com/blog/2017/11/improving-resiliency-and-stability-of-a-large-scale-api)
 
+## Performance
+* [Web Performance: Cache Efficiency Exercise at Facebook](https://code.facebook.com/posts/964122680272229/web-performance-cache-efficiency-exercise/)
+* [Improving Performance with Background Data Prefetching at Instagram](https://engineering.instagram.com/improving-performance-with-background-data-prefetching-b191acb39898)
+* [Compression Techniques to Solve Network I/O Bottlenecks at eBay](https://www.ebayinc.com/stories/blogs/tech/how-ebays-shopping-cart-used-compression-techniques-to-solve-network-io-bottlenecks/)
+* [Optimizing Web Servers for High Throughput and Low Latency at Dropbox](https://blogs.dropbox.com/tech/2017/09/optimizing-web-servers-for-high-throughput-and-low-latency/)
+* [Boosting Site Speed Using Brotli Compression at LinkedIn](https://engineering.linkedin.com/blog/2017/05/boosting-site-speed-using-brotli-compression)
+* [Linux Performance Analysis in 60.000 Milliseconds at Netflix](https://medium.com/netflix-techblog/linux-performance-analysis-in-60-000-milliseconds-accc10403c55)
+
 ## Others
 * [Distributed Git server at Palantir](https://medium.com/@palantir/stemma-distributed-git-server-70afbca0fc29)
 * [Configuration management for distributed systems (using GitHub and cfg4j) at Flickr](https://code.flickr.net/2016/03/24/configuration-management-for-distributed-systems-using-github-and-cfg4j/)
@@ -271,8 +280,6 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 * [Building a modern bank backend at Monzo](https://monzo.com/blog/2016/09/19/building-a-modern-bank-backend/)
 * [Selecting a cloud provider at Etsy](https://codeascraft.com/2018/01/04/selecting-a-cloud-provider/)
 * [Architecture of Tripod (Flickr’s Backend)](https://yahooeng.tumblr.com/post/157200523046/introducing-tripod-flickrs-backend-refactored)
-* [How eBay's Shopping Cart used compression techniques to solve network I/O bottlenecks](https://www.ebayinc.com/stories/blogs/tech/how-ebays-shopping-cart-used-compression-techniques-to-solve-network-io-bottlenecks/)
-* [Optimizing web servers for high throughput and low latency at Dropbox](https://blogs.dropbox.com/tech/2017/09/optimizing-web-servers-for-high-throughput-and-low-latency/)
 
 ## Talks
 * [Talks on Efficiency, Reliability, and Scaling - James Hamilton, Vice President and Distinguished Engineer at AWS](http://mvdirona.com/jrh/work/)
