@@ -309,6 +309,8 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 * [Scaling Slack - Bing Wei, Software Engineer (Infrastructure) at Slack](https://www.infoq.com/presentations/slack-scalability)
 
 ## Books
+* [Google Site Reliability Engineering (Online - Free)](https://landing.google.com/sre/book.html)
+* [Distributed Systems for Fun and Profit (Online - Free)](http://book.mixu.net/distsys/)
 * [The Art of Scalability](http://theartofscalability.com/)
 * [Designing Data-Intensive Applications](https://dataintensive.net/)
 * [Web Scalability for Startup Engineers](https://www.goodreads.com/book/show/23615147-web-scalability-for-startup-engineers)
