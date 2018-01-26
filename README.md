@@ -36,6 +36,7 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 * [Why Non-Blocking?](https://techblog.bozho.net/why-non-blocking/)
 * [SQL and NoSQL](https://www.upwork.com/hiring/data/sql-vs-nosql-databases-whats-the-difference/)
 * [Consistent Hashing - Tom White, author of 'Hadoop: the Definitive Guide'](http://www.tom-e-white.com/2007/11/consistent-hashing.html)
+* [Uniform Consistent Hashing](https://medium.com/netflix-techblog/distributing-content-to-open-connect-3e3e391d4dc9)
 * [Eventually Consistent - Werner Vogels, CTO at Amazon](https://www.allthingsdistributed.com/2008/12/eventually_consistent.html)
 * [Cache is King!](https://www.stevesouders.com/blog/2012/10/11/cache-is-king/)
 * [Anti-Caching](http://the-paper-trail.org/blog/paper-notes-anti-caching/)
