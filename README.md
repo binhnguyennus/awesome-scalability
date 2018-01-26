@@ -170,6 +170,7 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 	* [Atlas: In-memory Dimensional Time Series Database at Netflix](https://medium.com/netflix-techblog/introducing-atlas-netflixs-primary-telemetry-platform-bd31f4d8ed9a)
 	* [Heroic: Time Series Database at Spotify](https://labs.spotify.com/2015/11/17/monitoring-at-spotify-introducing-heroic/)
 	* [Building a Scalable Time Series Database on PostgreSQL](https://blog.timescale.com/when-boring-is-awesome-building-a-scalable-time-series-database-on-postgresql-2900ea453ee2)
+	* [Scaling Time Series Data Storage at Netflix](https://medium.com/netflix-techblog/scaling-time-series-data-storage-part-i-ec2b6d44ba39)
 * [HTTP Caching (Reverse Proxy, CDN)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching)
 	* [Reverse Proxy (Nginx, Varnish, Squid, rack-cache)](https://www.mertech.com/overview-reverse-proxying/)
 	* [Stop Worrying and Love the Proxy](https://blog.turbinelabs.io/how-we-learned-to-stop-worrying-and-love-the-proxy-89af98fabaf8)
