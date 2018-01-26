@@ -206,7 +206,6 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 		* [Point-To-Point and Its Differences from Pub-Sub](https://www.journaldev.com/9743/jms-messaging-models)
 		* [Store-Forward](https://docs.oracle.com/cd/E13222_01/wls/docs91/saf_admin/overview.html)
 		* [Request-Reply](https://docs.tibco.com/pub/ftl/4.3.0/doc/html/GUID-A64ABED1-682E-4E1D-A94A-5590CB91B9BB.html)
-	* [Actors: Fire-forget and Fire-Receive-Eventually](https://doc.akka.io/docs/akka/2.5.5/scala/actors.html)
 	* [Enterprise Service Bus](http://www.oracle.com/technetwork/articles/soa/ind-soa-esb-1967705.html)
 	* [Domain Events](https://www.oreilly.com/ideas/the-evolution-of-scalable-microservices)
 	* [Event Stream Processing](https://www.sas.com/en_us/insights/articles/big-data/3-things-about-event-stream-processing.html)
