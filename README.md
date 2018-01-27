@@ -27,6 +27,7 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 * [Principles of Chaos Engineering](https://www.usenix.org/conference/srecon17americas/program/presentation/rosenthal)
 * [Finding the Order in Chaos](https://www.usenix.org/conference/srecon16/program/presentation/lueder)
 * [The Clean Architecture - Robert C. Martin (Uncle Bob)](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
+* [The Twelve-Factor App](https://12factor.net/)
 * [CAP Theorem and Trade-offs](http://robertgreiner.com/2014/08/cap-theorem-revisited/)
 * [CAP Twelve Years Later: How the "Rules" Have Changed (2012) - Eric Brewer, VP of Infrastructure at Google](https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed)	
 * [Scale Up or Scale Out, What it is and Why You Should Care](https://www.brianjgraf.com/2013/05/17/scalability-scale-up-scale-out-care/)
@@ -312,6 +313,7 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 ## Books
 * [Google Site Reliability Engineering (Online - Free)](https://landing.google.com/sre/book.html)
 * [Distributed Systems for Fun and Profit (Online - Free)](http://book.mixu.net/distsys/)
+* [Beyond the Twelve-Factor App - Exploring the DNA of Highly Scalable, Resilient Cloud Applications](http://www.oreilly.com/webops-perf/free/beyond-the-twelve-factor-app.csp)
 * [The Art of Scalability](http://theartofscalability.com/)
 * [Designing Data-Intensive Applications](https://dataintensive.net/)
 * [Web Scalability for Startup Engineers](https://www.goodreads.com/book/show/23615147-web-scalability-for-startup-engineers)
