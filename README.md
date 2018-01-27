@@ -154,7 +154,7 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 		* [Scaling Job Queue with Redis at Slack](https://slack.engineering/scaling-slacks-job-queue-687222e9d100)
 		* [Moving persistent data out of Redis at Github](https://githubengineering.com/moving-persistent-data-out-of-redis/)
 		* [Storing Hundreds of Millions of Simple Key-Value Pairs in Redis at Instagram](https://engineering.instagram.com/storing-hundreds-of-millions-of-simple-key-value-pairs-in-redis-1091ae80f74c)
-		* [Redis in Chat Architecture of Twitch (from 52:53)](https://www.infoq.com/presentations/twitch-pokemon)
+		* [Redis in Chat Architecture of Twitch (from 27:22)](https://www.infoq.com/presentations/twitch-pokemon)
 	* [Practical NoSQL resilience design pattern for the enterprise (eBay)](https://www.ebayinc.com/stories/blogs/tech/practical-nosql-resilience-design-pattern-for-the-enterprise/)		
 * [RDBMS (MySQL, MSSQL, PostgreSQL)](https://www.mysql.com/products/cluster/scalability.html)
 	* [MS SQL versus MySQL](https://www.upwork.com/hiring/data/sql-vs-mysql-which-relational-database-is-right-for-you/)
