@@ -283,6 +283,7 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 * [Optimizing Web Servers for High Throughput and Low Latency at Dropbox](https://blogs.dropbox.com/tech/2017/09/optimizing-web-servers-for-high-throughput-and-low-latency/)
 * [Boosting Site Speed Using Brotli Compression at LinkedIn](https://engineering.linkedin.com/blog/2017/05/boosting-site-speed-using-brotli-compression)
 * [Linux Performance Analysis in 60.000 Milliseconds at Netflix](https://medium.com/netflix-techblog/linux-performance-analysis-in-60-000-milliseconds-accc10403c55)
+* [Optimizing 360 Photos at Scale at Facebook](https://code.facebook.com/posts/129055711052260/optimizing-360-photos-at-scale/)
 
 ## Others
 * [Distributed Git server at Palantir](https://medium.com/@palantir/stemma-distributed-git-server-70afbca0fc29)
@@ -313,7 +314,7 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 ## Books
 * [Google Site Reliability Engineering (Online - Free)](https://landing.google.com/sre/book.html)
 * [Distributed Systems for Fun and Profit (Online - Free)](http://book.mixu.net/distsys/)
-* [Beyond the Twelve-Factor App - Exploring the DNA of Highly Scalable, Resilient Cloud Applications](http://www.oreilly.com/webops-perf/free/beyond-the-twelve-factor-app.csp)
+* [Beyond the Twelve-Factor App - Exploring the DNA of Highly Scalable, Resilient Cloud Applications (Online - Free)](http://www.oreilly.com/webops-perf/free/beyond-the-twelve-factor-app.csp)
 * [The Art of Scalability](http://theartofscalability.com/)
 * [Designing Data-Intensive Applications](https://dataintensive.net/)
 * [Web Scalability for Startup Engineers](https://www.goodreads.com/book/show/23615147-web-scalability-for-startup-engineers)
