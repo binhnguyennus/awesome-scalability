@@ -81,6 +81,7 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 	* [Distributed Caching at Netflix with EVCache](https://medium.com/netflix-techblog/caching-for-a-global-netflix-7bcc457012f1)
 	* [Robust Memcache Traffic Analyzer at Box.com](https://blog.box.com/blog/introducing-memsniff-robust-memcache-traffic-analyzer/)
 	* [How Etsy caches: Consistent Hashing and Cache Smearing](https://codeascraft.com/2017/11/30/how-etsy-caches/)
+	* [An Analysis of Facebook Photo Caching](https://code.facebook.com/posts/220956754772273/an-analysis-of-facebook-photo-caching/)
 * [Distributed Tracking and Tracing](https://www.oreilly.com/ideas/understanding-the-value-of-distributed-tracing)
 	* [Tracking Service Infrastructure at Scale at Spotify](https://www.usenix.org/conference/srecon17americas/program/presentation/arthorne)
 	* [Distributed Tracing with Pintrace at Pinterest](https://medium.com/@Pinterest_Engineering/distributed-tracing-at-pinterest-with-new-open-source-tools-a4f8a5562f6b)
