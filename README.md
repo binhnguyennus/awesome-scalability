@@ -117,7 +117,8 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 	* [Nautilus: Travel Search Engine of Expedia](http://blog.expedia.com/expedias-nautilus-travel-search-engine-overview-and-applications/)
 	* [Galene: Search Architecture of LinkedIn](https://engineering.linkedin.com/search/did-you-mean-galene)
 	* [Search at Slack](https://slack.engineering/search-at-slack-431f8c80619e)
-	* [Search Service (Half a Trillion Documents and Query Average Latency < 100ms) at Twitter (2014)](https://blog.twitter.com/engineering/en_us/a/2014/building-a-complete-tweet-index.html)				
+	* [Search Service (Half a Trillion Documents and Query Average Latency < 100ms) at Twitter (2014)](https://blog.twitter.com/engineering/en_us/a/2014/building-a-complete-tweet-index.html)
+	* [Manas: High Performing Customized Search System at Pinterest](https://medium.com/@Pinterest_Engineering/manas-a-high-performing-customized-search-system-cf189f6ca40f)				
 * [Distributed Storage](http://highscalability.com/blog/2011/11/1/finding-the-right-data-solution-for-your-application-in-the.html)
 	* [In-memory Storage](https://medium.com/@denisanikin/what-an-in-memory-database-is-and-how-it-persists-data-efficiently-f43868cff4c1)
 		* [Optimizing Memcached Efficiency at Quora](https://engineering.quora.com/Optimizing-Memcached-Efficiency)
@@ -294,6 +295,8 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 * [Linux Performance Analysis in 60.000 Milliseconds at Netflix](https://medium.com/netflix-techblog/linux-performance-analysis-in-60-000-milliseconds-accc10403c55)
 * [Optimizing 360 Photos at Scale at Facebook](https://code.facebook.com/posts/129055711052260/optimizing-360-photos-at-scale/)
 * [Optimizing APIs through Dynamic Polyglot Runtime, Fully Asynchronous, and Reactive Programming at Netflix](https://medium.com/netflix-techblog/optimizing-the-netflix-api-5c9ac715cf19)
+* [Optimizing Video Playback Performance at Pinterest](https://medium.com/@Pinterest_Engineering/optimizing-video-playback-performance-caf55ce310d1)
+* [Improving GIF Performance on Pinterest at Pinterest](https://medium.com/@Pinterest_Engineering/improving-gif-performance-on-pinterest-8dad74bf92f1)
 
 ## Others
 * [Distributed Git Server at Palantir](https://medium.com/@palantir/stemma-distributed-git-server-70afbca0fc29)
