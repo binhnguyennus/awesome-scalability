@@ -289,14 +289,15 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 * [Optimizing 360 Photos at Scale at Facebook](https://code.facebook.com/posts/129055711052260/optimizing-360-photos-at-scale/)
 
 ## Others
-* [Distributed Git server at Palantir](https://medium.com/@palantir/stemma-distributed-git-server-70afbca0fc29)
-* [Configuration management for distributed systems (using GitHub and cfg4j) at Flickr](https://code.flickr.net/2016/03/24/configuration-management-for-distributed-systems-using-github-and-cfg4j/)
-* [Seagull: Distributed system that helps running > 20 million tests per day at Yelp](https://engineeringblog.yelp.com/2017/04/how-yelp-runs-millions-of-tests-every-day.html)
+* [Distributed Git Server at Palantir](https://medium.com/@palantir/stemma-distributed-git-server-70afbca0fc29)
+* [Configuration Management for Distributed Systems (using GitHub and cfg4j) at Flickr](https://code.flickr.net/2016/03/24/configuration-management-for-distributed-systems-using-github-and-cfg4j/)
+* [Seagull: Distributed System that Helps Running > 20 Million Tests Per Day at Yelp](https://engineeringblog.yelp.com/2017/04/how-yelp-runs-millions-of-tests-every-day.html)
 * [Cloud Bouncer: Distributed Rate Limiting at Yahoo](https://yahooeng.tumblr.com/post/111288877956/cloud-bouncer-distributed-rate-limiting-at-yahoo)
 * [Scalable gaming patterns on AWS (Sep 2017)](https://d0.awsstatic.com/whitepapers/aws-scalable-gaming-patterns.pdf)
 * [Building a modern bank backend at Monzo](https://monzo.com/blog/2016/09/19/building-a-modern-bank-backend/)
 * [Selecting a cloud provider at Etsy](https://codeascraft.com/2018/01/04/selecting-a-cloud-provider/)
 * [Architecture of Tripod (Flickr’s Backend)](https://yahooeng.tumblr.com/post/157200523046/introducing-tripod-flickrs-backend-refactored)
+* [Syscall Auditing at Scale at Slack](https://slack.engineering/syscall-auditing-at-scale-e6a3ca8ac1b8)
 
 ## Talks
 * [Talks on Efficiency, Reliability, and Scaling - James Hamilton, Vice President and Distinguished Engineer at AWS](http://mvdirona.com/jrh/work/)
