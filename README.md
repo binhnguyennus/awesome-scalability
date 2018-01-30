@@ -311,6 +311,7 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 * [Building a Modern Bank Backend at Monzo](https://monzo.com/blog/2016/09/19/building-a-modern-bank-backend/)
 * [Selecting a Cloud Provider at Etsy](https://codeascraft.com/2018/01/04/selecting-a-cloud-provider/)
 * [Architecture of Tripod (Flickr’s Backend)](https://yahooeng.tumblr.com/post/157200523046/introducing-tripod-flickrs-backend-refactored)
+* [Basic Infrastructure Patterns at Zenefits](https://engineering.zenefits.com/2016/02/basic-infrastructure-patterns/)
 * [Syscall Auditing at Scale at Slack](https://slack.engineering/syscall-auditing-at-scale-e6a3ca8ac1b8)
 * [Autoscaling Based on Request Queuing at Square](https://medium.com/square-corner-blog/autoscaling-based-on-request-queuing-c4c0f57f860f)
 * [Autoscaling Applications at PayPal](https://www.paypal-engineering.com/2017/08/16/autoscaling-applications-paypal/)
