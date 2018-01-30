@@ -79,6 +79,7 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 	* [Testing of Microservices at Spotify](https://labs.spotify.com/2018/01/11/testing-of-microservices/)
 	* [Organize Monolith Before Breaking it into Services at Weebly](https://medium.com/weebly-engineering/how-to-organize-your-monolith-before-breaking-it-into-services-69cbdb9248b0)
 	* [Lessons learned running Docker in production at Treehouse](https://medium.com/treehouse-engineering/lessons-learned-running-docker-in-production-5dce99ece770)
+	* [Inside a SoundCloud Microservice](https://developers.soundcloud.com/blog/inside-a-soundcloud-microservice)
 * [Distributed Caching](https://www.wix.engineering/single-post/scaling-to-100m-to-cache-or-not-to-cache)
 	* [Write-behind and Write-through](https://docs.oracle.com/cd/E15357_01/coh.360/e15723/cache_rtwtwbra.htm#COHDG5177)
 	* [Eviction Policies](http://highscalability.com/blog/2016/1/25/design-of-a-modern-cache.html)
