@@ -183,6 +183,7 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 	* [Beringei: High-performance Time Series Storage Engine at Facebook](https://code.facebook.com/posts/952820474848503/beringei-a-high-performance-time-series-storage-engine/)	
 	* [Atlas: In-memory Dimensional Time Series Database at Netflix](https://medium.com/netflix-techblog/introducing-atlas-netflixs-primary-telemetry-platform-bd31f4d8ed9a)
 	* [Heroic: Time Series Database at Spotify](https://labs.spotify.com/2015/11/17/monitoring-at-spotify-introducing-heroic/)
+	* [Roshi: Distributed Storage System for Time-Series Event at SoundCloud](https://developers.soundcloud.com/blog/roshi-a-crdt-system-for-timestamped-events)
 	* [Building a Scalable Time Series Database on PostgreSQL](https://blog.timescale.com/when-boring-is-awesome-building-a-scalable-time-series-database-on-postgresql-2900ea453ee2)
 	* [Scaling Time Series Data Storage at Netflix](https://medium.com/netflix-techblog/scaling-time-series-data-storage-part-i-ec2b6d44ba39)
 * [HTTP Caching (Reverse Proxy, CDN)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching)
