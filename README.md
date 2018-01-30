@@ -334,6 +334,7 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 * [Scaling Spotify Data Infrastructure - Matti (Lepistö) Pehrs, Spotify](https://www.youtube.com/watch?v=cdsfRXr9pJU)
 * [Scaling Uber's Backend by Breaking Everything - Matt Ranney, Chief Systems Architect at Uber](https://www.youtube.com/watch?v=nuiLcWE8sPA)
 * [Scaling Slack - Bing Wei, Software Engineer (Infrastructure) at Slack](https://www.infoq.com/presentations/slack-scalability)
+* [AWS re:Invent 2016: Scaling Up to Your First 10 Million Users (ARC201)](https://www.youtube.com/watch?v=n28lDDdlnVg) ([slides](https://www.slideshare.net/AmazonWebServices/aws-reinvent-2016-scaling-up-to-your-first-10-million-users-arc201))
 
 ## Books
 * [Google Site Reliability Engineering (Online - Free)](https://landing.google.com/sre/book.html)
