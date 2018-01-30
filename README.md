@@ -279,6 +279,7 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 	* [Circuit Breaking in Distributed Systems](https://www.infoq.com/presentations/circuit-breaking-distributed-systems)
 	* [Circuit Breakers for Distributed Services at LINE](https://engineering.linecorp.com/en/blog/detail/76)
 	* [Applying Circuit Breaker to Channel Gateway at LINE](https://engineering.linecorp.com/en/blog/detail/78)
+	* [Lessons in Resilience at SoundCloud](https://developers.soundcloud.com/blog/lessons-in-resilience-at-SoundCloud)
 	* [Circuit Breaker for Scaling Containers](https://f5.com/about-us/blog/articles/the-art-of-scaling-containers-circuit-breakers-28919)
 * [Always use timeouts (if possible)](https://www.javaworld.com/article/2824163/application-performance/stability-patterns-applied-in-a-restful-architecture.html)
 * [Let it crash/Supervisors: Embrace failure as a natural state in the life-cycle of the application](http://erlang.org/doc/design_principles/sup_princ.html)
