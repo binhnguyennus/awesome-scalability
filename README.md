@@ -68,6 +68,7 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 * [Best Practices for Scaling Out](https://blog.openshift.com/best-practices-for-horizontal-application-scaling/)	
 * [Design for Evolution](https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/design-for-evolution)	
 * [Learn from Mistakes](http://highscalability.com/blog/2013/8/26/reddit-lessons-learned-from-mistakes-made-scaling-to-1-billi.html)
+* [Life Beyond Distributed Transactions](https://queue.acm.org/detail.cfm?id=3025012)
 
 ## Scalability
 * [Microservices](https://hackernoon.com/microservices-are-hard-an-invaluable-guide-to-microservices-2d06bd7bcf5d)
