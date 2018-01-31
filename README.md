@@ -73,7 +73,7 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 ## Scalability
 * [Microservices and Orchestration](https://hackernoon.com/microservices-are-hard-an-invaluable-guide-to-microservices-2d06bd7bcf5d)
 	* [Microservices Resource Guide - Martin Fowler, Chief Scientist at ThoughtWorks](https://martinfowler.com/microservices/)
-	* [Thinking Inside the Container - Riot Games (8 part series)](https://engineering.riotgames.com/news/thinking-inside-container)
+	* [Thinking Inside the Container (8 part series) at Riot Games](https://engineering.riotgames.com/news/thinking-inside-container)
 	* [Containerization at Pinterest](https://medium.com/@Pinterest_Engineering/containerization-at-pinterest-92295347f2f3)
 	* [The Evolution of Container Usage at Netflix](https://medium.com/netflix-techblog/the-evolution-of-container-usage-at-netflix-3abfc096781b)
 	* [Dockerizing MySQL at Uber](https://eng.uber.com/dockerizing-mysql/)
@@ -275,7 +275,7 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 	* [Master-Master](http://sabbour.me/highly-available-and-scalable-master-master-mysql-on-azure-virtual-machines/)
 	* [Buddy Replication](https://developer.jboss.org/wiki/JBossCacheBuddyReplicationDesign)
 * [NodeJS High Availability at Yahoo](https://yahooeng.tumblr.com/post/68823943185/nodejs-high-availability)
-* [Every Day Is Monday in Operations - LinkedIn (11 part series)](https://www.linkedin.com/pulse/introduction-every-day-monday-operations-benjamin-purgason)
+* [Every Day Is Monday in Operations (11 part series) at LinkedIn ](https://www.linkedin.com/pulse/introduction-every-day-monday-operations-benjamin-purgason)
 * [Practical Guide to Monitoring and Alerting with Time Series at Scale](https://www.usenix.org/conference/srecon17americas/program/presentation/wilkinson)
 * [How Robust Monitoring Powers High Availability for LinkedIn Feed](https://www.usenix.org/conference/srecon17americas/program/presentation/barot)
 * [Architectural Patterns for High Availability - Adrian Cockcroft, Director of Architecture at Netflix](https://www.infoq.com/presentations/Netflix-Architecture)
