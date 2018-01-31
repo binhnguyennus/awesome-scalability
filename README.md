@@ -49,6 +49,7 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 * [Life Beyond Distributed Transactions](https://queue.acm.org/detail.cfm?id=3025012)
 * [Relying on Software to Redirect Traffic Reliably at Various Layers](https://www.usenix.org/conference/srecon15/program/presentation/taveira)
 * [Advantages and Drawbacks of Microservices](https://cloudacademy.com/blog/microservices-architecture-challenge-advantage-drawback/)
+* [Microservices Scale Cube](http://microservices.io/articles/scalecube.html)
 * [Breaking Things on Purpose](https://www.usenix.org/conference/srecon17americas/program/presentation/andrus)
 * [Avoid Over Engineering](https://medium.com/@rdsubhas/10-modern-software-engineering-mistakes-bc67fbef4fc8)
 * [Scalability Worst Practices](https://www.infoq.com/articles/scalability-worst-practices)
