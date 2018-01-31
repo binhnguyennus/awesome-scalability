@@ -91,7 +91,7 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 	* [Caching with Consistent Hashing and Cache Smearing at Etsy](https://codeascraft.com/2017/11/30/how-etsy-caches/)
 	* [An Analysis of Facebook Photo Caching](https://code.facebook.com/posts/220956754772273/an-analysis-of-facebook-photo-caching/)
 * [Distributed Tracking and Tracing](https://www.oreilly.com/ideas/understanding-the-value-of-distributed-tracing)
-	* [Tracking Service Infrastructure at Scale at Spotify](https://www.usenix.org/conference/srecon17americas/program/presentation/arthorne)
+	* [Tracking Service Infrastructure at Scale at Shopify](https://www.usenix.org/conference/srecon17americas/program/presentation/arthorne)
 	* [Distributed Tracing with Pintrace at Pinterest](https://medium.com/@Pinterest_Engineering/distributed-tracing-at-pinterest-with-new-open-source-tools-a4f8a5562f6b)
 	* [Analyzing Distributed Trace Data at Pinterest](https://medium.com/@Pinterest_Engineering/analyzing-distributed-trace-data-6aae58919949)
 	* [Distributed Tracing at Uber](https://eng.uber.com/distributed-tracing/)
