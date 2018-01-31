@@ -117,6 +117,8 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 * [Distributed Searching](http://nwds.cs.washington.edu/files/nwds/pdf/Distributed-WR.pdf)
 	* [Search Architecture of Instagram](https://engineering.instagram.com/search-architecture-eeb34a936d3a)
 	* [Search Architecture of eBay](http://www.cs.otago.ac.nz/homepages/andrew/papers/2017-8.pdf)
+	* [Improving Search Engine Efficiency by over 25% at eBay](https://www.ebayinc.com/stories/blogs/tech/making-e-commerce-search-faster/)
+	* [Elasticsearch Performance Tuning Practice at eBay](https://www.ebayinc.com/stories/blogs/tech/elasticsearch-performance-tuning-practice-at-ebay/)
 	* [Nautilus: Travel Search Engine of Expedia](http://blog.expedia.com/expedias-nautilus-travel-search-engine-overview-and-applications/)
 	* [Galene: Search Architecture of LinkedIn](https://engineering.linkedin.com/search/did-you-mean-galene)
 	* [Search at Slack](https://slack.engineering/search-at-slack-431f8c80619e)
