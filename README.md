@@ -326,9 +326,10 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 * [Architecture of Tripod (Flickr’s Backend)](https://yahooeng.tumblr.com/post/157200523046/introducing-tripod-flickrs-backend-refactored)
 * [Basic Infrastructure Patterns at Zenefits](https://engineering.zenefits.com/2016/02/basic-infrastructure-patterns/)
 * [Syscall Auditing at Scale at Slack](https://slack.engineering/syscall-auditing-at-scale-e6a3ca8ac1b8)
+* [Scaling Online Migrations at Stripe](https://stripe.com/blog/online-migrations)
 * [Autoscaling Based on Request Queuing at Square](https://medium.com/square-corner-blog/autoscaling-based-on-request-queuing-c4c0f57f860f)
 * [Autoscaling Applications at PayPal](https://www.paypal-engineering.com/2017/08/16/autoscaling-applications-paypal/)
-* [Scaling Online Migrations at Stripe](https://stripe.com/blog/online-migrations)
+* [Autoscaling Jenkins at Trivago](http://tech.trivago.com/2017/02/17/your-definite-guide-for-autoscaling-jenkins/)
 
 ## Talks
 * [Talks on Efficiency, Reliability, and Scaling - James Hamilton, Vice President and Distinguished Engineer at AWS](http://mvdirona.com/jrh/work/)
