@@ -312,6 +312,7 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 * [Reducing Video Loading Time by Prefetching during Preroll at Dailymotion](http://engineering.dailymotion.com/reducing-video-loading-time-prefetching-video-during-preroll/)
 * [Improving GIF Performance at Pinterest](https://medium.com/@Pinterest_Engineering/improving-gif-performance-on-pinterest-8dad74bf92f1)
 * [Performance Improvements (All Stacks) at Pinterest](https://medium.com/@Pinterest_Engineering/driving-user-growth-with-performance-improvements-cfc50dafadd7)
+* [Server Side Rendering at Wix](https://www.youtube.com/watch?v=f9xI2jR71Ms)
 
 ## Others
 * [Distributed Git Server at Palantir](https://medium.com/@palantir/stemma-distributed-git-server-70afbca0fc29)
