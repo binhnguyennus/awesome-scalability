@@ -317,6 +317,7 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 
 ## Others
 * [Distributed Git Server at Palantir](https://medium.com/@palantir/stemma-distributed-git-server-70afbca0fc29)
+* [Git Configuration Files (Dotfiles) Distribution at Booking.com](https://blog.booking.com/dotfiles-distribution-at-booking.com.html)
 * [Distributed Cron Architecture at Quora](https://engineering.quora.com/Quoras-Distributed-Cron-Architecture)
 * [Configuration Management for Distributed Systems (using GitHub and cfg4j) at Flickr](https://code.flickr.net/2016/03/24/configuration-management-for-distributed-systems-using-github-and-cfg4j/)
 * [Seagull: Distributed System that Helps Running > 20 Million Tests Per Day at Yelp](https://engineeringblog.yelp.com/2017/04/how-yelp-runs-millions-of-tests-every-day.html)
