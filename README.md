@@ -269,8 +269,8 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 		* [Scaling Event Sourcing for Netflix Downloads](https://www.infoq.com/presentations/netflix-scale-event-sourcing)
 		* [Scaling Event-Sourcing at Jet.com](https://medium.com/@eulerfx/scaling-event-sourcing-at-jet-9c873cac33b8)
 	* [Command & Query Responsibility Segregation (CQRS)](https://docs.microsoft.com/en-us/azure/architecture/patterns/cqrs)
+		* [CQRS Simple Architecture](https://www.future-processing.pl/blog/cqrs-simple-architecture/)
 		* [Building Scalable Applications Using Event Sourcing and CQRS with Kafka](https://initiate.andela.com/event-sourcing-and-cqrs-a-look-at-kafka-e0c1b90d17d8)	
-		* [CQRS Simple architecture](https://www.future-processing.pl/blog/cqrs-simple-architecture/)
 * [Distributed Machine Learning](https://arxiv.org/pdf/1512.09295.pdf)
 	* [Scalable Deep Learning Platform On Spark In Baidu](https://www.slideshare.net/JenAman/scalable-deep-learning-platform-on-spark-in-baidu)
 	* [Horovod: Uber’s Open Source Distributed Deep Learning Framework for TensorFlow](https://eng.uber.com/horovod/)	
@@ -335,6 +335,7 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 
 ## Others
 * [Distributed Cron Architecture at Quora](https://engineering.quora.com/Quoras-Distributed-Cron-Architecture)
+* [Simone: Distributed Simulation Service at Netflix](https://medium.com/netflix-techblog/https-medium-com-netflix-techblog-simone-a-distributed-simulation-service-b2c85131ca1b)
 * [Seagull: Distributed System that Helps Running > 20 Million Tests Per Day at Yelp](https://engineeringblog.yelp.com/2017/04/how-yelp-runs-millions-of-tests-every-day.html)
 * [Cloud Bouncer: Distributed Rate Limiting at Yahoo](https://yahooeng.tumblr.com/post/111288877956/cloud-bouncer-distributed-rate-limiting-at-yahoo)
 * [Scalable Gaming Patterns on AWS (Sep 2017)](https://d0.awsstatic.com/whitepapers/aws-scalable-gaming-patterns.pdf)
