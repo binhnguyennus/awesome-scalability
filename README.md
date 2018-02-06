@@ -332,6 +332,7 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 * [Improving GIF Performance at Pinterest](https://medium.com/@Pinterest_Engineering/improving-gif-performance-on-pinterest-8dad74bf92f1)
 * [Performance Improvements (All Stacks) at Pinterest](https://medium.com/@Pinterest_Engineering/driving-user-growth-with-performance-improvements-cfc50dafadd7)
 * [Server Side Rendering at Wix](https://www.youtube.com/watch?v=f9xI2jR71Ms)
+* [30x Performance Improvements on MySQLStreamer at Yelp](https://engineeringblog.yelp.com/2018/02/making-30x-performance-improvements-on-yelps-mysqlstreamer.html)
 
 ## Others
 * [Distributed Cron Architecture at Quora](https://engineering.quora.com/Quoras-Distributed-Cron-Architecture)
