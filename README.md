@@ -241,6 +241,7 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 		* [How Discord Scaled Elixir to Five Millions Concurrent Users](https://blog.discordapp.com/scaling-elixir-f9b8e1e7c29b)
 		* [Mnesia: A Distributed DBMS Rooted in Concurrency](https://www.developer.com/db/article.php/3864331/Mnesia-A-Distributed-DBMS-Rooted-in-Concurrency.htm)
 		* [Mesia and CAP](https://medium.com/@jlouis666/mnesia-and-cap-d2673a92850)		
+	* [Running Concurrent Queries in GoSocial (Go and Neo4j) at Medium](https://medium.engineering/running-concurrent-queries-in-gosocial-28e5841b05b5)
 * [Parallel Computing](https://blogs.msdn.microsoft.com/ddperf/2009/05/02/are-we-taking-advantage-of-parallelism/)
 	* [SPMD (Single Program Multiple Data): The Genetic Pattern](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-186.html)
 	* [Master/Worker Pattern](https://docs.gigaspaces.com/sbp/master-worker-pattern.html)
