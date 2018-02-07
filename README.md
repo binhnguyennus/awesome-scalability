@@ -265,6 +265,7 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 		* [Domain Events: Simple and Reliable Solution](http://enterprisecraftsmanship.com/2017/10/03/domain-events-simple-and-reliable-solution/)
 	* [Event Stream Processing](https://www.sas.com/en_us/insights/articles/big-data/3-things-about-event-stream-processing.html)
 		* [Kafka Streams on Heroku](https://blog.heroku.com/kafka-streams-on-heroku)
+		* [Kafka in Platform Events Architecture at Salesforce](https://engineering.salesforce.com/how-apache-kafka-inspired-our-platform-events-architecture-2f351fe4cf63)		
 		* [Bullet: Forward-Looking Query Engine for Streaming Data at Yahoo](https://yahooeng.tumblr.com/post/161855616651/open-sourcing-bullet-yahoos-forward-looking)
 		* [Benchmarking Streaming Computation Engines at Yahoo](https://yahooeng.tumblr.com/post/135321837876/benchmarking-streaming-computation-engines-at)
 	* [Event Sourcing](https://martinfowler.com/eaaDev/EventSourcing.html)
