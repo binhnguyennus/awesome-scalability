@@ -161,6 +161,7 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 		* [Cassandra at Instagram](https://www.slideshare.net/DataStax/cassandra-at-instagram-2016)
 		* [How Yelp Scaled Ad Analytics with Cassandra](https://engineeringblog.yelp.com/2016/08/how-we-scaled-our-ad-analytics-with-cassandra.html)
 		* [How Discord Stores Billions of Messages with Cassandra](https://blog.discordapp.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7)
+		* [Scale to serve 100+ million reads/writes using Spark and Cassandra at Dream11](https://medium.com/dream11-tech-blog/leaderboard-dream11-4efc6f93c23e)
 	* [Document Databases (MongoDB, SimpleDB, CouchDB)](https://msdn.microsoft.com/en-us/magazine/hh547103.aspx)
 		* [eBay: Building Mission-Critical Multi-Data Center Applications with MongoDB](https://www.mongodb.com/blog/post/ebay-building-mission-critical-multi-data-center-applications-with-mongodb)
 		* [MongoDB at Baidu: Multi-Tenant Cluster Storing 200+ Billion Documents across 160 Shards](https://www.mongodb.com/blog/post/mongodb-at-baidu-powering-100-apps-across-600-nodes-at-pb-scale)
