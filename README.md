@@ -345,6 +345,7 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 * [Server Side Rendering at Wix](https://www.youtube.com/watch?v=f9xI2jR71Ms)
 * [30x Performance Improvements on MySQLStreamer at Yelp](https://engineeringblog.yelp.com/2018/02/making-30x-performance-improvements-on-yelps-mysqlstreamer.html)
 * [Performance Monitoring with Riemann and Clojure at Walmart](https://medium.com/walmartlabs/performance-monitoring-with-riemann-and-clojure-eafc07fcd375)
+* [Improving Homepage Performance at Zillow](https://www.zillow.com/engineering/improving-homepage-performance/)
 
 ## Others
 * [Distributed Cron Architecture at Quora](https://engineering.quora.com/Quoras-Distributed-Cron-Architecture)
