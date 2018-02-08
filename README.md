@@ -376,6 +376,7 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 * [Scaling Slack - Bing Wei, Software Engineer (Infrastructure) at Slack](https://www.infoq.com/presentations/slack-scalability)
 * [Scaling YouTube's Backend - Sugu Sougoumarane, SDE at Youtube](https://www.youtube.com/watch?v=5yDO-tmIoXY&feature=youtu.be)
 * [Performance Optimization for the Greater China Region at Salesforce - Jeff Cheng, Enterprise Architect at Salesforce](https://www.salesforce.com/video/1757880/)
+* [How GIPHY Delivers a Dancing Cat GIF to 300 Millions Users - Alex Hoang and Nima Khoshini, Services Engineers at GIPHY](https://vimeo.com/252367076)
 
 ## Books
 * [Google Site Reliability Engineering (Online - Free)](https://landing.google.com/sre/book.html)
