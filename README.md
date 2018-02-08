@@ -154,6 +154,7 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 		* [Manhattan: Twitter’s distributed key-value database](https://blog.twitter.com/engineering/en_us/a/2014/manhattan-our-real-time-multi-tenant-distributed-database-for-twitter-scale.html)
 		* [Sherpa: Yahoo’s distributed NoSQL key-value store](https://yahooeng.tumblr.com/post/120730204806/sherpa-scales-new-heights)
 		* [Riak inside Chat Service Architecture at Riot Games](https://engineering.riotgames.com/news/chat-service-architecture-persistence)
+		* [MPH: Fast and Compact Immutable Key-Value Stores at Indeed](http://engineering.indeedblog.com/blog/2018/02/indeed-mph/)
 	* [Column Databases (Cassandra, HBase, Vertica, Sybase IQ)](https://aws.amazon.com/nosql/columnar/)
 		* [Consistent Hashing in Cassandra](https://blog.imaginea.com/consistent-hashing-in-cassandra/)
 		* [When NOT to use Cassandra?](https://stackoverflow.com/questions/2634955/when-not-to-use-cassandra)
