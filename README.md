@@ -293,6 +293,7 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 	* [Image Classification Experiment Using Deep Learning at Mercari](https://medium.com/mercari-engineering/mercaris-image-classification-experiment-using-deep-learning-9b4e994a18ec)
 	* [Content-based Video Relevance Prediction at Hulu](https://medium.com/hulu-tech-blog/content-based-video-relevance-prediction-b2c448e14752)
 	* [PaddlePaddle Fluid: Elastic Deep Learning on Kubernetes at Baidu](http://research.baidu.com/paddlepaddle-fluid-elastic-deep-learning-kubernetes/)
+	* [Training ML Models with Airflow and BigQuery at WePay](https://wecode.wepay.com/posts/training-machine-learning-models-with-airflow-and-bigquery)
 * [Distributed Architecture in Financial Systems](https://medium.com/@sofie_4036/lets-build-a-bank-service-architecture-410dca881291)
 	* [Building a Modern Bank Backend at Monzo](https://monzo.com/blog/2016/09/19/building-a-modern-bank-backend/)
 	* [Choosing an Architecture for Core Banking System at TrustBK](https://blog.trustbk.com/choosing-an-architecture-85750e1e5a03)
