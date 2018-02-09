@@ -10,7 +10,9 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 
 #### Community Power
 
-> Contributions are greatly welcome! You may want to take a look at the [contribution guidelines](CONTRIBUTING.md). If you find this project helpful, please help me share it to more and more people! Thank you very much!
+> Contributions are greatly welcome! You may want to take a look at the [contribution guidelines](CONTRIBUTING.md).
+
+> :heart: If you find this project helpful, [you can click here to share it with more people!](https://ctt.ec/V8B2p) Thank you very much!
 
 ## Contents
 - [Principles](#principles)
