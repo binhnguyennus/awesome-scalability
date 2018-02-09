@@ -12,7 +12,7 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 
 > Contributions are greatly welcome! You may want to take a look at the [contribution guidelines](CONTRIBUTING.md).
 
-> :heart: If you find this project helpful, [you can click here to share it with more people!](https://ctt.ec/V8B2p) Thank you very much!
+> If you find this project helpful, [you can click here to share it with more people!](https://ctt.ec/V8B2p) Thank you very much :heart: 
 
 ## Contents
 - [Principles](#principles)
