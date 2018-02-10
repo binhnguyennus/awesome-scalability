@@ -1,16 +1,18 @@
 # Awesome Scalability, Availability, and Stability Back-end Design Patterns
 
-A curated list of selected readings to illustrate Scalability, Availability, and Stability Design Patterns in Back-end Development. Concepts are explained in the articles of notable engineers (Werner Vogels, James Hamilton, Martin Fowler, Robert C. Martin, Tom White, etc) and high quality reference sources (highscalability.com, infoq.com, etc). Case studies are taken from battle-tested systems those are serving millions of users (Netflix, Instagram, Riot Games, LINE, Expedia, etc).
+A curated list of selected readings to illustrate Scalability, Availability, and Stability Design Patterns in Back-end Development. Concepts are explained in the articles of notable engineers (Werner Vogels, James Hamilton, Martin Fowler, Robert C. Martin, Tom White, etc) and high quality reference sources (highscalability.com, infoq.com, etc). Case studies are taken from battle-tested systems those are serving millions to billions of users (Netflix, Baidu, Flipkart, LINE, Spotify, Expedia, etc).
 
 #### What if your Back-end went slow?
-> Understand your problems: performance problem (slow for a single user) or scalability problem (fast for a single user but slow under heavy load) by reviewing [design principles](#principles). You can also check some [talks](#talks) of elite engineers from tech giants (Google, Facebook, Netflix, etc) to see how they build and scale their systems.
+> Understand your problems: performance problem (slow for a single user) or scalability problem (fast for a single user but slow under heavy load) by reviewing [design principles](#principles). You can also check some [talks](#talks) of elite engineers from tech giants (Google, Facebook, Instagram, etc) to see how they build and scale their systems.
 
 #### What if your Back-end went down?
 > "Even if you lose all one day, you can build all over again if you retain your calm!" - Thuan Pham, CTO at Uber Technologies Inc.
 
 #### Community Power
 
-> Contributions are greatly welcome! You may want to take a look at the [contribution guidelines](CONTRIBUTING.md). If you find this project helpful, please help me share it to more and more people! Thank you very much!
+> Contributions are greatly welcome! You may want to take a look at the [contribution guidelines](CONTRIBUTING.md).
+
+> If you find this project helpful, [you can click here to share it with more people!](https://ctt.ec/V8B2p) Thank you very much :heart: 
 
 ## Contents
 - [Principles](#principles)
@@ -82,7 +84,9 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 	* [Organize Monolith Before Breaking it into Services at Weebly](https://medium.com/weebly-engineering/how-to-organize-your-monolith-before-breaking-it-into-services-69cbdb9248b0)
 	* [Lessons learned running Docker in production at Treehouse](https://medium.com/treehouse-engineering/lessons-learned-running-docker-in-production-5dce99ece770)
 	* [Inside a SoundCloud Microservice](https://developers.soundcloud.com/blog/inside-a-soundcloud-microservice)
+	* [Microservices at BlaBlaCar](http://blablatech.com/blog/micro-service-at-blablacar)
 	* [Operate Kubernetes Reliably at Stripe](https://stripe.com/blog/operating-kubernetes)
+	* [Agrarian-Scale Kubernetes (3 part series) at New York Times](https://open.nytimes.com/agrarian-scale-kubernetes-part-3-ee459887ed7e)
 * [Distributed Caching](https://www.wix.engineering/single-post/scaling-to-100m-to-cache-or-not-to-cache)
 	* [Write-behind and Write-through](https://docs.oracle.com/cd/E15357_01/coh.360/e15723/cache_rtwtwbra.htm#COHDG5177)
 	* [Eviction Policies](http://highscalability.com/blog/2016/1/25/design-of-a-modern-cache.html)
@@ -128,6 +132,8 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 	* [Search Service (Half a Trillion Documents and Query Average Latency < 100ms) at Twitter (2014)](https://blog.twitter.com/engineering/en_us/a/2014/building-a-complete-tweet-index.html)
 	* [Manas: High Performing Customized Search System at Pinterest](https://medium.com/@Pinterest_Engineering/manas-a-high-performing-customized-search-system-cf189f6ca40f)
 	* [Sherlock: Near Real Time Search Indexing at Flipkart](https://tech.flipkart.com/sherlock-near-real-time-search-indexing-95519783859d)
+	* [Nebula: Storage Platform to Build Search Backends at Airbnb](https://medium.com/airbnb-engineering/nebula-as-a-storage-platform-to-build-airbnbs-search-backends-ecc577b05f06)
+	* [Elasticsearch at Kickstarter](https://kickstarter.engineering/elasticsearch-at-kickstarter-db3c487887fc)
 * [Distributed Storage](http://highscalability.com/blog/2011/11/1/finding-the-right-data-solution-for-your-application-in-the.html)
 	* [In-memory Storage](https://medium.com/@denisanikin/what-an-in-memory-database-is-and-how-it-persists-data-efficiently-f43868cff4c1)
 		* [Optimizing Memcached Efficiency at Quora](https://engineering.quora.com/Optimizing-Memcached-Efficiency)
@@ -152,6 +158,8 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 		* [Manhattan: Twitter’s distributed key-value database](https://blog.twitter.com/engineering/en_us/a/2014/manhattan-our-real-time-multi-tenant-distributed-database-for-twitter-scale.html)
 		* [Sherpa: Yahoo’s distributed NoSQL key-value store](https://yahooeng.tumblr.com/post/120730204806/sherpa-scales-new-heights)
 		* [Riak inside Chat Service Architecture at Riot Games](https://engineering.riotgames.com/news/chat-service-architecture-persistence)
+		* [MPH: Fast and Compact Immutable Key-Value Stores at Indeed](http://engineering.indeedblog.com/blog/2018/02/indeed-mph/)
+		* [zBase: High Performance, Elastic, Distributed Key-Value Store at Zynga](https://www.zynga.com/blogs/engineering/zbase-high-performance-elastic-distributed-key-value-store-2)
 	* [Column Databases (Cassandra, HBase, Vertica, Sybase IQ)](https://aws.amazon.com/nosql/columnar/)
 		* [Consistent Hashing in Cassandra](https://blog.imaginea.com/consistent-hashing-in-cassandra/)
 		* [When NOT to use Cassandra?](https://stackoverflow.com/questions/2634955/when-not-to-use-cassandra)
@@ -159,6 +167,9 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 		* [Cassandra at Instagram](https://www.slideshare.net/DataStax/cassandra-at-instagram-2016)
 		* [How Yelp Scaled Ad Analytics with Cassandra](https://engineeringblog.yelp.com/2016/08/how-we-scaled-our-ad-analytics-with-cassandra.html)
 		* [How Discord Stores Billions of Messages with Cassandra](https://blog.discordapp.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7)
+		* [Scale to serve 100+ million reads/writes using Spark and Cassandra at Dream11](https://medium.com/dream11-tech-blog/leaderboard-dream11-4efc6f93c23e)
+		* [Imgur Notification: From MySQL to HBASE at Imgur](https://blog.imgur.com/2015/09/15/tech-tuesday-imgur-notifications-from-mysql-to-hbase/)
+		* [Moving Food Feed from Redis to Cassandra at Zomato](https://www.zomato.com/blog/how-we-moved-our-food-feed-from-redis-to-cassandra)
 	* [Document Databases (MongoDB, SimpleDB, CouchDB)](https://msdn.microsoft.com/en-us/magazine/hh547103.aspx)
 		* [eBay: Building Mission-Critical Multi-Data Center Applications with MongoDB](https://www.mongodb.com/blog/post/ebay-building-mission-critical-multi-data-center-applications-with-mongodb)
 		* [MongoDB at Baidu: Multi-Tenant Cluster Storing 200+ Billion Documents across 160 Shards](https://www.mongodb.com/blog/post/mongodb-at-baidu-powering-100-apps-across-600-nodes-at-pb-scale)
@@ -206,6 +217,8 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 	* [Using CDN to Improve Site Performance at Coursera](https://building.coursera.org/blog/2015/07/09/improving-coursera-global-site-performance-a-head-to-head-cdn-battle-with-production-traffic/)
 	* [Strategy: Caching 404s Saved 66% On Server Time at The Onion](http://highscalability.com/blog/2010/3/26/strategy-caching-404s-saved-the-onion-66-on-server-time.html)
 	* [Increasing Application Performance with HTTP Cache Headers](https://devcenter.heroku.com/articles/increasing-application-performance-with-http-cache-headers)
+	* [Zynga Geo Proxy: Reducing Mobile Game Latency at Zynga](https://www.zynga.com/blogs/engineering/zynga-geo-proxy-reducing-mobile-game-latency)
+	* [Google AMP at Condé Nast](https://technology.condenast.com/story/the-why-and-how-of-google-amp-at-conde-nast)
 * [Load Balancing](https://blog.vivekpanyam.com/scaling-a-web-service-load-balancing/)
 	* [Introduction to Modern Network Load Balancing and Proxying](https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236)
 	* [Load Balancing infrastructure to support more than 1.3 billion users at Facebook](https://www.usenix.org/conference/srecon15europe/program/presentation/shuff)
@@ -238,6 +251,7 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 		* [How Discord Scaled Elixir to Five Millions Concurrent Users](https://blog.discordapp.com/scaling-elixir-f9b8e1e7c29b)
 		* [Mnesia: A Distributed DBMS Rooted in Concurrency](https://www.developer.com/db/article.php/3864331/Mnesia-A-Distributed-DBMS-Rooted-in-Concurrency.htm)
 		* [Mesia and CAP](https://medium.com/@jlouis666/mnesia-and-cap-d2673a92850)		
+	* [Running Concurrent Queries in GoSocial (Go and Neo4j) at Medium](https://medium.engineering/running-concurrent-queries-in-gosocial-28e5841b05b5)
 * [Parallel Computing](https://blogs.msdn.microsoft.com/ddperf/2009/05/02/are-we-taking-advantage-of-parallelism/)
 	* [SPMD (Single Program Multiple Data): The Genetic Pattern](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-186.html)
 	* [Master/Worker Pattern](https://docs.gigaspaces.com/sbp/master-worker-pattern.html)
@@ -261,6 +275,7 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 		* [Domain Events: Simple and Reliable Solution](http://enterprisecraftsmanship.com/2017/10/03/domain-events-simple-and-reliable-solution/)
 	* [Event Stream Processing](https://www.sas.com/en_us/insights/articles/big-data/3-things-about-event-stream-processing.html)
 		* [Kafka Streams on Heroku](https://blog.heroku.com/kafka-streams-on-heroku)
+		* [Kafka in Platform Events Architecture at Salesforce](https://engineering.salesforce.com/how-apache-kafka-inspired-our-platform-events-architecture-2f351fe4cf63)		
 		* [Bullet: Forward-Looking Query Engine for Streaming Data at Yahoo](https://yahooeng.tumblr.com/post/161855616651/open-sourcing-bullet-yahoos-forward-looking)
 		* [Benchmarking Streaming Computation Engines at Yahoo](https://yahooeng.tumblr.com/post/135321837876/benchmarking-streaming-computation-engines-at)
 	* [Event Sourcing](https://martinfowler.com/eaaDev/EventSourcing.html)
@@ -269,6 +284,7 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 		* [Scaling Event Sourcing for Netflix Downloads](https://www.infoq.com/presentations/netflix-scale-event-sourcing)
 		* [Scaling Event-Sourcing at Jet.com](https://medium.com/@eulerfx/scaling-event-sourcing-at-jet-9c873cac33b8)
 	* [Command & Query Responsibility Segregation (CQRS)](https://docs.microsoft.com/en-us/azure/architecture/patterns/cqrs)
+		* [CQRS Simple Architecture](https://www.future-processing.pl/blog/cqrs-simple-architecture/)
 		* [Building Scalable Applications Using Event Sourcing and CQRS with Kafka](https://initiate.andela.com/event-sourcing-and-cqrs-a-look-at-kafka-e0c1b90d17d8)	
 * [Distributed Machine Learning](https://arxiv.org/pdf/1512.09295.pdf)
 	* [Scalable Deep Learning Platform On Spark In Baidu](https://www.slideshare.net/JenAman/scalable-deep-learning-platform-on-spark-in-baidu)
@@ -279,6 +295,11 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 	* [AIOps in Practice at Baidu](https://www.usenix.org/conference/srecon17asia/program/presentation/qu)
 	* [Learning with Privacy at Scale - Differential Privacy Team, Apple](https://machinelearning.apple.com/2017/12/06/learning-with-privacy-at-scale.html)
 	* [Image Classification Experiment Using Deep Learning at Mercari](https://medium.com/mercari-engineering/mercaris-image-classification-experiment-using-deep-learning-9b4e994a18ec)
+	* [Content-based Video Relevance Prediction at Hulu](https://medium.com/hulu-tech-blog/content-based-video-relevance-prediction-b2c448e14752)
+	* [PaddlePaddle Fluid: Elastic Deep Learning on Kubernetes at Baidu](http://research.baidu.com/paddlepaddle-fluid-elastic-deep-learning-kubernetes/)
+	* [Training ML Models with Airflow and BigQuery at WePay](https://wecode.wepay.com/posts/training-machine-learning-models-with-airflow-and-bigquery)
+	* [Improving Photo Selection With Deep Learning at TripAdvisor](http://engineering.tripadvisor.com/improving-tripadvisor-photo-selection-deep-learning/)
+	* [Machine Learning (2 parts) at Condé Nast](https://technology.condenast.com/story/handbag-brand-and-color-detection)
 * [Distributed Architecture in Financial Systems](https://medium.com/@sofie_4036/lets-build-a-bank-service-architecture-410dca881291)
 	* [Building a Modern Bank Backend at Monzo](https://monzo.com/blog/2016/09/19/building-a-modern-bank-backend/)
 	* [Choosing an Architecture for Core Banking System at TrustBK](https://blog.trustbk.com/choosing-an-architecture-85750e1e5a03)
@@ -299,6 +320,7 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 * [How Robust Monitoring Powers High Availability for LinkedIn Feed](https://www.usenix.org/conference/srecon17americas/program/presentation/barot)
 * [Architectural Patterns for High Availability - Adrian Cockcroft, Director of Architecture at Netflix](https://www.infoq.com/presentations/Netflix-Architecture)
 * [Ensuring Resilience to Disaster at Quora](https://engineering.quora.com/Ensuring-Quoras-Resilience-to-Disaster)
+* [Resiliency against Traffic Oversaturation at iHeartRadio](https://tech.iheart.com/resiliency-against-traffic-oversaturation-77c5ed92a5fb)
 
 ## Stability
 * [Circuit Breaker](https://martinfowler.com/bliki/CircuitBreaker.html)
@@ -331,9 +353,14 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 * [Improving GIF Performance at Pinterest](https://medium.com/@Pinterest_Engineering/improving-gif-performance-on-pinterest-8dad74bf92f1)
 * [Performance Improvements (All Stacks) at Pinterest](https://medium.com/@Pinterest_Engineering/driving-user-growth-with-performance-improvements-cfc50dafadd7)
 * [Server Side Rendering at Wix](https://www.youtube.com/watch?v=f9xI2jR71Ms)
+* [30x Performance Improvements on MySQLStreamer at Yelp](https://engineeringblog.yelp.com/2018/02/making-30x-performance-improvements-on-yelps-mysqlstreamer.html)
+* [Performance Monitoring with Riemann and Clojure at Walmart](https://medium.com/walmartlabs/performance-monitoring-with-riemann-and-clojure-eafc07fcd375)
+* [Improving Homepage Performance at Zillow](https://www.zillow.com/engineering/improving-homepage-performance/)
+* [Decreasing RAM Usage by 40% Using jemalloc with Python & Celery at Zapier](https://zapier.com/engineering/celery-python-jemalloc/)
 
 ## Others
 * [Distributed Cron Architecture at Quora](https://engineering.quora.com/Quoras-Distributed-Cron-Architecture)
+* [Simone: Distributed Simulation Service at Netflix](https://medium.com/netflix-techblog/https-medium-com-netflix-techblog-simone-a-distributed-simulation-service-b2c85131ca1b)
 * [Seagull: Distributed System that Helps Running > 20 Million Tests Per Day at Yelp](https://engineeringblog.yelp.com/2017/04/how-yelp-runs-millions-of-tests-every-day.html)
 * [Cloud Bouncer: Distributed Rate Limiting at Yahoo](https://yahooeng.tumblr.com/post/111288877956/cloud-bouncer-distributed-rate-limiting-at-yahoo)
 * [Scalable Gaming Patterns on AWS (Sep 2017)](https://d0.awsstatic.com/whitepapers/aws-scalable-gaming-patterns.pdf)
@@ -342,6 +369,10 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 * [Basic Infrastructure Patterns at Zenefits](https://engineering.zenefits.com/2016/02/basic-infrastructure-patterns/)
 * [Syscall Auditing at Scale at Slack](https://slack.engineering/syscall-auditing-at-scale-e6a3ca8ac1b8)
 * [Scaling Online Migrations at Stripe](https://stripe.com/blog/online-migrations)
+* [Netflix: What Happens When You Press Play?](http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html)
+* [Overview of Data Platform at Flipkart](https://tech.flipkart.com/overview-of-flipkart-data-platform-20c6d3e9a196)
+* [Service Decomposition at Scale at Intuit QuickBooks](https://quickbooks-engineering.intuit.com/service-decomposition-at-scale-70405ac2f637)
+* [Back-end at BlaBlaCar](http://blablatech.com/blog/BlaBlaTech-behind-the-scene)
 
 ## Talks
 * [Talks on Efficiency, Reliability, and Scaling - James Hamilton, Vice President and Distinguished Engineer at AWS](http://mvdirona.com/jrh/work/)
@@ -361,6 +392,8 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 * [Scaling Uber's Backend by Breaking Everything - Matt Ranney, Chief Systems Architect at Uber](https://www.youtube.com/watch?v=nuiLcWE8sPA)
 * [Scaling Slack - Bing Wei, Software Engineer (Infrastructure) at Slack](https://www.infoq.com/presentations/slack-scalability)
 * [Scaling YouTube's Backend - Sugu Sougoumarane, SDE at Youtube](https://www.youtube.com/watch?v=5yDO-tmIoXY&feature=youtu.be)
+* [Performance Optimization for the Greater China Region at Salesforce - Jeff Cheng, Enterprise Architect at Salesforce](https://www.salesforce.com/video/1757880/)
+* [How GIPHY Delivers a GIF to 300 Millions Users - Alex Hoang and Nima Khoshini, Services Engineers at GIPHY](https://vimeo.com/252367076)
 
 ## Books
 * [Google Site Reliability Engineering (Online - Free)](https://landing.google.com/sre/book.html)
@@ -379,4 +412,4 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 
 [![CC-BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+Copyright Benny (Quoc-Binh) Nguyen, 2018. This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
