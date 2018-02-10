@@ -263,6 +263,7 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 	* [On the Death of Map-Reduce - Henry Robinson, Cloudera](http://the-paper-trail.org/blog/the-elephant-was-a-trojan-horse-on-the-death-of-map-reduce-at-google/)
 	* [Server-side Optimization to Parallelize the Rendering of Web Pages at Yelp](https://engineeringblog.yelp.com/2017/07/generating-web-pages-in-parallel-with-pagelets.html)
 * [Event-Driven Architecture](https://martinfowler.com/articles/201701-event-driven.html)
+	* [Stream Processing, Event Sourcing, Reactive, CEP, etc and Making sense of it all - Martin Kleppmann](https://www.confluent.io/blog/making-sense-of-stream-processing/)
 	* [Messaging](https://www.ibm.com/support/knowledgecenter/en/SSAW57_8.5.5/com.ibm.websphere.nd.doc/ae/cjt1004_.html)
 		* [Publish-Subscribe](https://aws.amazon.com/pub-sub-messaging/)
 			* [Autoscaling Pub-Sub Consumers at Spotify](https://labs.spotify.com/2017/11/20/autoscaling-pub-sub-consumers/)
