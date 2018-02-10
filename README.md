@@ -121,6 +121,7 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 		* [Exactly-once Semantics are Possible: Here’s How Kafka Does it](https://www.confluent.io/blog/exactly-once-semantics-are-possible-heres-how-apache-kafka-does-it/)
 		* [Real-time Deduping at Scale with Kafka-based Pipleline at Tapjoy](http://eng.tapjoy.com/blog-list/real-time-deduping-at-scale)
 		* [Delivering Billions of Messages Exactly Once: Deduping at Segment](https://segment.com/blog/exactly-once-delivery/)
+	* [Should You Put Several Event Types in the Same Kafka Topic? - Martin Kleppmann](https://www.confluent.io/blog/put-several-event-types-kafka-topic/)		
 * [Distributed Searching](http://nwds.cs.washington.edu/files/nwds/pdf/Distributed-WR.pdf)
 	* [Search Architecture of Instagram](https://engineering.instagram.com/search-architecture-eeb34a936d3a)
 	* [Search Architecture of eBay](http://www.cs.otago.ac.nz/homepages/andrew/papers/2017-8.pdf)
