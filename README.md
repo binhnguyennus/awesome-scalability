@@ -1,6 +1,6 @@
 # Awesome Scalability, Availability, and Stability Back-end Design Patterns
 
-A curated list of selected readings to illustrate Scalability, Availability, and Stability Design Patterns in Back-end Development. Concepts are explained in the articles of notable engineers (Werner Vogels, James Hamilton, Martin Fowler, Robert C. Martin, Tom White, etc) and high quality reference sources (highscalability.com, infoq.com, etc). Case studies are taken from battle-tested systems those are serving millions to billions of users (Netflix, Baidu, Flipkart, LINE, Spotify, Expedia, etc).
+A curated list of selected readings to illustrate Scalability, Availability, and Stability Design Patterns in Back-end Development. Concepts are explained in the articles of notable engineers (Werner Vogels, James Hamilton, Martin Fowler, Robert C. Martin, Tom White, Martin Kleppmann, etc) and high quality reference sources (highscalability.com, infoq.com, etc). Case studies are taken from battle-tested systems those are serving millions to billions of users (Netflix, Baidu, Flipkart, LINE, Spotify, etc).
 
 #### What if your Back-end went slow?
 > Understand your problems: performance problem (slow for a single user) or scalability problem (fast for a single user but slow under heavy load) by reviewing [design principles](#principles). You can also check some [talks](#talks) of elite engineers from tech giants (Google, Facebook, Instagram, etc) to see how they build and scale their systems.
@@ -11,7 +11,6 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 #### Community Power
 
 > Contributions are greatly welcome! You may want to take a look at the [contribution guidelines](CONTRIBUTING.md).
-
 > If you find this project helpful, [you can click here to share it with more people!](https://ctt.ec/V8B2p) Thank you very much :heart: 
 
 ## Contents
