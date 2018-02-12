@@ -24,6 +24,7 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 - [Books](#books)
 
 ## Principles
+* [My Scaling Hero - Jeff Atwood](https://blog.codinghorror.com/my-scaling-hero/)
 * [Principles of Chaos Engineering](https://www.usenix.org/conference/srecon17americas/program/presentation/rosenthal)
 * [Finding the Order in Chaos](https://www.usenix.org/conference/srecon16/program/presentation/lueder)
 * [The Clean Architecture - Robert C. Martin (Uncle Bob)](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
