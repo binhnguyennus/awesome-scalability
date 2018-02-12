@@ -378,7 +378,6 @@ An updated and curated list of selected readings to illustrate Scalability, Avai
 * [Simone: Distributed Simulation Service at Netflix](https://medium.com/netflix-techblog/https-medium-com-netflix-techblog-simone-a-distributed-simulation-service-b2c85131ca1b)
 * [Seagull: Distributed System that Helps Running > 20 Million Tests Per Day at Yelp](https://engineeringblog.yelp.com/2017/04/how-yelp-runs-millions-of-tests-every-day.html)
 * [Cloud Bouncer: Distributed Rate Limiting at Yahoo](https://yahooeng.tumblr.com/post/111288877956/cloud-bouncer-distributed-rate-limiting-at-yahoo)
-* [Scalable Gaming Patterns on AWS (Sep 2017)](https://d0.awsstatic.com/whitepapers/aws-scalable-gaming-patterns.pdf)
 * [Selecting a Cloud Provider at Etsy](https://codeascraft.com/2018/01/04/selecting-a-cloud-provider/)
 * [Basic Infrastructure Patterns at Zenefits](https://engineering.zenefits.com/2016/02/basic-infrastructure-patterns/)
 * [Syscall Auditing at Scale at Slack](https://slack.engineering/syscall-auditing-at-scale-e6a3ca8ac1b8)
@@ -387,6 +386,8 @@ An updated and curated list of selected readings to illustrate Scalability, Avai
 * [Overview of Data Platform at Flipkart](https://tech.flipkart.com/overview-of-flipkart-data-platform-20c6d3e9a196)
 * [Service Decomposition at Scale at Intuit QuickBooks](https://quickbooks-engineering.intuit.com/service-decomposition-at-scale-70405ac2f637)
 * [Back-end at BlaBlaCar](http://blablatech.com/blog/BlaBlaTech-behind-the-scene)
+* [Scalable Gaming Patterns on AWS (Sep 2017)](https://d0.awsstatic.com/whitepapers/aws-scalable-gaming-patterns.pdf)
+* [How League Of Legends Scaled Chat To 70 Million Players](http://highscalability.com/blog/2014/10/13/how-league-of-legends-scaled-chat-to-70-million-players-it-t.html)
 
 ## Talks
 * [Talks on Efficiency, Reliability, and Scaling - James Hamilton, Vice President and Distinguished Engineer at AWS](http://mvdirona.com/jrh/work/)
