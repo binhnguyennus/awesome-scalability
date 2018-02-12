@@ -105,6 +105,7 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 	* [Data Checking at Dropbox](https://www.usenix.org/conference/srecon17asia/program/presentation/mah)
 	* [Tracing distributed systems at Showmax](https://tech.showmax.com/2016/10/tracing-distributed-systems-at-showmax/)
 * [Distributed Logging](https://blog.treasuredata.com/blog/2016/08/03/distributed-logging-architecture-in-the-container-era/)
+	* [The Problem with Logging - Jeff Atwood](https://blog.codinghorror.com/the-problem-with-logging/)
 	* [The Log: What Every Software Engineer Should Know](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 	* [Using Logs to Build a Solid Data Infrastructure - Martin Kleppmann](https://www.confluent.io/blog/using-logs-to-build-a-solid-data-infrastructure-or-why-dual-writes-are-a-bad-idea/)
 	* [Scalable and reliable log ingestion at Pinterest](https://medium.com/@Pinterest_Engineering/scalable-and-reliable-data-ingestion-at-pinterest-b921c2ee8754)
