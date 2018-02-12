@@ -383,10 +383,9 @@ An updated and curated list of selected readings to illustrate Scalability, Avai
 * [Syscall Auditing at Scale at Slack](https://slack.engineering/syscall-auditing-at-scale-e6a3ca8ac1b8)
 * [Scaling Online Migrations at Stripe](https://stripe.com/blog/online-migrations)
 * [Netflix: What Happens When You Press Play?](http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html)
-* [Overview of Data Platform at Flipkart](https://tech.flipkart.com/overview-of-flipkart-data-platform-20c6d3e9a196)
 * [Service Decomposition at Scale at Intuit QuickBooks](https://quickbooks-engineering.intuit.com/service-decomposition-at-scale-70405ac2f637)
 * [Back-end at BlaBlaCar](http://blablatech.com/blog/BlaBlaTech-behind-the-scene)
-* [Scalable Gaming Patterns on AWS (Sep 2017)](https://d0.awsstatic.com/whitepapers/aws-scalable-gaming-patterns.pdf)
+* [Scalable Gaming Patterns on AWS](https://d0.awsstatic.com/whitepapers/aws-scalable-gaming-patterns.pdf)
 * [How League Of Legends Scaled Chat To 70 Million Players](http://highscalability.com/blog/2014/10/13/how-league-of-legends-scaled-chat-to-70-million-players-it-t.html)
 
 ## Talks
@@ -399,6 +398,8 @@ An updated and curated list of selected readings to illustrate Scalability, Avai
 * [Architecture to Handle 80K RPS Celebrity Sales at Shopify - Simon Eskildsen, Engineering Lead at Shopify](https://www.youtube.com/watch?v=N8NWDHgWA28)
 * [How We've Scaled Dropbox - Kevin Modzelewski, Back-end Engineer at Dropbox](https://www.youtube.com/watch?v=PE4gwstWhmc)
 * [Lessons of Scale at Facebook - Bobby Johnson, Director of Engineering at Facebook](https://www.youtube.com/watch?v=QCHiNEw73AU)
+* [Performance Optimization for the Greater China Region at Salesforce - Jeff Cheng, Enterprise Architect at Salesforce](https://www.salesforce.com/video/1757880/)
+* [How GIPHY Delivers a GIF to 300 Millions Users - Alex Hoang and Nima Khoshini, Services Engineers at GIPHY](https://vimeo.com/252367076)
 * [Scaling Facebook Live Videos to a Billion Users - Sachin Kulkarni, Director of Engineering at Facebook](https://www.youtube.com/watch?v=IO4teCbHvZw)
 * [Scaling Instagram Infrastructure - Lisa Guo, Instagram Engineering](https://www.youtube.com/watch?v=hnpzNAPiC0E)
 * [Scaling Twitter Core Infrastructure - Yao Yue, Staff Software Engineer at Twitter](https://www.youtube.com/watch?v=6OvrFkLSoZ0)
@@ -407,8 +408,7 @@ An updated and curated list of selected readings to illustrate Scalability, Avai
 * [Scaling Uber's Backend by Breaking Everything - Matt Ranney, Chief Systems Architect at Uber](https://www.youtube.com/watch?v=nuiLcWE8sPA)
 * [Scaling Slack - Bing Wei, Software Engineer (Infrastructure) at Slack](https://www.infoq.com/presentations/slack-scalability)
 * [Scaling YouTube's Backend - Sugu Sougoumarane, SDE at Youtube](https://www.youtube.com/watch?v=5yDO-tmIoXY&feature=youtu.be)
-* [Performance Optimization for the Greater China Region at Salesforce - Jeff Cheng, Enterprise Architect at Salesforce](https://www.salesforce.com/video/1757880/)
-* [How GIPHY Delivers a GIF to 300 Millions Users - Alex Hoang and Nima Khoshini, Services Engineers at GIPHY](https://vimeo.com/252367076)
+* [Scaling (a NSFW website) to 200 Million Views A Day And Beyond - Erick Pickup, Lead Developer at MindGeek](https://www.youtube.com/watch?v=RlkCdM_f3p4)
 
 ## Books
 * [Google Site Reliability Engineering (Online - Free)](https://landing.google.com/sre/book.html)
