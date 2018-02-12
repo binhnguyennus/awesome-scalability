@@ -86,6 +86,7 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 	* [Microservices at BlaBlaCar](http://blablatech.com/blog/micro-service-at-blablacar)
 	* [Operate Kubernetes Reliably at Stripe](https://stripe.com/blog/operating-kubernetes)
 	* [Agrarian-Scale Kubernetes (3 parts) at New York Times](https://open.nytimes.com/agrarian-scale-kubernetes-part-3-ee459887ed7e)
+	* [Mesos, Docker and Ochopod in Localization Services at Autodesk](http://cloudengineering.autodesk.com/blog/2015/11/mesos-docker-and-ochopod-in-autodesk-localization-services.html)
 * [Distributed Caching](https://www.wix.engineering/single-post/scaling-to-100m-to-cache-or-not-to-cache)
 	* [Write-behind and Write-through](https://docs.oracle.com/cd/E15357_01/coh.360/e15723/cache_rtwtwbra.htm#COHDG5177)
 	* [Eviction Policies](http://highscalability.com/blog/2016/1/25/design-of-a-modern-cache.html)
