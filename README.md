@@ -229,6 +229,7 @@ An updated and curated list of selected readings to illustrate Scalability, Avai
 	* [Zynga Geo Proxy: Reducing Mobile Game Latency at Zynga](https://www.zynga.com/blogs/engineering/zynga-geo-proxy-reducing-mobile-game-latency)
 	* [Google AMP at Condé Nast](https://technology.condenast.com/story/the-why-and-how-of-google-amp-at-conde-nast)
 	* [Running A/B Tests on Hosting Infrastructure (CDNs) at Deliveroo](https://deliveroo.engineering/2016/09/19/ab-testing-cdns.html)
+	* [HAProxy with Kubernetes for User-facing Traffic at SoundCloud](https://developers.soundcloud.com/blog/how-soundcloud-uses-haproxy-with-kubernetes-for-user-facing-traffic)
 * [Load Balancing](https://blog.vivekpanyam.com/scaling-a-web-service-load-balancing/)
 	* [Introduction to Modern Network Load Balancing and Proxying](https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236)
 	* [Load Balancing infrastructure to support more than 1.3 billion users at Facebook](https://www.usenix.org/conference/srecon15europe/program/presentation/shuff)
