@@ -31,7 +31,7 @@ An updated and curated list of selected readings to illustrate Scalability, Avai
 * [The Twelve-Factor App](https://12factor.net/)
 * [10 Common (Large-Scale) Software Architectural Patterns in a Nutshell](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
 * [CAP Theorem and Trade-offs](http://robertgreiner.com/2014/08/cap-theorem-revisited/)
-* [CAP Twelve Years Later: How the "Rules" Have Changed (2012) - Eric Brewer, VP of Infrastructure at Google](https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed)	
+* [CAP Twelve Years Later: How the "Rules" Have Changed (2012) - Eric Brewer, VP of Infras at Google](https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed)	
 * [Scale Up or Scale Out, What it is and Why You Should Care](https://www.brianjgraf.com/2013/05/17/scalability-scale-up-scale-out-care/)
 * [Scaling Up vs Scaling Out: Hidden Costs](https://blog.codinghorror.com/scaling-up-vs-scaling-out-hidden-costs/)
 * [ACID and BASE](https://neo4j.com/blog/acid-vs-base-consistency-models-explained/)
@@ -411,6 +411,7 @@ An updated and curated list of selected readings to illustrate Scalability, Avai
 * [Scaling Slack - Bing Wei, Software Engineer (Infrastructure) at Slack](https://www.infoq.com/presentations/slack-scalability)
 * [Scaling Backend at Youtube - Sugu Sougoumarane, SDE at Youtube](https://www.youtube.com/watch?v=5yDO-tmIoXY&feature=youtu.be)
 * [Scaling Backend at Uber - Matt Ranney, Chief Systems Architect at Uber](https://www.youtube.com/watch?v=nuiLcWE8sPA)
+* [Scaling Global CDN at Netflix - Dave Temkin, Director of Global Networks at Netflix](https://www.youtube.com/watch?v=tbqcsHg-Q_o)
 * [Scaling (a NSFW site) to 200 Million Views A Day And Beyond - Eric Pickup, Lead Platform Developer at MindGeek](https://www.youtube.com/watch?v=RlkCdM_f3p4)
 
 ## Books
