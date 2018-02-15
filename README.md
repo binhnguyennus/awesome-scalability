@@ -91,6 +91,7 @@ An updated and curated list of selected readings to illustrate Scalability, Avai
 	* [Mesos, Docker and Ochopod in Localization Services at Autodesk](http://cloudengineering.autodesk.com/blog/2015/11/mesos-docker-and-ochopod-in-autodesk-localization-services.html)
 	* [Nanoservices at BBC Online](https://medium.com/bbc-design-engineering/powering-bbc-online-with-nanoservices-727840ba015b)
 	* [PowerfulSeal: Testing Tool for Kubernetes Clusters at Bloomberg](https://www.techatbloomberg.com/blog/powerfulseal-testing-tool-kubernetes-clusters/)
+	* [Conductor: Microservices Orchestrator at Netflix](https://medium.com/netflix-techblog/netflix-conductor-a-microservices-orchestrator-2e8d4771bf40)
 * [Distributed Caching](https://www.wix.engineering/single-post/scaling-to-100m-to-cache-or-not-to-cache)
 	* [Write-behind and Write-through](https://docs.oracle.com/cd/E15357_01/coh.360/e15723/cache_rtwtwbra.htm#COHDG5177)
 	* [Eviction Policies](http://highscalability.com/blog/2016/1/25/design-of-a-modern-cache.html)
