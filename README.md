@@ -178,6 +178,7 @@ An updated and curated list of selected readings to illustrate Scalability, Avai
 		* [Scale to serve 100+ million reads/writes using Spark and Cassandra at Dream11](https://medium.com/dream11-tech-blog/leaderboard-dream11-4efc6f93c23e)
 		* [Imgur Notification: From MySQL to HBASE at Imgur](https://blog.imgur.com/2015/09/15/tech-tuesday-imgur-notifications-from-mysql-to-hbase/)
 		* [Moving Food Feed from Redis to Cassandra at Zomato](https://www.zomato.com/blog/how-we-moved-our-food-feed-from-redis-to-cassandra)
+		* [Benchmarking Cassandra Scalability on AWS at Netflix](https://medium.com/netflix-techblog/benchmarking-cassandra-scalability-on-aws-over-a-million-writes-per-second-39f45f066c9e)
 	* [Document Databases (MongoDB, SimpleDB, CouchDB)](https://msdn.microsoft.com/en-us/magazine/hh547103.aspx)
 		* [eBay: Building Mission-Critical Multi-Data Center Applications with MongoDB](https://www.mongodb.com/blog/post/ebay-building-mission-critical-multi-data-center-applications-with-mongodb)
 		* [MongoDB at Baidu: Multi-Tenant Cluster Storing 200+ Billion Documents across 160 Shards](https://www.mongodb.com/blog/post/mongodb-at-baidu-powering-100-apps-across-600-nodes-at-pb-scale)
