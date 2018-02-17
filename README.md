@@ -416,6 +416,7 @@ An updated and curated list of selected readings to illustrate Scalability, Avai
 * [Scaling Backend at Youtube - Sugu Sougoumarane, SDE at Youtube](https://www.youtube.com/watch?v=5yDO-tmIoXY&feature=youtu.be)
 * [Scaling Backend at Uber - Matt Ranney, Chief Systems Architect at Uber](https://www.youtube.com/watch?v=nuiLcWE8sPA)
 * [Scaling Global CDN at Netflix - Dave Temkin, Director of Global Networks at Netflix](https://www.youtube.com/watch?v=tbqcsHg-Q_o)
+* [Scaling Load Balancing Infra to Support 1.3 Billion Users at Facebook - Patrick Shuff, Production Engineer at Facebook](https://www.youtube.com/watch?v=bxhYNfFeVF4)
 * [Scaling (a NSFW site) to 200 Million Views A Day And Beyond - Eric Pickup, Lead Platform Developer at MindGeek](https://www.youtube.com/watch?v=RlkCdM_f3p4)
 
 ## Books
