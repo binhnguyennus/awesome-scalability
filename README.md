@@ -1,6 +1,6 @@
 # Awesome Scalability, Availability, and Stability Back-end Design Patterns
 
-An updated and curated list of selected readings to illustrate Scalability, Availability, and Stability Design Patterns in Back-end Development. Concepts are explained in the articles of notable engineers (Werner Vogels, James Hamilton, Jeff Atwood, Martin Fowler, Robert C. Martin, Tom White, Martin Kleppmann) and high quality reference sources (highscalability.com, infoq.com, official engineering blogs, etc). Case studies are taken from battle-tested systems those are serving millions to billions of users (Netflix, Baidu, Flipkart, LINE, Spotify, etc).
+An updated and curated list of selected readings to illustrate Scalability, Availability, and Stability Design Patterns in Back-end Development. Concepts are explained in the articles of notable engineers (Werner Vogels, James Hamilton, Jeff Atwood, Martin Fowler, Robert C. Martin, Tom White, Martin Kleppmann) and high quality reference sources (highscalability.com, infoq.com, official engineering blogs, etc). Case studies are taken from battle-tested systems those are serving millions to billions of users (Netflix, Alibaba, Flipkart, LINE, Spotify, etc).
 
 #### What if your Back-end went slow?
 > Understand your problems: performance problem (slow for a single user) or scalability problem (fast for a single user but slow under heavy load) by reviewing [design principles](#principles). You can also check some [talks](#talks) of elite engineers from tech giants (Google, Facebook, Instagram, etc) to see how they build and scale their systems.
@@ -405,6 +405,7 @@ An updated and curated list of selected readings to illustrate Scalability, Avai
 * [Lessons of Scale at Facebook - Bobby Johnson, Director of Engineering at Facebook](https://www.youtube.com/watch?v=QCHiNEw73AU)
 * [Performance Optimization for the Greater China Region at Salesforce - Jeff Cheng, Enterprise Architect at Salesforce](https://www.salesforce.com/video/1757880/)
 * [How GIPHY Delivers a GIF to 300 Millions Users - Alex Hoang and Nima Khoshini, Services Engineers at GIPHY](https://vimeo.com/252367076)
+* [High Performance Packet Processing Platform at Alibaba - Haiyong Wang, Senior Director at Alibaba Infrastructure Service](https://www.youtube.com/watch?v=wzsxJqeVIhY&list=PLMu8-hpCxIVENuAue7bd0eCAglLGY_8AW&index=7)
 * [Scaling Dropbox - Kevin Modzelewski, Back-end Engineer at Dropbox](https://www.youtube.com/watch?v=PE4gwstWhmc)
 * [Scaling Reliability at Dropbox - Sat Kriya Khalsa, SRE at Dropbox](https://www.youtube.com/watch?v=IhGWOaD5BYQ)
 * [Scaling Live Videos to a Billion Users at Facebook - Sachin Kulkarni, Director of Engineering at Facebook](https://www.youtube.com/watch?v=IO4teCbHvZw)
