@@ -392,6 +392,7 @@ An updated and curated list of selected readings to illustrate Scalability, Avai
 * [Back-end at BlaBlaCar](http://blablatech.com/blog/BlaBlaTech-behind-the-scene)
 * [Scalable Gaming Patterns on AWS](https://d0.awsstatic.com/whitepapers/aws-scalable-gaming-patterns.pdf)
 * [How League Of Legends Scaled Chat To 70 Million Players](http://highscalability.com/blog/2014/10/13/how-league-of-legends-scaled-chat-to-70-million-players-it-t.html)
+* [Scaling NodeJS at Alibaba](https://www.linux.com/blog/can-nodejs-scale-ask-team-alibaba)
 
 ## Talks
 * [Talks on Efficiency, Reliability, and Scaling - James Hamilton, Vice President and Distinguished Engineer at AWS](http://mvdirona.com/jrh/work/)
@@ -405,7 +406,7 @@ An updated and curated list of selected readings to illustrate Scalability, Avai
 * [Lessons of Scale at Facebook - Bobby Johnson, Director of Engineering at Facebook](https://www.youtube.com/watch?v=QCHiNEw73AU)
 * [Performance Optimization for the Greater China Region at Salesforce - Jeff Cheng, Enterprise Architect at Salesforce](https://www.salesforce.com/video/1757880/)
 * [How GIPHY Delivers a GIF to 300 Millions Users - Alex Hoang and Nima Khoshini, Services Engineers at GIPHY](https://vimeo.com/252367076)
-* [High Performance Packet Processing Platform at Alibaba - Haiyong Wang, Senior Director at Alibaba Infrastructure Service](https://www.youtube.com/watch?v=wzsxJqeVIhY&list=PLMu8-hpCxIVENuAue7bd0eCAglLGY_8AW&index=7)
+* [High Performance Packet Processing Platform at Alibaba - Haiyong Wang, Senior Director at Alibaba](https://www.youtube.com/watch?v=wzsxJqeVIhY&list=PLMu8-hpCxIVENuAue7bd0eCAglLGY_8AW&index=7)
 * [Scaling Dropbox - Kevin Modzelewski, Back-end Engineer at Dropbox](https://www.youtube.com/watch?v=PE4gwstWhmc)
 * [Scaling Reliability at Dropbox - Sat Kriya Khalsa, SRE at Dropbox](https://www.youtube.com/watch?v=IhGWOaD5BYQ)
 * [Scaling Live Videos to a Billion Users at Facebook - Sachin Kulkarni, Director of Engineering at Facebook](https://www.youtube.com/watch?v=IO4teCbHvZw)
