@@ -379,7 +379,7 @@ An updated and curated list of selected readings to illustrate Scalability, Avai
 * [Architecture of SurveyMonkey](https://engineering.surveymonkey.com/2016/04/09/the-architecture-behind-surveymonkey/)
 * [Architecture of Data Platform at Flipkart](https://tech.flipkart.com/overview-of-flipkart-data-platform-20c6d3e9a196)
 * [Architecture of Stack Overflow Enterprise at Palantir](https://medium.com/@palantir/terraforming-stack-overflow-enterprise-in-aws-47ee431e6be7)
-* [Distributed Cron Architecture at Quora](https://engineering.quora.com/Quoras-Distributed-Cron-Architecture)
+* [Architecture of Distributed Cron at Quora](https://engineering.quora.com/Quoras-Distributed-Cron-Architecture)
 * [Simone: Distributed Simulation Service at Netflix](https://medium.com/netflix-techblog/https-medium-com-netflix-techblog-simone-a-distributed-simulation-service-b2c85131ca1b)
 * [Seagull: Distributed System that Helps Running > 20 Million Tests Per Day at Yelp](https://engineeringblog.yelp.com/2017/04/how-yelp-runs-millions-of-tests-every-day.html)
 * [Cloud Bouncer: Distributed Rate Limiting at Yahoo](https://yahooeng.tumblr.com/post/111288877956/cloud-bouncer-distributed-rate-limiting-at-yahoo)
