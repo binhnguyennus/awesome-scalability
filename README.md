@@ -315,6 +315,7 @@ An updated and curated list of selected readings to illustrate Scalability, Avai
 	* [Training ML Models with Airflow and BigQuery at WePay](https://wecode.wepay.com/posts/training-machine-learning-models-with-airflow-and-bigquery)
 	* [Improving Photo Selection With Deep Learning at TripAdvisor](http://engineering.tripadvisor.com/improving-tripadvisor-photo-selection-deep-learning/)
 	* [Machine Learning (2 parts) at Condé Nast](https://technology.condenast.com/story/handbag-brand-and-color-detection)
+	* [Machine Learning Applications In The E-commerce Domain (4 parts) at Rakuten](https://techblog.rakuten.co.jp/2017/07/12/machine-learning-applications-in-the-e-commerce-domain-4/)	
 * [Distributed Architecture in Financial Systems](https://medium.com/@sofie_4036/lets-build-a-bank-service-architecture-410dca881291)
 	* [Building a Modern Bank Backend at Monzo](https://monzo.com/blog/2016/09/19/building-a-modern-bank-backend/)
 	* [Choosing an Architecture for Core Banking System at TrustBK](https://blog.trustbk.com/choosing-an-architecture-85750e1e5a03)
