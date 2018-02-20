@@ -321,7 +321,8 @@ An updated and curated list of selected readings to illustrate Scalability, Avai
 * [Distributed Architecture in Financial Systems](https://medium.com/@sofie_4036/lets-build-a-bank-service-architecture-410dca881291)
 	* [Building a Modern Bank Backend at Monzo](https://monzo.com/blog/2016/09/19/building-a-modern-bank-backend/)
 	* [Choosing an Architecture for Core Banking System at TrustBK](https://blog.trustbk.com/choosing-an-architecture-85750e1e5a03)
-	* [Reinventing the Trading Platform for Scale at Wealthsimple](https://medium.com/@Wealthsimple/engineering-at-wealthsimple-reinventing-our-trading-platform-for-scale-17e332241b6c)			
+	* [Reinventing the Trading Platform for Scale at Wealthsimple](https://medium.com/@Wealthsimple/engineering-at-wealthsimple-reinventing-our-trading-platform-for-scale-17e332241b6c)
+	* [Tech Stack at TransferWise](http://tech.transferwise.com/the-transferwise-stack-heartbeat-of-our-little-revolution/)			
 ## Availability
 * [Failover](http://cloudpatterns.org/mechanisms/failover_system)
 	* [The Evolution of Global Traffic Routing and Failover](https://www.usenix.org/conference/srecon16/program/presentation/heady)
