@@ -79,6 +79,7 @@ An updated and curated list of selected readings to illustrate Scalability, Avai
 	* [Microservices Patterns](http://microservices.io/patterns/)
 	* [Thinking Inside the Container (8 parts) at Riot Games](https://engineering.riotgames.com/news/thinking-inside-container)
 	* [Containerization at Pinterest](https://medium.com/@Pinterest_Engineering/containerization-at-pinterest-92295347f2f3)
+	* [Techniques for Splitting Up a Codebase into Microservices and Artifacts at LinkedIn](https://engineering.linkedin.com/blog/2016/02/q-a-with-jim-brikman--splitting-up-a-codebase-into-microservices)
 	* [The Evolution of Container Usage at Netflix](https://medium.com/netflix-techblog/the-evolution-of-container-usage-at-netflix-3abfc096781b)
 	* [Dockerizing MySQL at Uber](https://eng.uber.com/dockerizing-mysql/)
 	* [Testing of Microservices at Spotify](https://labs.spotify.com/2018/01/11/testing-of-microservices/)
