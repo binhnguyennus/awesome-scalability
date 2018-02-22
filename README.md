@@ -157,6 +157,7 @@ An updated and curated list of selected readings to illustrate Scalability, Avai
 		* [Ambry: Distributed Immutable Object Store at LinkedIn](https://www.usenix.org/conference/srecon17americas/program/presentation/shenoy)
 		* [Hammerspace: Persistent, Concurrent, Off-heap Storage at Airbnb](https://medium.com/airbnb-engineering/hammerspace-persistent-concurrent-off-heap-storage-3db39bb04472)
 * [Distributed Version Control](https://betterexplained.com/articles/intro-to-distributed-version-control-illustrated/)
+	* [Distributed Version Control Systems: A Not-So-Quick Guide Through](https://www.infoq.com/articles/dvcs-guide)
 	* [Distributed Git Server at Palantir](https://medium.com/@palantir/stemma-distributed-git-server-70afbca0fc29)
 	* [Git Configuration Files (Dotfiles) Distribution at Booking.com](https://blog.booking.com/dotfiles-distribution-at-booking.com.html)
 	* [Configuration Management for Distributed Systems (using GitHub and cfg4j) at Flickr](https://code.flickr.net/2016/03/24/configuration-management-for-distributed-systems-using-github-and-cfg4j/)		
