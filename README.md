@@ -75,6 +75,7 @@ An updated and curated list of selected readings to illustrate Scalability, Avai
 
 ## Scalability
 * [Microservices and Orchestration](https://hackernoon.com/microservices-are-hard-an-invaluable-guide-to-microservices-2d06bd7bcf5d)
+	* [A Practical Introduction to Container Terminology](https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction/#h.yrsw3uw3qft9)
 	* [Microservices Resource Guide - Martin Fowler, Chief Scientist at ThoughtWorks](https://martinfowler.com/microservices/)
 	* [Microservices Patterns](http://microservices.io/patterns/)
 	* [Thinking Inside the Container (8 parts) at Riot Games](https://engineering.riotgames.com/news/thinking-inside-container)
