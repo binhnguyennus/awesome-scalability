@@ -208,6 +208,7 @@ An updated and curated list of selected readings to illustrate Scalability, Avai
 	* [Why SQL is beating NoSQL, and what this means for the future of data](https://blog.timescale.com/why-sql-beating-nosql-what-this-means-for-future-of-data-time-series-database-348b777b847a)
 	* [MySQL Crash-Safe Replication, Parallel Replication, and Slave Scaling (10 parts) at Booking.com](https://blog.booking.com/author/jean-francois-gagne.html)
 	* [Sharding MySQL at Pinterest](https://medium.com/@Pinterest_Engineering/sharding-pinterest-how-we-scaled-our-mysql-fleet-3f341e96ca6f)
+	* [Sharding MySQL at MailChimp](https://devs.mailchimp.com/blog/using-shards-to-accommodate-millions-of-users/)
 	* [How Airbnb Partitioned Main MySQL Database in Two Weeks](https://medium.com/airbnb-engineering/how-we-partitioned-airbnb-s-main-database-in-two-weeks-55f7e006ff21)
 	* [Replication is the Key for Scalability & High Availability](http://basho.com/posts/technical/replication-is-the-key-for-scalability-high-availability/)
 	* [How Twitch uses PostgreSQL](https://blog.twitch.tv/how-twitch-uses-postgresql-c34aa9e56f58)
