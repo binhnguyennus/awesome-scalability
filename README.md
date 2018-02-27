@@ -440,6 +440,7 @@ An updated and curated list of selected readings to illustrate Scalability, Avai
 ## Books
 * [Google Site Reliability Engineering (Online - Free)](https://landing.google.com/sre/book.html)
 * [Distributed Systems for Fun and Profit (Online - Free)](http://book.mixu.net/distsys/)
+* [What Every Developer Should Know About SQL Performance (Online - Free)](https://use-the-index-luke.com/sql/table-of-contents)
 * [Beyond the Twelve-Factor App - Exploring the DNA of Highly Scalable, Resilient Cloud Applications (Free)](http://www.oreilly.com/webops-perf/free/beyond-the-twelve-factor-app.csp)
 * [Chaos Engineering - Building Confidence in System Behavior through Experiments (Free)](http://www.oreilly.com/webops-perf/free/chaos-engineering.csp?intcmp=il-webops-free-product-na_new_site_chaos_engineering_text_cta)
 * [The Art of Scalability](http://theartofscalability.com/)
