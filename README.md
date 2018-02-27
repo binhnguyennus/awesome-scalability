@@ -207,6 +207,7 @@ An updated and curated list of selected readings to illustrate Scalability, Avai
 		* [Optimizing Redis Storage at Deliveroo](https://deliveroo.engineering/2017/01/19/optimising-membership-queries.html)		
 * [RDBMS (MySQL, MSSQL, PostgreSQL)](https://www.mysql.com/products/cluster/scalability.html)
 	* [MS SQL versus MySQL](https://www.upwork.com/hiring/data/sql-vs-mysql-which-relational-database-is-right-for-you/)
+	* [Scaling Distributed Joins](http://blog.memsql.com/scaling-distributed-joins/)
 	* [Why SQL is beating NoSQL, and what this means for the future of data](https://blog.timescale.com/why-sql-beating-nosql-what-this-means-for-future-of-data-time-series-database-348b777b847a)
 	* [MySQL Crash-Safe Replication, Parallel Replication, and Slave Scaling (10 parts) at Booking.com](https://blog.booking.com/author/jean-francois-gagne.html)
 	* [Sharding MySQL at Pinterest](https://medium.com/@Pinterest_Engineering/sharding-pinterest-how-we-scaled-our-mysql-fleet-3f341e96ca6f)
