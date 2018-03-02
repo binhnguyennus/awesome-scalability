@@ -74,6 +74,7 @@ An updated and curated list of selected readings to illustrate Scalability, Avai
 * [Best Practices for Scaling Out](https://blog.openshift.com/best-practices-for-horizontal-application-scaling/)	
 * [Design for Evolution](https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/design-for-evolution)	
 * [Learn from Mistakes](http://highscalability.com/blog/2013/8/26/reddit-lessons-learned-from-mistakes-made-scaling-to-1-billi.html)
+* [Linux Performance](http://www.brendangregg.com/linuxperf.html)
 
 ## Scalability
 * [Microservices and Orchestration](https://hackernoon.com/microservices-are-hard-an-invaluable-guide-to-microservices-2d06bd7bcf5d)
