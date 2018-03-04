@@ -276,6 +276,7 @@ An updated and curated list of selected readings to illustrate Scalability, Avai
 		* [Mnesia: A Distributed DBMS Rooted in Concurrency](https://www.developer.com/db/article.php/3864331/Mnesia-A-Distributed-DBMS-Rooted-in-Concurrency.htm)
 		* [Mesia and CAP](https://medium.com/@jlouis666/mnesia-and-cap-d2673a92850)		
 	* [Running Concurrent Queries in GoSocial (Go and Neo4j) at Medium](https://medium.engineering/running-concurrent-queries-in-gosocial-28e5841b05b5)
+	* [The Secret To 10 Million Concurrent Connections](http://highscalability.com/blog/2013/5/13/the-secret-to-10-million-concurrent-connections-the-kernel-i.html)
 * [Parallel Computing](https://blogs.msdn.microsoft.com/ddperf/2009/05/02/are-we-taking-advantage-of-parallelism/)
 	* [SPMD (Single Program Multiple Data): The Genetic Pattern](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-186.html)
 	* [Master/Worker Pattern](https://docs.gigaspaces.com/sbp/master-worker-pattern.html)
