@@ -92,6 +92,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 	* [Inside a SoundCloud Microservice](https://developers.soundcloud.com/blog/inside-a-soundcloud-microservice)
 	* [Microservices at BlaBlaCar](http://blablatech.com/blog/micro-service-at-blablacar)
 	* [Operate Kubernetes Reliably at Stripe](https://stripe.com/blog/operating-kubernetes)
+	* [Kubernetes Traffic Routing at Rakuten](https://techblog.rakuten.co.jp/2017/09/28/k8s-routing2/)
 	* [Agrarian-Scale Kubernetes (3 parts) at New York Times](https://open.nytimes.com/agrarian-scale-kubernetes-part-3-ee459887ed7e)
 	* [Mesos, Docker and Ochopod in Localization Services at Autodesk](http://cloudengineering.autodesk.com/blog/2015/11/mesos-docker-and-ochopod-in-autodesk-localization-services.html)
 	* [Nanoservices at BBC Online](https://medium.com/bbc-design-engineering/powering-bbc-online-with-nanoservices-727840ba015b)
