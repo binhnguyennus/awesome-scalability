@@ -314,6 +314,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 		* [Scaling Event Sourcing for Netflix Downloads](https://www.infoq.com/presentations/netflix-scale-event-sourcing)
 		* [Scaling Event-Sourcing at Jet.com](https://medium.com/@eulerfx/scaling-event-sourcing-at-jet-9c873cac33b8)
 	* [Command & Query Responsibility Segregation (CQRS)](https://docs.microsoft.com/en-us/azure/architecture/patterns/cqrs)
+		* [Exploring CQRS and Event Sourcing - MSDN (with free ebook)](https://msdn.microsoft.com/en-us/library/jj554200.aspx)
 		* [CQRS Simple Architecture](https://www.future-processing.pl/blog/cqrs-simple-architecture/)
 		* [Building Scalable Applications Using Event Sourcing and CQRS with Kafka](https://initiate.andela.com/event-sourcing-and-cqrs-a-look-at-kafka-e0c1b90d17d8)	
 * [Distributed Machine Learning](https://arxiv.org/pdf/1512.09295.pdf)
