@@ -1,6 +1,6 @@
-# High Scalability, High Availability, and High Stability Design Patterns in Back-end Systems
+# High Scalability, High Availability, and High Stability Back-end Design Patterns
 
-An updated and curated list of selected readings to illustrate High Scalability, High Availability, and High Stability Design Patterns in Back-end. Concepts are explained in the articles of notable engineers (Werner Vogels, James Hamilton, Jeff Atwood, Martin Fowler, Robert C. Martin, Tom White, Martin Kleppmann) and high quality reference sources (highscalability.com, infoq.com, official engineering blogs, etc). Case studies are taken from battle-tested systems those are serving millions to billions of users (Netflix, Alibaba, Flipkart, LINE, Spotify, etc).
+An updated and curated list of selected readings to illustrate High Scalability, High Availability, and High Stability Back-end Design Patterns. Concepts are explained in the articles of notable engineers (Werner Vogels, James Hamilton, Jeff Atwood, Martin Fowler, Robert C. Martin, Tom White, Martin Kleppmann) and high quality reference sources (highscalability.com, infoq.com, official engineering blogs, etc). Case studies are taken from battle-tested systems those are serving millions to billions of users (Netflix, Alibaba, Flipkart, LINE, Spotify, etc).
 
 #### What if your Back-end went slow?
 > Understand your problems: performance problem (slow for a single user) or scalability problem (fast for a single user but slow under heavy load) by reviewing [design principles](#principles). You can also check some [talks](#talks) of elite engineers from tech giants (Google, Facebook, Instagram, etc) to see how they build and scale their systems.
@@ -8,7 +8,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 #### What if your Back-end went down?
 > "Even if you lose all one day, you can build all over again if you retain your calm!" - Thuan Pham, CTO at Uber Technologies Inc.
 
-#### What if you are a future hacker?
+#### What if you are a future hacker ;)
 > Checking out some [system designs problems](#system-design) to get familiar with the design thinking process. By the way, please note that all the contents here are just high level design ideas (things on white board), not real-world system!
 
 #### Community Power
