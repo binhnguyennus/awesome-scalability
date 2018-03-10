@@ -8,6 +8,9 @@ An updated and curated list of selected readings to illustrate High Scalability,
 #### What if your Back-end went down?
 > "Even if you lose all one day, you can build all over again if you retain your calm!" - Thuan Pham, CTO at Uber Technologies Inc.
 
+#### What if you are a future hacker?
+> Checking out some [system designs problems](#system-design) to get familiar with the design thinking process. By the way, please note that all the contents here are just high level design ideas (things on white board), not real-world system!
+
 #### Community Power
 
 > Contributions are greatly welcome! You may want to take a look at the [contribution guidelines](CONTRIBUTING.md).
@@ -20,6 +23,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 - [Stability](#stability)
 - [Performance](#performance)
 - [Other Aspects](#others)
+- [System Design](#system-design)
 - [Talks](#talks)
 - [Books](#books)
 
@@ -419,6 +423,12 @@ An updated and curated list of selected readings to illustrate High Scalability,
 * [How League Of Legends Scaled Chat To 70 Million Players](http://highscalability.com/blog/2014/10/13/how-league-of-legends-scaled-chat-to-70-million-players-it-t.html)
 * [Scaling NodeJS at Alibaba](https://www.linux.com/blog/can-nodejs-scale-ask-team-alibaba)
 * [Distributed Firewall at Linkedin](https://www.youtube.com/watch?v=Kb_dU6t56mo)
+
+## System-Design
+* [Crack the System Design Interview](http://www.puncsky.com/blog/2016/02/14/crack-the-system-design-interview/)
+* [System Design - Hired in Tech](https://www.hiredintech.com/classrooms/system-design/lesson/52)
+* [How to Ace a Systems Design Interview - Palantir](https://www.palantir.com/how-to-ace-a-systems-design-interview/)
+* [Distributed System Design Interview Questions - HackingNote](https://www.hackingnote.com/en/interview/system-design-interview-questions/)
 
 ## Talks
 * [Distributed Systems in One Lesson - Tim Berglund, Senior Director of Developer Experience at Confluent](https://www.youtube.com/watch?v=Y6Ev8GIlbxc)
