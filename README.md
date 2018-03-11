@@ -9,7 +9,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 > "Even if you lose all one day, you can build all over again if you retain your calm!" - Thuan Pham, CTO at Uber Technologies Inc.
 
 #### For the future CTO of the next Uber :)
-> Checking out some [system designs problems](#system-design) to get familiar with the interview process. If you can explain a large-scale design to your grandmother in about 15 mins (with the help of paper and pencil), you know you are ready!
+> Checking out some [system designs problems](#system-design) to get familiar with the interview process. If you can explain a large-scale design to your grandmother in about 15 mins (with the help of paper and pencil), you know you are ready! Good luck!
 
 #### Community Power
 
@@ -137,6 +137,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 	* [Kafka at Scale at Linkedin](https://engineering.linkedin.com/kafka/running-kafka-scale)
 	* [Delaying Asynchronous Message Processing with RabbitMQ at Indeed](http://engineering.indeedblog.com/blog/2017/06/delaying-messages/)
 	* [Real-time Data Pipeline with Kafka at Yelp](https://engineeringblog.yelp.com/2016/07/billions-of-messages-a-day-yelps-real-time-data-pipeline.html)
+	* [Building Reliable Reprocessing and Dead Letter Queues with Kafka at Uber](https://eng.uber.com/reliable-reprocessing/)
 	* [Audit Kafka End-to-End at Uber (count each message exactly once, audit a message across tiers)](https://eng.uber.com/chaperone/)
 	* [Kafka for PaaS at Rakuten](https://techblog.rakuten.co.jp/2016/01/28/rakuten-paas-kafka/)
 	* [Deduplication Techniques](https://en.wikipedia.org/wiki/Data_deduplication)
