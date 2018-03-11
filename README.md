@@ -426,10 +426,11 @@ An updated and curated list of selected readings to illustrate High Scalability,
 * [Distributed Firewall at Linkedin](https://www.youtube.com/watch?v=Kb_dU6t56mo)
 
 ## System-Design
-* [Crack the System Design Interview](http://www.puncsky.com/blog/2016/02/14/crack-the-system-design-interview/)
+* [Anatomy of a System Design Interview](https://hackernoon.com/anatomy-of-a-system-design-interview-4cb57d75a53f)
+* [Top 10 System Design Interview Questions ](https://hackernoon.com/top-10-system-design-interview-questions-for-software-engineers-8561290f0444)
+* [How NOT to design Netflix in your 45-minute System Design Interview?](https://hackernoon.com/how-not-to-design-netflix-in-your-45-minute-system-design-interview-64953391a054)
 * [System Design - Hired in Tech](https://www.hiredintech.com/classrooms/system-design/lesson/52)
 * [How to Ace a Systems Design Interview - Palantir](https://www.palantir.com/how-to-ace-a-systems-design-interview/)
-* [Distributed System Design Interview Questions - HackingNote](https://www.hackingnote.com/en/interview/system-design-interview-questions/)
 * [The Architecture Interview - Susan Fowler](https://www.susanjfowler.com/blog/2016/10/7/the-architecture-interview)
 
 ## Talks
