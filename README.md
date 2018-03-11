@@ -8,8 +8,8 @@ An updated and curated list of selected readings to illustrate High Scalability,
 #### What if your Back-end went down?
 > "Even if you lose all one day, you can build all over again if you retain your calm!" - Thuan Pham, CTO at Uber Technologies Inc.
 
-#### What if you are a future hacker ;)
-> Checking out some [system designs problems](#system-design) to get familiar with the design thinking process. By the way, please note that all the contents here are just high level design ideas (things on white board), not real-world system!
+#### For the future CTO of the next Uber :)
+> Checking out some [system designs problems](#system-design) to get familiar with the interview process. If you can explain a large-scale design to your grandmother in about 15 mins (with the help of paper and pencil), you know you are ready!
 
 #### Community Power
 
@@ -429,6 +429,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 * [System Design - Hired in Tech](https://www.hiredintech.com/classrooms/system-design/lesson/52)
 * [How to Ace a Systems Design Interview - Palantir](https://www.palantir.com/how-to-ace-a-systems-design-interview/)
 * [Distributed System Design Interview Questions - HackingNote](https://www.hackingnote.com/en/interview/system-design-interview-questions/)
+* [The Architecture Interview - Susan Fowler](https://www.susanjfowler.com/blog/2016/10/7/the-architecture-interview)
 
 ## Talks
 * [Distributed Systems in One Lesson - Tim Berglund, Senior Director of Developer Experience at Confluent](https://www.youtube.com/watch?v=Y6Ev8GIlbxc)
