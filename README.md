@@ -432,6 +432,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 * [System Design - Hired in Tech](https://www.hiredintech.com/classrooms/system-design/lesson/52)
 * [How to Ace a Systems Design Interview - Palantir](https://www.palantir.com/how-to-ace-a-systems-design-interview/)
 * [The Architecture Interview - Susan Fowler](https://www.susanjfowler.com/blog/2016/10/7/the-architecture-interview)
+* [OSI and TCP/IP Cheat Sheet (short but really good)](http://jaredheinrichs.com/mastering-the-osi-tcpip-models.html)
 
 ## Talks
 * [Distributed Systems in One Lesson - Tim Berglund, Senior Director of Developer Experience at Confluent](https://www.youtube.com/watch?v=Y6Ev8GIlbxc)
