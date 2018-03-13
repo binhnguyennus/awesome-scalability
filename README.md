@@ -255,6 +255,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 	* [Google AMP at Condé Nast](https://technology.condenast.com/story/the-why-and-how-of-google-amp-at-conde-nast)
 	* [Running A/B Tests on Hosting Infrastructure (CDNs) at Deliveroo](https://deliveroo.engineering/2016/09/19/ab-testing-cdns.html)
 	* [HAProxy with Kubernetes for User-facing Traffic at SoundCloud](https://developers.soundcloud.com/blog/how-soundcloud-uses-haproxy-with-kubernetes-for-user-facing-traffic)
+	* [Bandaid: Service Proxy at Dropbox](https://blogs.dropbox.com/tech/2018/03/meet-bandaid-the-dropbox-service-proxy/)
 * [Load Balancing](https://blog.vivekpanyam.com/scaling-a-web-service-load-balancing/)
 	* [Introduction to Modern Network Load Balancing and Proxying](https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236)
 	* [Load Balancing infrastructure to support more than 1.3 billion users at Facebook](https://www.usenix.org/conference/srecon15europe/program/presentation/shuff)
@@ -433,6 +434,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 * [How to Ace a Systems Design Interview - Palantir](https://www.palantir.com/how-to-ace-a-systems-design-interview/)
 * [The Architecture Interview - Susan Fowler](https://www.susanjfowler.com/blog/2016/10/7/the-architecture-interview)
 * [OSI and TCP/IP Cheat Sheet (short but really good)](http://jaredheinrichs.com/mastering-the-osi-tcpip-models.html)
+* [The Precise Meaning of I/O Wait Time in Linux](http://veithen.github.io/2013/11/18/iowait-linux.html)
 * [Systems We Make (Academic Papers)](https://systemswemake.com/)
 
 ## Talks
