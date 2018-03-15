@@ -9,12 +9,12 @@ An updated and curated list of selected readings to illustrate High Scalability,
 > "Even if you lose all one day, you can build all over again if you retain your calm!" - Thuan Pham, CTO at Uber Technologies Inc.
 
 #### For the future CTO of the next Uber :)
-> Checking out some [system designs problems](#system-design) to get familiar with the interview process. If you can explain a large-scale design to your grandmother in about 15 mins (with the help of paper and pencil), you know you are ready! Good luck!
+> Checking out some [system designs notes](#system-design) to get familiar with the interview process. However, before designing Whatsapp or Twitter on whiteboard in twenty minutes, you must understand thoroughly fundamental building blocks (IPC, OSI, TCP/IP, DB Indexing, etc). It is even better to take a course on Distributed Systems or Distributed Computing. Good luck!
 
 #### Community Power
 
 > Contributions are greatly welcome! You may want to take a look at the [contribution guidelines](CONTRIBUTING.md).
-> If you find this project helpful, [please help me share it on Twitter!](https://ctt.ec/V8B2p) Thank you very much :heart: 
+> If you find this project helpful, [please help me share it on Twitter!](https://ctt.ec/V8B2p) :us: or Weibo :cn:. Thank you very much :heart: 
 
 ## Contents
 - [Principles](#principles)
@@ -429,13 +429,14 @@ An updated and curated list of selected readings to illustrate High Scalability,
 * [Distributed Firewall at Linkedin](https://www.youtube.com/watch?v=Kb_dU6t56mo)
 
 ## System-Design
+* [Notes on Distributed Systems for Young Bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
 * [Anatomy of a System Design Interview](https://hackernoon.com/anatomy-of-a-system-design-interview-4cb57d75a53f)
 * [Top 10 System Design Interview Questions ](https://hackernoon.com/top-10-system-design-interview-questions-for-software-engineers-8561290f0444)
 * [How NOT to design Netflix in your 45-minute System Design Interview?](https://hackernoon.com/how-not-to-design-netflix-in-your-45-minute-system-design-interview-64953391a054)
 * [System Design - Hired in Tech](https://www.hiredintech.com/classrooms/system-design/lesson/52)
 * [How to Ace a Systems Design Interview - Palantir](https://www.palantir.com/how-to-ace-a-systems-design-interview/)
 * [The Architecture Interview - Susan Fowler](https://www.susanjfowler.com/blog/2016/10/7/the-architecture-interview)
-* [OSI and TCP/IP Cheat Sheet (short but really good)](http://jaredheinrichs.com/mastering-the-osi-tcpip-models.html)
+* [OSI and TCP/IP Cheat Sheet (Short but Sweet)](http://jaredheinrichs.com/mastering-the-osi-tcpip-models.html)
 * [The Precise Meaning of I/O Wait Time in Linux](http://veithen.github.io/2013/11/18/iowait-linux.html)
 * [Systems We Make (Academic Papers)](https://systemswemake.com/)
 
