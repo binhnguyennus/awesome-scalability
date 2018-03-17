@@ -9,7 +9,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 > "Even if you lose all one day, you can build all over again if you retain your calm!" - Thuan Pham, CTO at Uber Technologies Inc.
 
 #### For the future CTO of the next Uber :)
-> Checking out some [system designs notes](#system-design) to get familiar with the interview process. However, before designing Whatsapp or Twitter on whiteboard in twenty minutes, you must understand thoroughly fundamental building blocks (IPC, OSI, TCP/IP, DB Indexing, etc). It is even better to take a course on Distributed Systems or Distributed Computing. Good luck!
+> Checking out some [interview notes](#interview) to get familiar with the thinking process. However, before designing Whatsapp or Twitter on whiteboard in twenty minutes, you must understand thoroughly fundamental building blocks (IPC, OSI, TCP/IP, DB Indexing, etc). It is even better to take a course on Distributed Systems or Distributed Computing. Good luck!
 
 #### Community Power
 
@@ -22,8 +22,8 @@ An updated and curated list of selected readings to illustrate High Scalability,
 - [Availability](#availability)
 - [Stability](#stability)
 - [Performance](#performance)
-- [Other Aspects](#others)
-- [System Design](#system-design)
+- [Others](#others)
+- [Interview](#interview)
 - [Talks](#talks)
 - [Books](#books)
 
@@ -83,6 +83,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 * [Linux Performance](http://www.brendangregg.com/linuxperf.html)
 * [How To Design A Good API and Why it Matters - Joshua Bloch](https://www.infoq.com/presentations/effective-api-design)
 * [Talks/Papers on Efficiency, Reliability, Scaling - James Hamilton, VP and Distinguished Engineer at AWS](http://mvdirona.com/jrh/work/)
+* [Systems We Make (Academic Papers)](https://systemswemake.com/)
 
 ## Scalability
 * [Microservices and Orchestration](https://hackernoon.com/microservices-are-hard-an-invaluable-guide-to-microservices-2d06bd7bcf5d)
@@ -415,6 +416,8 @@ An updated and curated list of selected readings to illustrate High Scalability,
 * [Architecture of Stack Overflow Enterprise at Palantir](https://medium.com/@palantir/terraforming-stack-overflow-enterprise-in-aws-47ee431e6be7)
 * [Architecture of Distributed Cron at Quora](https://engineering.quora.com/Quoras-Distributed-Cron-Architecture)
 * [Architecture of Real-Time Presence Platform at LinkedIn](https://engineering.linkedin.com/blog/2018/01/now-you-see-me--now-you-dont--linkedins-real-time-presence-platf)
+* [Architecture of LIVE's Encoder Layer at LINE](https://engineering.linecorp.com/en/blog/detail/230)
+* [Architecture of Back-end at BlaBlaCar](http://blablatech.com/blog/BlaBlaTech-behind-the-scene)
 * [Simone: Distributed Simulation Service at Netflix](https://medium.com/netflix-techblog/https-medium-com-netflix-techblog-simone-a-distributed-simulation-service-b2c85131ca1b)
 * [Seagull: Distributed System that Helps Running > 20 Million Tests Per Day at Yelp](https://engineeringblog.yelp.com/2017/04/how-yelp-runs-millions-of-tests-every-day.html)
 * [Cloud Bouncer: Distributed Rate Limiting at Yahoo](https://yahooeng.tumblr.com/post/111288877956/cloud-bouncer-distributed-rate-limiting-at-yahoo)
@@ -422,25 +425,23 @@ An updated and curated list of selected readings to illustrate High Scalability,
 * [Basic Infrastructure Patterns at Zenefits](https://engineering.zenefits.com/2016/02/basic-infrastructure-patterns/)
 * [Syscall Auditing at Scale at Slack](https://slack.engineering/syscall-auditing-at-scale-e6a3ca8ac1b8)
 * [Scaling Online Migrations at Stripe](https://stripe.com/blog/online-migrations)
-* [Netflix: What Happens When You Press Play?](http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html)
 * [Service Decomposition at Scale at Intuit QuickBooks](https://quickbooks-engineering.intuit.com/service-decomposition-at-scale-70405ac2f637)
-* [Back-end at BlaBlaCar](http://blablatech.com/blog/BlaBlaTech-behind-the-scene)
 * [Scalable Gaming Patterns on AWS](https://d0.awsstatic.com/whitepapers/aws-scalable-gaming-patterns.pdf)
 * [How League Of Legends Scaled Chat To 70 Million Players](http://highscalability.com/blog/2014/10/13/how-league-of-legends-scaled-chat-to-70-million-players-it-t.html)
 * [Scaling NodeJS at Alibaba](https://www.linux.com/blog/can-nodejs-scale-ask-team-alibaba)
 * [Distributed Firewall at Linkedin](https://www.youtube.com/watch?v=Kb_dU6t56mo)
 
-## System-Design
+## Interview
 * [Notes on Distributed Systems for Young Bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
 * [Anatomy of a System Design Interview](https://hackernoon.com/anatomy-of-a-system-design-interview-4cb57d75a53f)
 * [Top 10 System Design Interview Questions ](https://hackernoon.com/top-10-system-design-interview-questions-for-software-engineers-8561290f0444)
 * [How NOT to design Netflix in your 45-minute System Design Interview?](https://hackernoon.com/how-not-to-design-netflix-in-your-45-minute-system-design-interview-64953391a054)
+* [Netflix: What Happens When You Press Play?](http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html)
 * [System Design - Hired in Tech](https://www.hiredintech.com/classrooms/system-design/lesson/52)
 * [How to Ace a Systems Design Interview - Palantir](https://www.palantir.com/how-to-ace-a-systems-design-interview/)
 * [The Architecture Interview - Susan Fowler](https://www.susanjfowler.com/blog/2016/10/7/the-architecture-interview)
 * [OSI and TCP/IP Cheat Sheet (Short but Sweet)](http://jaredheinrichs.com/mastering-the-osi-tcpip-models.html)
 * [The Precise Meaning of I/O Wait Time in Linux](http://veithen.github.io/2013/11/18/iowait-linux.html)
-* [Systems We Make (Academic Papers)](https://systemswemake.com/)
 
 ## Talks
 * [Distributed Systems in One Lesson - Tim Berglund, Senior Director of Developer Experience at Confluent](https://www.youtube.com/watch?v=Y6Ev8GIlbxc)
