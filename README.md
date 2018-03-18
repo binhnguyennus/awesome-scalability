@@ -82,6 +82,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 * [Learn from Mistakes](http://highscalability.com/blog/2013/8/26/reddit-lessons-learned-from-mistakes-made-scaling-to-1-billi.html)
 * [Linux Performance](http://www.brendangregg.com/linuxperf.html)
 * [How To Design A Good API and Why it Matters - Joshua Bloch](https://www.infoq.com/presentations/effective-api-design)
+* [Building Fast & Resilient Web Applications - Ilya Grigorik](https://www.igvita.com/2016/05/20/building-fast-and-resilient-web-applications/)
 * [Talks/Papers on Efficiency, Reliability, Scaling - James Hamilton, VP and Distinguished Engineer at AWS](http://mvdirona.com/jrh/work/)
 * [Systems We Make (Academic Papers)](https://systemswemake.com/)
 
