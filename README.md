@@ -9,7 +9,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 > "Even if you lose all one day, you can build all over again if you retain your calm!" - Thuan Pham, CTO at Uber Technologies Inc.
 
 #### For the future CTO of the next Uber :)
-> Checking out some [interview notes](#interview) to get familiar with the thinking process. However, before designing Whatsapp or Twitter on whiteboard in twenty minutes, you must understand thoroughly fundamental building blocks (IPC, OSI, TCP/IP, DB Indexing, etc). It is even better to take a course on Distributed Systems or Distributed Computing. Good luck!
+> Checking out some [interview notes](#interview) to get familiar with the thinking process. However, before designing Whatsapp or Twitter on whiteboard in twenty minutes, you must understand thoroughly fundamental building blocks (IPC, OSI, TCP/IP, Gossip, etc). It is even better to take a course on Distributed Systems or Distributed Computing. Good luck!
 
 #### Community Power
 
@@ -190,6 +190,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 		* [zBase: High Performance, Elastic, Distributed Key-Value Store at Zynga](https://www.zynga.com/blogs/engineering/zbase-high-performance-elastic-distributed-key-value-store-2)
 	* [Column Databases (Cassandra, HBase, Vertica, Sybase IQ)](https://aws.amazon.com/nosql/columnar/)
 		* [Consistent Hashing in Cassandra](https://blog.imaginea.com/consistent-hashing-in-cassandra/)
+		* [Understanding Gossip (Cassandra Internals)](https://www.youtube.com/watch?v=FuP1Fvrv6ZQ)
 		* [When NOT to use Cassandra?](https://stackoverflow.com/questions/2634955/when-not-to-use-cassandra)
 		* [Avoid Pitfalls in Scaling Cassandra Cluster: Lessons and Remedies at Walmart Labs](https://medium.com/walmartlabs/avoid-pitfalls-in-scaling-your-cassandra-cluster-lessons-and-remedies-a71ca01f8c04)
 		* [Storing Images in Cassandra at Walmart Scale](https://medium.com/walmartlabs/building-object-store-storing-images-in-cassandra-walmart-scale-a6b9c02af593)
