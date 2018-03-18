@@ -399,6 +399,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 * [Improving Video Thumbnails with Deep Neural Nets at YouTube](https://youtube-eng.googleblog.com/2015/10/improving-youtube-video-thumbnails-with_8.html)
 * [Optimizing APIs through Dynamic Polyglot Runtime, Fully Asynchronous, and Reactive Programming at Netflix](https://medium.com/netflix-techblog/optimizing-the-netflix-api-5c9ac715cf19)
 * [Optimizing Video Playback Performance at Pinterest](https://medium.com/@Pinterest_Engineering/optimizing-video-playback-performance-caf55ce310d1)
+* [Optimizing Video Stream for Low Bandwidth with Dynamic Optimizer at Netflix](https://medium.com/netflix-techblog/optimized-shot-based-encodes-now-streaming-4b9464204830)
 * [Reducing Video Loading Time by Prefetching during Preroll at Dailymotion](http://engineering.dailymotion.com/reducing-video-loading-time-prefetching-video-during-preroll/)
 * [Improving GIF Performance at Pinterest](https://medium.com/@Pinterest_Engineering/improving-gif-performance-on-pinterest-8dad74bf92f1)
 * [Performance Improvements (All Stacks) at Pinterest](https://medium.com/@Pinterest_Engineering/driving-user-growth-with-performance-improvements-cfc50dafadd7)
