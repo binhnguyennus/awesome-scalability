@@ -143,6 +143,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 	* [Building Reliable Reprocessing and Dead Letter Queues with Kafka at Uber](https://eng.uber.com/reliable-reprocessing/)
 	* [Audit Kafka End-to-End at Uber (count each message exactly once, audit a message across tiers)](https://eng.uber.com/chaperone/)
 	* [Kafka for PaaS at Rakuten](https://techblog.rakuten.co.jp/2016/01/28/rakuten-paas-kafka/)
+	* [Publishing with Kafka at The New York Times](https://open.nytimes.com/publishing-with-apache-kafka-at-the-new-york-times-7f0e3b7d2077)
 	* [Deduplication Techniques](https://en.wikipedia.org/wiki/Data_deduplication)
 		* [Exactly-once Semantics are Possible: Here’s How Kafka Does it](https://www.confluent.io/blog/exactly-once-semantics-are-possible-heres-how-apache-kafka-does-it/)
 		* [Real-time Deduping at Scale with Kafka-based Pipleline at Tapjoy](http://eng.tapjoy.com/blog-list/real-time-deduping-at-scale)
