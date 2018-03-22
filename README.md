@@ -319,7 +319,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 		* [Autoscaling Pub-Sub Consumers at Spotify](https://labs.spotify.com/2017/11/20/autoscaling-pub-sub-consumers/)
 		* [Pulsar: Pub-Sub Messaging at Scale at Yahoo](https://yahooeng.tumblr.com/post/150078336821/open-sourcing-pulsar-pub-sub-messaging-at-scale)
 		* [Wormhole: Pub-Sub system at Facebook (2013)](https://code.facebook.com/posts/188966771280871/wormhole-pub-sub-system-moving-data-through-space-and-time/)
-		* [Pub-Sub in Chatting Architecture on LINE LIVE](https://engineering.linecorp.com/en/blog/detail/85)
+		* [Pub-Sub in Chatting Architecture at LINE](https://engineering.linecorp.com/en/blog/detail/85)
 	* [Domain Events](https://martinfowler.com/eaaDev/DomainEvent.html)
 		* [Domain Events: Simple and Reliable Solution](http://enterprisecraftsmanship.com/2017/10/03/domain-events-simple-and-reliable-solution/)
 		* [Domain-Driven Design in Organizing Monolith Before Breaking it into Services at Weebly](https://medium.com/weebly-engineering/how-to-organize-your-monolith-before-breaking-it-into-services-69cbdb9248b0)
