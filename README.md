@@ -118,7 +118,8 @@ An updated and curated list of selected readings to illustrate High Scalability,
 	* [EVCache: Caching for a Global Netflix](https://medium.com/netflix-techblog/caching-for-a-global-netflix-7bcc457012f1)
 	* [Memsniff: Robust Memcache Traffic Analyzer at Box.com](https://blog.box.com/blog/introducing-memsniff-robust-memcache-traffic-analyzer/)
 	* [Caching with Consistent Hashing and Cache Smearing at Etsy](https://codeascraft.com/2017/11/30/how-etsy-caches/)
-	* [An Analysis of Facebook Photo Caching](https://code.facebook.com/posts/220956754772273/an-analysis-of-facebook-photo-caching/)
+	* [Analysis of Photo Caching at Facebook](https://code.facebook.com/posts/220956754772273/an-analysis-of-facebook-photo-caching/)
+	* [Cache Efficiency Exercise at Facebook](https://code.facebook.com/posts/964122680272229/web-performance-cache-efficiency-exercise/)
 	* [Reduce Memcached Memory Usage by 50% at Trivago](http://tech.trivago.com/2017/12/19/how-trivago-reduced-memcached-memory-usage-by-50/)
 	* [Caching Internal Service Calls at Yelp](https://engineeringblog.yelp.com/2018/03/caching-internal-service-calls-at-yelp.html)
 * [Distributed Tracking and Tracing](https://www.oreilly.com/ideas/understanding-the-value-of-distributed-tracing)
@@ -393,7 +394,6 @@ An updated and curated list of selected readings to illustrate High Scalability,
 * [Multi-clustering: Improving Resiliency and Stability of a Large-scale Monolithic API Service at LinkedIn](https://engineering.linkedin.com/blog/2017/11/improving-resiliency-and-stability-of-a-large-scale-api)
 
 ## Performance
-* [Web Performance: Cache Efficiency Exercise at Facebook](https://code.facebook.com/posts/964122680272229/web-performance-cache-efficiency-exercise/)
 * [Improving Performance with Background Data Prefetching at Instagram](https://engineering.instagram.com/improving-performance-with-background-data-prefetching-b191acb39898)
 * [Compression Techniques to Solve Network I/O Bottlenecks at eBay](https://www.ebayinc.com/stories/blogs/tech/how-ebays-shopping-cart-used-compression-techniques-to-solve-network-io-bottlenecks/)
 * [Optimizing Web Servers for High Throughput and Low Latency at Dropbox](https://blogs.dropbox.com/tech/2017/09/optimizing-web-servers-for-high-throughput-and-low-latency/)
@@ -441,10 +441,8 @@ An updated and curated list of selected readings to illustrate High Scalability,
 * [Scaling Online Migrations at Stripe](https://stripe.com/blog/online-migrations)
 * [Service Decomposition at Scale at Intuit QuickBooks](https://quickbooks-engineering.intuit.com/service-decomposition-at-scale-70405ac2f637)
 * [Scalable Gaming Patterns on AWS](https://d0.awsstatic.com/whitepapers/aws-scalable-gaming-patterns.pdf)
-* [How League Of Legends Scaled Chat To 70 Million Players](http://highscalability.com/blog/2014/10/13/how-league-of-legends-scaled-chat-to-70-million-players-it-t.html)
+* [Scaled Chat To 70 Million Players at League Of Legends](http://highscalability.com/blog/2014/10/13/how-league-of-legends-scaled-chat-to-70-million-players-it-t.html)
 * [Scaling NodeJS at Alibaba](https://www.linux.com/blog/can-nodejs-scale-ask-team-alibaba)
-* [Distributed Firewall at Linkedin](https://www.youtube.com/watch?v=Kb_dU6t56mo)
-* [How GPUs Make Browsers Fast (Primitive Drawing, Composing Layers, Tiles Backing Stores)](https://www.infoq.com/presentations/GPU-Browser)
 
 ## Interview
 * [Notes on Distributed Systems for Young Bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
