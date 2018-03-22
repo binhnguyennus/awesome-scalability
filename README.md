@@ -14,7 +14,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 #### Community Power
 
 > Contributions are greatly welcome! You may want to take a look at the [contribution guidelines](CONTRIBUTING.md).
-> If you find this project helpful, [please help me share it on Twitter!](https://ctt.ec/V8B2p) :us: or Weibo (can someone help me create a Weibo share link, and then make a pull request?) :cn:. Thank you very much :heart: 
+> If you find this project helpful, [please help me share it on Twitter!](https://ctt.ec/V8B2p) or [Weibo](Weibo_share_link). :cn: Can someone help me create a Weibo share link at the "Weibo_share_link" position, and then create a pull request? :raised_hands:. Thank you very much!
 
 ## Contents
 - [Principles](#principles)
