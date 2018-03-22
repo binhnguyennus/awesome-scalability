@@ -14,7 +14,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 #### Community Power
 
 > Contributions are greatly welcome! You may want to take a look at the [contribution guidelines](CONTRIBUTING.md).
-> If you find this project helpful, [please help me share it on Twitter!](https://ctt.ec/V8B2p) :us: or Weibo (can someone help me create a share link and make a pull request?) :cn:. Thank you very much :heart: 
+> If you find this project helpful, [please help me share it on Twitter!](https://ctt.ec/V8B2p) :us: or Weibo (can someone help me create a Weibo share link, and then make a pull request?) :cn:. Thank you very much :heart: 
 
 ## Contents
 - [Principles](#principles)
@@ -23,7 +23,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 - [Stability](#stability)
 - [Performance](#performance)
 - [Architectures](#architectures)
-- [Others](#others)
+- [Ad-hoc](#ad-hoc)
 - [Interview](#interview)
 - [Talks](#talks)
 - [Books](#books)
@@ -421,18 +421,18 @@ An updated and curated list of selected readings to illustrate High Scalability,
 * [Architecture of Real-Time Presence Platform at LinkedIn](https://engineering.linkedin.com/blog/2018/01/now-you-see-me--now-you-dont--linkedins-real-time-presence-platf)
 * [Architecture of LIVE's Encoder Layer at LINE](https://engineering.linecorp.com/en/blog/detail/230)
 * [Architecture of Back-end at BlaBlaCar](http://blablatech.com/blog/BlaBlaTech-behind-the-scene)
-* [Distributed Architecture in Financial Systems](https://medium.com/@sofie_4036/lets-build-a-bank-service-architecture-410dca881291)
+* [Architecture of Simone: Distributed Simulation Service at Netflix](https://medium.com/netflix-techblog/https-medium-com-netflix-techblog-simone-a-distributed-simulation-service-b2c85131ca1b)
+* [Architecture of Seagull: Distributed System that Helps Running > 20 Million Tests Per Day at Yelp](https://engineeringblog.yelp.com/2017/04/how-yelp-runs-millions-of-tests-every-day.html)
+* [Architecture of Cloud Bouncer: Distributed Rate Limiting at Yahoo](https://yahooeng.tumblr.com/post/111288877956/cloud-bouncer-distributed-rate-limiting-at-yahoo)
+* [Architecture of Distributed Systems in Finance and Banking](https://medium.com/@sofie_4036/lets-build-a-bank-service-architecture-410dca881291)
 	* [Reference Architecture For The Open Banking Standard](https://hortonworks.com/blog/reference-architecture-open-banking-standard/)
 	* [Building a Modern Bank Backend at Monzo](https://monzo.com/blog/2016/09/19/building-a-modern-bank-backend/)
 	* [Choosing an Architecture for Core Banking System at TrustBK](https://blog.trustbk.com/choosing-an-architecture-85750e1e5a03)
 	* [Reinventing the Trading Platform for Scale at Wealthsimple](https://medium.com/@Wealthsimple/engineering-at-wealthsimple-reinventing-our-trading-platform-for-scale-17e332241b6c)
 	* [Tech Stack at TransferWise](http://tech.transferwise.com/the-transferwise-stack-heartbeat-of-our-little-revolution/)
 
-## Others
-* [Simone: Distributed Simulation Service at Netflix](https://medium.com/netflix-techblog/https-medium-com-netflix-techblog-simone-a-distributed-simulation-service-b2c85131ca1b)
-* [Seagull: Distributed System that Helps Running > 20 Million Tests Per Day at Yelp](https://engineeringblog.yelp.com/2017/04/how-yelp-runs-millions-of-tests-every-day.html)
-* [Cloud Bouncer: Distributed Rate Limiting at Yahoo](https://yahooeng.tumblr.com/post/111288877956/cloud-bouncer-distributed-rate-limiting-at-yahoo)
-* [Selecting a Cloud Provider at Etsy](https://codeascraft.com/2018/01/04/selecting-a-cloud-provider/)
+## Ad-hoc
+* [Criteria for Selecting a Cloud Provider at Etsy](https://codeascraft.com/2018/01/04/selecting-a-cloud-provider/)
 * [Basic Infrastructure Patterns at Zenefits](https://engineering.zenefits.com/2016/02/basic-infrastructure-patterns/)
 * [Syscall Auditing at Scale at Slack](https://slack.engineering/syscall-auditing-at-scale-e6a3ca8ac1b8)
 * [Scaling Online Migrations at Stripe](https://stripe.com/blog/online-migrations)
