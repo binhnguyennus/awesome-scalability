@@ -324,6 +324,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 	* [Enterprise Service Bus](http://www.oracle.com/technetwork/articles/soa/ind-soa-esb-1967705.html)
 	* [Domain Events](https://martinfowler.com/eaaDev/DomainEvent.html)
 		* [Domain Events: Simple and Reliable Solution](http://enterprisecraftsmanship.com/2017/10/03/domain-events-simple-and-reliable-solution/)
+		* [Domain-Driven Design in Organizing Monolith Before Breaking it into Services at Weebly](https://medium.com/weebly-engineering/how-to-organize-your-monolith-before-breaking-it-into-services-69cbdb9248b0)
 	* [Event Stream Processing](https://www.sas.com/en_us/insights/articles/big-data/3-things-about-event-stream-processing.html)
 		* [Kafka Streams on Heroku](https://blog.heroku.com/kafka-streams-on-heroku)
 		* [Kafka in Platform Events Architecture at Salesforce](https://engineering.salesforce.com/how-apache-kafka-inspired-our-platform-events-architecture-2f351fe4cf63)		
