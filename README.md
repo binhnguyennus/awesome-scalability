@@ -9,12 +9,12 @@ An updated and curated list of selected readings to illustrate High Scalability,
 > "Even if you lose all one day, you can build all over again if you retain your calm!" - Thuan Pham, CTO at Uber Technologies Inc.
 
 #### For the future CTO of the next Uber :)
-> Checking out some [interview notes](#interview) to get familiar with the thinking process. However, before designing Whatsapp or Twitter on whiteboard in twenty minutes, you must understand thoroughly fundamental building blocks (IPC, OSI, TCP/IP, Gossip, etc). It is even better to take a course on Distributed Systems or Distributed Computing. Good luck!
+> Checking out some [interview notes](#interview) and [compeleted architectures](#architectures) to get a comprehensive view. Before designing Whatsapp or Twitter on whiteboard, you must understand thoroughly fundamental building blocks (IPC, OSI, TCP/IP, Gossip, etc). It is even better to take a course on Distributed Systems or Distributed Computing. Good luck!
 
 #### Community Power
 
 > Contributions are greatly welcome! You may want to take a look at the [contribution guidelines](CONTRIBUTING.md).
-> If you find this project helpful, [please help me share it on Twitter!](https://ctt.ec/V8B2p) :us: or Weibo :cn:. Thank you very much :heart: 
+> If you find this project helpful, [please help me share it on Twitter!](https://ctt.ec/V8B2p) :us: or Weibo (can someone help me create a share link and make a pull request?) :cn:. Thank you very much :heart: 
 
 ## Contents
 - [Principles](#principles)
@@ -427,7 +427,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 	* [Choosing an Architecture for Core Banking System at TrustBK](https://blog.trustbk.com/choosing-an-architecture-85750e1e5a03)
 	* [Reinventing the Trading Platform for Scale at Wealthsimple](https://medium.com/@Wealthsimple/engineering-at-wealthsimple-reinventing-our-trading-platform-for-scale-17e332241b6c)
 	* [Tech Stack at TransferWise](http://tech.transferwise.com/the-transferwise-stack-heartbeat-of-our-little-revolution/)
-		
+
 ## Others
 * [Simone: Distributed Simulation Service at Netflix](https://medium.com/netflix-techblog/https-medium-com-netflix-techblog-simone-a-distributed-simulation-service-b2c85131ca1b)
 * [Seagull: Distributed System that Helps Running > 20 Million Tests Per Day at Yelp](https://engineeringblog.yelp.com/2017/04/how-yelp-runs-millions-of-tests-every-day.html)
