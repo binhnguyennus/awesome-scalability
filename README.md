@@ -443,6 +443,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 * [How League Of Legends Scaled Chat To 70 Million Players](http://highscalability.com/blog/2014/10/13/how-league-of-legends-scaled-chat-to-70-million-players-it-t.html)
 * [Scaling NodeJS at Alibaba](https://www.linux.com/blog/can-nodejs-scale-ask-team-alibaba)
 * [Distributed Firewall at Linkedin](https://www.youtube.com/watch?v=Kb_dU6t56mo)
+* [How GPUs Make Browsers Fast (Primitive Drawing, Composing Layers, Tiles Backing Stores)](https://www.infoq.com/presentations/GPU-Browser)
 
 ## Interview
 * [Notes on Distributed Systems for Young Bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
