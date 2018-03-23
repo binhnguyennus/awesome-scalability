@@ -386,8 +386,8 @@ An updated and curated list of selected readings to illustrate High Scalability,
 	* [Circuit Breaker for Scaling Containers](https://f5.com/about-us/blog/articles/the-art-of-scaling-containers-circuit-breakers-28919)
 	* [Protector: Circuit Breaker for Time Series Databases at Trivago](http://tech.trivago.com/2016/02/23/protector/)
 * [Always use timeouts (if possible)](https://www.javaworld.com/article/2824163/application-performance/stability-patterns-applied-in-a-restful-architecture.html)
-* [Let it Crash/Supervisors: Embrace Failure As a Natural State](http://erlang.org/doc/design_principles/sup_princ.html)
-* [Crash Early: Error Now is Better Than Response Tomorrow](http://odino.org/better-performance-the-case-for-timeouts/)
+* [Let it Crash/Supervisors: Embrace Failure As Natural State](http://erlang.org/doc/design_principles/sup_princ.html)
+* [Crash Early: Better Error Now Than Response Tomorrow](http://odino.org/better-performance-the-case-for-timeouts/)
 * [Crash-safe Replication for MySQL at Booking.com](https://medium.com/booking-com-infrastructure/better-crash-safe-replication-for-mysql-a336a69b317f)
 * [Bulkheads: Partition and Tolerate Failure in One Part](https://skife.org/architecture/fault-tolerance/2009/12/31/bulkheads.html)
 * [Steady State: Always Put Logs on Separate Disk](https://docs.microsoft.com/en-us/sql/relational-databases/policy-based-management/place-data-and-log-files-on-separate-drives)
@@ -476,6 +476,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 * [Scaling Infrastructure at Instagram - Lisa Guo, Instagram Engineering](https://www.youtube.com/watch?v=hnpzNAPiC0E)
 * [Scaling Infrastructure at Twitter - Yao Yue, Staff Software Engineer at Twitter](https://www.youtube.com/watch?v=6OvrFkLSoZ0)
 * [Scaling Infrastructure at Etsy - Bethany Macri, Engineering Manager at Etsy](https://www.youtube.com/watch?v=LfqyhM1LeIU)
+* [Scaling Real-time Infrastructure at Alibaba for Global Shopping Holiday - Xiaowei Jiang, Senior Director at Alibaba](https://atscaleconference.com/videos/scaling-alibabas-real-time-infrastructure-for-global-shopping-holiday/)
 * [Scaling Data Infrastructure at Spotify - Matti (Lepistö) Pehrs, Spotify](https://www.youtube.com/watch?v=cdsfRXr9pJU)
 * [Scaling Pinterest - Marty Weiner, Pinterest’s founding engineer](https://www.youtube.com/watch?v=jQNCuD_hxdQ&list=RDhnpzNAPiC0E&index=11)
 * [Scaling Slack - Bing Wei, Software Engineer (Infrastructure) at Slack](https://www.infoq.com/presentations/slack-scalability)
@@ -486,7 +487,6 @@ An updated and curated list of selected readings to illustrate High Scalability,
 * [Scaling (a NSFW site) to 200 Million Views A Day And Beyond - Eric Pickup, Lead Platform Developer at MindGeek](https://www.youtube.com/watch?v=RlkCdM_f3p4)
 * [Scaling Counting Infrastructure at Quora - Chun-Ho Hung and Nikhil Gar, SEs at Quora](https://www.infoq.com/presentations/quora-analytics)
 * [Scaling Git at Microsoft - Saeed Noursalehi, Principal Program Manager at Microsoft](https://www.youtube.com/watch?v=g_MPGU_m01s)
-* [Scaling the S in SDN - Albert Greenberg, Director Azure Networking and Distinguished Engineer at Microsoft](https://www.youtube.com/watch?v=scrPWWIM-T4)
 
 ## Books
 * [Google Site Reliability Engineering (Online - Free)](https://landing.google.com/sre/book.html)
