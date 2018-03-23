@@ -245,6 +245,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 	* [Scaling PostgreSQL Using CUDA](http://highscalability.com/blog/2009/5/28/scaling-postgresql-using-cuda.html)
 	* [Scaling Distributed Joins](http://blog.memsql.com/scaling-distributed-joins/)
 	* [MySQL System Design at Booking.com](https://www.percona.com/live/mysql-conference-2015/sessions/bookingcom-evolution-mysql-system-design)
+	* [MySQL Parallel Replication (4 parts) at Booking.com](https://medium.com/booking-com-infrastructure/evaluating-mysql-parallel-replication-part-4-annex-under-the-hood-eb456cf8b2fb)
 	* [Sharding MySQL at Pinterest](https://medium.com/@Pinterest_Engineering/sharding-pinterest-how-we-scaled-our-mysql-fleet-3f341e96ca6f)
 	* [Sharding MySQL at MailChimp](https://devs.mailchimp.com/blog/using-shards-to-accommodate-millions-of-users/)
 	* [Partitioning Main MySQL Database at Airbnb](https://medium.com/airbnb-engineering/how-we-partitioned-airbnb-s-main-database-in-two-weeks-55f7e006ff21)
