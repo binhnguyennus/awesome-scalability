@@ -1,6 +1,6 @@
-# High Scalability, High Availability, and High Stability Back-end Design Patterns
+# High Scalability, High Availability, High Stability, and High Performance Back-end Design Patterns
 
-An updated and curated list of selected readings to illustrate High Scalability, High Availability, and High Stability Back-end Design Patterns. Concepts are explained in the articles of notable engineers (Werner Vogels, James Hamilton, Jeff Atwood, Martin Fowler, Robert C. Martin, Tom White, Martin Kleppmann) and high quality reference sources (highscalability.com, infoq.com, official engineering blogs, etc). Case studies are taken from battle-tested systems those are serving millions to billions of users (Netflix, Alibaba, Flipkart, LINE, Spotify, etc).
+An updated and curated list of selected readings to illustrate High Scalability, High Availability, High Stability, and High Performance Back-end Design Patterns. Concepts are explained in the articles of notable engineers (Werner Vogels, James Hamilton, Jeff Atwood, Martin Fowler, Robert C. Martin, Tom White, Martin Kleppmann) and high quality reference sources (highscalability.com, infoq.com, official engineering blogs, etc). Case studies are taken from battle-tested systems those are serving millions to billions of users (Netflix, Alibaba, Flipkart, LINE, Spotify, etc).
 
 #### What if your Back-end went slow?
 > Understand your problems: performance problem (slow for a single user) or scalability problem (fast for a single user but slow under heavy load) by reviewing [design principles](#principles). You can also check some [talks](#talks) of elite engineers from tech giants (Google, Facebook, Instagram, etc) to see how they build and scale their systems.
@@ -181,7 +181,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 		* [MemSQL Architecture - The Fast (MVCC, InMem, LockFree, CodeGen) And Familiar (SQL)](http://highscalability.com/blog/2012/8/14/memsql-architecture-the-fast-mvcc-inmem-lockfree-codegen-and.html)
 		* [Optimizing Memcached Efficiency at Quora](https://engineering.quora.com/Optimizing-Memcached-Efficiency)
 		* [Real-Time Data Warehouse with MemSQL on Cisco UCS](https://blogs.cisco.com/datacenter/memsql)
-		* [Moving to MemSQL at Tapjoy: Horizontally Scalable, ACID Compliant, MySQL Compatibility](http://eng.tapjoy.com/blog-list/moving-to-memsql)
+		* [Moving to MemSQL (with Horizontally Scalable, ACID Compliant, MySQL Compatibility) at Tapjoy](http://eng.tapjoy.com/blog-list/moving-to-memsql)
 	* [Durable Storage (Amazon S3)](http://www.datacenterknowledge.com/archives/2013/10/04/object-storage-the-future-of-scale-out)
 		* [Reasons for Choosing S3 over HDFS at Databricks](https://databricks.com/blog/2017/05/31/top-5-reasons-for-choosing-s3-over-hdfs.html)
 		* [S3 in the Data Infrastructure at Airbnb](https://medium.com/airbnb-engineering/data-infrastructure-at-airbnb-8adfb34f169c)
