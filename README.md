@@ -472,6 +472,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 * [High Performance Packet Processing Platform at Alibaba - Haiyong Wang, Senior Director at Alibaba](https://www.youtube.com/watch?v=wzsxJqeVIhY&list=PLMu8-hpCxIVENuAue7bd0eCAglLGY_8AW&index=7)
 * [Scaling Dropbox - Kevin Modzelewski, Back-end Engineer at Dropbox](https://www.youtube.com/watch?v=PE4gwstWhmc)
 * [Scaling Reliability at Dropbox - Sat Kriya Khalsa, SRE at Dropbox](https://www.youtube.com/watch?v=IhGWOaD5BYQ)
+* [Scaling with Performance at Facebook - Bill Jia, VP of Infrastructure at Facebook](https://atscaleconference.com/videos/performance-scale-2018-opening-remarks/)
 * [Scaling Live Videos to a Billion Users at Facebook - Sachin Kulkarni, Director of Engineering at Facebook](https://www.youtube.com/watch?v=IO4teCbHvZw)
 * [Scaling Low-latency Live Streams at Facebook (Latencies for Real-time Interactions) - Saral Shodhan, SDE at Facebook](https://atscaleconference.com/videos/scaling-low-latency-live-streams/)
 * [Scaling Low-latency Live Streams at Facebook (End-to-End Considerations) - Federico Larumbe, SDE at Facebook](https://atscaleconference.com/videos/scaling-low-latency-live-streams-2-of-2/)
