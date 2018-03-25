@@ -131,6 +131,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 	* [Tracing Distributed Systems at Showmax](https://tech.showmax.com/2016/10/tracing-distributed-systems-at-showmax/)
 	* [Real-time Distributed Tracing at LinkedIn](https://engineering.linkedin.com/distributed-service-call-graph/real-time-distributed-tracing-website-performance-and-efficiency)
 	* [Zipkin: Distributed Systems Tracing at Twitter](https://blog.twitter.com/engineering/en_us/a/2012/distributed-systems-tracing-with-zipkin.html)
+	* [osquery Across the Enterprise at Palantir](https://medium.com/@palantir/osquery-across-the-enterprise-3c3c9d13ec55)
 * [Distributed Logging](https://blog.treasuredata.com/blog/2016/08/03/distributed-logging-architecture-in-the-container-era/)
 	* [The Problem with Logging - Jeff Atwood](https://blog.codinghorror.com/the-problem-with-logging/)
 	* [The Log: What Every Software Engineer Should Know](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
