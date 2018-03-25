@@ -1,6 +1,6 @@
-# High Scalability, High Availability, High Stability, and High Performance Back-end Design Patterns
+# High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Design Patterns
 
-An updated and curated list of selected readings to illustrate High Scalability, High Availability, High Stability, and High Performance Back-end Design Patterns. Concepts are explained in the articles of notable engineers (Werner Vogels, James Hamilton, Martin Kleppmann, etc) and credible references (highscalability.com, infoq.com, official engineering blogs). Case studies are taken from battle-tested systems those are serving millions to billions of users (Netflix, Alibaba, Flipkart, LINE, Spotify, etc).
+An updated and curated list of selected readings to illustrate High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Design Patterns. Concepts are explained in the articles of notable engineers (Werner Vogels, James Hamilton, Martin Kleppmann, etc) and credible references (highscalability.com, infoq.com, official engineering blogs). Case studies are taken from battle-tested systems those are serving millions to billions of users (Netflix, Alibaba, Flipkart, LINE, Spotify, etc).
 
 #### What if your Back-end went slow?
 > Understand your problems: performance problem (slow for a single user) or scalability problem (fast for a single user but slow under heavy load) by reviewing [design principles](#principles). You can also check some [talks](#talks) of elite engineers from tech giants (Google, Facebook, Instagram, etc) to see how they build and scale their systems.
@@ -24,7 +24,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 - [Availability](#availability)
 - [Stability](#stability)
 - [Performance](#performance)
-- [ML at Scale](#machine-learning)
+- [Intelligence](#intelligence)
 - [Architectures](#architectures)
 - [Ad-hoc](#ad-hoc)
 - [Interview](#interview)
@@ -398,7 +398,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 * [Decreasing RAM Usage by 40% Using jemalloc with Python & Celery at Zapier](https://zapier.com/engineering/celery-python-jemalloc/)
 * [Using Java Large Heap (110 GB) for Boosting Site Perpormance at Expedia](https://techblog.expedia.com/2015/09/25/solving-problems-with-very-large-java-heaps/)
 
-## Machine-Learning
+## Intelligence
 * [Scalable Deep Learning Platform On Spark In Baidu](https://www.slideshare.net/JenAman/scalable-deep-learning-platform-on-spark-in-baidu)
 * [Horovod: Uber’s Open Source Distributed Deep Learning Framework for TensorFlow](https://eng.uber.com/horovod/)	
 * [Scaling Gradient Boosted Trees for Click-Through-Rate Prediction at Yelp](https://engineeringblog.yelp.com/2018/01/building-a-distributed-ml-pipeline-part1.html)
