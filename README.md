@@ -31,13 +31,12 @@ An updated and curated list of selected readings to illustrate High Scalability,
 - [Books](#books)
 
 ## Principles
-* [My Scaling Hero - Jeff Atwood](https://blog.codinghorror.com/my-scaling-hero/)
+* [Talks and Papers on Efficiency, Reliability, Scaling - James Hamilton, VP and Distinguished Engineer at AWS](http://mvdirona.com/jrh/work/)
 * [Principles of Chaos Engineering](https://www.usenix.org/conference/srecon17americas/program/presentation/rosenthal)
 * [Finding the Order in Chaos](https://www.usenix.org/conference/srecon16/program/presentation/lueder)
 * [Clean Architecture - Robert C. Martin (Uncle Bob)](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
 * [Code Review Best Practices at Palantir](https://medium.com/@palantir/code-review-best-practices-19e02780015f)
 * [The Twelve-Factor App](https://12factor.net/)
-* [10 Common (Large-Scale) Software Architectural Patterns in a Nutshell](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
 * [CAP Theorem and Trade-offs](http://robertgreiner.com/2014/08/cap-theorem-revisited/)
 * [CP Databases and AP Databases](https://blog.andyet.com/2014/10/01/right-database)	
 * [Scale Up vs Scale Out](https://www.brianjgraf.com/2013/05/17/scalability-scale-up-scale-out-care/)
@@ -50,7 +49,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 * [SQL vs NoSQL - Lesson Learned from Salesforce](https://engineering.salesforce.com/sql-or-nosql-9eaf1d92545b)
 * [How Sharding Works](https://medium.com/@jeeyoungk/how-sharding-works-b4dec46b3f6)
 * [Consistent Hashing - Tom White, Author of 'Hadoop: the Definitive Guide'](http://www.tom-e-white.com/2007/11/consistent-hashing.html)
-* [Uniform Consistent Hashing](https://medium.com/netflix-techblog/distributing-content-to-open-connect-3e3e391d4dc9)
+* [Uniform Consistent Hashing (used at Netflix)](https://medium.com/netflix-techblog/distributing-content-to-open-connect-3e3e391d4dc9)
 * [Eventually Consistent - Werner Vogels, CTO at Amazon](https://www.allthingsdistributed.com/2008/12/eventually_consistent.html)
 * [Cache is King](https://www.stevesouders.com/blog/2012/10/11/cache-is-king/)
 * [Anti-Caching](http://the-paper-trail.org/blog/paper-notes-anti-caching/)
@@ -75,7 +74,6 @@ An updated and curated list of selected readings to illustrate High Scalability,
 * [Linux Performance](http://www.brendangregg.com/linuxperf.html)
 * [How To Design A Good API and Why it Matters - Joshua Bloch](https://www.infoq.com/presentations/effective-api-design)
 * [Building Fast & Resilient Web Applications - Ilya Grigorik](https://www.igvita.com/2016/05/20/building-fast-and-resilient-web-applications/)
-* [Talks/Papers on Efficiency, Reliability, Scaling - James Hamilton, VP and Distinguished Engineer at AWS](http://mvdirona.com/jrh/work/)
 * [Design for Loose-coupling](http://bulgerpartners.com/how-loosely-coupled-architectures-are-helping-the-modernization-of-legacy-software/)
 * [Design for Resiliency](http://highscalability.com/blog/2012/12/31/designing-for-resiliency-will-be-so-2013.html)
 * [Design for Self-healing](https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/self-healing)
@@ -447,9 +445,11 @@ An updated and curated list of selected readings to illustrate High Scalability,
 * [Scaling NodeJS at Alibaba](https://www.linux.com/blog/can-nodejs-scale-ask-team-alibaba)
 
 ## Interview
+* [My Scaling Hero - Jeff Atwood (Read it for Endorphins before Inteview, JK)](https://blog.codinghorror.com/my-scaling-hero/)
 * [Notes on Distributed Systems for Young Bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
 * [Anatomy of a System Design Interview](https://hackernoon.com/anatomy-of-a-system-design-interview-4cb57d75a53f)
 * [Top 10 System Design Interview Questions ](https://hackernoon.com/top-10-system-design-interview-questions-for-software-engineers-8561290f0444)
+* [Top 10 Common Large-Scale Software Architectural Patterns in a Nutshell](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
 * [How NOT to design Netflix in your 45-minute System Design Interview?](https://hackernoon.com/how-not-to-design-netflix-in-your-45-minute-system-design-interview-64953391a054)
 * [Netflix: What Happens When You Press Play?](http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html)
 * [System Design - Hired in Tech](https://www.hiredintech.com/classrooms/system-design/lesson/52)
