@@ -24,7 +24,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 - [Availability](#availability)
 - [Stability](#stability)
 - [Performance](#performance)
-- [ML at Scale](#Machine-Learning)
+- [ML at Scale](#machine-learning)
 - [Architectures](#architectures)
 - [Ad-hoc](#ad-hoc)
 - [Interview](#interview)
