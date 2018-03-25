@@ -32,7 +32,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 - [Books](#books)
 
 ## Principles
-* [Talks and Papers on Efficiency, Reliability, Scaling - James Hamilton, VP and Distinguished Engineer at AWS](http://mvdirona.com/jrh/work/)
+* [On Efficiency, Reliability, Scaling - James Hamilton, VP at AWS](http://mvdirona.com/jrh/work/)
 * [Principles of Chaos Engineering](https://www.usenix.org/conference/srecon17americas/program/presentation/rosenthal)
 * [Finding the Order in Chaos](https://www.usenix.org/conference/srecon16/program/presentation/lueder)
 * [Clean Architecture - Robert C. Martin (Uncle Bob)](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
