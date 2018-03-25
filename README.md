@@ -172,6 +172,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 	* [Sherlock: Near Real Time Search Indexing at Flipkart](https://tech.flipkart.com/sherlock-near-real-time-search-indexing-95519783859d)
 	* [Nebula: Storage Platform to Build Search Backends at Airbnb](https://medium.com/airbnb-engineering/nebula-as-a-storage-platform-to-build-airbnbs-search-backends-ecc577b05f06)
 	* [Elasticsearch at Kickstarter](https://kickstarter.engineering/elasticsearch-at-kickstarter-db3c487887fc)
+	* [Distributed Troubleshooting Platform with ELK Stack at Target.com](http://target.github.io/infrastructure/distributed-troubleshooting)
 * [Distributed Storage](http://highscalability.com/blog/2011/11/1/finding-the-right-data-solution-for-your-application-in-the.html)
 	* [In-memory Storage](https://medium.com/@denisanikin/what-an-in-memory-database-is-and-how-it-persists-data-efficiently-f43868cff4c1)
 		* [Introduction to In-memory Data - Viktor Gamov, Solutions Architect at Hazelcast](https://www.infoq.com/presentations/in-memory-data)
