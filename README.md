@@ -35,7 +35,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 * [On Efficiency, Reliability, Scaling - James Hamilton, VP at AWS](http://mvdirona.com/jrh/work/)
 * [Principles of Chaos Engineering](https://www.usenix.org/conference/srecon17americas/program/presentation/rosenthal)
 * [Finding the Order in Chaos](https://www.usenix.org/conference/srecon16/program/presentation/lueder)
-* [Clean Architecture - Robert C. Martin (Uncle Bob)](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
+* [Clean Architecture - Uncle Bob](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
 * [Code Review Best Practices at Palantir](https://medium.com/@palantir/code-review-best-practices-19e02780015f)
 * [The Twelve-Factor App](https://12factor.net/)
 * [CAP Theorem and Trade-offs](http://robertgreiner.com/2014/08/cap-theorem-revisited/)
@@ -50,7 +50,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 * [SQL vs NoSQL](https://www.upwork.com/hiring/data/sql-vs-nosql-databases-whats-the-difference/)
 * [SQL vs NoSQL - Lesson Learned from Salesforce](https://engineering.salesforce.com/sql-or-nosql-9eaf1d92545b)
 * [How Sharding Works](https://medium.com/@jeeyoungk/how-sharding-works-b4dec46b3f6)
-* [Consistent Hashing - Tom White, Author of 'Hadoop: the Definitive Guide'](http://www.tom-e-white.com/2007/11/consistent-hashing.html)
+* [Consistent Hashing](http://www.tom-e-white.com/2007/11/consistent-hashing.html)
 * [Uniform Consistent Hashing (used at Netflix)](https://medium.com/netflix-techblog/distributing-content-to-open-connect-3e3e391d4dc9)
 * [Eventually Consistent - Werner Vogels, CTO at Amazon](https://www.allthingsdistributed.com/2008/12/eventually_consistent.html)
 * [Cache is King](https://www.stevesouders.com/blog/2012/10/11/cache-is-king/)
@@ -397,6 +397,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 * [Improving Homepage Performance at Zillow](https://www.zillow.com/engineering/improving-homepage-performance/)
 * [Decreasing RAM Usage by 40% Using jemalloc with Python & Celery at Zapier](https://zapier.com/engineering/celery-python-jemalloc/)
 * [Using Java Large Heap (110 GB) for Boosting Site Perpormance at Expedia](https://techblog.expedia.com/2015/09/25/solving-problems-with-very-large-java-heaps/)
+* [The Process of Optimizing for Client Performance at Expedia](https://techblog.expedia.com/2018/03/09/go-fast-or-go-home-the-process-of-optimizing-for-client-performance/)
 
 ## Intelligence
 * [Scalable Deep Learning Platform On Spark In Baidu](https://www.slideshare.net/JenAman/scalable-deep-learning-platform-on-spark-in-baidu)
