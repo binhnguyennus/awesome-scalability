@@ -352,12 +352,13 @@ An updated and curated list of selected readings to illustrate High Scalability,
 	* [Machine Learning (2 parts) at Condé Nast](https://technology.condenast.com/story/handbag-brand-and-color-detection)
 	* [Machine Learning Applications In The E-commerce Domain (4 parts) at Rakuten](https://techblog.rakuten.co.jp/2017/07/12/machine-learning-applications-in-the-e-commerce-domain-4/)
 	* [Venue Rating System at Foursquare](https://engineering.foursquare.com/finding-the-perfect-10-how-we-developed-the-foursquare-venue-rating-system-c76b08f7b9b3)
-* [Distributed Version Control](https://betterexplained.com/articles/intro-to-distributed-version-control-illustrated/)
+* [Distributed Source Code and Configuration Files Management](https://betterexplained.com/articles/intro-to-distributed-version-control-illustrated/)
 	* [Distributed Version Control Systems: A Not-So-Quick Guide Through](https://www.infoq.com/articles/dvcs-guide)
-	* [Distributed Git Server at Palantir](https://medium.com/@palantir/stemma-distributed-git-server-70afbca0fc29)
-	* [Configuration Management for Distributed Systems (using GitHub and cfg4j) at Flickr](https://code.flickr.net/2016/03/24/configuration-management-for-distributed-systems-using-github-and-cfg4j/)
-	* [Git Repo at Microsoft](https://blogs.msdn.microsoft.com/bharry/2017/05/24/the-largest-git-repo-on-the-planet/)			
-		
+	* [Stemma: Distributed Git Server at Palantir](https://medium.com/@palantir/stemma-distributed-git-server-70afbca0fc29)
+	* [Configuration Management for Distributed Systems at Flickr](https://code.flickr.net/2016/03/24/configuration-management-for-distributed-systems-using-github-and-cfg4j/)
+	* [Git Repo at Microsoft - The Largest Git Repo on The Planet](https://blogs.msdn.microsoft.com/bharry/2017/05/24/the-largest-git-repo-on-the-planet/)
+	* [How Microsoft Solved Git’s Problem with Large Repositories](https://www.infoq.com/news/2017/02/GVFS)			
+
 ## Availability
 * [Failover](http://cloudpatterns.org/mechanisms/failover_system)
 	* [The Evolution of Global Traffic Routing and Failover](https://www.usenix.org/conference/srecon16/program/presentation/heady)
