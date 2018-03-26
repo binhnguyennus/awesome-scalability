@@ -16,7 +16,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 > Contributions are greatly welcome! You may want to take a look at the [contribution guidelines](CONTRIBUTING.md).
 > If you find this project helpful, please help me [share on Twitter](https://ctt.ec/V8B2p) or [share_on_Weibo]. 
 
-> :cn: Can someone help me create a pull request with a Weibo share link at the "share_on_Weibo" position above? :raised_hands:. Thank you very much :bow:
+> @Chinese friends :cn: : Can someone help me create a pull request with a Weibo share link at the "share_on_Weibo" position above? :raised_hands:. Thank you very much :bow:
 
 ## Contents
 - [Principles](#principles)
@@ -501,6 +501,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 * [Scaling Git at Microsoft - Saeed Noursalehi, Principal Program Manager at Microsoft](https://www.youtube.com/watch?v=g_MPGU_m01s)
 
 ## Books
+* [Big Data, Web Ops & DevOps Ebooks - O'Reilly (Online - Free)](http://www.oreilly.com/webops/free/)
 * [Google Site Reliability Engineering (Online - Free)](https://landing.google.com/sre/book.html)
 * [Distributed Systems for Fun and Profit (Online - Free)](http://book.mixu.net/distsys/)
 * [What Every Developer Should Know About SQL Performance (Online - Free)](https://use-the-index-luke.com/sql/table-of-contents)
