@@ -166,6 +166,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 	* [Galene: Search Architecture of LinkedIn (2014)](https://engineering.linkedin.com/search/did-you-mean-galene)
 	* [Search Federation Architecture at LinkedIn (2018)](https://engineering.linkedin.com/blog/2018/03/search-federation-architecture-at-linkedin)
 	* [Search at Slack](https://slack.engineering/search-at-slack-431f8c80619e)
+	* [Search and Recommendations at DoorDash](https://blog.doordash.com/powering-search-recommendations-at-doordash-8310c5cfd88c)
 	* [Search Service (Half a Trillion Documents and Query Average Latency < 100ms) at Twitter (2014)](https://blog.twitter.com/engineering/en_us/a/2014/building-a-complete-tweet-index.html)
 	* [Manas: High Performing Customized Search System at Pinterest](https://medium.com/@Pinterest_Engineering/manas-a-high-performing-customized-search-system-cf189f6ca40f)
 	* [Sherlock: Near Real Time Search Indexing at Flipkart](https://tech.flipkart.com/sherlock-near-real-time-search-indexing-95519783859d)
