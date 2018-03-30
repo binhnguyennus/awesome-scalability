@@ -454,6 +454,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 * [Scaling Chat To 70 Million Players at League Of Legends](http://highscalability.com/blog/2014/10/13/how-league-of-legends-scaled-chat-to-70-million-players-it-t.html)
 * [Scaling Online Migrations at Stripe](https://stripe.com/blog/online-migrations)
 * [Scaling NodeJS at Alibaba](https://www.linux.com/blog/can-nodejs-scale-ask-team-alibaba)
+* [Horizontal Scalability in Web Serving Tier of Airbnb](https://medium.com/airbnb-engineering/unlocking-horizontal-scalability-in-our-web-serving-tier-d907449cdbcf)
 
 ## Interview
 * [My Scaling Hero - Jeff Atwood (Read it for Endorphins before Inteview, JK)](https://blog.codinghorror.com/my-scaling-hero/)
