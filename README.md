@@ -368,6 +368,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 * [Resiliency against Traffic Oversaturation at iHeartRadio](https://tech.iheart.com/resiliency-against-traffic-oversaturation-77c5ed92a5fb)
 * [Resiliency in Distributed Systems at GO-JEK](https://blog.gojekengineering.com/resiliency-in-distributed-systems-efd30f74baf4)
 * [Supporting Global Events at Facebook](https://code.facebook.com/posts/166966743929963/how-production-engineers-support-global-events-on-facebook/)
+* [Backends High Availability at BlaBlaCar](https://medium.com/blablacar-tech/the-expendables-backends-high-availability-at-blablacar-8cea3b95b26b)
 
 ## Stability
 * [Circuit Breaker](https://martinfowler.com/bliki/CircuitBreaker.html)
