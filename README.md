@@ -140,6 +140,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 	* [LogDevice: Distributed Data Store for Logs at Facebook](https://code.facebook.com/posts/357056558062811/logdevice-a-distributed-data-store-for-logs/)
 	* [LogFeeder: Log Collection System at Yelp](https://engineeringblog.yelp.com/2018/03/introducing-logfeeder.html)
 * [Distributed Security](https://msdn.microsoft.com/en-us/library/cc767123.aspx)
+	* [Approach to Security at Scale at Dropbox](https://blogs.dropbox.com/tech/2018/02/security-at-scale-the-dropbox-approach/)
 	* [Aardvark and Repokid: AWS Least Privilege for Distributed, High-Velocity Development at Netflix](https://medium.com/netflix-techblog/introducing-aardvark-and-repokid-53b081bf3a7e)	
 	* [LISA: Distributed Firewall at LinkedIn](https://www.slideshare.net/MikeSvoboda/2017-lisa-linkedins-distributed-firewall-dfw)
 	* [Distributed Security Alerting at Slack](https://slack.engineering/distributed-security-alerting-c89414c992d6)
@@ -540,4 +541,4 @@ An updated and curated list of selected readings to illustrate High Scalability,
 
 [![CC-BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-Copyright Benny (Quoc-Binh) Nguyen, 2018. Licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). This small work is dedicated to [the wolves climbing the hill](https://www.youtube.com/watch?v=gMFc7agO09w).
+Copyright B. Nguyen, 2018. This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) and is dedicated to [the wolves climbing the hill](https://www.youtube.com/watch?v=gMFc7agO09w).
