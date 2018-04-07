@@ -429,6 +429,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 * [PaddlePaddle Fluid: Elastic Deep Learning on Kubernetes at Baidu](http://research.baidu.com/paddlepaddle-fluid-elastic-deep-learning-kubernetes/)
 * [Horovod: Open Source Distributed Deep Learning Framework for TensorFlow at Uber](https://eng.uber.com/horovod/)
 * [COTA: Improving Customer Care with NLP & Machine Learning at Uber](https://eng.uber.com/cota/)	
+* [Repo-Topix: Topic Extraction Framework at Github](https://githubengineering.com/topics/)
 * [Scaling Gradient Boosted Trees for Click-Through-Rate Prediction at Yelp](https://engineeringblog.yelp.com/2018/01/building-a-distributed-ml-pipeline-part1.html)
 * [TensorFlowOnSpark: Distributed Deep Learning on Big Data Clusters at Yahoo](https://yahooeng.tumblr.com/post/157196488076/open-sourcing-tensorflowonspark-distributed-deep)
 * [CaffeOnSpark: Distributed Deep Learning on Big Data Clusters at Yahoo](https://yahooeng.tumblr.com/post/139916828451/caffeonspark-open-sourced-for-distributed-deep)
@@ -545,4 +546,4 @@ An updated and curated list of selected readings to illustrate High Scalability,
 
 [![CC-BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-Copyright B. Nguyen, 2018. This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) and is dedicated to people who are [heading for the Pacific](http://www.imdb.com/title/tt0111161/quotes).
+Copyright B. Nguyen, 2018. This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) and is dedicated to people who are [headed for the Pacific](http://www.imdb.com/title/tt0111161/quotes).
