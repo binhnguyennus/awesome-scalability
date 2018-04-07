@@ -445,6 +445,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 * [Box Graph: Spontaneous Social Network at Box](https://blog.box.com/blog/box-graph-how-we-built-spontaneous-social-network/)
 * [Improving Video Thumbnails with Deep Neural Nets at YouTube](https://youtube-eng.googleblog.com/2015/10/improving-youtube-video-thumbnails-with_8.html)
 * [Quantile Regression for Delivering On Time at Instacart](https://tech.instacart.com/how-instacart-delivers-on-time-using-quantile-regression-2383e2e03edb)
+* [Cross-Lingual End-to-End Product Search with Deep Learning at Zalando](https://jobs.zalando.com/tech/blog/search-deep-neural-network/)
 
 ## Architectures
 * [Architecture of API Platform at Riot Games](https://engineering.riotgames.com/news/riot-games-api-deep-dive)
@@ -546,4 +547,4 @@ An updated and curated list of selected readings to illustrate High Scalability,
 
 [![CC-BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-Copyright B. Nguyen, 2018. This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) and is dedicated to people who are [headed for the Pacific](http://www.imdb.com/title/tt0111161/quotes).
+Copyright B. Nguyen, 2018. This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) and is dedicated to people who [headed for the Pacific](http://www.imdb.com/title/tt0111161/quotes).
