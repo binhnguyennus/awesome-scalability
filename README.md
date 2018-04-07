@@ -356,7 +356,8 @@ An updated and curated list of selected readings to illustrate High Scalability,
 	* [Stemma: Distributed Git Server at Palantir](https://medium.com/@palantir/stemma-distributed-git-server-70afbca0fc29)
 	* [Configuration Management for Distributed Systems at Flickr](https://code.flickr.net/2016/03/24/configuration-management-for-distributed-systems-using-github-and-cfg4j/)
 	* [Git Repo at Microsoft - The Largest Git Repo on The Planet](https://blogs.msdn.microsoft.com/bharry/2017/05/24/the-largest-git-repo-on-the-planet/)
-	* [How Microsoft Solved Git’s Problem with Large Repositories](https://www.infoq.com/news/2017/02/GVFS)			
+	* [How Microsoft Solved Git’s Problem with Large Repositories](https://www.infoq.com/news/2017/02/GVFS)		
+	* [Scaling Infrastructure and (Git) Workflow at Adyen](https://medium.com/adyen/from-0-100-billion-scaling-infrastructure-and-workflow-at-adyen-7b63b690dfb6)	
 
 ## Availability
 * [Failover](http://cloudpatterns.org/mechanisms/failover_system)
