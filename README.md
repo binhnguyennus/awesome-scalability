@@ -121,6 +121,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 * [Distributed Tracking and Tracing](https://www.oreilly.com/ideas/understanding-the-value-of-distributed-tracing)
 	* [Tracking Service Infrastructure at Scale at Shopify](https://www.usenix.org/conference/srecon17americas/program/presentation/arthorne)
 	* [Distributed Tracing with Pintrace at Pinterest](https://medium.com/@Pinterest_Engineering/distributed-tracing-at-pinterest-with-new-open-source-tools-a4f8a5562f6b)
+	* [Distributed Tracing at HelloFresh](https://engineering.hellofresh.com/scaling-hellofresh-distributed-tracing-7b182928247d)
 	* [Analyzing Distributed Trace Data at Pinterest](https://medium.com/@Pinterest_Engineering/analyzing-distributed-trace-data-6aae58919949)
 	* [Distributed Tracing at Uber](https://eng.uber.com/distributed-tracing/)
 	* [Data Checking at Dropbox](https://www.usenix.org/conference/srecon17asia/program/presentation/mah)
@@ -544,4 +545,4 @@ An updated and curated list of selected readings to illustrate High Scalability,
 
 [![CC-BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-Copyright B. Nguyen, 2018. This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) and is dedicated to [the wolves climbing the hill](https://www.youtube.com/watch?v=gMFc7agO09w).
+Copyright B. Nguyen, 2018. This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) and is dedicated to people who are [heading for the Pacific](http://www.imdb.com/title/tt0111161/quotes).
