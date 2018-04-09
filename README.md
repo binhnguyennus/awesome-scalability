@@ -9,7 +9,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 > "Even if you lose all one day, you can build all over again if you retain your calm!" - Thuan Pham, CTO at Uber Technologies Inc.
 
 #### For the future CTO of the next Uber :)
-> Checking out some [interview notes](#interview) and [compeleted architectures](#architectures) to get a comprehensive view. Before designing Whatsapp or Twitter on whiteboard, you must understand thoroughly fundamental building blocks (IPC, OSI, TCP/IP, Gossip, etc). It is even better to take a course on Distributed Systems or Distributed Computing. Good luck!
+> Checking out some [interview notes](#interview) and [compeleted architectures](#architectures) to get a comprehensive view. Before designing Whatsapp or Twitter on whiteboard, you must understand thoroughly fundamental building blocks (IPC, OSI, TCP/IP, DLM, etc). It is even better to take a course on Distributed Systems or Distributed Computing. Good luck!
 
 #### Community Power
 
@@ -381,6 +381,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 * [Resiliency in Distributed Systems at GO-JEK](https://blog.gojekengineering.com/resiliency-in-distributed-systems-efd30f74baf4)
 * [Supporting Global Events at Facebook](https://code.facebook.com/posts/166966743929963/how-production-engineers-support-global-events-on-facebook/)
 * [Backends High Availability at BlaBlaCar](https://medium.com/blablacar-tech/the-expendables-backends-high-availability-at-blablacar-8cea3b95b26b)
+* [Chubby: Lock Service for Loosely Coupled Distributed Systems at Google](https://blog.acolyer.org/2015/02/13/the-chubby-lock-service-for-loosely-coupled-distributed-systems/)
 
 ## Stability
 * [Circuit Breaker](https://martinfowler.com/bliki/CircuitBreaker.html)
