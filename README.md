@@ -50,6 +50,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 * [SQL vs NoSQL - Lesson Learned from Salesforce](https://engineering.salesforce.com/sql-or-nosql-9eaf1d92545b)
 * [How Sharding Works](https://medium.com/@jeeyoungk/how-sharding-works-b4dec46b3f6)
 * [Consistent Hashing](http://www.tom-e-white.com/2007/11/consistent-hashing.html)
+* [Consistent Hashing: Algorithmic Tradeoffs](https://medium.com/@dgryski/consistent-hashing-algorithmic-tradeoffs-ef6b8e2fcae8)
 * [Uniform Consistent Hashing (used at Netflix)](https://medium.com/netflix-techblog/distributing-content-to-open-connect-3e3e391d4dc9)
 * [Eventually Consistent - Werner Vogels, CTO at Amazon](https://www.allthingsdistributed.com/2008/12/eventually_consistent.html)
 * [Cache is King](https://www.stevesouders.com/blog/2012/10/11/cache-is-king/)
