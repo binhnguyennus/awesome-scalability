@@ -287,6 +287,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 	* [Running A/B Tests on Hosting Infrastructure (CDNs) at Deliveroo](https://deliveroo.engineering/2016/09/19/ab-testing-cdns.html)
 	* [HAProxy with Kubernetes for User-facing Traffic at SoundCloud](https://developers.soundcloud.com/blog/how-soundcloud-uses-haproxy-with-kubernetes-for-user-facing-traffic)
 	* [Bandaid: Service Proxy at Dropbox](https://blogs.dropbox.com/tech/2018/03/meet-bandaid-the-dropbox-service-proxy/)
+	* [CDN in LIVE's Encoder Layer at LINE](https://engineering.linecorp.com/en/blog/detail/230)
 * [Load Balancing and Other Network Matters](https://blog.vivekpanyam.com/scaling-a-web-service-load-balancing/)
 	* [Introduction to Modern Network Load Balancing and Proxying](https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236)
 	* [Load Balancing infrastructure to support more than 1.3 billion users at Facebook](https://www.usenix.org/conference/srecon15europe/program/presentation/shuff)
@@ -451,18 +452,18 @@ An updated and curated list of selected readings to illustrate High Scalability,
 * [Cross-Lingual End-to-End Product Search with Deep Learning at Zalando](https://jobs.zalando.com/tech/blog/search-deep-neural-network/)
 
 ## Architectures
-* [Architecture of API Platform at Riot Games](https://engineering.riotgames.com/news/riot-games-api-deep-dive)
-* [Architecture of Backend at Flickr](https://yahooeng.tumblr.com/post/157200523046/introducing-tripod-flickrs-backend-refactored)
-* [Architecture of Data Platform at Flipkart](https://tech.flipkart.com/overview-of-flipkart-data-platform-20c6d3e9a196)
-* [Architecture of Data Infrastructure at GO-JEK](https://blog.gojekengineering.com/data-infrastructure-at-go-jek-cd4dc8cbd929)
-* [Architecture of Stack Overflow Enterprise at Palantir](https://medium.com/@palantir/terraforming-stack-overflow-enterprise-in-aws-47ee431e6be7)
-* [Architecture of Distributed Cron at Quora](https://engineering.quora.com/Quoras-Distributed-Cron-Architecture)
-* [Architecture of Real-Time Presence Platform at LinkedIn](https://engineering.linkedin.com/blog/2018/01/now-you-see-me--now-you-dont--linkedins-real-time-presence-platf)
-* [Architecture of LIVE's Encoder Layer at LINE](https://engineering.linecorp.com/en/blog/detail/230)
-* [Architecture of Back-end at BlaBlaCar](http://blablatech.com/blog/BlaBlaTech-behind-the-scene)
-* [Architecture of Simone: Distributed Simulation Service at Netflix](https://medium.com/netflix-techblog/https-medium-com-netflix-techblog-simone-a-distributed-simulation-service-b2c85131ca1b)
-* [Architecture of Seagull: Distributed System that Helps Running > 20 Million Tests Per Day at Yelp](https://engineeringblog.yelp.com/2017/04/how-yelp-runs-millions-of-tests-every-day.html)
-* [Architecture of Cloud Bouncer: Distributed Rate Limiting at Yahoo](https://yahooeng.tumblr.com/post/111288877956/cloud-bouncer-distributed-rate-limiting-at-yahoo)
+* [API Platform at Riot Games](https://engineering.riotgames.com/news/riot-games-api-deep-dive)
+* [Back-end at Flickr](https://yahooeng.tumblr.com/post/157200523046/introducing-tripod-flickrs-backend-refactored)
+* [Back-end at BlaBlaCar](http://blablatech.com/blog/BlaBlaTech-behind-the-scene)
+* [Data Platform at Flipkart](https://tech.flipkart.com/overview-of-flipkart-data-platform-20c6d3e9a196)
+* [Data Infrastructure at GO-JEK](https://blog.gojekengineering.com/data-infrastructure-at-go-jek-cd4dc8cbd929)
+* [Stack Overflow Enterprise at Palantir](https://medium.com/@palantir/terraforming-stack-overflow-enterprise-in-aws-47ee431e6be7)
+* [Distributed Cron at Quora](https://engineering.quora.com/Quoras-Distributed-Cron-Architecture)
+* [Real-Time Presence Platform at LinkedIn](https://engineering.linkedin.com/blog/2018/01/now-you-see-me--now-you-dont--linkedins-real-time-presence-platf)
+* [Real-time Analytics Platform at King](https://techblog.king.com/rbea-scalable-real-time-analytics-king/)
+* [Simone: Distributed Simulation Service at Netflix](https://medium.com/netflix-techblog/https-medium-com-netflix-techblog-simone-a-distributed-simulation-service-b2c85131ca1b)
+* [Seagull: Distributed System that Helps Running > 20 Million Tests Per Day at Yelp](https://engineeringblog.yelp.com/2017/04/how-yelp-runs-millions-of-tests-every-day.html)
+* [Cloud Bouncer: Distributed Rate Limiting at Yahoo](https://yahooeng.tumblr.com/post/111288877956/cloud-bouncer-distributed-rate-limiting-at-yahoo)
 * [Architecture of Finance and Banking Systems](https://www.sesameindia.com/images/core-banking-system-architecture)
 	* [Reference Architecture For The Open Banking Standard](https://hortonworks.com/blog/reference-architecture-open-banking-standard/)
 	* [Building a Modern Bank Backend at Monzo](https://monzo.com/blog/2016/09/19/building-a-modern-bank-backend/)
@@ -553,4 +554,4 @@ An updated and curated list of selected readings to illustrate High Scalability,
 
 [![CC-BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-Copyright B. Nguyen, 2018. This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) and is dedicated to people who [headed for the Pacific](http://www.imdb.com/title/tt0111161/quotes).
+Copyright [Benny Nguyen](https://www.linkedin.com/in/binhnguyennus/), 2018. This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) and is dedicated to people who [headed for the Pacific](http://www.imdb.com/title/tt0111161/quotes).
