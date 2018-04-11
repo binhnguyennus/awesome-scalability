@@ -453,6 +453,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 
 ## Architectures
 * [API Platform at Riot Games](https://engineering.riotgames.com/news/riot-games-api-deep-dive)
+* [Back-end (Multi-tier Service Oriented Architecture) at LinkedIn](https://engineering.linkedin.com/architecture/brief-history-scaling-linkedin)
 * [Back-end at Flickr](https://yahooeng.tumblr.com/post/157200523046/introducing-tripod-flickrs-backend-refactored)
 * [Back-end at BlaBlaCar](http://blablatech.com/blog/BlaBlaTech-behind-the-scene)
 * [Data Platform at Flipkart](https://tech.flipkart.com/overview-of-flipkart-data-platform-20c6d3e9a196)
