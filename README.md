@@ -559,4 +559,4 @@ An updated and curated list of selected readings to illustrate High Scalability,
 
 [![CC-BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-Copyright [Benny Nguyen](https://www.linkedin.com/in/binhnguyennus/), 2018. This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) and is dedicated to people who [headed for the Pacific](http://www.imdb.com/title/tt0111161/quotes).
+Copyright [Quoc-Binh Nguyen](https://www.linkedin.com/in/binhnguyennus/), 2018. This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) and is dedicated to people who [headed for the Pacific](http://www.imdb.com/title/tt0111161/quotes).
