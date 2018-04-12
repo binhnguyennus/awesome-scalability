@@ -374,6 +374,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 	* [Tree Replication](https://link.springer.com/chapter/10.1007/3-540-44863-2_47)
 	* [Master-Master](http://sabbour.me/highly-available-and-scalable-master-master-mysql-on-azure-virtual-machines/)
 	* [Buddy Replication](https://developer.jboss.org/wiki/JBossCacheBuddyReplicationDesign)
+* [Availability in Globally Distributed Storage Systems](http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/36737.pdf)	
 * [NodeJS High Availability at Yahoo](https://yahooeng.tumblr.com/post/68823943185/nodejs-high-availability)
 * [Every Day Is Monday in Operations (11 parts) at LinkedIn ](https://www.linkedin.com/pulse/introduction-every-day-monday-operations-benjamin-purgason)
 * [Practical Guide to Monitoring and Alerting with Time Series at Scale](https://www.usenix.org/conference/srecon17americas/program/presentation/wilkinson)
