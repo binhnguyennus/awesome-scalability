@@ -14,8 +14,10 @@ An updated and curated list of selected readings to illustrate High Scalability,
 #### Community Power
 
 > Contributions are greatly welcome! You may want to take a look at the [contribution guidelines](CONTRIBUTING.md).
-> If you find this project helpful, please help me share [on Twitter](https://ctt.ec/V8B2p) or [on Weibo](http://t.cn/RnjFLCB) so more people can be helped! 
-> Thank you very much :bow: & Happy coding :hibiscus:
+
+> If you find this project helpful, please help me share [on Twitter](https://ctt.ec/V8B2p) or [on Weibo](http://t.cn/RnjFLCB) so more people can be helped!
+
+> Thank you very much :bow: Happy coding :hibiscus:
 
 ## Contents
 - [Principles](#principles)
@@ -250,6 +252,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 	* [Document Databases (MongoDB, SimpleDB, CouchDB)](https://msdn.microsoft.com/en-us/magazine/hh547103.aspx)
 		* [eBay: Building Mission-Critical Multi-Data Center Applications with MongoDB](https://www.mongodb.com/blog/post/ebay-building-mission-critical-multi-data-center-applications-with-mongodb)
 		* [MongoDB at Baidu: Multi-Tenant Cluster Storing 200+ Billion Documents across 160 Shards](https://www.mongodb.com/blog/post/mongodb-at-baidu-powering-100-apps-across-600-nodes-at-pb-scale)
+		* [Migrating Mongo Data at Addepar](https://medium.com/build-addepar/migrating-mountains-of-mongo-data-63e530539952)
 		* [The AWS and MongoDB Infrastructure of Parse (acquired by Facebook)](https://medium.baqend.com/parse-is-gone-a-few-secrets-about-their-infrastructure-91b3ab2fcf71)
 		* [Migrating Mountains of Mongo Data at Addepar](https://medium.com/build-addepar/migrating-mountains-of-mongo-data-63e530539952)
 		* [Couchbase Ecosystem at LinkedIn](https://engineering.linkedin.com/blog/2017/12/couchbase-ecosystem-at-linkedin)
