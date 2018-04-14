@@ -8,13 +8,14 @@ An updated and curated list of selected readings to illustrate High Scalability,
 #### What if your Back-end went down?
 > "Even if you lose all one day, you can build all over again if you retain your calm!" - Thuan Pham, CTO at Uber Technologies Inc.
 
-#### For the future CTO of the next Uber :)
-> Checking out some [interview notes](#interview) and [compeleted architectures](#architectures) to get a comprehensive view. Before designing Whatsapp or Twitter on whiteboard, you must understand thoroughly fundamental building blocks (IPC, OSI, TCP/IP, DLM, etc). It is even better to take a course on Distributed Systems or Distributed Computing. Good luck!
+#### For the future CTO of next Uber :)
+> Checking out some [interview notes](#interview) and [architectures with diagrams](#architectures) to get a comprehensive view. Before designing your system on whiteboard, you must understand thoroughly fundamental building blocks (IPC, OSI, TCP/IP, DLM, etc). It is even better to take a course on Distributed Systems or Distributed Computing. Good luck!
 
 #### Community Power
 
 > Contributions are greatly welcome! You may want to take a look at the [contribution guidelines](CONTRIBUTING.md).
-> If you find this project helpful, please help me [share on Twitter](https://ctt.ec/V8B2p) or [share on Weibo](http://t.cn/RnjFLCB). Thank you very much :bow:
+> If you find this project helpful, please help me share [on Twitter](https://ctt.ec/V8B2p) or [on Weibo](http://t.cn/RnjFLCB) so more people can be helped! 
+> Thank you very much :bow: & Happy coding :hibiscus:
 
 ## Contents
 - [Principles](#principles)
