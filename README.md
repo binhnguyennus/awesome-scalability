@@ -8,7 +8,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 #### What if your Back-end went down?
 > "Even if you lose all one day, you can build all over again if you retain your calm!" - Thuan Pham, CTO at Uber Technologies Inc.
 
-#### For the future CTO of next Uber :)
+#### For future CTO of the next Uber :)
 > Checking out some [interview notes](#interview) and [architectures with diagrams](#architectures) to get a comprehensive view. Before designing your system on whiteboard, you must understand thoroughly fundamental building blocks (IPC, OSI, TCP/IP, DLM, etc). It is even better to take a course on Distributed Systems or Distributed Computing. Good luck!
 
 #### Community Power
@@ -149,7 +149,8 @@ An updated and curated list of selected readings to illustrate High Scalability,
 	* [Aardvark and Repokid: AWS Least Privilege for Distributed, High-Velocity Development at Netflix](https://medium.com/netflix-techblog/introducing-aardvark-and-repokid-53b081bf3a7e)	
 	* [LISA: Distributed Firewall at LinkedIn](https://www.slideshare.net/MikeSvoboda/2017-lisa-linkedins-distributed-firewall-dfw)
 	* [Distributed Security Alerting at Slack](https://slack.engineering/distributed-security-alerting-c89414c992d6)
-	* [Secure Infrastructure To Store Bitcoin In The Cloud at Coinbase](https://engineering.coinbase.com/how-coinbase-builds-secure-infrastructure-to-store-bitcoin-in-the-cloud-30a6504e40ba)	
+	* [Secure Infrastructure To Store Bitcoin In The Cloud at Coinbase](https://engineering.coinbase.com/how-coinbase-builds-secure-infrastructure-to-store-bitcoin-in-the-cloud-30a6504e40ba)
+	* [BinaryAlert: Real-time Serverless Malware Detection at Airbnb](https://medium.com/airbnb-engineering/binaryalert-real-time-serverless-malware-detection-ca44370c1b90)	
 * [Distributed Messaging and Event Streaming](https://arxiv.org/pdf/1704.00411.pdf)
 	* [When to use RabbitMQ or Kafka](https://content.pivotal.io/blog/understanding-when-to-use-rabbitmq-or-apache-kafka)
 	* [Should You Put Several Event Types in the Same Kafka Topic? - Martin Kleppmann](https://www.confluent.io/blog/put-several-event-types-kafka-topic/)
