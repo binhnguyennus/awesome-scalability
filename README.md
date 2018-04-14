@@ -2,19 +2,20 @@
 
 An updated and curated list of selected readings to illustrate High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs. Concepts are explained in the articles of notable engineers (Jeff Dean, Werner Vogels, James Hamilton, etc) and credible references. Case studies are taken from battle-tested systems those are serving millions to billions of users.
 
-#### What if your Back-end went slow?
+#### What if your Back-end went slow :traffic_light:
 > Understand your problems: performance problem (slow for a single user) or scalability problem (fast for a single user but slow under heavy load) by reviewing [design principles](#principles). You can also check some [talks](#talks) of elite engineers from tech giants to see how they build and scale their systems.
 
-#### What if your Back-end went down?
-> "Even if you lose all one day, you can build all over again if you retain your calm!" - Thuan Pham, CTO at Uber Technologies Inc.
+#### What if your Back-end went down :construction:
+> "Even if you lose all one day, you can build all over again if you retain your calm!" - Thuan Pham, Vietnamese refugee, CTO of Uber Technologies Inc.
 
-#### For the future CTO of the next Uber :)
-> Checking out some [interview notes](#interview) and [compeleted architectures](#architectures) to get a comprehensive view. Before designing Whatsapp or Twitter on whiteboard, you must understand thoroughly fundamental building blocks (IPC, OSI, TCP/IP, DLM, etc). It is even better to take a course on Distributed Systems or Distributed Computing. Good luck!
+#### For you, who is struggling through dark days :ocean:
+> Checking those [interview notes](#interview) and [architectures with diagrams](#architectures) to get a comprehensive view. Before designing your system on whiteboard, you must understand thoroughly fundamental building blocks (IPC, OSI, TCP/IP, DLM, etc). It is even better to take a course on Distributed Systems or Distributed Computing. Be brave and Keep fighting :fist: Good luck :four_leaf_clover:
 
-#### Community Power
+#### Community Power :mountain_cableway::aerial_tramway::mountain_cableway:
 
 > Contributions are greatly welcome! You may want to take a look at the [contribution guidelines](CONTRIBUTING.md).
-> If you find this project helpful, please help me [share on Twitter](https://ctt.ec/V8B2p) or [share on Weibo](http://t.cn/RnjFLCB). Thank you very much :bow:
+
+> If you find this project helpful, please share on your chat groups, [on Twitter](https://ctt.ec/V8B2p), or [on Weibo](http://t.cn/RnjFLCB) so more people can be helped! Power is gained by sharing knowledge, not hoarding it. Thank you, bro :thumbsup: Happy coding :hibiscus:
 
 ## Contents
 - [Principles](#principles)
@@ -148,7 +149,8 @@ An updated and curated list of selected readings to illustrate High Scalability,
 	* [Aardvark and Repokid: AWS Least Privilege for Distributed, High-Velocity Development at Netflix](https://medium.com/netflix-techblog/introducing-aardvark-and-repokid-53b081bf3a7e)	
 	* [LISA: Distributed Firewall at LinkedIn](https://www.slideshare.net/MikeSvoboda/2017-lisa-linkedins-distributed-firewall-dfw)
 	* [Distributed Security Alerting at Slack](https://slack.engineering/distributed-security-alerting-c89414c992d6)
-	* [Secure Infrastructure To Store Bitcoin In The Cloud at Coinbase](https://engineering.coinbase.com/how-coinbase-builds-secure-infrastructure-to-store-bitcoin-in-the-cloud-30a6504e40ba)	
+	* [Secure Infrastructure To Store Bitcoin In The Cloud at Coinbase](https://engineering.coinbase.com/how-coinbase-builds-secure-infrastructure-to-store-bitcoin-in-the-cloud-30a6504e40ba)
+	* [BinaryAlert: Real-time Serverless Malware Detection at Airbnb](https://medium.com/airbnb-engineering/binaryalert-real-time-serverless-malware-detection-ca44370c1b90)	
 * [Distributed Messaging and Event Streaming](https://arxiv.org/pdf/1704.00411.pdf)
 	* [When to use RabbitMQ or Kafka](https://content.pivotal.io/blog/understanding-when-to-use-rabbitmq-or-apache-kafka)
 	* [Should You Put Several Event Types in the Same Kafka Topic? - Martin Kleppmann](https://www.confluent.io/blog/put-several-event-types-kafka-topic/)
@@ -230,6 +232,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 		* [Riak inside Chat Service Architecture at Riot Games](https://engineering.riotgames.com/news/chat-service-architecture-persistence)
 		* [MPH: Fast and Compact Immutable Key-Value Stores at Indeed](http://engineering.indeedblog.com/blog/2018/02/indeed-mph/)
 		* [zBase: High Performance, Elastic, Distributed Key-Value Store at Zynga](https://www.zynga.com/blogs/engineering/zbase-high-performance-elastic-distributed-key-value-store-2)
+		* [Venice: Distributed Key-Value Database at Linkedin](https://engineering.linkedin.com/blog/2017/02/building-venice-with-apache-helix)
 	* [Column Databases (Cassandra, HBase)](https://aws.amazon.com/nosql/columnar/)
 		* [Consistent Hashing in Cassandra](https://blog.imaginea.com/consistent-hashing-in-cassandra/)
 		* [Understanding Gossip (Cassandra Internals)](https://www.youtube.com/watch?v=FuP1Fvrv6ZQ)
@@ -248,6 +251,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 	* [Document Databases (MongoDB, SimpleDB, CouchDB)](https://msdn.microsoft.com/en-us/magazine/hh547103.aspx)
 		* [eBay: Building Mission-Critical Multi-Data Center Applications with MongoDB](https://www.mongodb.com/blog/post/ebay-building-mission-critical-multi-data-center-applications-with-mongodb)
 		* [MongoDB at Baidu: Multi-Tenant Cluster Storing 200+ Billion Documents across 160 Shards](https://www.mongodb.com/blog/post/mongodb-at-baidu-powering-100-apps-across-600-nodes-at-pb-scale)
+		* [Migrating Mongo Data at Addepar](https://medium.com/build-addepar/migrating-mountains-of-mongo-data-63e530539952)
 		* [The AWS and MongoDB Infrastructure of Parse (acquired by Facebook)](https://medium.baqend.com/parse-is-gone-a-few-secrets-about-their-infrastructure-91b3ab2fcf71)
 		* [Migrating Mountains of Mongo Data at Addepar](https://medium.com/build-addepar/migrating-mountains-of-mongo-data-63e530539952)
 		* [Couchbase Ecosystem at LinkedIn](https://engineering.linkedin.com/blog/2017/12/couchbase-ecosystem-at-linkedin)
@@ -405,7 +409,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 * [Multi-Clustering: Improving Resiliency and Stability of a Large-scale Monolithic API Service at LinkedIn](https://engineering.linkedin.com/blog/2017/11/improving-resiliency-and-stability-of-a-large-scale-api)
 
 ## Performance
-* [Performance Optimization for OS, Network, Storage, Data](https://stackify.com/application-performance-metrics/)
+* [Performance Optimization by Tunning OS, Network, Memory, etc](https://stackify.com/application-performance-metrics/)
 	* [Improving Performance with Background Data Prefetching at Instagram](https://engineering.instagram.com/improving-performance-with-background-data-prefetching-b191acb39898)
 	* [Compression Techniques to Solve Network I/O Bottlenecks at eBay](https://www.ebayinc.com/stories/blogs/tech/how-ebays-shopping-cart-used-compression-techniques-to-solve-network-io-bottlenecks/)
 	* [Optimizing Web Servers for High Throughput and Low Latency at Dropbox](https://blogs.dropbox.com/tech/2017/09/optimizing-web-servers-for-high-throughput-and-low-latency/)
@@ -414,12 +418,13 @@ An updated and curated list of selected readings to illustrate High Scalability,
 	* [Performance Testing with SSDs (2 parts) at MailChimp](https://devs.mailchimp.com/blog/performance-testing-with-ssds-pt-2/)
 	* [Decreasing RAM Usage by 40% Using jemalloc with Python & Celery at Zapier](https://zapier.com/engineering/celery-python-jemalloc/)
 	* [Using Java Large Heap (110 GB) for Boosting Site Perpormance at Expedia](https://techblog.expedia.com/2015/09/25/solving-problems-with-very-large-java-heaps/)
+	* [Python Garbage Collection for Dropping 50% Memory Growth Per Request at Instagram](https://instagram-engineering.com/copy-on-write-friendly-python-garbage-collection-ad6ed5233ddf)
 	* [Performance Improvements (All Stacks) at Pinterest](https://medium.com/@Pinterest_Engineering/driving-user-growth-with-performance-improvements-cfc50dafadd7)
 	* [Server Side Rendering at Wix](https://www.youtube.com/watch?v=f9xI2jR71Ms)
 	* [30x Performance Improvements on MySQLStreamer at Yelp](https://engineeringblog.yelp.com/2018/02/making-30x-performance-improvements-on-yelps-mysqlstreamer.html)
 	* [Optimizing APIs through Dynamic Polyglot Runtime, Fully Asynchronous, and Reactive Programming at Netflix](https://medium.com/netflix-techblog/optimizing-the-netflix-api-5c9ac715cf19)
 	* [Performance Monitoring with Riemann and Clojure at Walmart](https://medium.com/walmartlabs/performance-monitoring-with-riemann-and-clojure-eafc07fcd375)
-* [Performance Optimization  for Video, Image, Page](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
+* [Performance Optimization on Video, Image, Page load](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
 	* [Optimizing 360 Photos at Scale at Facebook](https://code.facebook.com/posts/129055711052260/optimizing-360-photos-at-scale/)
 	* [Reducing Image File Size in the Photos Infrastructure at Etsy](https://codeascraft.com/2017/05/30/reducing-image-file-size-at-etsy/)
 	* [Improving GIF Performance at Pinterest](https://medium.com/@Pinterest_Engineering/improving-gif-performance-on-pinterest-8dad74bf92f1)
