@@ -15,9 +15,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 
 > Contributions are greatly welcome! You may want to take a look at the [contribution guidelines](CONTRIBUTING.md).
 
-> If you find this project helpful, please help me share [on Twitter](https://ctt.ec/V8B2p) or [on Weibo](http://t.cn/RnjFLCB) so more people can be helped!
-
-> Thank you very much :bow: Happy coding :hibiscus:
+> If you find this project helpful, please share [on Twitter](https://ctt.ec/V8B2p) or [on Weibo](http://t.cn/RnjFLCB) so more people can be helped! Thank you, bro :thumbsup: Happy coding :hibiscus:
 
 ## Contents
 - [Principles](#principles)
