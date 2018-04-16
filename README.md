@@ -565,4 +565,4 @@ An updated and curated list of selected readings to illustrate High Scalability,
 
 [![CC-BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-:hatching_chick::hatched_chick: _My chickens like bugs :bug:! Please let them know if you spotted any bug in this repository (dead link, duplications, etc) :bug:. Also, feed them a star :star2:! Thanks & Happy coding! [Quoc-Binh Nguyen](https://www.linkedin.com/in/binhnguyennus/) 2018_ :chicken::baby_chick:
+:hatching_chick::hatched_chick: _My chickens love finding bugs :bug:! Please let them know if you spotted any bug in this repository (dead link, duplication, etc) :bug:. Also, don't forget to feed them a star :star2:! Thanks & Happy coding! [Quoc-Binh Nguyen](https://www.linkedin.com/in/binhnguyennus/) 2018_ :chicken::baby_chick:
