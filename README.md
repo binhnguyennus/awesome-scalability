@@ -459,6 +459,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 * [Quantile Regression for Delivering On Time at Instacart](https://tech.instacart.com/how-instacart-delivers-on-time-using-quantile-regression-2383e2e03edb)
 * [Cross-Lingual End-to-End Product Search with Deep Learning at Zalando](https://jobs.zalando.com/tech/blog/search-deep-neural-network/)
 * [PricingNet: Pricing Modelling with Neural Networks at Skyscanner](https://hackernoon.com/pricingnet-modelling-the-global-airline-industry-with-neural-networks-833844d20ea6)
+* [Machine Learning at Jane Street](https://blog.janestreet.com/real-world-machine-learning-part-1/)
 
 ## Architectures
 * [API Platform at Riot Games](https://engineering.riotgames.com/news/riot-games-api-deep-dive)
