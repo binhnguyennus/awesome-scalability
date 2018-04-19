@@ -1,6 +1,6 @@
 # High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs
 
-An updated and curated list of selected readings to illustrate High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs. Concepts are explained in the articles of notable engineers (Jeff Dean, Werner Vogels, James Hamilton, etc) and credible references. Case studies are taken from battle-tested systems those are serving millions to billions of users.
+An updated and curated list of selected readings to illustrate High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs. Concepts are explained in the articles of notable engineers and credible references. Case studies are taken from battle-tested systems those are serving millions to billions of users.
 
 #### What if your Back-end went slow :traffic_light:
 > Understand your problems: performance problem (slow for a single user) or scalability problem (fast for a single user but slow under heavy load) by reviewing [design principles](#principles). You can also check some [talks](#talks) of elite engineers from tech giants to see how they build and scale their systems.
@@ -31,7 +31,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 - [Books](#books)
 
 ## Principles
-* [Designs, Lessons and Advice from Building Large Distributed Systems - Jeff Dean](https://www.cs.cornell.edu/projects/ladis2009/talks/dean-keynote-ladis2009.pdf)
+* [Designs, Lessons and Advice from Building Large Distributed Systems - Jeff Dean, Google](https://www.cs.cornell.edu/projects/ladis2009/talks/dean-keynote-ladis2009.pdf)
 * [On Efficiency, Reliability, Scaling - James Hamilton, VP at AWS](http://mvdirona.com/jrh/work/)
 * [Principles of Chaos Engineering](https://www.usenix.org/conference/srecon17americas/program/presentation/rosenthal)
 * [Finding the Order in Chaos](https://www.usenix.org/conference/srecon16/program/presentation/lueder)
@@ -162,7 +162,8 @@ An updated and curated list of selected readings to illustrate High Scalability,
 	* [Kafka for PaaS at Rakuten](https://techblog.rakuten.co.jp/2016/01/28/rakuten-paas-kafka/)
 	* [Publishing with Kafka at The New York Times](https://open.nytimes.com/publishing-with-apache-kafka-at-the-new-york-times-7f0e3b7d2077)
 	* [Kafka Streams on Heroku](https://blog.heroku.com/kafka-streams-on-heroku)
-	* [Kafka in Platform Events Architecture at Salesforce](https://engineering.salesforce.com/how-apache-kafka-inspired-our-platform-events-architecture-2f351fe4cf63)		
+	* [Kafka in Platform Events Architecture at Salesforce](https://engineering.salesforce.com/how-apache-kafka-inspired-our-platform-events-architecture-2f351fe4cf63)	
+	* [Kafka in Socket Architecture (with a Comprehensive Comparison Table) at Trello](https://tech.trello.com/why-we-chose-kafka/)	
 	* [Bullet: Forward-Looking Query Engine for Streaming Data at Yahoo](https://yahooeng.tumblr.com/post/161855616651/open-sourcing-bullet-yahoos-forward-looking)
 	* [Benchmarking Streaming Computation Engines at Yahoo](https://yahooeng.tumblr.com/post/135321837876/benchmarking-streaming-computation-engines-at)
 	* [Messaging Service at Riot Games](https://engineering.riotgames.com/news/riot-messaging-service)
@@ -458,6 +459,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 * [Quantile Regression for Delivering On Time at Instacart](https://tech.instacart.com/how-instacart-delivers-on-time-using-quantile-regression-2383e2e03edb)
 * [Cross-Lingual End-to-End Product Search with Deep Learning at Zalando](https://jobs.zalando.com/tech/blog/search-deep-neural-network/)
 * [PricingNet: Pricing Modelling with Neural Networks at Skyscanner](https://hackernoon.com/pricingnet-modelling-the-global-airline-industry-with-neural-networks-833844d20ea6)
+* [Machine Learning at Jane Street](https://blog.janestreet.com/real-world-machine-learning-part-1/)
 
 ## Architectures
 * [API Platform at Riot Games](https://engineering.riotgames.com/news/riot-games-api-deep-dive)
@@ -473,6 +475,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 * [Simone: Distributed Simulation Service at Netflix](https://medium.com/netflix-techblog/https-medium-com-netflix-techblog-simone-a-distributed-simulation-service-b2c85131ca1b)
 * [Seagull: Distributed System that Helps Running > 20 Million Tests Per Day at Yelp](https://engineeringblog.yelp.com/2017/04/how-yelp-runs-millions-of-tests-every-day.html)
 * [Cloud Bouncer: Distributed Rate Limiting at Yahoo](https://yahooeng.tumblr.com/post/111288877956/cloud-bouncer-distributed-rate-limiting-at-yahoo)
+* [MySQL Realtime Traffic Emulator at KakaoTalk](http://tech.kakao.com/2016/02/16/opensource-2-mtre/)
 * [Architecture of Finance and Banking Systems](https://www.sesameindia.com/images/core-banking-system-architecture)
 	* [Reference Architecture For The Open Banking Standard](https://hortonworks.com/blog/reference-architecture-open-banking-standard/)
 	* [Building a Modern Bank Backend at Monzo](https://monzo.com/blog/2016/09/19/building-a-modern-bank-backend/)
@@ -564,4 +567,4 @@ An updated and curated list of selected readings to illustrate High Scalability,
 
 [![CC-BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-Copyright [Quoc-Binh Nguyen](https://www.linkedin.com/in/binhnguyennus/), 2018. This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) and is dedicated to people who [headed for the Pacific](http://www.imdb.com/title/tt0111161/quotes).
+:hatching_chick::hatched_chick: _My chickens love finding bugs :bug:! Please let them know if you spotted any bug in this repository (dead link, duplication, etc) :bug:. Also, don't forget to feed them a star :star2:! Thanks & Happy coding! [Quoc-Binh Nguyen](https://www.linkedin.com/in/binhnguyennus/) 2018_ :chicken::baby_chick:
