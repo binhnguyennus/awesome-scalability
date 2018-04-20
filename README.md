@@ -9,13 +9,13 @@ An updated and curated list of selected readings to illustrate High Scalability,
 > "Even if you lose all one day, you can build all over again if you retain your calm!" - Thuan Pham, Vietnamese refugee, CTO of Uber Technologies Inc.
 
 #### If you are preparing for a System Design interview :ocean:
-> Checking out some [interview notes](#interview) and [real-world architectures with completed diagrams](#architectures) to get a comprehensive view before designing your system on whiteboard. Keep fighting :fist: Good luck :four_leaf_clover:
+> Checking out some [interview notes](#interview) and [real-world architectures with completed diagrams](#architectures) to get a comprehensive view before designing your system on whiteboard. Good luck :four_leaf_clover:
 
 #### Community Power :mountain_cableway::aerial_tramway::mountain_cableway:
 
 > Contributions are greatly welcome! You may want to take a look at the [contribution guidelines](CONTRIBUTING.md).
 
-> If you find this project helpful, please share on your chat groups, [on Twitter](https://ctt.ec/V8B2p), or [on Weibo](http://t.cn/RnjFLCB) so more people can be helped! Power is gained by sharing knowledge, not hoarding it. Thank you, bro :thumbsup: Happy coding :hibiscus:
+> If you find this project helpful, please share on your chat groups, [on Twitter](https://ctt.ec/V8B2p), or [on Weibo](http://t.cn/RnjFLCB) so more people can be helped! Power is gained by sharing knowledge, not hoarding it. Thank you! :hibiscus:
 
 ## Contents
 - [Principles](#principles)
@@ -150,7 +150,8 @@ An updated and curated list of selected readings to illustrate High Scalability,
 	* [LISA: Distributed Firewall at LinkedIn](https://www.slideshare.net/MikeSvoboda/2017-lisa-linkedins-distributed-firewall-dfw)
 	* [Distributed Security Alerting at Slack](https://slack.engineering/distributed-security-alerting-c89414c992d6)
 	* [Secure Infrastructure To Store Bitcoin In The Cloud at Coinbase](https://engineering.coinbase.com/how-coinbase-builds-secure-infrastructure-to-store-bitcoin-in-the-cloud-30a6504e40ba)
-	* [BinaryAlert: Real-time Serverless Malware Detection at Airbnb](https://medium.com/airbnb-engineering/binaryalert-real-time-serverless-malware-detection-ca44370c1b90)	
+	* [BinaryAlert: Real-time Serverless Malware Detection at Airbnb](https://medium.com/airbnb-engineering/binaryalert-real-time-serverless-malware-detection-ca44370c1b90)
+	* [Scalable IAM Architecture to Secure Access to 100 AWS Accounts at Segment](https://segment.com/blog/secure-access-to-100-aws-accounts/)	
 * [Distributed Messaging and Event Streaming](https://arxiv.org/pdf/1704.00411.pdf)
 	* [When to use RabbitMQ or Kafka](https://content.pivotal.io/blog/understanding-when-to-use-rabbitmq-or-apache-kafka)
 	* [Should You Put Several Event Types in the Same Kafka Topic? - Martin Kleppmann](https://www.confluent.io/blog/put-several-event-types-kafka-topic/)
@@ -569,4 +570,4 @@ An updated and curated list of selected readings to illustrate High Scalability,
 
 [![CC-BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-:hatching_chick::hatched_chick: _My chickens love finding bugs :bug:! Please let them know if you spotted any bug in this repository (dead link, duplication, etc) :bug:. Also, don't forget to feed them a star :star2:! Thanks & Happy coding! [Quoc-Binh Nguyen](https://www.linkedin.com/in/binhnguyennus/) 2018_ :chicken::baby_chick:
+:hatching_chick::hatched_chick: _My chickens love finding bugs :bug:! Please let them know if you spotted any bug in this repository (dead link, duplication, etc) :bug:. Also, don't forget to feed them a star :star2:! Thank you! [Quoc-Binh Nguyen](https://www.linkedin.com/in/binhnguyennus/) 2018_ :chicken::baby_chick:
