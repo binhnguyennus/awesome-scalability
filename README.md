@@ -2,20 +2,20 @@
 
 An updated and curated list of selected readings to illustrate High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs. Concepts are explained in the articles of notable engineers and credible references. Case studies are taken from battle-tested systems those are serving millions to billions of users.
 
-#### What if your Back-end went slow :traffic_light:
-> Understand your problems: performance problem (slow for a single user) or scalability problem (fast for a single user but slow under heavy load) by reviewing [design principles](#principles). You can also check some [talks](#talks) of elite engineers from tech giants to see how they build and scale their systems.
+#### If your Back-end went slow :traffic_light:
+> Understand your problems: performance problem (slow for a single user) or scalability problem (fast for a single user but slow under heavy load) by reviewing some [design principles](#principles). You can also check some [talks](#talks) of engineers from tech giants to see how they build and scale their systems.
 
-#### What if your Back-end went down :construction:
+#### If your Back-end went down :construction:
 > "Even if you lose all one day, you can build all over again if you retain your calm!" - Thuan Pham, Vietnamese refugee, CTO of Uber Technologies Inc.
 
-#### For you, who is struggling through dark days :ocean:
-> Checking those [interview notes](#interview) and [architectures with diagrams](#architectures) to get a comprehensive view. Before designing your system on whiteboard, you must understand thoroughly fundamental building blocks (IPC, OSI, TCP/IP, DLM, etc). It is even better to take a course on Distributed Systems or Distributed Computing. Be brave and Keep fighting :fist: Good luck :four_leaf_clover:
+#### If you are preparing for a System Design interview :ocean:
+> Checking out some [interview notes](#interview) and [real-world architectures with completed diagrams](#architectures) to get a comprehensive view before designing your system on whiteboard. Good luck :four_leaf_clover:
 
 #### Community Power :mountain_cableway::aerial_tramway::mountain_cableway:
 
 > Contributions are greatly welcome! You may want to take a look at the [contribution guidelines](CONTRIBUTING.md).
 
-> If you find this project helpful, please share on your chat groups, [on Twitter](https://ctt.ec/V8B2p), or [on Weibo](http://t.cn/RnjFLCB) so more people can be helped! Power is gained by sharing knowledge, not hoarding it. Thank you, bro :thumbsup: Happy coding :hibiscus:
+> If you find this project helpful, please share on your chat groups, [on Twitter](https://ctt.ec/V8B2p), or [on Weibo](http://t.cn/RnjFLCB) so more people can be helped! Power is gained by sharing knowledge, not hoarding it. Thank you! :hibiscus:
 
 ## Contents
 - [Principles](#principles)
@@ -150,11 +150,13 @@ An updated and curated list of selected readings to illustrate High Scalability,
 	* [LISA: Distributed Firewall at LinkedIn](https://www.slideshare.net/MikeSvoboda/2017-lisa-linkedins-distributed-firewall-dfw)
 	* [Distributed Security Alerting at Slack](https://slack.engineering/distributed-security-alerting-c89414c992d6)
 	* [Secure Infrastructure To Store Bitcoin In The Cloud at Coinbase](https://engineering.coinbase.com/how-coinbase-builds-secure-infrastructure-to-store-bitcoin-in-the-cloud-30a6504e40ba)
-	* [BinaryAlert: Real-time Serverless Malware Detection at Airbnb](https://medium.com/airbnb-engineering/binaryalert-real-time-serverless-malware-detection-ca44370c1b90)	
+	* [BinaryAlert: Real-time Serverless Malware Detection at Airbnb](https://medium.com/airbnb-engineering/binaryalert-real-time-serverless-malware-detection-ca44370c1b90)
+	* [Scalable IAM Architecture to Secure Access to 100 AWS Accounts at Segment](https://segment.com/blog/secure-access-to-100-aws-accounts/)	
 * [Distributed Messaging and Event Streaming](https://arxiv.org/pdf/1704.00411.pdf)
 	* [When to use RabbitMQ or Kafka](https://content.pivotal.io/blog/understanding-when-to-use-rabbitmq-or-apache-kafka)
 	* [Should You Put Several Event Types in the Same Kafka Topic? - Martin Kleppmann](https://www.confluent.io/blog/put-several-event-types-kafka-topic/)
-	* [Kafka at Scale at Linkedin](https://engineering.linkedin.com/kafka/running-kafka-scale)
+	* [Kafka at Scale at LinkedIn](https://engineering.linkedin.com/kafka/running-kafka-scale)
+	* [Samza: Stream Processing System for Latency Insighs at LinkedIn](https://engineering.linkedin.com/blog/2018/04/samza-aeon--latency-insights-for-asynchronous-one-way-flows)
 	* [Delaying Asynchronous Message Processing with RabbitMQ at Indeed](http://engineering.indeedblog.com/blog/2017/06/delaying-messages/)
 	* [Real-time Data Pipeline with Kafka at Yelp](https://engineeringblog.yelp.com/2016/07/billions-of-messages-a-day-yelps-real-time-data-pipeline.html)
 	* [Building Reliable Reprocessing and Dead Letter Queues with Kafka at Uber](https://eng.uber.com/reliable-reprocessing/)
@@ -168,6 +170,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 	* [Benchmarking Streaming Computation Engines at Yahoo](https://yahooeng.tumblr.com/post/135321837876/benchmarking-streaming-computation-engines-at)
 	* [Messaging Service at Riot Games](https://engineering.riotgames.com/news/riot-messaging-service)
 	* [Event Stream Analytics with Druid (Search Engine meet Column DB) at Walmart](https://medium.com/walmartlabs/event-stream-analytics-at-walmart-with-druid-dcf1a37ceda7)
+	* [Analytics Pipeline (Kafka, Dataflow, BigQuery) at Teads.tv](http://highscalability.com/blog/2018/4/9/give-meaning-to-100-billion-events-a-day-the-analytics-pipel.html)
 	* [Deduplication Techniques](https://en.wikipedia.org/wiki/Data_deduplication)
 		* [Exactly-once Semantics are Possible: Here’s How Kafka Does it](https://www.confluent.io/blog/exactly-once-semantics-are-possible-heres-how-apache-kafka-does-it/)
 		* [Real-time Deduping at Scale with Kafka-based Pipleline at Tapjoy](http://eng.tapjoy.com/blog-list/real-time-deduping-at-scale)
@@ -466,6 +469,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 * [Back-end (Multi-tier Service Oriented Architecture) at LinkedIn](https://engineering.linkedin.com/architecture/brief-history-scaling-linkedin)
 * [Back-end at Flickr](https://yahooeng.tumblr.com/post/157200523046/introducing-tripod-flickrs-backend-refactored)
 * [Back-end at BlaBlaCar](http://blablatech.com/blog/BlaBlaTech-behind-the-scene)
+* [Architecture of the Ranking Answers End-to-End at Quora](https://engineering.quora.com/A-Machine-Learning-Approach-to-Ranking-Answers-on-Quora)
 * [Data Platform at Flipkart](https://tech.flipkart.com/overview-of-flipkart-data-platform-20c6d3e9a196)
 * [Data Infrastructure at GO-JEK](https://blog.gojekengineering.com/data-infrastructure-at-go-jek-cd4dc8cbd929)
 * [Stack Overflow Enterprise at Palantir](https://medium.com/@palantir/terraforming-stack-overflow-enterprise-in-aws-47ee431e6be7)
@@ -567,4 +571,4 @@ An updated and curated list of selected readings to illustrate High Scalability,
 
 [![CC-BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-:hatching_chick::hatched_chick: _My chickens love finding bugs :bug:! Please let them know if you spotted any bug in this repository (dead link, duplication, etc) :bug:. Also, don't forget to feed them a star :star2:! Thanks & Happy coding! [Quoc-Binh Nguyen](https://www.linkedin.com/in/binhnguyennus/) 2018_ :chicken::baby_chick:
+:hatching_chick: _My baby chick love bugs :bug:! Some bugs may exist here as I often craft this project in Starbuck; under a remix of jazz, people noises, and the jittery caused by long black. Please let my chick know if you spotted any, and don't forget to feed him with a star :star2:! Thank you & Happy coding! [Quoc-Binh Nguyen](https://www.linkedin.com/in/binhnguyennus/)_
