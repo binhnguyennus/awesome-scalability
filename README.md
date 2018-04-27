@@ -474,6 +474,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 	* [PricingNet: Pricing Modelling with Neural Networks at Skyscanner](https://hackernoon.com/pricingnet-modelling-the-global-airline-industry-with-neural-networks-833844d20ea6)
 	* [Machine Learning at Jane Street](https://blog.janestreet.com/real-world-machine-learning-part-1/)
 	* [Machine Learning for Ranking Answers End-to-End at Quora](https://engineering.quora.com/A-Machine-Learning-Approach-to-Ranking-Answers-on-Quora)
+	* [Clustering Similar Stories Using LDA at Flipboard](http://engineering.flipboard.com/2017/02/storyclustering)
 
 ## Architectures
 * [API Platform at Riot Games](https://engineering.riotgames.com/news/riot-games-api-deep-dive)
@@ -578,4 +579,4 @@ An updated and curated list of selected readings to illustrate High Scalability,
 
 [![CC-BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-:hatching_chick: _My baby chick love bugs :bug:! Some bugs may exist here as I often craft this project in Starbuck; under a remix of jazz, people noises, and the jittery caused by long black. Please let my chick know if you spotted any, and don't forget to feed him with a star :star2:! Thank you & Happy coding! [Quoc-Binh Nguyen](https://www.linkedin.com/in/binhnguyennus/)_
+:hatching_chick: _My baby chick love bugs :bug:! Some bugs may exist here as I often craft this project at cafe; under a remix of music, people noises, and the jittery caused by long black. Please let my chick know if you spotted any, and don't forget to feed him with a star :star2:! Thank you & Happy coding! [Quoc-Binh Nguyen](https://www.linkedin.com/in/binhnguyennus/)_
