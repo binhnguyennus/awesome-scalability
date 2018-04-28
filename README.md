@@ -2,20 +2,20 @@
 
 An updated and curated list of selected readings to illustrate High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs. Concepts are explained in the articles of notable engineers and credible references. Case studies are taken from battle-tested systems those are serving millions to billions of users.
 
-#### What if your Back-end went slow :traffic_light:
-> Understand your problems: performance problem (slow for a single user) or scalability problem (fast for a single user but slow under heavy load) by reviewing [design principles](#principles). You can also check some [talks](#talks) of elite engineers from tech giants to see how they build and scale their systems.
+#### If your Back-end went slow :traffic_light:
+> Understand your problems: performance problem (slow for a single user) or scalability problem (fast for a single user but slow under heavy load) by reviewing some [design principles](#principles). You can also check some [talks](#talks) of engineers from tech giants to see how they build and scale their systems.
 
-#### What if your Back-end went down :construction:
+#### If your Back-end went down :construction:
 > "Even if you lose all one day, you can build all over again if you retain your calm!" - Thuan Pham, Vietnamese refugee, CTO of Uber Technologies Inc.
 
-#### For you, who is struggling through dark days :ocean:
-> Checking those [interview notes](#interview) and [architectures with diagrams](#architectures) to get a comprehensive view. Before designing your system on whiteboard, you must understand thoroughly fundamental building blocks (IPC, OSI, TCP/IP, DLM, etc). It is even better to take a course on Distributed Systems or Distributed Computing. Be brave and Keep fighting :fist: Good luck :four_leaf_clover:
+#### If you are preparing for a System Design interview :ocean:
+> Checking out some [interview notes](#interview) and [real-world architectures with completed diagrams](#architectures) to get a comprehensive view before designing your system on whiteboard. Good luck :four_leaf_clover:
 
 #### Community Power :mountain_cableway::aerial_tramway::mountain_cableway:
 
 > Contributions are greatly welcome! You may want to take a look at the [contribution guidelines](CONTRIBUTING.md).
 
-> If you find this project helpful, please share on your chat groups, [on Twitter](https://ctt.ec/V8B2p), or [on Weibo](http://t.cn/RnjFLCB) so more people can be helped! Power is gained by sharing knowledge, not hoarding it. Thank you, bro :thumbsup: Happy coding :hibiscus:
+> If you find this project helpful, please share on your chat groups, [on Twitter](https://ctt.ec/V8B2p), or [on Weibo](http://t.cn/RnjFLCB) so more people can be helped! Power is gained by sharing knowledge, not hoarding it. Thank you! :hibiscus:
 
 ## Contents
 - [Principles](#principles)
@@ -111,6 +111,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 	* [Conductor: Microservices Orchestrator at Netflix](https://medium.com/netflix-techblog/netflix-conductor-a-microservices-orchestrator-2e8d4771bf40)
 	* [Making 10x Improvement in Release Times with Docker and Amazon ECS at Nextdoor](https://engblog.nextdoor.com/how-nextdoor-made-a-10x-improvement-in-release-times-with-docker-and-amazon-ecs-35aab52b726f)
 	* [K8Guard: Auditing System for Kubernetes Clusters at Target.com](http://target.github.io/infrastructure/k8guard-the-guardian-angel-for-kuberentes)
+	* [Deconstructing Monolithic Applications into (Kafka-driven) Services at Heroku](https://blog.heroku.com/monolithic-applications-into-services)
 * [Distributed Caching](https://www.wix.engineering/single-post/scaling-to-100m-to-cache-or-not-to-cache)
 	* [Read-Through, Write-Through, Write-Behind, and Refresh-Ahead Caching](https://docs.oracle.com/cd/E15357_01/coh.360/e15723/cache_rtwtwbra.htm#COHDG5177)
 	* [Eviction Policy and Expiration Policy](http://highscalability.com/blog/2016/1/25/design-of-a-modern-cache.html)
@@ -150,11 +151,13 @@ An updated and curated list of selected readings to illustrate High Scalability,
 	* [LISA: Distributed Firewall at LinkedIn](https://www.slideshare.net/MikeSvoboda/2017-lisa-linkedins-distributed-firewall-dfw)
 	* [Distributed Security Alerting at Slack](https://slack.engineering/distributed-security-alerting-c89414c992d6)
 	* [Secure Infrastructure To Store Bitcoin In The Cloud at Coinbase](https://engineering.coinbase.com/how-coinbase-builds-secure-infrastructure-to-store-bitcoin-in-the-cloud-30a6504e40ba)
-	* [BinaryAlert: Real-time Serverless Malware Detection at Airbnb](https://medium.com/airbnb-engineering/binaryalert-real-time-serverless-malware-detection-ca44370c1b90)	
+	* [BinaryAlert: Real-time Serverless Malware Detection at Airbnb](https://medium.com/airbnb-engineering/binaryalert-real-time-serverless-malware-detection-ca44370c1b90)
+	* [Scalable IAM Architecture to Secure Access to 100 AWS Accounts at Segment](https://segment.com/blog/secure-access-to-100-aws-accounts/)	
 * [Distributed Messaging and Event Streaming](https://arxiv.org/pdf/1704.00411.pdf)
 	* [When to use RabbitMQ or Kafka](https://content.pivotal.io/blog/understanding-when-to-use-rabbitmq-or-apache-kafka)
 	* [Should You Put Several Event Types in the Same Kafka Topic? - Martin Kleppmann](https://www.confluent.io/blog/put-several-event-types-kafka-topic/)
-	* [Kafka at Scale at Linkedin](https://engineering.linkedin.com/kafka/running-kafka-scale)
+	* [Kafka at Scale at LinkedIn](https://engineering.linkedin.com/kafka/running-kafka-scale)
+	* [Samza: Stream Processing System for Latency Insighs at LinkedIn](https://engineering.linkedin.com/blog/2018/04/samza-aeon--latency-insights-for-asynchronous-one-way-flows)
 	* [Delaying Asynchronous Message Processing with RabbitMQ at Indeed](http://engineering.indeedblog.com/blog/2017/06/delaying-messages/)
 	* [Real-time Data Pipeline with Kafka at Yelp](https://engineeringblog.yelp.com/2016/07/billions-of-messages-a-day-yelps-real-time-data-pipeline.html)
 	* [Building Reliable Reprocessing and Dead Letter Queues with Kafka at Uber](https://eng.uber.com/reliable-reprocessing/)
@@ -168,6 +171,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 	* [Benchmarking Streaming Computation Engines at Yahoo](https://yahooeng.tumblr.com/post/135321837876/benchmarking-streaming-computation-engines-at)
 	* [Messaging Service at Riot Games](https://engineering.riotgames.com/news/riot-messaging-service)
 	* [Event Stream Analytics with Druid (Search Engine meet Column DB) at Walmart](https://medium.com/walmartlabs/event-stream-analytics-at-walmart-with-druid-dcf1a37ceda7)
+	* [Analytics Pipeline (Kafka, Dataflow, BigQuery) at Teads.tv](http://highscalability.com/blog/2018/4/9/give-meaning-to-100-billion-events-a-day-the-analytics-pipel.html)
 	* [Deduplication Techniques](https://en.wikipedia.org/wiki/Data_deduplication)
 		* [Exactly-once Semantics are Possible: Here’s How Kafka Does it](https://www.confluent.io/blog/exactly-once-semantics-are-possible-heres-how-apache-kafka-does-it/)
 		* [Real-time Deduping at Scale with Kafka-based Pipleline at Tapjoy](http://eng.tapjoy.com/blog-list/real-time-deduping-at-scale)
@@ -198,7 +202,8 @@ An updated and curated list of selected readings to illustrate High Scalability,
 		* [Optimizing Memcached Efficiency at Quora](https://engineering.quora.com/Optimizing-Memcached-Efficiency)
 		* [Real-Time Data Warehouse with MemSQL on Cisco UCS](https://blogs.cisco.com/datacenter/memsql)
 		* [Moving to MemSQL (with Horizontally Scalable, ACID Compliant, MySQL Compatibility) at Tapjoy](http://eng.tapjoy.com/blog-list/moving-to-memsql)
-	* [Durable Storage (Amazon S3)](http://www.datacenterknowledge.com/archives/2013/10/04/object-storage-the-future-of-scale-out)
+	* [Durable Storage (S3, HDFS)](http://www.datacenterknowledge.com/archives/2013/10/04/object-storage-the-future-of-scale-out)
+		* [Scaling HDFS at Uber](https://eng.uber.com/scaling-hdfs/)
 		* [Reasons for Choosing S3 over HDFS at Databricks](https://databricks.com/blog/2017/05/31/top-5-reasons-for-choosing-s3-over-hdfs.html)
 		* [S3 in the Data Infrastructure at Airbnb](https://medium.com/airbnb-engineering/data-infrastructure-at-airbnb-8adfb34f169c)
 		* [Quantcast File System on Amazon S3](https://www.quantcast.com/blog/quantcast-file-system-on-amazon-s3/)
@@ -221,6 +226,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 	* [Handling Growth with Postgres at Instagram](https://engineering.instagram.com/handling-growth-with-postgres-5-tips-from-instagram-d5d7e7ffdfcb)
 	* [Scaling the Analytics Database (Postgres) at TransferWise](http://tech.transferwise.com/scaling-our-analytics-database/)
 	* [Updating a 50 Terabyte PostgreSQL Database at Adyen](https://medium.com/adyen/updating-a-50-terabyte-postgresql-database-f64384b799e7)
+	* [Mitigating MySQL Replication Lag and Reducing Read Load at Github](https://githubengineering.com/mitigating-replication-lag-and-reducing-read-load-with-freno/)
 	* [Sharding (Horizontal Partitioning)](https://www.educative.io/collection/page/5668639101419520/5649050225344512/5146118144917504)
 		* [Sharding MySQL at Pinterest](https://medium.com/@Pinterest_Engineering/sharding-pinterest-how-we-scaled-our-mysql-fleet-3f341e96ca6f)
 		* [Sharding MySQL at MailChimp](https://devs.mailchimp.com/blog/using-shards-to-accommodate-millions-of-users/)
@@ -436,47 +442,59 @@ An updated and curated list of selected readings to illustrate High Scalability,
 	* [The Process of Optimizing for Client Performance at Expedia](https://techblog.expedia.com/2018/03/09/go-fast-or-go-home-the-process-of-optimizing-for-client-performance/)
 
 ## Intelligence
-* [AIOps in Practice at Baidu](https://www.usenix.org/conference/srecon17asia/program/presentation/qu)
-* [Scalable Deep Learning Platform on Spark at Baidu](https://www.slideshare.net/JenAman/scalable-deep-learning-platform-on-spark-in-baidu)
-* [PaddlePaddle Fluid: Elastic Deep Learning on Kubernetes at Baidu](http://research.baidu.com/paddlepaddle-fluid-elastic-deep-learning-kubernetes/)
-* [Horovod: Open Source Distributed Deep Learning Framework for TensorFlow at Uber](https://eng.uber.com/horovod/)
-* [COTA: Improving Customer Care with NLP & Machine Learning at Uber](https://eng.uber.com/cota/)	
-* [Repo-Topix: Topic Extraction Framework at Github](https://githubengineering.com/topics/)
-* [Scaling Gradient Boosted Trees for Click-Through-Rate Prediction at Yelp](https://engineeringblog.yelp.com/2018/01/building-a-distributed-ml-pipeline-part1.html)
-* [TensorFlowOnSpark: Distributed Deep Learning on Big Data Clusters at Yahoo](https://yahooeng.tumblr.com/post/157196488076/open-sourcing-tensorflowonspark-distributed-deep)
-* [CaffeOnSpark: Distributed Deep Learning on Big Data Clusters at Yahoo](https://yahooeng.tumblr.com/post/139916828451/caffeonspark-open-sourced-for-distributed-deep)
-* [Learning with Privacy at Scale at Apple](https://machinelearning.apple.com/2017/12/06/learning-with-privacy-at-scale.html)
-* [Image Classification Experiment Using Deep Learning at Mercari](https://medium.com/mercari-engineering/mercaris-image-classification-experiment-using-deep-learning-9b4e994a18ec)
-* [Content-based Video Relevance Prediction at Hulu](https://medium.com/hulu-tech-blog/content-based-video-relevance-prediction-b2c448e14752)
-* [Training ML Models with Airflow and BigQuery at WePay](https://wecode.wepay.com/posts/training-machine-learning-models-with-airflow-and-bigquery)
-* [Improving Photo Selection With Deep Learning at TripAdvisor](http://engineering.tripadvisor.com/improving-tripadvisor-photo-selection-deep-learning/)
-* [Machine Learning (2 parts) at Condé Nast](https://technology.condenast.com/story/handbag-brand-and-color-detection)
-* [Machine Learning Applications In The E-commerce Domain (4 parts) at Rakuten](https://techblog.rakuten.co.jp/2017/07/12/machine-learning-applications-in-the-e-commerce-domain-4/)
-* [Venue Rating System at Foursquare](https://engineering.foursquare.com/finding-the-perfect-10-how-we-developed-the-foursquare-venue-rating-system-c76b08f7b9b3)
-* [Using Machine Learning to Improve Streaming Quality at Netflix](https://medium.com/netflix-techblog/using-machine-learning-to-improve-streaming-quality-at-netflix-9651263ef09f)
-* [Box Graph: Spontaneous Social Network at Box](https://blog.box.com/blog/box-graph-how-we-built-spontaneous-social-network/)
-* [Improving Video Thumbnails with Deep Neural Nets at YouTube](https://youtube-eng.googleblog.com/2015/10/improving-youtube-video-thumbnails-with_8.html)
-* [Quantile Regression for Delivering On Time at Instacart](https://tech.instacart.com/how-instacart-delivers-on-time-using-quantile-regression-2383e2e03edb)
-* [Cross-Lingual End-to-End Product Search with Deep Learning at Zalando](https://jobs.zalando.com/tech/blog/search-deep-neural-network/)
-* [PricingNet: Pricing Modelling with Neural Networks at Skyscanner](https://hackernoon.com/pricingnet-modelling-the-global-airline-industry-with-neural-networks-833844d20ea6)
-* [Machine Learning at Jane Street](https://blog.janestreet.com/real-world-machine-learning-part-1/)
+* [Big Data](https://insights.sei.cmu.edu/sei_blog/2017/05/reference-architectures-for-big-data-systems.html)
+	* [Big Data Processing (2 parts) at Spotify](https://labs.spotify.com/2017/10/23/big-data-processing-at-spotify-the-road-to-scio-part-2/)
+	* [Data Platform at Netflix](https://www.youtube.com/watch?v=CSDIThSwA7s)
+	* [Data Platform at Flipkart](https://tech.flipkart.com/overview-of-flipkart-data-platform-20c6d3e9a196)
+	* [Data Infrastructure at GO-JEK](https://blog.gojekengineering.com/data-infrastructure-at-go-jek-cd4dc8cbd929)
+	* [RBEA: Real-time Analytics Platform at King](https://techblog.king.com/rbea-scalable-real-time-analytics-king/)
+	* [Gimel: Analytics Data Processing Platform at PayPal](https://www.paypal-engineering.com/2018/04/17/gimel/)
+	* [AthenaX: Streaming Analytics Platform at Uber](https://eng.uber.com/athenax/)
+	* [TensorFlowOnSpark: Distributed Deep Learning on Big Data Clusters at Yahoo](https://yahooeng.tumblr.com/post/157196488076/open-sourcing-tensorflowonspark-distributed-deep)
+	* [CaffeOnSpark: Distributed Deep Learning on Big Data Clusters at Yahoo](https://yahooeng.tumblr.com/post/139916828451/caffeonspark-open-sourced-for-distributed-deep)
+	* [Scaling Experimentation Platform at Airbnb](https://medium.com/airbnb-engineering/https-medium-com-jonathan-parks-scaling-erf-23fd17c91166)
+* [Distributed Machine Learning](https://www.csie.ntu.edu.tw/~cjlin/talks/bigdata-bilbao.pdf)
+	* [AIOps in Practice at Baidu](https://www.usenix.org/conference/srecon17asia/program/presentation/qu)
+	* [Scalable Deep Learning Platform on Spark at Baidu](https://www.slideshare.net/JenAman/scalable-deep-learning-platform-on-spark-in-baidu)
+	* [PaddlePaddle Fluid: Elastic Deep Learning on Kubernetes at Baidu](http://research.baidu.com/paddlepaddle-fluid-elastic-deep-learning-kubernetes/)
+	* [Michelangelo: Machine Learning Platform at Uber](https://eng.uber.com/michelangelo/)
+	* [Horovod: Open Source Distributed Deep Learning Framework for TensorFlow at Uber](https://eng.uber.com/horovod/)
+	* [COTA: Improving Customer Care with NLP & Machine Learning at Uber](https://eng.uber.com/cota/)	
+	* [Repo-Topix: Topic Extraction Framework at Github](https://githubengineering.com/topics/)
+	* [Scaling Gradient Boosted Trees for Click-Through-Rate Prediction at Yelp](https://engineeringblog.yelp.com/2018/01/building-a-distributed-ml-pipeline-part1.html)	
+	* [Learning with Privacy at Scale at Apple](https://machinelearning.apple.com/2017/12/06/learning-with-privacy-at-scale.html)
+	* [Image Classification Experiment Using Deep Learning at Mercari](https://medium.com/mercari-engineering/mercaris-image-classification-experiment-using-deep-learning-9b4e994a18ec)
+	* [Content-based Video Relevance Prediction at Hulu](https://medium.com/hulu-tech-blog/content-based-video-relevance-prediction-b2c448e14752)
+	* [Training ML Models with Airflow and BigQuery at WePay](https://wecode.wepay.com/posts/training-machine-learning-models-with-airflow-and-bigquery)
+	* [Improving Photo Selection With Deep Learning at TripAdvisor](http://engineering.tripadvisor.com/improving-tripadvisor-photo-selection-deep-learning/)
+	* [Machine Learning (2 parts) at Condé Nast](https://technology.condenast.com/story/handbag-brand-and-color-detection)
+	* [Machine Learning Applications In The E-commerce Domain (4 parts) at Rakuten](https://techblog.rakuten.co.jp/2017/07/12/machine-learning-applications-in-the-e-commerce-domain-4/)
+	* [Venue Rating System at Foursquare](https://engineering.foursquare.com/finding-the-perfect-10-how-we-developed-the-foursquare-venue-rating-system-c76b08f7b9b3)
+	* [Using Machine Learning to Improve Streaming Quality at Netflix](https://medium.com/netflix-techblog/using-machine-learning-to-improve-streaming-quality-at-netflix-9651263ef09f)
+	* [Box Graph: Spontaneous Social Network at Box](https://blog.box.com/blog/box-graph-how-we-built-spontaneous-social-network/)
+	* [Improving Video Thumbnails with Deep Neural Nets at YouTube](https://youtube-eng.googleblog.com/2015/10/improving-youtube-video-thumbnails-with_8.html)
+	* [Quantile Regression for Delivering On Time at Instacart](https://tech.instacart.com/how-instacart-delivers-on-time-using-quantile-regression-2383e2e03edb)
+	* [Cross-Lingual End-to-End Product Search with Deep Learning at Zalando](https://jobs.zalando.com/tech/blog/search-deep-neural-network/)
+	* [PricingNet: Pricing Modelling with Neural Networks at Skyscanner](https://hackernoon.com/pricingnet-modelling-the-global-airline-industry-with-neural-networks-833844d20ea6)
+	* [Machine Learning at Jane Street](https://blog.janestreet.com/real-world-machine-learning-part-1/)
+	* [Machine Learning for Ranking Answers End-to-End at Quora](https://engineering.quora.com/A-Machine-Learning-Approach-to-Ranking-Answers-on-Quora)
+	* [Clustering Similar Stories Using LDA at Flipboard](http://engineering.flipboard.com/2017/02/storyclustering)
+	* [Similarity Search at Flickr](https://code.flickr.net/2017/03/07/introducing-similarity-search-at-flickr/)
 
 ## Architectures
+* [Tech Stack (2 parts) at Uber](https://eng.uber.com/tech-stack-part-two/)
 * [API Platform at Riot Games](https://engineering.riotgames.com/news/riot-games-api-deep-dive)
 * [Back-end (Multi-tier Service Oriented Architecture) at LinkedIn](https://engineering.linkedin.com/architecture/brief-history-scaling-linkedin)
 * [Back-end at Flickr](https://yahooeng.tumblr.com/post/157200523046/introducing-tripod-flickrs-backend-refactored)
 * [Back-end at BlaBlaCar](http://blablatech.com/blog/BlaBlaTech-behind-the-scene)
-* [Data Platform at Flipkart](https://tech.flipkart.com/overview-of-flipkart-data-platform-20c6d3e9a196)
-* [Data Infrastructure at GO-JEK](https://blog.gojekengineering.com/data-infrastructure-at-go-jek-cd4dc8cbd929)
 * [Stack Overflow Enterprise at Palantir](https://medium.com/@palantir/terraforming-stack-overflow-enterprise-in-aws-47ee431e6be7)
 * [Distributed Cron at Quora](https://engineering.quora.com/Quoras-Distributed-Cron-Architecture)
 * [Real-Time Presence Platform at LinkedIn](https://engineering.linkedin.com/blog/2018/01/now-you-see-me--now-you-dont--linkedins-real-time-presence-platf)
-* [Real-time Analytics Platform at King](https://techblog.king.com/rbea-scalable-real-time-analytics-king/)
 * [Simone: Distributed Simulation Service at Netflix](https://medium.com/netflix-techblog/https-medium-com-netflix-techblog-simone-a-distributed-simulation-service-b2c85131ca1b)
 * [Seagull: Distributed System that Helps Running > 20 Million Tests Per Day at Yelp](https://engineeringblog.yelp.com/2017/04/how-yelp-runs-millions-of-tests-every-day.html)
 * [Cloud Bouncer: Distributed Rate Limiting at Yahoo](https://yahooeng.tumblr.com/post/111288877956/cloud-bouncer-distributed-rate-limiting-at-yahoo)
 * [MySQL Realtime Traffic Emulator at KakaoTalk](http://tech.kakao.com/2016/02/16/opensource-2-mtre/)
-* [Architecture of Finance and Banking Systems](https://www.sesameindia.com/images/core-banking-system-architecture)
+* [Architectures of Finance and Banking Systems](https://www.sesameindia.com/images/core-banking-system-architecture)
 	* [Reference Architecture For The Open Banking Standard](https://hortonworks.com/blog/reference-architecture-open-banking-standard/)
 	* [Building a Modern Bank Backend at Monzo](https://monzo.com/blog/2016/09/19/building-a-modern-bank-backend/)
 	* [Choosing an Architecture for Core Banking System at TrustBK](https://blog.trustbk.com/choosing-an-architecture-85750e1e5a03)
@@ -567,4 +585,4 @@ An updated and curated list of selected readings to illustrate High Scalability,
 
 [![CC-BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-:hatching_chick::hatched_chick: _My chickens love finding bugs :bug:! Please let them know if you spotted any bug in this repository (dead link, duplication, etc) :bug:. Also, don't forget to feed them a star :star2:! Thanks & Happy coding! [Quoc-Binh Nguyen](https://www.linkedin.com/in/binhnguyennus/) 2018_ :chicken::baby_chick:
+:hatching_chick: _My baby chick love bugs :bug:! Some bugs may exist here as I often craft this project at cafe; under a remix of music, people noises, and the jittery caused by long black. Please let my chick know if you spotted any, and don't forget to feed him with a star :star2:! Thank you & Happy coding! [Quoc-Binh Nguyen](https://www.linkedin.com/in/binhnguyennus/)_
