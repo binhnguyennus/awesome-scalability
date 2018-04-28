@@ -482,6 +482,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 	* [Similarity Search at Flickr](https://code.flickr.net/2017/03/07/introducing-similarity-search-at-flickr/)
 
 ## Architectures
+* [Tech Stack (2 parts) at Uber](https://eng.uber.com/tech-stack-part-two/)
 * [API Platform at Riot Games](https://engineering.riotgames.com/news/riot-games-api-deep-dive)
 * [Back-end (Multi-tier Service Oriented Architecture) at LinkedIn](https://engineering.linkedin.com/architecture/brief-history-scaling-linkedin)
 * [Back-end at Flickr](https://yahooeng.tumblr.com/post/157200523046/introducing-tripod-flickrs-backend-refactored)
