@@ -345,6 +345,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 	* [Map-Reduce: Born for Simplified Data Processing on Large Clusters](http://static.googleusercontent.com/media/research.google.com/en/us/archive/mapreduce-osdi04.pdf)
 	* [On the Death of Map-Reduce - Henry Robinson, Cloudera](http://the-paper-trail.org/blog/the-elephant-was-a-trojan-horse-on-the-death-of-map-reduce-at-google/)
 	* [Server-side Optimization to Parallelize the Rendering of Web Pages at Yelp](https://engineeringblog.yelp.com/2017/07/generating-web-pages-in-parallel-with-pagelets.html)
+	* [Accelerator: Data Processing Framework with Fast Data Access and Parallel Execution at eBay](https://www.ebayinc.com/stories/blogs/tech/announcing-the-accelerator-processing-1-000-000-000-lines-per-second-on-a-single-computer/)
 * [Event-Driven Architecture](https://martinfowler.com/articles/201701-event-driven.html)
 	* [Pub-Sub Messaging](https://aws.amazon.com/pub-sub-messaging/)
 		* [Autoscaling Pub-Sub Consumers at Spotify](https://labs.spotify.com/2017/11/20/autoscaling-pub-sub-consumers/)
