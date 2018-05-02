@@ -1,6 +1,6 @@
 # High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs
 
-An updated and curated list of selected readings to illustrate High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs. Concepts are explained in the articles of notable engineers and credible references. Case studies are taken from battle-tested systems those are serving millions to billions of users.
+An updated and curated list of selected readings to illustrate High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs. Concepts are explained in the articles of prominent engineers and credible references. Case studies are taken from battle-tested systems those are serving millions to billions of users.
 
 #### If your Back-end went slow :traffic_light:
 > Understand your problems: scalability problem (fast for a single user but slow under heavy load) or performance problem (slow for a single user) by reviewing some [design principles](#principles), then checking how [scalability](#scalability) and [performance](#performance) problems are solved in tech giants. The section of [intelligence](#intelligence) are created for those who work with data and machine learning at big (data) and deep (learning) scale. Also, you can check some [talks](#talks) of elite engineers to know how they build, scale, and optimize their systems.
@@ -550,6 +550,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 * [Distributed Systems in One Lesson - Tim Berglund, Senior Director of Developer Experience at Confluent](https://www.youtube.com/watch?v=Y6Ev8GIlbxc)
 * [Building Real Time Infrastructure at Facebook - Jeff Barber and Shie Erlich, Software Engineer at Facebook](https://www.usenix.org/conference/srecon17americas/program/presentation/erlich)
 * [Building Reliable Social Infrastructure for Google - Marc Alvidrez, Senior Manager at Google](https://www.usenix.org/conference/srecon16/program/presentation/alvidrez)
+* [Building a Distributed Build System at Google Scale - Aysylu Greenberg, SDE at Google](https://www.youtube.com/watch?v=K8YuavUy6Qc)
 * [Site Reliability Engineering at Dropbox - Tammy Butow, Site Reliability Engineering Manager at Dropbox](https://www.youtube.com/watch?v=ggizCjUCCqE)
 * [How Google Does Planet-Scale for Planet-Scale Infra - Melissa Binde, SRE Director for Google Cloud Platform](https://www.youtube.com/watch?v=H4vMcD7zKM0)
 * [Netflix Guide to Microservices - Josh Evans, Director of Operations Engineering at Netflix](https://www.youtube.com/watch?v=CZ3wIuvmHeM&t=2837s)
