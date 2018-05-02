@@ -3,13 +3,13 @@
 An updated and curated list of selected readings to illustrate High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs. Concepts are explained in the articles of notable engineers and credible references. Case studies are taken from battle-tested systems those are serving millions to billions of users.
 
 #### If your Back-end went slow :traffic_light:
-> Understand your problems: performance problem (slow for a single user) or scalability problem (fast for a single user but slow under heavy load) by reviewing some [design principles](#principles). You can also check some [talks](#talks) of engineers from tech giants to see how they build and scale their systems.
+> Understand your problems: scalability problem (fast for a single user but slow under heavy load) or performance problem (slow for a single user) by reviewing some [design principles](#principles), then checking how [scalability](#scalability) and [performance](#performance) problems are solved in tech giants. You may want to check some [talks](#talks) of elite engineers to see how they build, scale, and optimize their systems.
 
 #### If your Back-end went down :construction:
 > "Even if you lose all one day, you can build all over again if you retain your calm!" - Thuan Pham, Vietnamese refugee, CTO of Uber Technologies Inc.
 
-#### If you are preparing for a System Design interview :ocean:
-> Checking out some [interview notes](#interview) and [real-world architectures with completed diagrams](#architectures) to get a comprehensive view before designing your system on whiteboard. Good luck :four_leaf_clover:
+#### If you are having a System Design interview :ocean:
+> Look at some [interview notes](#interview) and [real-world architectures with completed diagrams](#architectures) to get a comprehensive view before designing your system on whiteboard. Good luck :four_leaf_clover:
 
 #### Community Power :mountain_cableway::aerial_tramway::mountain_cableway:
 
