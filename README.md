@@ -414,6 +414,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 	* [Lessons in Resilience at SoundCloud](https://developers.soundcloud.com/blog/lessons-in-resilience-at-SoundCloud)
 	* [Circuit Breaker for Scaling Containers](https://f5.com/about-us/blog/articles/the-art-of-scaling-containers-circuit-breakers-28919)
 	* [Protector: Circuit Breaker for Time Series Databases at Trivago](http://tech.trivago.com/2016/02/23/protector/)
+	* [Improved Production Stability with Circuit Breakers at Heroku](https://blog.heroku.com/improved-production-stability-with-circuit-breakers)
 * [Always use timeouts (if possible)](https://www.javaworld.com/article/2824163/application-performance/stability-patterns-applied-in-a-restful-architecture.html)
 * [Let it Crash/Supervisors: Embrace Failure As Natural State](http://erlang.org/doc/design_principles/sup_princ.html)
 * [Crash Early: Better Error Now Than Response Tomorrow](http://odino.org/better-performance-the-case-for-timeouts/)
