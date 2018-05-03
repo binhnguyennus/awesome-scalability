@@ -199,6 +199,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 		* [Elasticsearch at Kickstarter](https://kickstarter.engineering/elasticsearch-at-kickstarter-db3c487887fc)
 		* [Distributed Troubleshooting Platform with ELK Stack at Target.com](http://target.github.io/infrastructure/distributed-troubleshooting)
 		* [ELK at Robinhood](https://robinhood.engineering/taming-elk-4e1349f077c3)
+		* [Log Parsing with Logstash and Google Protocol Buffers at Trivago](https://tech.trivago.com/2016/01/19/logstash_protobuf_codec/)
 * [Distributed Storage](http://highscalability.com/blog/2011/11/1/finding-the-right-data-solution-for-your-application-in-the.html)
 	* [In-memory Storage](https://medium.com/@denisanikin/what-an-in-memory-database-is-and-how-it-persists-data-efficiently-f43868cff4c1)
 		* [Introduction to In-memory Data - Viktor Gamov, Solutions Architect at Hazelcast](https://www.infoq.com/presentations/in-memory-data)
@@ -602,4 +603,4 @@ An updated and curated list of selected readings to illustrate High Scalability,
 
 [![CC-BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-:hatching_chick: _My baby chicken love bugs :bug:! Some bugs may exist here as I often craft this project at cafe; under a remix of music, people noises, and the jittery caused by long black. Please let my chick know if you spotted any, and don't forget to feed him with a star :star2:! Thank You & Happy Coding! [Binh Nguyen, CA 2018](https://www.linkedin.com/in/binhnguyennus/)_
+This repo is crafted by [Binh Nguyen](https://www.linkedin.com/in/binhnguyennus/) with the helps of Taiwan bubble milk tea in the morning and Germany cereal at night. Feel free to use it to your convenience. Thank you and Happy Coding :heart: 
