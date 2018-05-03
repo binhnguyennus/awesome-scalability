@@ -493,6 +493,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 	* [Machine Learning for Ranking Answers End-to-End at Quora](https://engineering.quora.com/A-Machine-Learning-Approach-to-Ranking-Answers-on-Quora)
 	* [Clustering Similar Stories Using LDA at Flipboard](http://engineering.flipboard.com/2017/02/storyclustering)
 	* [Similarity Search at Flickr](https://code.flickr.net/2017/03/07/introducing-similarity-search-at-flickr/)
+	* [Large-Scale Machine Learning Pipeline for Job Recommendations (with Architecture Diagram) at Indeed](http://engineering.indeedblog.com/blog/2016/04/building-a-large-scale-machine-learning-pipeline-for-job-recommendations/)
 
 ## Architectures
 * [Tech Stack (2 parts) at Uber](https://eng.uber.com/tech-stack-part-two/)
