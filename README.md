@@ -1,14 +1,14 @@
 # High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs
 
-An updated and curated list of selected readings to illustrate High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs. Concepts are explained in the articles of prominent engineers and credible references. Case studies are taken from battle-tested systems those are serving millions to billions of users.
+An updated and curated list of selected readings to illustrate best practices in building High Scalability, High Availability, High Stability, High Performance, and High Intelligence back-end systems. Concepts are explained in the articles of prominent engineers and credible references. Case studies are taken from battle-tested systems those are serving millions to billions of users.
 
-#### If your Back-end went slow :traffic_light:
+#### If your back-end went slow :traffic_light:
 > Understand your problems: scalability problem (fast for a single user but slow under heavy load) or performance problem (slow for a single user) by reviewing some [design principles](#principles), then checking how [scalability](#scalability) and [performance](#performance) problems are solved in tech giants. The section of [intelligence](#intelligence) are created for those who work with data and machine learning at big (data) and deep (learning) scale. Also, you can check some [talks](#talks) of elite engineers to know how they build, scale, and optimize their systems.
 
-#### If your Back-end went down :construction:
+#### If your back-end went down :construction:
 > "Even if you lose all one day, you can build all over again if you retain your calm!" - Thuan Pham, Vietnamese refugee, CTO of Uber Technologies Inc. So, keep calm and mind the [availability](#availability) and [stability](#stability) matters! 
 
-#### If you are having a System Design interview :ocean:
+#### If you have an incomming System Design interview :ocean:
 > Look at some [interview notes](#interview) and [real-world architectures with completed diagrams](#architectures) to get a comprehensive view before designing your system on whiteboard. There are some selected [books](#books) for you (most of them are free)! Good luck :four_leaf_clover:
 
 #### Community Power :mountain_cableway::aerial_tramway::mountain_cableway:
@@ -494,7 +494,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 	* [Machine Learning for Ranking Answers End-to-End at Quora](https://engineering.quora.com/A-Machine-Learning-Approach-to-Ranking-Answers-on-Quora)
 	* [Clustering Similar Stories Using LDA at Flipboard](http://engineering.flipboard.com/2017/02/storyclustering)
 	* [Similarity Search at Flickr](https://code.flickr.net/2017/03/07/introducing-similarity-search-at-flickr/)
-	* [Large-Scale Machine Learning Pipeline for Job Recommendations (with Architecture Diagram) at Indeed](http://engineering.indeedblog.com/blog/2016/04/building-a-large-scale-machine-learning-pipeline-for-job-recommendations/)
+	* [Large-Scale Machine Learning Pipeline for Job Recommendations at Indeed](http://engineering.indeedblog.com/blog/2016/04/building-a-large-scale-machine-learning-pipeline-for-job-recommendations/)
 
 ## Architectures
 * [Tech Stack (2 parts) at Uber](https://eng.uber.com/tech-stack-part-two/)
