@@ -499,6 +499,7 @@ An updated and curated list of selected readings to illustrate best practices in
 	* [Clustering Similar Stories Using LDA at Flipboard](http://engineering.flipboard.com/2017/02/storyclustering)
 	* [Similarity Search at Flickr](https://code.flickr.net/2017/03/07/introducing-similarity-search-at-flickr/)
 	* [Large-Scale Machine Learning Pipeline for Job Recommendations at Indeed](http://engineering.indeedblog.com/blog/2016/04/building-a-large-scale-machine-learning-pipeline-for-job-recommendations/)
+	* [Deep Learning from Prototype to Production at Taboola](http://engineering.taboola.com/deep-learning-from-prototype-to-production/)
 
 ## Architectures
 * [Tech Stack (2 parts) at Uber](https://eng.uber.com/tech-stack-part-two/)
