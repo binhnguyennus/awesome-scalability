@@ -367,6 +367,7 @@ An updated and curated list of selected readings to illustrate best practices in
 	* [Domain Events](https://martinfowler.com/eaaDev/DomainEvent.html)
 		* [Domain Events: Simple and Reliable Solution](http://enterprisecraftsmanship.com/2017/10/03/domain-events-simple-and-reliable-solution/)
 		* [Domain-Driven Design in Organizing Monolith Before Breaking it into Services at Weebly](https://medium.com/weebly-engineering/how-to-organize-your-monolith-before-breaking-it-into-services-69cbdb9248b0)
+		* [Modelling for Domain Driven Design at Moonpig](https://engineering.moonpig.com/development/modelling-for-domain-driven-design)
 	* [Event Sourcing](https://martinfowler.com/eaaDev/EventSourcing.html)
 		* [Event Sourced Architectures for High Availability](https://www.infoq.com/presentations/Event-Sourced-Architectures-for-High-Availability)
 		* [Event Sourcing and Stream Processing at Scale](https://martin.kleppmann.com/2016/01/29/event-sourcing-stream-processing-at-ddd-europe.html)
