@@ -544,6 +544,7 @@ An updated and curated list of selected readings to illustrate best practices in
 	* [OSI and TCP/IP Cheat Sheet (Short but Sweet)](http://jaredheinrichs.com/mastering-the-osi-tcpip-models.html)
 	* [The Precise Meaning of I/O Wait Time in Linux](http://veithen.github.io/2013/11/18/iowait-linux.html)
 	* [Paxos Made Live – An Engineering Perspective](https://research.google.com/archive/paxos_made_live.html)
+	* [How to do Distributed Locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
 * ["What Happens When ...", "How x Do y"](https://www.glassdoor.com/Interview/What-happens-when-you-type-www-google-com-in-your-browser-QTN_56396.htm)
 	* [What Happens When You Type google.com into Browser and Press Enter?](https://github.com/alex/what-happens-when)
 	* [Netflix: What Happens When You Press Play?](http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html)
