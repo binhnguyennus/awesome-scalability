@@ -450,6 +450,7 @@ An updated and curated list of selected readings to illustrate best practices in
 	* [Performance Tracking Dashboard for Live Games at Zynga](https://www.zynga.com/blogs/engineering/live-games-have-evolving-performance)
 	* [Optimizing CAL Report Hadoop MapReduce Jobs at eBay](https://www.ebayinc.com/stories/blogs/tech/optimization-of-cal-report-hadoop-mapreduce-job/)
 	* [Performance Tuning on Quartz Scheduler at eBay](https://www.ebayinc.com/stories/blogs/tech/performance-tuning-on-quartz-scheduler/)
+	* [Optimizing the Netflix API](https://medium.com/netflix-techblog/optimizing-the-netflix-api-5c9ac715cf19)
 * [Performance Optimization on Video, Image, Page Load](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
 	* [Optimizing 360 Photos at Scale at Facebook](https://code.facebook.com/posts/129055711052260/optimizing-360-photos-at-scale/)
 	* [Reducing Image File Size in the Photos Infrastructure at Etsy](https://codeascraft.com/2017/05/30/reducing-image-file-size-at-etsy/)
@@ -612,4 +613,4 @@ An updated and curated list of selected readings to illustrate best practices in
 
 [![CC-BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-This repo is crafted by [Binh Nguyen](https://www.linkedin.com/in/binhnguyennus/) with the helps of Taiwan bubble milk tea in the morning and Germany cereal at night. Feel free to use it to your convenience. Thank you and Happy Coding :heart: 
+This repo is crafted by [Binh Nguyen](https://www.linkedin.com/in/binhnguyennus/) with the helps of Taiwan bubble milk tea in the morning and Germany cereal at night. Feel free to use it to your convenience. Thank You and Happy Coding :heart: 
