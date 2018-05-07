@@ -61,6 +61,7 @@ An updated and curated list of selected readings to illustrate best practices in
 * [Anti-Caching](http://the-paper-trail.org/blog/paper-notes-anti-caching/)
 * [Understand Latency](http://highscalability.com/latency-everywhere-and-it-costs-you-sales-how-crush-it)
 * [Latency Numbers Every Programmer Should Know](http://norvig.com/21-days.html#answers)
+* [The Calculus of Service Availability](https://queue.acm.org/detail.cfm?id=3096459&__s=dnkxuaws9pogqdnxmx8i)
 * [Architecture Issues When Scaling Web Applications: Bottlenecks, Database, CPU, IO](http://highscalability.com/blog/2014/5/12/4-architecture-issues-when-scaling-web-applications-bottlene.html)	
 * [Common Bottlenecks](http://highscalability.com/blog/2012/5/16/big-list-of-20-common-bottlenecks.html)
 * [Life Beyond Distributed Transactions](https://queue.acm.org/detail.cfm?id=3025012)
