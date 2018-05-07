@@ -396,6 +396,7 @@ An updated and curated list of selected readings to illustrate best practices in
 	* [Testing for Disaster Recovery Failover Testing](https://www.usenix.org/conference/srecon17asia/program/presentation/liu_zehua)
 	* [Designing a Microservices Architecture for Failure](https://blog.risingstack.com/designing-microservices-architecture-for-failure/)
 * [Resilience Engineering: Learning to Embrace Failure](https://queue.acm.org/detail.cfm?id=2371297)	
+	* [Resilience Engineering with Project Waterbear at LinkedIn](https://engineering.linkedin.com/blog/2017/11/resilience-engineering-at-linkedin-with-project-waterbear)
 	* [Resiliency against Traffic Oversaturation at iHeartRadio](https://tech.iheart.com/resiliency-against-traffic-oversaturation-77c5ed92a5fb)
 	* [Resiliency in Distributed Systems at GO-JEK](https://blog.gojekengineering.com/resiliency-in-distributed-systems-efd30f74baf4)
 	* [Practical NoSQL Resilience Design Pattern for the Enterprise at eBay](https://www.ebayinc.com/stories/blogs/tech/practical-nosql-resilience-design-pattern-for-the-enterprise/)
