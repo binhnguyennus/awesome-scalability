@@ -239,6 +239,7 @@ An updated and curated list of selected readings to illustrate best practices in
 	* [Sharding (Horizontal Partitioning)](https://www.educative.io/collection/page/5668639101419520/5649050225344512/5146118144917504)
 		* [Sharding MySQL at Pinterest](https://medium.com/@Pinterest_Engineering/sharding-pinterest-how-we-scaled-our-mysql-fleet-3f341e96ca6f)
 		* [Sharding MySQL at MailChimp](https://devs.mailchimp.com/blog/using-shards-to-accommodate-millions-of-users/)
+		* [Sharding MySQL at Twilio](https://www.twilio.com/engineering/2014/06/26/how-we-replaced-our-data-pipeline-with-zero-downtime)
 		* [Sharding MySQL (3 parts) at Evernote](https://blog.evernote.com/tech/2015/10/08/the-great-shard-migration-part-ii/)
 		* [Sharding Layer of Schemaless Datastore at Uber](https://eng.uber.com/schemaless-rewrite/)
 		* [Sharding & IDs at Instagram](https://instagram-engineering.com/sharding-ids-at-instagram-1cf5a71e5a5c)
