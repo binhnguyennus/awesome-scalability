@@ -3,13 +3,13 @@
 An updated and curated list of selected readings to illustrate best practices in building High Scalability, High Availability, High Stability, High Performance, and High Intelligence back-end systems. Concepts are explained in the articles of prominent engineers and credible references. Case studies are taken from battle-tested systems those are serving millions to billions of users.
 
 #### If your back-end went slow :traffic_light:
-> Understand your problems: scalability problem (fast for a single user but slow under heavy load) or performance problem (slow for a single user) by reviewing some [design principles](#principles), then checking how [scalability](#scalability) and [performance](#performance) problems are solved in tech giants. The section of [intelligence](#intelligence) are created for those who work with data and machine learning at big (data) and deep (learning) scale. Also, you can check some [talks](#talks) of elite engineers to know how they build, scale, and optimize their systems.
+> Understand your problems: scalability problem (fast for a single user but slow under heavy load) or performance problem (slow for a single user) by reviewing some [design principles](#principles) and checking how [scalability](#scalability) and [performance](#performance) problems are solved at tech companies. The section of [intelligence](#intelligence) are created for those who work with data and machine learning at big (data) and deep (learning) scale.
 
 #### If your back-end went down :construction:
 > "Even if you lose all one day, you can build all over again if you retain your calm!" - Thuan Pham, Vietnamese refugee, CTO of Uber Technologies Inc. So, keep calm and mind the [availability](#availability) and [stability](#stability) matters! 
 
 #### If you have an incomming System Design interview :ocean:
-> Look at some [interview notes](#interview) and [real-world architectures with completed diagrams](#architectures) to get a comprehensive view before designing your system on whiteboard. There are some selected [books](#books) for you (most of them are free)! Good luck :four_leaf_clover:
+> Look at some [interview notes](#interview) and [real-world architectures with completed diagrams](#architectures) to get a comprehensive view before designing your system on whiteboard. You can check some [talks](#talks) of engineers from tech giants to know how they build, scale, and optimize their systems. There are some selected [books](#books) for you (most of them are free)! Good luck :four_leaf_clover:
 
 #### Community Power :mountain_cableway::aerial_tramway::mountain_cableway:
 
@@ -445,6 +445,7 @@ An updated and curated list of selected readings to illustrate best practices in
 	* [Decreasing RAM Usage by 40% Using jemalloc with Python & Celery at Zapier](https://zapier.com/engineering/celery-python-jemalloc/)
 	* [Reducing Memory Footprint at Slack](https://slack.engineering/reducing-slacks-memory-footprint-4480fec7e8eb)
 	* [Using Java Large Heap (110 GB) for Boosting Site Perpormance at Expedia](https://techblog.expedia.com/2015/09/25/solving-problems-with-very-large-java-heaps/)
+	* [Optimizing JVM at Alibaba](https://www.youtube.com/watch?v=X4tmr3nhZRg)
 	* [Python Garbage Collection for Dropping 50% Memory Growth Per Request at Instagram](https://instagram-engineering.com/copy-on-write-friendly-python-garbage-collection-ad6ed5233ddf)
 	* [Performance Improvements at Pinterest](https://medium.com/@Pinterest_Engineering/driving-user-growth-with-performance-improvements-cfc50dafadd7)
 	* [Server Side Rendering at Wix](https://www.youtube.com/watch?v=f9xI2jR71Ms)
