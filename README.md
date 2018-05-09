@@ -211,6 +211,7 @@ An updated and curated list of selected readings to illustrate best practices in
 		* [Optimizing Memcached Efficiency at Quora](https://engineering.quora.com/Optimizing-Memcached-Efficiency)
 		* [Real-Time Data Warehouse with MemSQL on Cisco UCS](https://blogs.cisco.com/datacenter/memsql)
 		* [Moving to MemSQL (with Horizontally Scalable, ACID Compliant, MySQL Compatibility) at Tapjoy](http://eng.tapjoy.com/blog-list/moving-to-memsql)
+		* [MemSQL and Kinesis for Real-time Insights at Disney-ABC TV](https://conferences.oreilly.com/strata/strata-ca/public/schedule/detail/68131)
 	* [Durable Storage (S3, HDFS)](http://www.datacenterknowledge.com/archives/2013/10/04/object-storage-the-future-of-scale-out)
 		* [Scaling HDFS at Uber](https://eng.uber.com/scaling-hdfs/)
 		* [Reasons for Choosing S3 over HDFS at Databricks](https://databricks.com/blog/2017/05/31/top-5-reasons-for-choosing-s3-over-hdfs.html)
