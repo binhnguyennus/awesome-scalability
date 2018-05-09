@@ -477,6 +477,7 @@ An updated and curated list of selected readings to illustrate best practices in
 	* [Big Data Processing (2 parts) at Spotify](https://labs.spotify.com/2017/10/23/big-data-processing-at-spotify-the-road-to-scio-part-2/)
 	* [Big Data Processing at Uber](https://cdn.oreillystatic.com/en/assets/1/event/160/Big%20data%20processing%20with%20Hadoop%20and%20Spark%2C%20the%20Uber%20way%20Presentation.pdf)
 	* [Analytics Pipeline at Lyft](https://cdn.oreillystatic.com/en/assets/1/event/269/Lyft_s%20analytics%20pipeline_%20From%20Redshift%20to%20Apache%20Hive%20and%20Presto%20Presentation.pdf)
+	* [Big Data Analytics and ML Techniques at LinkedIn](https://cdn.oreillystatic.com/en/assets/1/event/269/Big%20data%20analytics%20and%20machine%20learning%20techniques%20to%20drive%20and%20grow%20business%20Presentation%201.pdf)
 	* [RBEA: Real-time Analytics Platform at King](https://techblog.king.com/rbea-scalable-real-time-analytics-king/)
 	* [Gimel: Analytics Data Processing Platform at PayPal](https://www.paypal-engineering.com/2018/04/17/gimel/)
 	* [AthenaX: Streaming Analytics Platform at Uber](https://eng.uber.com/athenax/)
