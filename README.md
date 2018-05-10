@@ -128,6 +128,7 @@ An updated and curated list of selected readings to illustrate best practices in
 	* [tCache: Scalable Data-aware Java Caching at Trivago](http://tech.trivago.com/2015/10/15/tcache/)
 	* [Reduce Memcached Memory Usage by 50% at Trivago](http://tech.trivago.com/2017/12/19/how-trivago-reduced-memcached-memory-usage-by-50/)
 	* [Caching Internal Service Calls at Yelp](https://engineeringblog.yelp.com/2018/03/caching-internal-service-calls-at-yelp.html)
+	* [Scaling Live Streaming for Large Events (with Distributed Cache) at Hulu](https://medium.com/hulu-tech-blog/scaling-hulu-live-streaming-for-large-events-march-madness-and-beyond-bedd73874f2)
 * [Distributed Tracking and Tracing](https://www.oreilly.com/ideas/understanding-the-value-of-distributed-tracing)
 	* [Tracking Service Infrastructure at Scale at Shopify](https://www.usenix.org/conference/srecon17americas/program/presentation/arthorne)
 	* [Distributed Tracing with Pintrace at Pinterest](https://medium.com/@Pinterest_Engineering/distributed-tracing-at-pinterest-with-new-open-source-tools-a4f8a5562f6b)
