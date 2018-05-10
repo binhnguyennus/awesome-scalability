@@ -399,6 +399,7 @@ An updated and curated list of selected readings to illustrate best practices in
 		* [Enterprise Service Bus](http://www.oracle.com/technetwork/articles/soa/ind-soa-esb-1967705.html)		
 * [Distributed Source Code and Configuration Files Management](https://betterexplained.com/articles/intro-to-distributed-version-control-illustrated/)
 	* [Distributed Version Control Systems: A Not-So-Quick Guide Through](https://www.infoq.com/articles/dvcs-guide)
+	* [DGit: Distributed Git at Github](https://githubengineering.com/introducing-dgit/)
 	* [Stemma: Distributed Git Server at Palantir](https://medium.com/@palantir/stemma-distributed-git-server-70afbca0fc29)
 	* [Configuration Management for Distributed Systems at Flickr](https://code.flickr.net/2016/03/24/configuration-management-for-distributed-systems-using-github-and-cfg4j/)
 	* [Git Repo at Microsoft - The Largest Git Repo on The Planet](https://blogs.msdn.microsoft.com/bharry/2017/05/24/the-largest-git-repo-on-the-planet/)
