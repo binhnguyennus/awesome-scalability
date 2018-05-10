@@ -556,6 +556,7 @@ An updated and curated list of selected readings to illustrate best practices in
 	* [Choosing an Architecture for Core Banking System at TrustBK](https://blog.trustbk.com/choosing-an-architecture-85750e1e5a03)
 	* [Reinventing the Trading Platform for Scale at Wealthsimple](https://medium.com/@Wealthsimple/engineering-at-wealthsimple-reinventing-our-trading-platform-for-scale-17e332241b6c)
 	* [Tech Stack at TransferWise](http://tech.transferwise.com/the-transferwise-stack-heartbeat-of-our-little-revolution/)
+	* [Architecture of Nubank](https://www.infoq.com/presentations/nubank-architecture)
 
 ## Ad-hoc
 * [Systems We Make (Academic Papers)](https://systemswemake.com/)
