@@ -333,6 +333,7 @@ An updated and curated list of selected readings to illustrate best practices in
 	* [Scaling API with Rate Limiters at Stripe](https://stripe.com/blog/rate-limiters)
 	* [Rate Limiting at Etsy](https://www.sans.org/summit-archives/file/summit-archive-1509593697.pdf)
 	* [Rate Limiter at BloomReach](http://engineering.bloomreach.com/qps-monitoring-throttling-system/)
+	* [Distributed Rate Limiting at Allegro](https://allegro.tech/2017/04/hermes-max-rate.html)
 * [Autoscaling](https://medium.com/@BotmetricHQ/top-11-hard-won-lessons-learned-about-aws-auto-scaling-5bfe56da755f)
 	* [A Horror Movie Featuring Auto Scaling Groups, EBS Volumes, Terraform, and Bash](https://blog.gruntwork.io/yak-shaving-series-1-all-i-need-is-a-little-bit-of-disk-space-6e5ef1644f67)
 	* [Autoscaling Pinterest](https://medium.com/@Pinterest_Engineering/auto-scaling-pinterest-df1d2beb4d64)
