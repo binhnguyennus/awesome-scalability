@@ -237,6 +237,7 @@ An updated and curated list of selected readings to illustrate best practices in
 	* [PostgreSQL at Twitch](https://blog.twitch.tv/how-twitch-uses-postgresql-c34aa9e56f58)
 	* [Scaling MySQL-based Financial Reporting System at Airbnb](https://medium.com/airbnb-engineering/tracking-the-money-scaling-financial-reporting-at-airbnb-6d742b80f040)
 	* [Scaling MySQL at Wix](https://www.wix.engineering/single-post/scaling-to-100m-mysql-is-a-better-nosql)
+	* [MaxScale (MySQL) Database Proxy at Airbnb](https://medium.com/airbnb-engineering/unlocking-horizontal-scalability-in-our-web-serving-tier-d907449cdbcf)
 	* [Switching from Postgres to MySQL at Uber](https://eng.uber.com/mysql-migration/)
 	* [Handling Growth with Postgres at Instagram](https://engineering.instagram.com/handling-growth-with-postgres-5-tips-from-instagram-d5d7e7ffdfcb)
 	* [Scaling the Analytics Database (Postgres) at TransferWise](http://tech.transferwise.com/scaling-our-analytics-database/)
@@ -543,6 +544,7 @@ An updated and curated list of selected readings to illustrate best practices in
 	* [Atom Smashing using Machine Learning at CERN](https://cdn.oreillystatic.com/en/assets/1/event/144/Atom%20smashing%20using%20machine%20learning%20at%20CERN%20Presentation.pdf)
 
 ## Architectures
+* [Systems We Make](https://systemswemake.com/)
 * [Tech Stack (2 parts) at Uber](https://eng.uber.com/tech-stack-part-two/)
 * [API Platform at Riot Games](https://engineering.riotgames.com/news/riot-games-api-deep-dive)
 * [Back-end (Multi-tier Service Oriented Architecture) at LinkedIn](https://engineering.linkedin.com/architecture/brief-history-scaling-linkedin)
@@ -565,14 +567,12 @@ An updated and curated list of selected readings to illustrate best practices in
 	* [Architecture of Nubank](https://www.infoq.com/presentations/nubank-architecture)
 
 ## Ad-hoc
-* [Systems We Make (Academic Papers)](https://systemswemake.com/)
 * [AWS Whitepapers](https://aws.amazon.com/whitepapers/)
 * [Criteria for Selecting a Cloud Provider at Etsy](https://codeascraft.com/2018/01/04/selecting-a-cloud-provider/)
 * [Scalable Gaming Patterns on AWS](https://d0.awsstatic.com/whitepapers/aws-scalable-gaming-patterns.pdf)
 * [Scaling Chat To 70 Million Players at League Of Legends](http://highscalability.com/blog/2014/10/13/how-league-of-legends-scaled-chat-to-70-million-players-it-t.html)
 * [Scaling Online Migrations at Stripe](https://stripe.com/blog/online-migrations)
 * [Scaling NodeJS at Alibaba](https://www.linux.com/blog/can-nodejs-scale-ask-team-alibaba)
-* [Horizontal Scalability in Web Serving Tier of Airbnb](https://medium.com/airbnb-engineering/unlocking-horizontal-scalability-in-our-web-serving-tier-d907449cdbcf)
 
 ## Interview
 * [Designing Large-Scale Systems](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
