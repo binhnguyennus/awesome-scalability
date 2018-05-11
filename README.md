@@ -261,6 +261,7 @@ An updated and curated list of selected readings to illustrate best practices in
 		* [MPH: Fast and Compact Immutable Key-Value Stores at Indeed](http://engineering.indeedblog.com/blog/2018/02/indeed-mph/)
 		* [zBase: High Performance, Elastic, Distributed Key-Value Store at Zynga](https://www.zynga.com/blogs/engineering/zbase-high-performance-elastic-distributed-key-value-store-2)
 		* [Venice: Distributed Key-Value Database at Linkedin](https://engineering.linkedin.com/blog/2017/02/building-venice-with-apache-helix)
+		* [DynamoDB Hot Shards at Segment](https://segment.com/blog/the-million-dollar-eng-problem/)
 	* [Columnar Databases (Cassandra, HBase, Redshift)](https://aws.amazon.com/nosql/columnar/)
 		* [Consistent Hashing in Cassandra](https://blog.imaginea.com/consistent-hashing-in-cassandra/)
 		* [Understanding Gossip (Cassandra Internals)](https://www.youtube.com/watch?v=FuP1Fvrv6ZQ)
@@ -563,7 +564,6 @@ An updated and curated list of selected readings to illustrate best practices in
 ## Ad-hoc
 * [Systems We Make (Academic Papers)](https://systemswemake.com/)
 * [Criteria for Selecting a Cloud Provider at Etsy](https://codeascraft.com/2018/01/04/selecting-a-cloud-provider/)
-* [Saving One Million Dollars Annually by DynamoDB Hot Shards, Service Auto-scaling, etc at Segment](https://segment.com/blog/the-million-dollar-eng-problem/)
 * [Basic Infrastructure Patterns at Zenefits](https://engineering.zenefits.com/2016/02/basic-infrastructure-patterns/)
 * [Syscall Auditing at Scale at Slack](https://slack.engineering/syscall-auditing-at-scale-e6a3ca8ac1b8)
 * [Service Decomposition at Scale at Intuit QuickBooks](https://quickbooks-engineering.intuit.com/service-decomposition-at-scale-70405ac2f637)
