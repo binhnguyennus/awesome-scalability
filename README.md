@@ -83,6 +83,7 @@ An updated and curated list of selected readings to illustrate best practices in
 * [Linux Performance](http://www.brendangregg.com/linuxperf.html)
 * [How To Design A Good API and Why it Matters - Joshua Bloch](https://www.infoq.com/presentations/effective-api-design)
 * [Building Fast & Resilient Web Applications - Ilya Grigorik](https://www.igvita.com/2016/05/20/building-fast-and-resilient-web-applications/)
+* [RACI (Responsible, Accountable, Consulted, Informed) at Etsy](https://codeascraft.com/2018/01/04/selecting-a-cloud-provider/)
 * [Design for Loose-coupling](http://bulgerpartners.com/how-loosely-coupled-architectures-are-helping-the-modernization-of-legacy-software/)
 * [Design for Resiliency](http://highscalability.com/blog/2012/12/31/designing-for-resiliency-will-be-so-2013.html)
 * [Design for Self-healing](https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/self-healing)
@@ -569,7 +570,6 @@ An updated and curated list of selected readings to illustrate best practices in
 
 ## Ad-hoc
 * [AWS Whitepapers](https://aws.amazon.com/whitepapers/)
-* [Criteria for Selecting a Cloud Provider at Etsy](https://codeascraft.com/2018/01/04/selecting-a-cloud-provider/)
 * [Scalable Gaming Patterns on AWS](https://d0.awsstatic.com/whitepapers/aws-scalable-gaming-patterns.pdf)
 * [Scaling Online Migrations at Stripe](https://stripe.com/blog/online-migrations)
 
