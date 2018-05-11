@@ -578,8 +578,7 @@ An updated and curated list of selected readings to illustrate best practices in
 	* [Top 10 Common Large-Scale Software Architectural Patterns in a Nutshell](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
 	* [How NOT to design Netflix in your 45-minute System Design Interview?](https://hackernoon.com/how-not-to-design-netflix-in-your-45-minute-system-design-interview-64953391a054)
 * [Explaining Low-Level Systems (OS, Network/Protocol, Database, Storage)](https://www.palantir.com/how-to-ace-a-systems-design-interview/)	
-	* [AWS Whitepapers](https://aws.amazon.com/whitepapers/)
-	* [OSI and TCP/IP Cheat Sheet (Short but Sweet)](http://jaredheinrichs.com/mastering-the-osi-tcpip-models.html)
+	* [OSI and TCP/IP Cheat Sheet](http://jaredheinrichs.com/mastering-the-osi-tcpip-models.html)
 	* [The Precise Meaning of I/O Wait Time in Linux](http://veithen.github.io/2013/11/18/iowait-linux.html)
 	* [Paxos Made Live – An Engineering Perspective](https://research.google.com/archive/paxos_made_live.html)
 	* [How to do Distributed Locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
@@ -590,7 +589,6 @@ An updated and curated list of selected readings to illustrate best practices in
 	* [Monzo: How Peer-To-Peer Payments Work](https://monzo.com/blog/2018/04/05/how-monzo-to-monzo-payments-work/)
 	* [Transit and Peering: How Your Requests Reach GitHub](https://githubengineering.com/transit-and-peering-how-your-requests-reach-github/)
 	* [How Expedia Finds your Flights: A Detailed View](https://techblog.expedia.com/2016/03/07/how-expedia-finds-flights-a-detailed-view/)
-	* [Scaling Chat To 70 Million Players at League Of Legends](http://highscalability.com/blog/2014/10/13/how-league-of-legends-scaled-chat-to-70-million-players-it-t.html)
 
 ## Talks
 * [Distributed Systems in One Lesson - Tim Berglund, Senior Director of Developer Experience at Confluent](https://www.youtube.com/watch?v=Y6Ev8GIlbxc)
