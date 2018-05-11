@@ -25,7 +25,6 @@ An updated and curated list of selected readings to illustrate best practices in
 - [Performance](#performance)
 - [Intelligence](#intelligence)
 - [Architectures](#architectures)
-- [Ad-hoc](#ad-hoc)
 - [Interview](#interview)
 - [Talks](#talks)
 - [Books](#books)
