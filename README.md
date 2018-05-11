@@ -563,6 +563,7 @@ An updated and curated list of selected readings to illustrate best practices in
 
 ## Ad-hoc
 * [Systems We Make (Academic Papers)](https://systemswemake.com/)
+* [AWS Whitepapers](https://aws.amazon.com/whitepapers/)
 * [Criteria for Selecting a Cloud Provider at Etsy](https://codeascraft.com/2018/01/04/selecting-a-cloud-provider/)
 * [Basic Infrastructure Patterns at Zenefits](https://engineering.zenefits.com/2016/02/basic-infrastructure-patterns/)
 * [Syscall Auditing at Scale at Slack](https://slack.engineering/syscall-auditing-at-scale-e6a3ca8ac1b8)
