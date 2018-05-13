@@ -55,6 +55,7 @@ An updated and curated list of selected readings to illustrate best practices in
 * [How Sharding Works](https://medium.com/@jeeyoungk/how-sharding-works-b4dec46b3f6)
 * [Consistent Hashing](http://www.tom-e-white.com/2007/11/consistent-hashing.html)
 * [Consistent Hashing: Algorithmic Tradeoffs](https://medium.com/@dgryski/consistent-hashing-algorithmic-tradeoffs-ef6b8e2fcae8)
+* [Don’t be tricked by the Hashing Trick](https://booking.ai/dont-be-tricked-by-the-hashing-trick-192a6aae3087)
 * [Uniform Consistent Hashing (used at Netflix)](https://medium.com/netflix-techblog/distributing-content-to-open-connect-3e3e391d4dc9)
 * [Eventually Consistent - Werner Vogels, CTO at Amazon](https://www.allthingsdistributed.com/2008/12/eventually_consistent.html)
 * [Cache is King](https://www.stevesouders.com/blog/2012/10/11/cache-is-king/)
@@ -306,7 +307,7 @@ An updated and curated list of selected readings to illustrate best practices in
 		* [Learn Redis the hard way (in production) at Trivago](http://tech.trivago.com/2017/01/25/learn-redis-the-hard-way-in-production/)
 		* [Optimizing Session Key Storage in Redis at Deliveroo](https://deliveroo.engineering/2016/10/07/optimising-session-key-storage.html)
 		* [Optimizing Redis Storage at Deliveroo](https://deliveroo.engineering/2017/01/19/optimising-membership-queries.html)		
-* [Time Series Database (TSDB)](https://www.influxdata.com/time-series-database/)
+* [Time Series Databases (TSDB)](https://www.influxdata.com/time-series-database/)
 	* [What is Time-Series Data & Why We Need a Time-Series Database](https://blog.timescale.com/what-the-heck-is-time-series-data-and-why-do-i-need-a-time-series-database-dcf3b1b18563)
 	* [Time Series Data: Why and How to Use a Relational Database instead of NoSQL](https://blog.timescale.com/time-series-data-why-and-how-to-use-a-relational-database-instead-of-nosql-d0cd6975e87c)
 	* [Practical Guide to Monitoring and Alerting with Time Series at Scale](https://www.usenix.org/conference/srecon17americas/program/presentation/wilkinson)
@@ -646,4 +647,4 @@ An updated and curated list of selected readings to illustrate best practices in
 
 [![CC-BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-This repo is crafted by [Binh Nguyen](https://www.linkedin.com/in/binhnguyennus/) with the helps of Taiwan bubble milk tea in the morning and Germany cereal at night. Feel free to use it to your convenience. Thank You and Happy Coding :heart: 
+This repo is continuously crafted and revised by [Binh Nguyen](https://www.linkedin.com/in/binhnguyennus/), a knowledge hungry engineer. Feel free to use it to your convenience. Thank You and Happy Coding :heart: 
