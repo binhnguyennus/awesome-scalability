@@ -229,6 +229,7 @@ An updated and curated list of selected readings to illustrate best practices in
 		* [Ambry: Distributed Immutable Object Store at LinkedIn](https://www.usenix.org/conference/srecon17americas/program/presentation/shenoy)
 		* [Hammerspace: Persistent, Concurrent, Off-heap Storage at Airbnb](https://medium.com/airbnb-engineering/hammerspace-persistent-concurrent-off-heap-storage-3db39bb04472)	
 * [Relational Databases (MySQL, MSSQL, PostgreSQL)](https://www.mysql.com/products/cluster/scalability.html)
+	* [Stop Using Shiny New Things and Love MySQL - Lesson at Pinterest](https://medium.com/@Pinterest_Engineering/learn-to-stop-using-shiny-new-things-and-love-mysql-3e1613c2ce14)
 	* [Microsoft SQL versus MySQL](https://www.upwork.com/hiring/data/sql-vs-mysql-which-relational-database-is-right-for-you/)
 	* [SQL Database Performance Tuning](https://www.toptal.com/sql-server/sql-database-tuning-for-developers)
 	* [Scaling PostgreSQL Using CUDA](http://highscalability.com/blog/2009/5/28/scaling-postgresql-using-cuda.html)
