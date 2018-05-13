@@ -568,8 +568,9 @@ An updated and curated list of selected readings to illustrate best practices in
 	* [Building a Modern Bank Backend at Monzo](https://monzo.com/blog/2016/09/19/building-a-modern-bank-backend/)
 	* [Choosing an Architecture for Core Banking System at TrustBK](https://blog.trustbk.com/choosing-an-architecture-85750e1e5a03)
 	* [Reinventing the Trading Platform for Scale at Wealthsimple](https://medium.com/@Wealthsimple/engineering-at-wealthsimple-reinventing-our-trading-platform-for-scale-17e332241b6c)
-	* [Tech Stack at TransferWise](http://tech.transferwise.com/the-transferwise-stack-heartbeat-of-our-little-revolution/)
 	* [Architecture of Nubank](https://www.infoq.com/presentations/nubank-architecture)
+	* [Tech Stack at TransferWise](http://tech.transferwise.com/the-transferwise-stack-heartbeat-of-our-little-revolution/)
+	* [Tech Stack at Addepar](https://medium.com/build-addepar/our-tech-stack-a4f55dab4b0d)
 
 ## Interview
 * [Designing Large-Scale Systems](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
@@ -649,4 +650,4 @@ An updated and curated list of selected readings to illustrate best practices in
 
 [![CC-BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-This repo is continuously crafted and revised by [Binh Nguyen](https://www.linkedin.com/in/binhnguyennus/), a knowledge hungry engineer and firm believer in practice. Feel free to use it to your convenience. Thank You and Happy Coding :heart: 
+This repo is continuously crafted and revised by [Binh Nguyen](https://www.linkedin.com/in/binhnguyennus/), a knowledge hungry engineer and a firm believer in practice. Feel free to use it to your convenience! Thank You and Happy Coding :heart: 
