@@ -31,6 +31,7 @@ An updated and curated list of selected readings to illustrate best practices in
 
 ## Principles
 * [Designs, Lessons and Advice from Building Large Distributed Systems - Jeff Dean, Google](https://www.cs.cornell.edu/projects/ladis2009/talks/dean-keynote-ladis2009.pdf)
+* [How To Design A Good API and Why it Matters - Joshua Bloch](https://www.infoq.com/presentations/effective-api-design)
 * [On Efficiency, Reliability, Scaling - James Hamilton, VP at AWS](http://mvdirona.com/jrh/work/)
 * [Things to Keep in Mind When Building a Platform for the Enterprise - Heidi Williams, VP Platform at Box](https://blog.box.com/blog/4-things-to-keep-in-mind-when-building-a-platform-for-the-enterprise/)
 * [Principles of Chaos Engineering](https://www.usenix.org/conference/srecon17americas/program/presentation/rosenthal)
@@ -81,8 +82,8 @@ An updated and curated list of selected readings to illustrate best practices in
 * [AWS Do's and Don'ts](https://8thlight.com/blog/sarah-sunday/2017/09/15/aws-dos-and-donts.html)
 * [(UI) Design Doesn’t Scale - Stanley Wood, Design Director at Spotify](https://medium.com/@hellostanley/design-doesnt-scale-4d81e12cbc3e)
 * [Linux Performance](http://www.brendangregg.com/linuxperf.html)
-* [How To Design A Good API and Why it Matters - Joshua Bloch](https://www.infoq.com/presentations/effective-api-design)
 * [Building Fast & Resilient Web Applications - Ilya Grigorik](https://www.igvita.com/2016/05/20/building-fast-and-resilient-web-applications/)
+* [Accept Partial Failures, Minimize Service Loss](https://www.usenix.org/conference/srecon17asia/program/presentation/wang_daxin)
 * [RACI (Responsible, Accountable, Consulted, Informed) at Etsy](https://codeascraft.com/2018/01/04/selecting-a-cloud-provider/)
 * [Design for Loose-coupling](http://bulgerpartners.com/how-loosely-coupled-architectures-are-helping-the-modernization-of-legacy-software/)
 * [Design for Resiliency](http://highscalability.com/blog/2012/12/31/designing-for-resiliency-will-be-so-2013.html)
