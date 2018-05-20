@@ -172,6 +172,7 @@ An updated and curated list of selected readings to illustrate best practices in
 	* [Athenz: Fine-Grained, Role-Based Access Control at Yahoo](https://yahooeng.tumblr.com/post/160481899076/open-sourcing-athenz-fine-grained-role-based)
 	* [WebAuthn Support for Secure Sign In at Dropbox](https://blogs.dropbox.com/tech/2018/05/introducing-webauthn-support-for-secure-dropbox-sign-in/)
 	* [Job-based Forecasting Workflow for Observability Anomaly Detection at Uber](https://eng.uber.com/observability-anomaly-detection/)
+	* [Smart Monitoring System for Anomaly Detection on Business Trends at Alibaba](https://www.usenix.org/conference/srecon17asia/program/presentation/wang)
 * [Distributed Messaging, Queuing, and Event Streaming](https://arxiv.org/pdf/1704.00411.pdf)
 	* [Samza: Stream Processing System for Latency Insighs at LinkedIn](https://engineering.linkedin.com/blog/2018/04/samza-aeon--latency-insights-for-asynchronous-one-way-flows)
 	* [Delaying Asynchronous Message Processing with RabbitMQ at Indeed](http://engineering.indeedblog.com/blog/2017/06/delaying-messages/)	
