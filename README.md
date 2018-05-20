@@ -134,6 +134,7 @@ An updated and curated list of selected readings to illustrate best practices in
 	* [Scaling Live Streaming for Large Events (with Distributed Cache) at Hulu](https://medium.com/hulu-tech-blog/scaling-hulu-live-streaming-for-large-events-march-madness-and-beyond-bedd73874f2)
 	* [Estimating the Cache Efficiency using Big Data at Allegro](https://allegro.tech/2017/01/estimating-the-cache-efficiency-using-big-data.html)
 	* [Caching (with Hashing) at Zenefits](https://engineering.zenefits.com/2016/02/basic-infrastructure-patterns/)
+	* [Distributed Cache (Akka, Kubernetes) at Zalando](https://jobs.zalando.com/tech/blog/distributed-cache-akka-kubernetes/)
 * [Distributed Tracking and Tracing](https://www.oreilly.com/ideas/understanding-the-value-of-distributed-tracing)
 	* [Tracking Service Infrastructure at Scale at Shopify](https://www.usenix.org/conference/srecon17americas/program/presentation/arthorne)
 	* [Distributed Tracing with Pintrace at Pinterest](https://medium.com/@Pinterest_Engineering/distributed-tracing-at-pinterest-with-new-open-source-tools-a4f8a5562f6b)
