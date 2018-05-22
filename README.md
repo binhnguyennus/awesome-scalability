@@ -182,6 +182,7 @@ An updated and curated list of selected readings to illustrate best practices in
 	* [Cherami: Message Queue System for Transporting Async Tasks at Uber](https://eng.uber.com/cherami/)
 	* [Messaging Service at Riot Games](https://engineering.riotgames.com/news/riot-messaging-service)
 	* [Event Stream Analytics with Druid (Search Engine meet Column DB) at Walmart](https://medium.com/walmartlabs/event-stream-analytics-at-walmart-with-druid-dcf1a37ceda7)	
+	* [Debugging Production with Event Logging at Zillow](https://www.zillow.com/engineering/debugging-production-event-logging/)
 	* [Kafka the Message Broker](https://martin.kleppmann.com/papers/kafka-debull15.pdf)
 		* [When to use RabbitMQ or Kafka](https://content.pivotal.io/blog/understanding-when-to-use-rabbitmq-or-apache-kafka)		
 		* [Kafka at Scale at LinkedIn](https://engineering.linkedin.com/kafka/running-kafka-scale)
