@@ -570,6 +570,7 @@ An updated and curated list of selected readings to illustrate best practices in
 * [Distributed Cron at Quora](https://engineering.quora.com/Quoras-Distributed-Cron-Architecture)
 * [Real-Time Presence Platform at LinkedIn](https://engineering.linkedin.com/blog/2018/01/now-you-see-me--now-you-dont--linkedins-real-time-presence-platf)
 * [Simone: Distributed Simulation Service at Netflix](https://medium.com/netflix-techblog/https-medium-com-netflix-techblog-simone-a-distributed-simulation-service-b2c85131ca1b)
+* [Zuul: Edge Service for Dynamic Routing, Monitoring, Resiliency, Security, etc at Netflix](https://medium.com/netflix-techblog/open-sourcing-zuul-2-82ea476cb2b3)
 * [Seagull: Distributed System that Helps Running > 20 Million Tests Per Day at Yelp](https://engineeringblog.yelp.com/2017/04/how-yelp-runs-millions-of-tests-every-day.html)
 * [MySQL Realtime Traffic Emulator at KakaoTalk](http://tech.kakao.com/2016/02/16/opensource-2-mtre/)
 * [Data Visualisation Platform at Myntra](https://medium.com/myntra-engineering/universal-dashboarding-platform-udp-data-visualisation-platform-at-myntra-5f2522fcf72d)
