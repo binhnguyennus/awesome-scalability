@@ -497,6 +497,7 @@ An updated and curated list of selected readings to illustrate best practices in
 	* [Python Garbage Collection for Dropping 50% Memory Growth Per Request at Instagram](https://instagram-engineering.com/copy-on-write-friendly-python-garbage-collection-ad6ed5233ddf)
 	* [Performance Impact of Removing Out of Band Garbage Collector (OOBGC) at Github](https://githubengineering.com/removing-oobgc/)	
 	* [Using Java Large Heap (110 GB) at Expedia](https://techblog.expedia.com/2015/09/25/solving-problems-with-very-large-java-heaps/)
+	* [Debugging Java Memory Leaks at Allegro](https://allegro.tech/2018/05/a-comedy-of-errors-debugging-java-memory-leaks.html)
 	* [Optimizing JVM at Alibaba](https://www.youtube.com/watch?v=X4tmr3nhZRg)
 * [Performance Optimization on Video, Image, Page Load](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
 	* [Optimizing 360 Photos at Scale at Facebook](https://code.facebook.com/posts/129055711052260/optimizing-360-photos-at-scale/)
