@@ -564,6 +564,7 @@ An updated and curated list of selected readings to illustrate best practices in
 ## Architectures
 * [Systems We Make](https://systemswemake.com/)
 * [Tech Stack (2 parts) at Uber](https://eng.uber.com/tech-stack-part-two/)
+* [Building Services (2 parts) at Airbnb](https://medium.com/airbnb-engineering/building-services-at-airbnb-part-2-142be1c5d506)
 * [API Platform at Riot Games](https://engineering.riotgames.com/news/riot-games-api-deep-dive)
 * [Back-end (Multi-tier Service Oriented Architecture) at LinkedIn](https://engineering.linkedin.com/architecture/brief-history-scaling-linkedin)
 * [Back-end at Flickr](https://yahooeng.tumblr.com/post/157200523046/introducing-tripod-flickrs-backend-refactored)
