@@ -109,7 +109,6 @@ An updated and curated list of selected readings to illustrate best practices in
 	* [Organize Monolith Before Breaking it into Services at Weebly](https://medium.com/weebly-engineering/how-to-organize-your-monolith-before-breaking-it-into-services-69cbdb9248b0)
 	* [Lessons learned running Docker in production at Treehouse](https://medium.com/treehouse-engineering/lessons-learned-running-docker-in-production-5dce99ece770)
 	* [Inside a SoundCloud Microservice](https://developers.soundcloud.com/blog/inside-a-soundcloud-microservice)
-	* [Microservices at BlaBlaCar](http://blablatech.com/blog/micro-service-at-blablacar)
 	* [Operate Kubernetes Reliably at Stripe](https://stripe.com/blog/operating-kubernetes)
 	* [Kubernetes Traffic Routing (2 parts) at Rakuten](https://techblog.rakuten.co.jp/2017/09/28/k8s-routing2/)
 	* [Agrarian-Scale Kubernetes (3 parts) at New York Times](https://open.nytimes.com/agrarian-scale-kubernetes-part-3-ee459887ed7e)
