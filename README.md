@@ -315,6 +315,7 @@ An updated and curated list of selected readings to illustrate best practices in
 		* [Learn Redis the hard way (in production) at Trivago](http://tech.trivago.com/2017/01/25/learn-redis-the-hard-way-in-production/)
 		* [Optimizing Session Key Storage in Redis at Deliveroo](https://deliveroo.engineering/2016/10/07/optimising-session-key-storage.html)
 		* [Optimizing Redis Storage at Deliveroo](https://deliveroo.engineering/2017/01/19/optimising-membership-queries.html)		
+		* [Memory Optimization in Redis at Wattpad](http://engineering.wattpad.com/post/23244724794/store-more-stuff-memory-optimization-in-redis)
 * [Time Series Databases (TSDB)](https://www.influxdata.com/time-series-database/)
 	* [What is Time-Series Data & Why We Need a Time-Series Database](https://blog.timescale.com/what-the-heck-is-time-series-data-and-why-do-i-need-a-time-series-database-dcf3b1b18563)
 	* [Time Series Data: Why and How to Use a Relational Database instead of NoSQL](https://blog.timescale.com/time-series-data-why-and-how-to-use-a-relational-database-instead-of-nosql-d0cd6975e87c)
