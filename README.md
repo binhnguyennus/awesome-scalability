@@ -542,6 +542,7 @@ An updated and curated list of selected readings to illustrate best practices in
 	* [Horovod: Open Source Distributed Deep Learning Framework for TensorFlow at Uber](https://eng.uber.com/horovod/)
 	* [COTA: Improving Customer Care with NLP & Machine Learning at Uber](https://eng.uber.com/cota/)	
 	* [Repo-Topix: Topic Extraction Framework at Github](https://githubengineering.com/topics/)
+	* [Concourse: Generating Personalized Content Notifications in Near-Real-Time at LinkedIn](https://engineering.linkedin.com/blog/2018/05/concourse--generating-personalized-content-notifications-in-near)
 	* [Scaling Gradient Boosted Trees for Click-Through-Rate Prediction at Yelp](https://engineeringblog.yelp.com/2018/01/building-a-distributed-ml-pipeline-part1.html)	
 	* [Learning with Privacy at Scale at Apple](https://machinelearning.apple.com/2017/12/06/learning-with-privacy-at-scale.html)
 	* [Deep Learning for Image Classification Experiment at Mercari](https://medium.com/mercari-engineering/mercaris-image-classification-experiment-using-deep-learning-9b4e994a18ec)
