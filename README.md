@@ -570,6 +570,7 @@ An updated and curated list of selected readings to illustrate best practices in
 	* [Deep Learning from Prototype to Production at Taboola](http://engineering.taboola.com/deep-learning-from-prototype-to-production/)
 	* [Atom Smashing using Machine Learning at CERN](https://cdn.oreillystatic.com/en/assets/1/event/144/Atom%20smashing%20using%20machine%20learning%20at%20CERN%20Presentation.pdf)
 	* [Mapping Tags at Medium](https://medium.engineering/mapping-mediums-tags-1b9a78d77cf0)
+	* [Clustering with the Dirichlet Process Mixture Model in Scala at Monsanto](http://engineering.monsanto.com/2015/11/23/chinese-restaurant-process/)
 
 ## Architectures
 * [Systems We Make](https://systemswemake.com/)
@@ -675,4 +676,4 @@ An updated and curated list of selected readings to illustrate best practices in
 
 [![CC-BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-This repo is created and maintained by [Binh Nguyen](http://binhnguyennus.com/). Feel free to use it to your convenience! Thank You and Happy Coding :heart: 
+This repo is created and maintained by [Binh Nguyen](http://binhnguyennus.com/). Feel free to use it at your convenience! Thanks and Happy Coding :heart: 
