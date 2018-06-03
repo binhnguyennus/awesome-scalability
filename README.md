@@ -221,6 +221,7 @@ An updated and curated list of selected readings to illustrate best practices in
 		* [Distributed Troubleshooting Platform with ELK Stack at Target.com](http://target.github.io/infrastructure/distributed-troubleshooting)
 		* [ELK at Robinhood](https://robinhood.engineering/taming-elk-4e1349f077c3)
 		* [Log Parsing with Logstash and Google Protocol Buffers at Trivago](https://tech.trivago.com/2016/01/19/logstash_protobuf_codec/)
+		* [Fast Order Search using Data Pipeline and Elasticsearch at Yelp](https://engineeringblog.yelp.com/2018/06/fast-order-search.html)
 * [Distributed Storage](http://highscalability.com/blog/2011/11/1/finding-the-right-data-solution-for-your-application-in-the.html)
 	* [In-memory Storage](https://medium.com/@denisanikin/what-an-in-memory-database-is-and-how-it-persists-data-efficiently-f43868cff4c1)
 		* [Introduction to In-memory Data - Viktor Gamov, Solutions Architect at Hazelcast](https://www.infoq.com/presentations/in-memory-data)
