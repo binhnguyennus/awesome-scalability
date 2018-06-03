@@ -519,7 +519,6 @@ An updated and curated list of selected readings to illustrate best practices in
 
 ## Intelligence
 * [Big Data](https://insights.sei.cmu.edu/sei_blog/2017/05/reference-architectures-for-big-data-systems.html)	
-	* [Cloud Big Data Design Patterns - Lynn Langit](https://lynnlangit.com/2017/03/14/beyond-relational/)	
 	* [Data Platform at Netflix](https://www.youtube.com/watch?v=CSDIThSwA7s)
 	* [Data Platform at Flipkart](https://tech.flipkart.com/overview-of-flipkart-data-platform-20c6d3e9a196)
 	* [Data Pipeline Management Platform at Khan Academy](http://engineering.khanacademy.org/posts/khanalytics.htm)
@@ -610,6 +609,7 @@ An updated and curated list of selected readings to illustrate best practices in
 	* [8 Things You Need to Know Before a System Design Interview](http://blog.gainlo.co/index.php/2015/10/22/8-things-you-need-to-know-before-system-design-interviews/)
 	* [Top 10 System Design Interview Questions ](https://hackernoon.com/top-10-system-design-interview-questions-for-software-engineers-8561290f0444)
 	* [Top 10 Common Large-Scale Software Architectural Patterns in a Nutshell](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
+	* [Cloud Big Data Design Patterns - Lynn Langit](https://lynnlangit.com/2017/03/14/beyond-relational/)	
 	* [How NOT to design Netflix in your 45-minute System Design Interview?](https://hackernoon.com/how-not-to-design-netflix-in-your-45-minute-system-design-interview-64953391a054)
 * [Explaining Low-Level Systems (OS, Network/Protocol, Database, Storage)](https://www.palantir.com/how-to-ace-a-systems-design-interview/)	
 	* [OSI and TCP/IP Cheat Sheet](http://jaredheinrichs.com/mastering-the-osi-tcpip-models.html)
