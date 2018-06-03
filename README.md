@@ -11,6 +11,9 @@ An updated and curated list of selected readings to illustrate best practices in
 #### If you have an incomming System Design interview :ocean:
 > Look at some [interview notes](#interview) and [real-world architectures with completed diagrams](#architectures) to get a comprehensive view before designing your system on whiteboard. You can check some [talks](#talks) of engineers from tech giants to know how they build, scale, and optimize their systems. There are some selected [books](#books) for you (most of them are free)! Good luck :four_leaf_clover:
 
+#### If you are building your dream team :ferris_wheel:
+> The goal of scaling team is not growing team size but increasing team output and value. The [organization](#organization) section shows how tech companies scale their teams in various aspects: hiring, management, organization, culture, communication.
+
 #### Community Power :mountain_cableway::aerial_tramway::mountain_cableway:
 
 > Contributions are greatly welcome! You may want to take a look at the [contribution guidelines](CONTRIBUTING.md).
@@ -26,6 +29,7 @@ An updated and curated list of selected readings to illustrate best practices in
 - [Intelligence](#intelligence)
 - [Architectures](#architectures)
 - [Interview](#interview)
+- [Organization](#organization)
 - [Talks](#talks)
 - [Books](#books)
 
@@ -620,6 +624,14 @@ An updated and curated list of selected readings to illustrate best practices in
 	* [Monzo: How Peer-To-Peer Payments Work](https://monzo.com/blog/2018/04/05/how-monzo-to-monzo-payments-work/)
 	* [Transit and Peering: How Your Requests Reach GitHub](https://githubengineering.com/transit-and-peering-how-your-requests-reach-github/)
 	* [How Expedia Finds your Flights: A Detailed View](https://techblog.expedia.com/2016/03/07/how-expedia-finds-flights-a-detailed-view/)
+
+## Organization
+* [Engineering Levels at SoundCloud](https://developers.soundcloud.com/blog/engineering-levels)
+* [Scaling Engineering Teams at Twitter](https://www.youtube.com/watch?v=-PXi_7Ld5kU)
+* [Scaling Decision-Making Across Teams at LinkedIn](https://engineering.linkedin.com/blog/2018/03/scaling-decision-making-across-teams-within-linkedin-engineering)
+* [Scaling Data Science Team at GOJEK](https://blog.gojekengineering.com/the-dynamics-of-scaling-an-organisation-cb96dbe8aecd)
+* [Scaling Agile at Zalando](https://jobs.zalando.com/tech/blog/scaling-agile-zalando/?gh_src=4n3gxh1)
+* [Lessons Learned from Scaling a Product Team at Intercom](https://blog.intercom.com/how-we-build-software/)	
 
 ## Talks
 * [Distributed Systems in One Lesson - Tim Berglund, Senior Director of Developer Experience at Confluent](https://www.youtube.com/watch?v=Y6Ev8GIlbxc)
