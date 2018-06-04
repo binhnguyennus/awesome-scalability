@@ -11,6 +11,9 @@ An updated and curated list of selected readings to illustrate best practices in
 #### If you have an incomming System Design interview :ocean:
 > Look at some [interview notes](#interview) and [real-world architectures with completed diagrams](#architectures) to get a comprehensive view before designing your system on whiteboard. You can check some [talks](#talks) of engineers from tech giants to know how they build, scale, and optimize their systems. There are some selected [books](#books) for you (most of them are free)! Good luck :four_leaf_clover:
 
+#### If you are building your dream team :ferris_wheel:
+> The goal of scaling team is not growing team size but increasing team output and value. The [organization](#organization) section shows how tech companies scale their teams in various aspects: hiring, management, organization, culture, communication.
+
 #### Community Power :mountain_cableway::aerial_tramway::mountain_cableway:
 
 > Contributions are greatly welcome! You may want to take a look at the [contribution guidelines](CONTRIBUTING.md).
@@ -26,12 +29,13 @@ An updated and curated list of selected readings to illustrate best practices in
 - [Intelligence](#intelligence)
 - [Architectures](#architectures)
 - [Interview](#interview)
+- [Organization](#organization)
 - [Talks](#talks)
 - [Books](#books)
 
 ## Principles
 * [Designs, Lessons and Advice from Building Large Distributed Systems - Jeff Dean, Google](https://www.cs.cornell.edu/projects/ladis2009/talks/dean-keynote-ladis2009.pdf)
-* [How To Design A Good API and Why it Matters - Joshua Bloch](https://www.infoq.com/presentations/effective-api-design)
+* [How To Design A Good API and Why it Matters - Joshua Bloch, CMU & Google](https://www.infoq.com/presentations/effective-api-design)
 * [On Efficiency, Reliability, Scaling - James Hamilton, VP at AWS](http://mvdirona.com/jrh/work/)
 * [Things to Keep in Mind When Building a Platform for the Enterprise - Heidi Williams, VP Platform at Box](https://blog.box.com/blog/4-things-to-keep-in-mind-when-building-a-platform-for-the-enterprise/)
 * [Principles of Chaos Engineering](https://www.usenix.org/conference/srecon17americas/program/presentation/rosenthal)
@@ -45,6 +49,7 @@ An updated and curated list of selected readings to illustrate best practices in
 * [Scale Up vs Scale Out](https://www.brianjgraf.com/2013/05/17/scalability-scale-up-scale-out-care/)
 * [Scale Up vs Scale Out: Hidden Costs](https://blog.codinghorror.com/scaling-up-vs-scaling-out-hidden-costs/)
 * [Best Practices for Scaling Out](https://blog.openshift.com/best-practices-for-horizontal-application-scaling/)
+* [Best Practices for Continuous Delivery](https://techblog.rakuten.co.jp/2018/02/06/cd-the-best-practice/)
 * [ACID and BASE](https://neo4j.com/blog/acid-vs-base-consistency-models-explained/)
 * [Blocking/Non-Blocking and Sync/Async](https://blogs.msdn.microsoft.com/csliu/2009/08/27/io-concept-blockingnon-blocking-vs-syncasync/)
 * [Performance and Scalability of Databases](https://use-the-index-luke.com/sql/testing-scalability)
@@ -57,7 +62,7 @@ An updated and curated list of selected readings to illustrate best practices in
 * [Consistent Hashing](http://www.tom-e-white.com/2007/11/consistent-hashing.html)
 * [Consistent Hashing: Algorithmic Tradeoffs](https://medium.com/@dgryski/consistent-hashing-algorithmic-tradeoffs-ef6b8e2fcae8)
 * [Don’t be tricked by the Hashing Trick](https://booking.ai/dont-be-tricked-by-the-hashing-trick-192a6aae3087)
-* [Uniform Consistent Hashing (used at Netflix)](https://medium.com/netflix-techblog/distributing-content-to-open-connect-3e3e391d4dc9)
+* [Uniform Consistent Hashing at Netflix](https://medium.com/netflix-techblog/distributing-content-to-open-connect-3e3e391d4dc9)
 * [Eventually Consistent - Werner Vogels, CTO at Amazon](https://www.allthingsdistributed.com/2008/12/eventually_consistent.html)
 * [Cache is King](https://www.stevesouders.com/blog/2012/10/11/cache-is-king/)
 * [Anti-Caching](http://the-paper-trail.org/blog/paper-notes-anti-caching/)
@@ -78,7 +83,7 @@ An updated and curated list of selected readings to illustrate best practices in
 * [Make Performance Part of Your Workflow](https://codeascraft.com/2014/12/11/make-performance-part-of-your-workflow/)
 * [The Benefits of Server Side Rendering over Client Side Rendering](https://medium.com/walmartlabs/the-benefits-of-server-side-rendering-over-client-side-rendering-5d07ff2cefe8)
 * [Writing Code that Scales](https://blog.rackspace.com/writing-code-that-scales)
-* [Automate and Abstract: Lessons from Facebook on Engineering for Scale](https://architecht.io/lessons-from-facebook-on-engineering-for-scale-f5716f0afc7a)
+* [Automate and Abstract: Lessons at Facebook](https://architecht.io/lessons-from-facebook-on-engineering-for-scale-f5716f0afc7a)
 * [AWS Do's and Don'ts](https://8thlight.com/blog/sarah-sunday/2017/09/15/aws-dos-and-donts.html)
 * [(UI) Design Doesn’t Scale - Stanley Wood, Design Director at Spotify](https://medium.com/@hellostanley/design-doesnt-scale-4d81e12cbc3e)
 * [Linux Performance](http://www.brendangregg.com/linuxperf.html)
@@ -178,6 +183,7 @@ An updated and curated list of selected readings to illustrate best practices in
 	* [Samza: Stream Processing System for Latency Insighs at LinkedIn](https://engineering.linkedin.com/blog/2018/04/samza-aeon--latency-insights-for-asynchronous-one-way-flows)
 	* [Delaying Asynchronous Message Processing with RabbitMQ at Indeed](http://engineering.indeedblog.com/blog/2017/06/delaying-messages/)	
 	* [Bullet: Forward-Looking Query Engine for Streaming Data at Yahoo](https://yahooeng.tumblr.com/post/161855616651/open-sourcing-bullet-yahoos-forward-looking)
+	* [EventHorizon: Tool for Watching Events Streaming at Etsy](https://codeascraft.com/2018/05/29/the-eventhorizon-saga/)
 	* [Benchmarking Streaming Computation Engines at Yahoo](https://yahooeng.tumblr.com/post/135321837876/benchmarking-streaming-computation-engines-at)
 	* [Cherami: Message Queue System for Transporting Async Tasks at Uber](https://eng.uber.com/cherami/)
 	* [Messaging Service at Riot Games](https://engineering.riotgames.com/news/riot-messaging-service)
@@ -221,6 +227,7 @@ An updated and curated list of selected readings to illustrate best practices in
 		* [Distributed Troubleshooting Platform with ELK Stack at Target.com](http://target.github.io/infrastructure/distributed-troubleshooting)
 		* [ELK at Robinhood](https://robinhood.engineering/taming-elk-4e1349f077c3)
 		* [Log Parsing with Logstash and Google Protocol Buffers at Trivago](https://tech.trivago.com/2016/01/19/logstash_protobuf_codec/)
+		* [Fast Order Search using Data Pipeline and Elasticsearch at Yelp](https://engineeringblog.yelp.com/2018/06/fast-order-search.html)
 * [Distributed Storage](http://highscalability.com/blog/2011/11/1/finding-the-right-data-solution-for-your-application-in-the.html)
 	* [In-memory Storage](https://medium.com/@denisanikin/what-an-in-memory-database-is-and-how-it-persists-data-efficiently-f43868cff4c1)
 		* [Introduction to In-memory Data - Viktor Gamov, Solutions Architect at Hazelcast](https://www.infoq.com/presentations/in-memory-data)
@@ -233,6 +240,7 @@ An updated and curated list of selected readings to illustrate best practices in
 		* [Scaling HDFS at Uber](https://eng.uber.com/scaling-hdfs/)
 		* [Reasons for Choosing S3 over HDFS at Databricks](https://databricks.com/blog/2017/05/31/top-5-reasons-for-choosing-s3-over-hdfs.html)
 		* [Quantcast File System on Amazon S3](https://www.quantcast.com/blog/quantcast-file-system-on-amazon-s3/)
+		* [Data Sink with S3 at Deliveroo](https://deliveroo.engineering/2017/06/15/data-sink.html)
 		* [Using S3 in Netflix Chukwa](https://medium.com/netflix-techblog/evolution-of-the-netflix-data-pipeline-da246ca36905)	
 		* [Yahoo Cloud Object Store - Object Storage at Exabyte Scale](https://yahooeng.tumblr.com/post/116391291701/yahoo-cloud-object-store-object-storage-at)
 		* [Ambry: Distributed Immutable Object Store at LinkedIn](https://www.usenix.org/conference/srecon17americas/program/presentation/shenoy)
@@ -342,7 +350,8 @@ An updated and curated list of selected readings to illustrate best practices in
 * [Load Balancing](https://blog.vivekpanyam.com/scaling-a-web-service-load-balancing/)
 	* [Introduction to Modern Network Load Balancing and Proxying](https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236)
 	* [Load Balancing infrastructure to support more than 1.3 billion users at Facebook](https://www.usenix.org/conference/srecon15europe/program/presentation/shuff)
-	* [DHCPLB: Open Source Load Balancer for DHCP at Facebook](https://code.facebook.com/posts/1734309626831603/dhcplb-an-open-source-load-balancer/)
+	* [DHCPLB: DHCP Load Balancer at Facebook](https://code.facebook.com/posts/1734309626831603/dhcplb-an-open-source-load-balancer/)
+	* [Katran: Scalable Network Load Balancer at Facebook](https://code.facebook.com/posts/1906146702752923/open-sourcing-katran-a-scalable-network-load-balancer/)
 	* [Load Balancing with Eureka at Netflix](https://medium.com/netflix-techblog/netflix-shares-cloud-load-balancing-and-failover-tool-eureka-c10647ef95e5)
 	* [Load Balancing at Yelp](https://engineeringblog.yelp.com/2017/05/taking-zero-downtime-load-balancing-even-further.html)
 	* [Load Balancing at Github](https://githubengineering.com/introducing-glb/)
@@ -513,7 +522,6 @@ An updated and curated list of selected readings to illustrate best practices in
 
 ## Intelligence
 * [Big Data](https://insights.sei.cmu.edu/sei_blog/2017/05/reference-architectures-for-big-data-systems.html)	
-	* [Cloud Big Data Design Patterns - Lynn Langit](https://lynnlangit.com/2017/03/14/beyond-relational/)	
 	* [Data Platform at Netflix](https://www.youtube.com/watch?v=CSDIThSwA7s)
 	* [Data Platform at Flipkart](https://tech.flipkart.com/overview-of-flipkart-data-platform-20c6d3e9a196)
 	* [Data Pipeline Management Platform at Khan Academy](http://engineering.khanacademy.org/posts/khanalytics.htm)
@@ -536,13 +544,14 @@ An updated and curated list of selected readings to illustrate best practices in
 	* [Smart Product Platform at Zalando](https://jobs.zalando.com/tech/blog/zalando-smart-product-platform/?gh_src=4n3gxh1)
 	* [Log Analysis Platform at LINE](https://www.slideshare.net/wyukawa/strata2017-sg)
 * [Distributed Machine Learning](https://www.csie.ntu.edu.tw/~cjlin/talks/bigdata-bilbao.pdf)
-	* [AIOps in Practice at Baidu](https://www.usenix.org/conference/srecon17asia/program/presentation/qu)
-	* [Scalable Deep Learning Platform on Spark at Baidu](https://www.slideshare.net/JenAman/scalable-deep-learning-platform-on-spark-in-baidu)
 	* [Michelangelo: Machine Learning Platform at Uber](https://eng.uber.com/michelangelo/)
 	* [Horovod: Open Source Distributed Deep Learning Framework for TensorFlow at Uber](https://eng.uber.com/horovod/)
 	* [COTA: Improving Customer Care with NLP & Machine Learning at Uber](https://eng.uber.com/cota/)	
 	* [Repo-Topix: Topic Extraction Framework at Github](https://githubengineering.com/topics/)
 	* [Concourse: Generating Personalized Content Notifications in Near-Real-Time at LinkedIn](https://engineering.linkedin.com/blog/2018/05/concourse--generating-personalized-content-notifications-in-near)
+	* [Altus Care: Applying a Chatbot to Platform Engineering at eBay](https://www.ebayinc.com/stories/blogs/tech/altus-care-apply-chatbot-to-ebay-platform-engineering/)
+	* [Box Graph: Spontaneous Social Network at Box](https://blog.box.com/blog/box-graph-how-we-built-spontaneous-social-network/)
+	* [PricingNet: Pricing Modelling with Neural Networks at Skyscanner](https://hackernoon.com/pricingnet-modelling-the-global-airline-industry-with-neural-networks-833844d20ea6)
 	* [Scaling Gradient Boosted Trees for Click-Through-Rate Prediction at Yelp](https://engineeringblog.yelp.com/2018/01/building-a-distributed-ml-pipeline-part1.html)	
 	* [Learning with Privacy at Scale at Apple](https://machinelearning.apple.com/2017/12/06/learning-with-privacy-at-scale.html)
 	* [Deep Learning for Image Classification Experiment at Mercari](https://medium.com/mercari-engineering/mercaris-image-classification-experiment-using-deep-learning-9b4e994a18ec)
@@ -555,11 +564,9 @@ An updated and curated list of selected readings to illustrate best practices in
 	* [Mapping the World of Music Using Machine Learning (2 parts) at iHeartRadio](https://tech.iheart.com/mapping-the-world-of-music-using-machine-learning-part-2-aa50b6a0304c)
 	* [Venue Rating System at Foursquare](https://engineering.foursquare.com/finding-the-perfect-10-how-we-developed-the-foursquare-venue-rating-system-c76b08f7b9b3)
 	* [Using Machine Learning to Improve Streaming Quality at Netflix](https://medium.com/netflix-techblog/using-machine-learning-to-improve-streaming-quality-at-netflix-9651263ef09f)
-	* [Box Graph: Spontaneous Social Network at Box](https://blog.box.com/blog/box-graph-how-we-built-spontaneous-social-network/)
 	* [Improving Video Thumbnails with Deep Neural Nets at YouTube](https://youtube-eng.googleblog.com/2015/10/improving-youtube-video-thumbnails-with_8.html)
 	* [Quantile Regression for Delivering On Time at Instacart](https://tech.instacart.com/how-instacart-delivers-on-time-using-quantile-regression-2383e2e03edb)
 	* [Cross-Lingual End-to-End Product Search with Deep Learning at Zalando](https://jobs.zalando.com/tech/blog/search-deep-neural-network/)
-	* [PricingNet: Pricing Modelling with Neural Networks at Skyscanner](https://hackernoon.com/pricingnet-modelling-the-global-airline-industry-with-neural-networks-833844d20ea6)
 	* [Machine Learning at Jane Street](https://blog.janestreet.com/real-world-machine-learning-part-1/)
 	* [Machine Learning for Ranking Answers End-to-End at Quora](https://engineering.quora.com/A-Machine-Learning-Approach-to-Ranking-Answers-on-Quora)
 	* [Clustering Similar Stories Using LDA at Flipboard](http://engineering.flipboard.com/2017/02/storyclustering)
@@ -568,6 +575,7 @@ An updated and curated list of selected readings to illustrate best practices in
 	* [Deep Learning from Prototype to Production at Taboola](http://engineering.taboola.com/deep-learning-from-prototype-to-production/)
 	* [Atom Smashing using Machine Learning at CERN](https://cdn.oreillystatic.com/en/assets/1/event/144/Atom%20smashing%20using%20machine%20learning%20at%20CERN%20Presentation.pdf)
 	* [Mapping Tags at Medium](https://medium.engineering/mapping-mediums-tags-1b9a78d77cf0)
+	* [Clustering with the Dirichlet Process Mixture Model in Scala at Monsanto](http://engineering.monsanto.com/2015/11/23/chinese-restaurant-process/)
 
 ## Architectures
 * [Systems We Make](https://systemswemake.com/)
@@ -604,6 +612,7 @@ An updated and curated list of selected readings to illustrate best practices in
 	* [8 Things You Need to Know Before a System Design Interview](http://blog.gainlo.co/index.php/2015/10/22/8-things-you-need-to-know-before-system-design-interviews/)
 	* [Top 10 System Design Interview Questions ](https://hackernoon.com/top-10-system-design-interview-questions-for-software-engineers-8561290f0444)
 	* [Top 10 Common Large-Scale Software Architectural Patterns in a Nutshell](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
+	* [Cloud Big Data Design Patterns - Lynn Langit](https://lynnlangit.com/2017/03/14/beyond-relational/)	
 	* [How NOT to design Netflix in your 45-minute System Design Interview?](https://hackernoon.com/how-not-to-design-netflix-in-your-45-minute-system-design-interview-64953391a054)
 * [Explaining Low-Level Systems (OS, Network/Protocol, Database, Storage)](https://www.palantir.com/how-to-ace-a-systems-design-interview/)	
 	* [OSI and TCP/IP Cheat Sheet](http://jaredheinrichs.com/mastering-the-osi-tcpip-models.html)
@@ -617,6 +626,14 @@ An updated and curated list of selected readings to illustrate best practices in
 	* [Monzo: How Peer-To-Peer Payments Work](https://monzo.com/blog/2018/04/05/how-monzo-to-monzo-payments-work/)
 	* [Transit and Peering: How Your Requests Reach GitHub](https://githubengineering.com/transit-and-peering-how-your-requests-reach-github/)
 	* [How Expedia Finds your Flights: A Detailed View](https://techblog.expedia.com/2016/03/07/how-expedia-finds-flights-a-detailed-view/)
+
+## Organization
+* [Engineering Levels at SoundCloud](https://developers.soundcloud.com/blog/engineering-levels)
+* [Scaling Engineering Teams at Twitter](https://www.youtube.com/watch?v=-PXi_7Ld5kU)
+* [Scaling Decision-Making Across Teams at LinkedIn](https://engineering.linkedin.com/blog/2018/03/scaling-decision-making-across-teams-within-linkedin-engineering)
+* [Scaling Data Science Team at GOJEK](https://blog.gojekengineering.com/the-dynamics-of-scaling-an-organisation-cb96dbe8aecd)
+* [Scaling Agile at Zalando](https://jobs.zalando.com/tech/blog/scaling-agile-zalando/?gh_src=4n3gxh1)
+* [Lessons Learned from Scaling a Product Team at Intercom](https://blog.intercom.com/how-we-build-software/)	
 
 ## Talks
 * [Distributed Systems in One Lesson - Tim Berglund, Senior Director of Developer Experience at Confluent](https://www.youtube.com/watch?v=Y6Ev8GIlbxc)
@@ -673,4 +690,4 @@ An updated and curated list of selected readings to illustrate best practices in
 
 [![CC-BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-License for what? Feel free to use it to your convenience! Thank You and Happy Coding :heart: 
+This repo is created and maintained by [Binh Nguyen](http://binhnguyennus.com/). Feel free to use it at your convenience! Thanks and Happy Coding :heart: 
