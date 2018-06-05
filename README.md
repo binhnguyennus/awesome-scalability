@@ -297,6 +297,7 @@ An updated and curated list of selected readings to illustrate best practices in
 		* [Benchmarking Cassandra Scalability on AWS at Netflix](https://medium.com/netflix-techblog/benchmarking-cassandra-scalability-on-aws-over-a-million-writes-per-second-39f45f066c9e)
 		* [Imgur Notification: From MySQL to HBASE at Imgur](https://blog.imgur.com/2015/09/15/tech-tuesday-imgur-notifications-from-mysql-to-hbase/)
 		* [Improving HBase Backup Efficiency at Pinterest](https://medium.com/@Pinterest_Engineering/improving-hbase-backup-efficiency-at-pinterest-86159da4b954)
+		* [HBase Practice at Xiaomi](https://www.slideshare.net/HBaseCon/hbase-practice-at-xiaomi)
 		* [ClickHouse - Open Source Distributed Column Database at Yandex](https://clickhouse.yandex/)
 		* [Scaling Redshift without Scaling Costs at GIPHY](https://engineering.giphy.com/scaling-redshift-without-scaling-costs/)
 		* [Service Decomposition at Scale (with Cassandra) at Intuit QuickBooks](https://quickbooks-engineering.intuit.com/service-decomposition-at-scale-70405ac2f637)
