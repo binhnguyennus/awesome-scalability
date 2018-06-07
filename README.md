@@ -186,6 +186,7 @@ An updated and curated list of selected readings to illustrate best practices in
 	* [EventHorizon: Tool for Watching Events Streaming at Etsy](https://codeascraft.com/2018/05/29/the-eventhorizon-saga/)
 	* [Benchmarking Streaming Computation Engines at Yahoo](https://yahooeng.tumblr.com/post/135321837876/benchmarking-streaming-computation-engines-at)
 	* [Cherami: Message Queue System for Transporting Async Tasks at Uber](https://eng.uber.com/cherami/)
+	* [Qyu: Distributed Task Execution System for Complex Workflows at FindHotel](http://blog.findhotel.net/2018/03/qyu-a-distributed-task-execution-system-for-complex-workflows/)
 	* [Messaging Service at Riot Games](https://engineering.riotgames.com/news/riot-messaging-service)
 	* [Event Stream Analytics with Druid (Search Engine meet Column DB) at Walmart](https://medium.com/walmartlabs/event-stream-analytics-at-walmart-with-druid-dcf1a37ceda7)	
 	* [Debugging Production with Event Logging at Zillow](https://www.zillow.com/engineering/debugging-production-event-logging/)
