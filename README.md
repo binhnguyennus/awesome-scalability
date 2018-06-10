@@ -583,6 +583,7 @@ An updated and curated list of selected readings to illustrate best practices in
 ## Architectures
 * [Systems We Make](https://systemswemake.com/)
 * [Tech Stack (2 parts) at Uber](https://eng.uber.com/tech-stack-part-two/)
+* [Tech Stack at Medium](https://medium.engineering/the-stack-that-helped-medium-drive-2-6-millennia-of-reading-time-e56801f7c492)
 * [Services (2 parts) at Airbnb](https://medium.com/airbnb-engineering/building-services-at-airbnb-part-2-142be1c5d506)
 * [Back-end at LinkedIn](https://engineering.linkedin.com/architecture/brief-history-scaling-linkedin)
 * [Back-end at Flickr](https://yahooeng.tumblr.com/post/157200523046/introducing-tripod-flickrs-backend-refactored)
