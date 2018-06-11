@@ -12,7 +12,7 @@ An updated and curated list of selected readings to illustrate best practices in
 > Look at some [interview notes](#interview) and [real-world architectures with completed diagrams](#architectures) to get a comprehensive view before designing your system on whiteboard. You can check some [talks](#talks) of engineers from tech giants to know how they build, scale, and optimize their systems. There are some selected [books](#books) for you (most of them are free)! Good luck :four_leaf_clover:
 
 #### If you are building your dream team :ferris_wheel:
-> The goal of scaling team is not growing team size but increasing team output and value. The [organization](#organization) section shows how tech companies scale their teams in various aspects: hiring, management, organization, culture, communication.
+> The goal of scaling team is not growing team size but increasing team output and value. The [organization](#organization) section is where you can find out how tech companies reach that goal in various aspects: hiring, management, organization, culture, communication.
 
 #### Community Power :mountain_cableway::aerial_tramway::mountain_cableway:
 
@@ -230,6 +230,7 @@ An updated and curated list of selected readings to illustrate best practices in
 		* [ELK at Robinhood](https://robinhood.engineering/taming-elk-4e1349f077c3)
 		* [Log Parsing with Logstash and Google Protocol Buffers at Trivago](https://tech.trivago.com/2016/01/19/logstash_protobuf_codec/)
 		* [Fast Order Search using Data Pipeline and Elasticsearch at Yelp](https://engineeringblog.yelp.com/2018/06/fast-order-search.html)
+		* [Sharding out Elasticsearch at Vinted](http://engineering.vinted.com/2017/06/05/sharding-out-elasticsearch/)
 * [Distributed Storage](http://highscalability.com/blog/2011/11/1/finding-the-right-data-solution-for-your-application-in-the.html)
 	* [In-memory Storage](https://medium.com/@denisanikin/what-an-in-memory-database-is-and-how-it-persists-data-efficiently-f43868cff4c1)
 		* [Introduction to In-memory Data - Viktor Gamov, Solutions Architect at Hazelcast](https://www.infoq.com/presentations/in-memory-data)
