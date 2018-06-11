@@ -12,7 +12,7 @@ An updated and curated list of selected readings to illustrate best practices in
 > Look at some [interview notes](#interview) and [real-world architectures with completed diagrams](#architectures) to get a comprehensive view before designing your system on whiteboard. You can check some [talks](#talks) of engineers from tech giants to know how they build, scale, and optimize their systems. There are some selected [books](#books) for you (most of them are free)! Good luck :four_leaf_clover:
 
 #### If you are building your dream team :ferris_wheel:
-> The goal of scaling team is not growing team size but increasing team output and value. The [organization](#organization) section shows how tech companies scale their teams in various aspects: hiring, management, organization, culture, communication.
+> The goal of scaling team is not growing team size but increasing team output and value. The [organization](#organization) section is where you can find out how tech companies reach that goal in various aspects: hiring, management, organization, culture, communication.
 
 #### Community Power :mountain_cableway::aerial_tramway::mountain_cableway:
 
@@ -179,6 +179,7 @@ An updated and curated list of selected readings to illustrate best practices in
 	* [Job-based Forecasting Workflow for Observability Anomaly Detection at Uber](https://eng.uber.com/observability-anomaly-detection/)
 	* [Smart Monitoring System for Anomaly Detection on Business Trends at Alibaba](https://www.usenix.org/conference/srecon17asia/program/presentation/wang)
 	* [Security Development Lifecycle (SDL) at Slack](https://slack.engineering/moving-fast-and-securing-things-540e6c5ae58a)
+	* [Unprivileged Container Builds at Kinvolk](https://kinvolk.io/blog/2018/04/towards-unprivileged-container-builds/)
 * [Distributed Messaging, Queuing, and Event Streaming](https://arxiv.org/pdf/1704.00411.pdf)
 	* [Samza: Stream Processing System for Latency Insighs at LinkedIn](https://engineering.linkedin.com/blog/2018/04/samza-aeon--latency-insights-for-asynchronous-one-way-flows)
 	* [Delaying Asynchronous Message Processing with RabbitMQ at Indeed](http://engineering.indeedblog.com/blog/2017/06/delaying-messages/)	
@@ -229,6 +230,7 @@ An updated and curated list of selected readings to illustrate best practices in
 		* [ELK at Robinhood](https://robinhood.engineering/taming-elk-4e1349f077c3)
 		* [Log Parsing with Logstash and Google Protocol Buffers at Trivago](https://tech.trivago.com/2016/01/19/logstash_protobuf_codec/)
 		* [Fast Order Search using Data Pipeline and Elasticsearch at Yelp](https://engineeringblog.yelp.com/2018/06/fast-order-search.html)
+		* [Sharding out Elasticsearch at Vinted](http://engineering.vinted.com/2017/06/05/sharding-out-elasticsearch/)
 * [Distributed Storage](http://highscalability.com/blog/2011/11/1/finding-the-right-data-solution-for-your-application-in-the.html)
 	* [In-memory Storage](https://medium.com/@denisanikin/what-an-in-memory-database-is-and-how-it-persists-data-efficiently-f43868cff4c1)
 		* [Introduction to In-memory Data - Viktor Gamov, Solutions Architect at Hazelcast](https://www.infoq.com/presentations/in-memory-data)
@@ -582,6 +584,7 @@ An updated and curated list of selected readings to illustrate best practices in
 ## Architectures
 * [Systems We Make](https://systemswemake.com/)
 * [Tech Stack (2 parts) at Uber](https://eng.uber.com/tech-stack-part-two/)
+* [Tech Stack at Medium](https://medium.engineering/the-stack-that-helped-medium-drive-2-6-millennia-of-reading-time-e56801f7c492)
 * [Services (2 parts) at Airbnb](https://medium.com/airbnb-engineering/building-services-at-airbnb-part-2-142be1c5d506)
 * [Back-end at LinkedIn](https://engineering.linkedin.com/architecture/brief-history-scaling-linkedin)
 * [Back-end at Flickr](https://yahooeng.tumblr.com/post/157200523046/introducing-tripod-flickrs-backend-refactored)
