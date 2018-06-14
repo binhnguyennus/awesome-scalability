@@ -12,7 +12,7 @@ An updated and curated list of selected readings to illustrate best practices in
 > Look at some [interview notes](#interview) and [real-world architectures with completed diagrams](#architectures) to get a comprehensive view before designing your system on whiteboard. You can check some [talks](#talks) of engineers from tech giants to know how they build, scale, and optimize their systems. There are some selected [books](#books) for you (most of them are free)! Good luck :four_leaf_clover:
 
 #### If you are building your dream team :ferris_wheel:
-> The goal of scaling team is not growing team size but increasing team output and value. The [organization](#organization) section is where you can find out how tech companies reach that goal in various aspects: hiring, management, organization, culture, communication.
+> The goal of scaling team is not growing team size but increasing team output and value. You can find out how tech companies reach that goal in various aspects: hiring, management, organization, culture, and communication in the [organization](#organization) section.
 
 #### Community Power :mountain_cableway::aerial_tramway::mountain_cableway:
 
@@ -328,6 +328,7 @@ An updated and curated list of selected readings to illustrate best practices in
 		* [Optimizing Session Key Storage in Redis at Deliveroo](https://deliveroo.engineering/2016/10/07/optimising-session-key-storage.html)
 		* [Optimizing Redis Storage at Deliveroo](https://deliveroo.engineering/2017/01/19/optimising-membership-queries.html)		
 		* [Memory Optimization in Redis at Wattpad](http://engineering.wattpad.com/post/23244724794/store-more-stuff-memory-optimization-in-redis)
+		* [Sending an e-mail to millions of users (with Redis) at Drivy](https://drivy.engineering/sending-mass-emails/)
 * [Time Series Databases (TSDB)](https://www.influxdata.com/time-series-database/)
 	* [What is Time-Series Data & Why We Need a Time-Series Database](https://blog.timescale.com/what-the-heck-is-time-series-data-and-why-do-i-need-a-time-series-database-dcf3b1b18563)
 	* [Time Series Data: Why and How to Use a Relational Database instead of NoSQL](https://blog.timescale.com/time-series-data-why-and-how-to-use-a-relational-database-instead-of-nosql-d0cd6975e87c)
