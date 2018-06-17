@@ -647,6 +647,7 @@ An updated and curated list of selected readings to illustrate best practices in
 * [Scaling the Design Team at Flexport](https://medium.com/flexport-design/designing-a-design-team-a9a066bc48a5)
 * [Team Model for Scaling a Design System at Salesforce](https://medium.com/salesforce-ux/the-salesforce-team-model-for-scaling-a-design-system-d89c2a2d404b)
 * [Building Analytics Team (4 parts) at Wish](https://medium.com/wish-engineering/scaling-the-analytics-team-at-wish-part-4-recruiting-2a9823b9f5a)
+* [From 2 Founders to 1000 Employees at Transferwise](https://medium.com/transferwise-ideas/from-2-founders-to-1000-employees-how-a-small-scale-startup-grew-into-a-global-community-9f26371a551b)
 
 ## Talk
 * [Distributed Systems in One Lesson - Tim Berglund, Senior Director of Developer Experience at Confluent](https://www.youtube.com/watch?v=Y6Ev8GIlbxc)
