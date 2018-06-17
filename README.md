@@ -643,6 +643,7 @@ An updated and curated list of selected readings to illustrate best practices in
 * [Scaling Agile at Zalando](https://jobs.zalando.com/tech/blog/scaling-agile-zalando/?gh_src=4n3gxh1)
 * [Lessons Learned from Scaling a Product Team at Intercom](https://blog.intercom.com/how-we-build-software/)
 * [Hiring, Managing, and Scaling Engineering Teams at Typeform](https://medium.com/@eleonorazucconi/toby-oliver-cto-typeform-on-hiring-managing-and-scaling-engineering-teams-86bef9e5a708)	
+* [Scaling the Datagram Team at Instagram](https://instagram-engineering.com/scaling-the-datagram-team-fc67bcf9b721)
 
 ## Talks
 * [Distributed Systems in One Lesson - Tim Berglund, Senior Director of Developer Experience at Confluent](https://www.youtube.com/watch?v=Y6Ev8GIlbxc)
