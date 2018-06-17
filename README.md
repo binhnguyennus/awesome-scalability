@@ -646,6 +646,7 @@ An updated and curated list of selected readings to illustrate best practices in
 * [Scaling the Datagram Team at Instagram](https://instagram-engineering.com/scaling-the-datagram-team-fc67bcf9b721)
 * [Scaling the Design Team at Flexport](https://medium.com/flexport-design/designing-a-design-team-a9a066bc48a5)
 * [Team Model for Scaling a Design System at Salesforce](https://medium.com/salesforce-ux/the-salesforce-team-model-for-scaling-a-design-system-d89c2a2d404b)
+* [Building Analytics Team (4 parts) at Wish](https://medium.com/wish-engineering/scaling-the-analytics-team-at-wish-part-4-recruiting-2a9823b9f5a)
 
 ## Talks
 * [Distributed Systems in One Lesson - Tim Berglund, Senior Director of Developer Experience at Confluent](https://www.youtube.com/watch?v=Y6Ev8GIlbxc)
