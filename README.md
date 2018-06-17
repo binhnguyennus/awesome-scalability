@@ -543,6 +543,7 @@ An updated and curated list of selected readings to illustrate best practices in
 	* [RBEA: Real-time Analytics Platform at King](https://techblog.king.com/rbea-scalable-real-time-analytics-king/)
 	* [Gimel: Analytics Data Processing Platform at PayPal](https://www.paypal-engineering.com/2018/04/17/gimel/)
 	* [AthenaX: Streaming Analytics Platform at Uber](https://eng.uber.com/athenax/)
+	* [Metacat: Making Big Data Discoverable and Meaningful at Netflix](https://medium.com/netflix-techblog/metacat-making-big-data-discoverable-and-meaningful-at-netflix-56fb36a53520)
 	* [TensorFlowOnSpark: Distributed Deep Learning on Big Data Clusters at Yahoo](https://yahooeng.tumblr.com/post/157196488076/open-sourcing-tensorflowonspark-distributed-deep)
 	* [CaffeOnSpark: Distributed Deep Learning on Big Data Clusters at Yahoo](https://yahooeng.tumblr.com/post/139916828451/caffeonspark-open-sourced-for-distributed-deep)
 	* [Experimentation Platform at Airbnb](https://medium.com/airbnb-engineering/https-medium-com-jonathan-parks-scaling-erf-23fd17c91166)
