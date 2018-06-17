@@ -581,6 +581,7 @@ An updated and curated list of selected readings to illustrate best practices in
 	* [Atom Smashing using Machine Learning at CERN](https://cdn.oreillystatic.com/en/assets/1/event/144/Atom%20smashing%20using%20machine%20learning%20at%20CERN%20Presentation.pdf)
 	* [Mapping Tags at Medium](https://medium.engineering/mapping-mediums-tags-1b9a78d77cf0)
 	* [Clustering with the Dirichlet Process Mixture Model in Scala at Monsanto](http://engineering.monsanto.com/2015/11/23/chinese-restaurant-process/)
+	* [Map Pins with DBSCAN & Random Forests at Foursquare](https://engineering.foursquare.com/you-are-probably-here-better-map-pins-with-dbscan-random-forests-9d51e8c1964d)
 
 ## Architectures
 * [Systems We Make](https://systemswemake.com/)
