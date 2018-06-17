@@ -3,13 +3,13 @@
 An updated and curated list of selected readings to illustrate best practices in building High Scalability, High Availability, High Stability, High Performance, and High Intelligence back-end systems. Concepts are explained in the articles of prominent engineers and credible references. Case studies are taken from battle-tested systems that serve millions to billions of users.
 
 #### If your back-end went slow :traffic_light:
-> Understand your problems: scalability problem (fast for a single user but slow under heavy load) or performance problem (slow for a single user) by reviewing some [design principles](#principles) and checking how [scalability](#scalability) and [performance](#performance) problems are solved at tech companies. The section of [intelligence](#intelligence) are created for those who work with data and machine learning at big (data) and deep (learning) scale.
+> Understand your problems: scalability problem (fast for a single user but slow under heavy load) or performance problem (slow for a single user) by reviewing some [design principles](#principle) and checking how [scalability](#scalability) and [performance](#performance) problems are solved at tech companies. The section of [intelligence](#intelligence) are created for those who work with data and machine learning at big (data) and deep (learning) scale.
 
 #### If your back-end went down :construction:
 > "Even if you lose all one day, you can build all over again if you retain your calm!" - Thuan Pham, Vietnamese refugee, CTO of Uber Technologies Inc. So, keep calm and mind the [availability](#availability) and [stability](#stability) matters! 
 
 #### If you have an incomming System Design interview :ocean:
-> Look at some [interview notes](#interview) and [real-world architectures with completed diagrams](#architectures) to get a comprehensive view before designing your system on whiteboard. You can check some [talks](#talks) of engineers from tech giants to know how they build, scale, and optimize their systems. There are some selected [books](#books) for you (most of them are free)! Good luck :four_leaf_clover:
+> Look at some [interview notes](#interview) and [real-world architectures with completed diagrams](#architecture) to get a comprehensive view before designing your system on whiteboard. You can check some [talks](#talk) of engineers from tech giants to know how they build, scale, and optimize their systems. There are some selected [books](#book) for you (most of them are free)! Good luck :four_leaf_clover:
 
 #### If you are building your dream team :ferris_wheel:
 > The goal of scaling team is not growing team size but increasing team output and value. You can find out how tech companies reach that goal in various aspects: hiring, management, organization, culture, and communication in the [organization](#organization) section.
@@ -21,19 +21,19 @@ An updated and curated list of selected readings to illustrate best practices in
 > If you find this project helpful, please share on your chat groups, [on Twitter](https://ctt.ec/V8B2p), or [on Weibo](http://t.cn/RnjFLCB) so more people can be helped! Power is gained by sharing knowledge, not hoarding it. Thank you! :hibiscus:
 
 ## Contents
-- [Principles](#principles)
+- [Principle](#principle)
 - [Scalability](#scalability)
 - [Availability](#availability)
 - [Stability](#stability)
 - [Performance](#performance)
 - [Intelligence](#intelligence)
-- [Architectures](#architectures)
+- [Architecture](#architecture)
 - [Interview](#interview)
 - [Organization](#organization)
-- [Talks](#talks)
-- [Books](#books)
+- [Talk](#talk)
+- [Book](#book)
 
-## Principles
+## Principle
 * [Designs, Lessons and Advice from Building Large Distributed Systems - Jeff Dean, Google](https://www.cs.cornell.edu/projects/ladis2009/talks/dean-keynote-ladis2009.pdf)
 * [How To Design A Good API and Why it Matters - Joshua Bloch, CMU & Google](https://www.infoq.com/presentations/effective-api-design)
 * [On Efficiency, Reliability, Scaling - James Hamilton, VP at AWS](http://mvdirona.com/jrh/work/)
@@ -584,7 +584,7 @@ An updated and curated list of selected readings to illustrate best practices in
 	* [Clustering with the Dirichlet Process Mixture Model in Scala at Monsanto](http://engineering.monsanto.com/2015/11/23/chinese-restaurant-process/)
 	* [Map Pins with DBSCAN & Random Forests at Foursquare](https://engineering.foursquare.com/you-are-probably-here-better-map-pins-with-dbscan-random-forests-9d51e8c1964d)
 
-## Architectures
+## Architecture
 * [Systems We Make](https://systemswemake.com/)
 * [Tech Stack (2 parts) at Uber](https://eng.uber.com/tech-stack-part-two/)
 * [Tech Stack at Medium](https://medium.engineering/the-stack-that-helped-medium-drive-2-6-millennia-of-reading-time-e56801f7c492)
@@ -648,7 +648,7 @@ An updated and curated list of selected readings to illustrate best practices in
 * [Team Model for Scaling a Design System at Salesforce](https://medium.com/salesforce-ux/the-salesforce-team-model-for-scaling-a-design-system-d89c2a2d404b)
 * [Building Analytics Team (4 parts) at Wish](https://medium.com/wish-engineering/scaling-the-analytics-team-at-wish-part-4-recruiting-2a9823b9f5a)
 
-## Talks
+## Talk
 * [Distributed Systems in One Lesson - Tim Berglund, Senior Director of Developer Experience at Confluent](https://www.youtube.com/watch?v=Y6Ev8GIlbxc)
 * [Building Real Time Infrastructure at Facebook - Jeff Barber and Shie Erlich, Software Engineer at Facebook](https://www.usenix.org/conference/srecon17americas/program/presentation/erlich)
 * [Building Reliable Social Infrastructure for Google - Marc Alvidrez, Senior Manager at Google](https://www.usenix.org/conference/srecon16/program/presentation/alvidrez)
@@ -684,7 +684,7 @@ An updated and curated list of selected readings to illustrate best practices in
 * [Scaling Counting Infrastructure at Quora - Chun-Ho Hung and Nikhil Gar, SEs at Quora](https://www.infoq.com/presentations/quora-analytics)
 * [Scaling Git at Microsoft - Saeed Noursalehi, Principal Program Manager at Microsoft](https://www.youtube.com/watch?v=g_MPGU_m01s)
 
-## Books
+## Book
 * [Big Data, Web Ops & DevOps Ebooks - O'Reilly (Online - Free)](http://www.oreilly.com/webops/free/)
 * [Google Site Reliability Engineering (Online - Free)](https://landing.google.com/sre/book.html)
 * [Distributed Systems for Fun and Profit (Online - Free)](http://book.mixu.net/distsys/)
