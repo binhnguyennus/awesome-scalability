@@ -649,6 +649,7 @@ An updated and curated list of selected readings to illustrate best practices in
 * [Building Analytics Team (4 parts) at Wish](https://medium.com/wish-engineering/scaling-the-analytics-team-at-wish-part-4-recruiting-2a9823b9f5a)
 * [From 2 Founders to 1000 Employees at Transferwise](https://medium.com/transferwise-ideas/from-2-founders-to-1000-employees-how-a-small-scale-startup-grew-into-a-global-community-9f26371a551b)
 * [Lessons Learned Growing a UX Team from 10 to 170 at Adobe](https://medium.com/thinking-design/lessons-learned-growing-a-ux-team-from-10-to-170-f7b47be02262)
+* [Five Lessons from Scaling at Pinterest](https://medium.com/@sarahtavel/five-lessons-from-scaling-pinterest-6a699a889b08)
 
 ## Talk
 * [Distributed Systems in One Lesson - Tim Berglund, Senior Director of Developer Experience at Confluent](https://www.youtube.com/watch?v=Y6Ev8GIlbxc)
