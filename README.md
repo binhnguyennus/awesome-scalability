@@ -586,6 +586,7 @@ An updated and curated list of selected readings to illustrate best practices in
 	* [Map Pins with DBSCAN & Random Forests at Foursquare](https://engineering.foursquare.com/you-are-probably-here-better-map-pins-with-dbscan-random-forests-9d51e8c1964d)
 	* [Advanced Technologies for Detecting and Preventing Fraud at Uber](https://eng.uber.com/advanced-technologies-detecting-preventing-fraud-uber/)
 	* [Productionizing ML with Workflows at Twitter](https://blog.twitter.com/engineering/en_us/topics/insights/2018/ml-workflows.html)
+	* [GUI Testing Powered by Deep Learning at eBay](https://www.ebayinc.com/stories/blogs/tech/gui-testing-powered-by-deep-learning/)
 
 ## Architecture
 * [Systems We Make](https://systemswemake.com/)
