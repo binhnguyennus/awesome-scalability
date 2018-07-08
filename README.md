@@ -488,6 +488,7 @@ An updated and curated list of selected readings to illustrate best practices in
 * [Steady State: Always Put Logs on Separate Disk](https://docs.microsoft.com/en-us/sql/relational-databases/policy-based-management/place-data-and-log-files-on-separate-drives)
 * [Throttling: Maintain a Steady Pace](http://www.sosp.org/2001/papers/welsh.pdf)
 * [Multi-Clustering: Improving Resiliency and Stability of a Large-scale Monolithic API Service at LinkedIn](https://engineering.linkedin.com/blog/2017/11/improving-resiliency-and-stability-of-a-large-scale-api)
+* [Determinism (4 parts) in League of Legends Server](https://engineering.riotgames.com/news/determinism-league-legends-fixing-divergences)
 
 ## Performance
 * [Performance Optimization on Operating Systems, Databases, Network](https://stackify.com/application-performance-metrics/)
