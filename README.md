@@ -488,6 +488,7 @@ An updated and curated list of selected readings to illustrate best practices in
 * [Steady State: Always Put Logs on Separate Disk](https://docs.microsoft.com/en-us/sql/relational-databases/policy-based-management/place-data-and-log-files-on-separate-drives)
 * [Throttling: Maintain a Steady Pace](http://www.sosp.org/2001/papers/welsh.pdf)
 * [Multi-Clustering: Improving Resiliency and Stability of a Large-scale Monolithic API Service at LinkedIn](https://engineering.linkedin.com/blog/2017/11/improving-resiliency-and-stability-of-a-large-scale-api)
+* [Determinism (4 parts) in League of Legends Server](https://engineering.riotgames.com/news/determinism-league-legends-fixing-divergences)
 
 ## Performance
 * [Performance Optimization on Operating Systems, Databases, Network](https://stackify.com/application-performance-metrics/)
@@ -585,7 +586,8 @@ An updated and curated list of selected readings to illustrate best practices in
 	* [Mapping Tags at Medium](https://medium.engineering/mapping-mediums-tags-1b9a78d77cf0)
 	* [Clustering with the Dirichlet Process Mixture Model in Scala at Monsanto](http://engineering.monsanto.com/2015/11/23/chinese-restaurant-process/)
 	* [Map Pins with DBSCAN & Random Forests at Foursquare](https://engineering.foursquare.com/you-are-probably-here-better-map-pins-with-dbscan-random-forests-9d51e8c1964d)
-	* [Advanced Technologies for Detecting and Preventing Fraud at Uber](https://eng.uber.com/advanced-technologies-detecting-preventing-fraud-uber/)
+	* [Detecting and Preventing Fraud at Uber](https://eng.uber.com/advanced-technologies-detecting-preventing-fraud-uber/)
+	* [Financial Forecasting at Uber](https://eng.uber.com/transforming-financial-forecasting-machine-learning/)
 	* [Productionizing ML with Workflows at Twitter](https://blog.twitter.com/engineering/en_us/topics/insights/2018/ml-workflows.html)
 	* [GUI Testing Powered by Deep Learning at eBay](https://www.ebayinc.com/stories/blogs/tech/gui-testing-powered-by-deep-learning/)
 
