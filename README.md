@@ -387,7 +387,7 @@ An updated and curated list of selected readings to illustrate best practices in
 	* [Message-Passing Concurrency](https://link.springer.com/chapter/10.1007/978-3-642-35170-9_11)
 	* [Software Transactional Memory](https://dl.acm.org/citation.cfm?id=3037750)
 	* [Dataflow Concurrency](http://www.marketwired.com/press-release/java-concurrency-and-scalability-platform-akka-celebrates-fifth-anniversary-1928674.htm)
-	* [Shared-State Concurrency](https://common-lisp.net/project/ssc/darcs/spec/specification.pdf)
+	* [Shared-State Concurrency](https://doc.rust-lang.org/book/second-edition/ch16-03-shared-state.html)
 	* [Concurrency series by Larry Osterman (Principal SDE at Microsoft)](https://social.msdn.microsoft.com/Profile/Larry%2bOsterman%2b%5BMSFT%5D/activity)
 		* [Part 8 – Concurrency for scalability](https://blogs.msdn.microsoft.com/larryosterman/2005/02/28/concurrency-part-8-concurrency-for-scalability/)
 		* [Part 9 - APIs that enable scalable programming](https://blogs.msdn.microsoft.com/larryosterman/2005/03/02/concurrency-part-9-apis-that-enable-scalable-programming/)
