@@ -139,6 +139,7 @@ An updated and curated list of selected readings to illustrate best practices in
 	* [Estimating the Cache Efficiency using Big Data at Allegro](https://allegro.tech/2017/01/estimating-the-cache-efficiency-using-big-data.html)
 	* [Caching (with Hashing) at Zenefits](https://engineering.zenefits.com/2016/02/basic-infrastructure-patterns/)
 	* [Distributed Cache (Akka, Kubernetes) at Zalando](https://jobs.zalando.com/tech/blog/distributed-cache-akka-kubernetes/)
+	* [Application Data Caching from RAM to SSD at NetFlix](https://medium.com/netflix-techblog/evolution-of-application-data-caching-from-ram-to-ssd-a33d6fa7a690)
 * [Distributed Tracking and Tracing](https://www.oreilly.com/ideas/understanding-the-value-of-distributed-tracing)
 	* [Tracking Service Infrastructure at Scale at Shopify](https://www.usenix.org/conference/srecon17americas/program/presentation/arthorne)
 	* [Distributed Tracing with Pintrace at Pinterest](https://medium.com/@Pinterest_Engineering/distributed-tracing-at-pinterest-with-new-open-source-tools-a4f8a5562f6b)
