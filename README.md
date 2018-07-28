@@ -179,6 +179,7 @@ An updated and curated list of selected readings to illustrate best practices in
 	* [Athenz: Fine-Grained, Role-Based Access Control at Yahoo](https://yahooeng.tumblr.com/post/160481899076/open-sourcing-athenz-fine-grained-role-based)
 	* [WebAuthn Support for Secure Sign In at Dropbox](https://blogs.dropbox.com/tech/2018/05/introducing-webauthn-support-for-secure-dropbox-sign-in/)
 	* [Job-based Forecasting Workflow for Observability Anomaly Detection at Uber](https://eng.uber.com/observability-anomaly-detection/)
+	* [Alibaba Monitoring System](https://www.usenix.org/conference/srecon18asia/presentation/xinchi)
 	* [Smart Monitoring System for Anomaly Detection on Business Trends at Alibaba](https://www.usenix.org/conference/srecon17asia/program/presentation/wang)
 	* [Security Development Lifecycle (SDL) at Slack](https://slack.engineering/moving-fast-and-securing-things-540e6c5ae58a)
 	* [Unprivileged Container Builds at Kinvolk](https://kinvolk.io/blog/2018/04/towards-unprivileged-container-builds/)
