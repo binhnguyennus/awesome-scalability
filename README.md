@@ -310,6 +310,7 @@ An updated and curated list of selected readings to illustrate best practices in
 		* [ClickHouse - Open Source Distributed Column Database at Yandex](https://clickhouse.yandex/)
 		* [Scaling Redshift without Scaling Costs at GIPHY](https://engineering.giphy.com/scaling-redshift-without-scaling-costs/)
 		* [Service Decomposition at Scale (with Cassandra) at Intuit QuickBooks](https://quickbooks-engineering.intuit.com/service-decomposition-at-scale-70405ac2f637)
+		* [Cassandra for Keeping Counts In Sync at SoundCloud](https://developers.soundcloud.com/blog/keeping-counts-in-sync)
 	* [Document Databases (MongoDB, SimpleDB, CouchDB)](https://msdn.microsoft.com/en-us/magazine/hh547103.aspx)
 		* [eBay: Building Mission-Critical Multi-Data Center Applications with MongoDB](https://www.mongodb.com/blog/post/ebay-building-mission-critical-multi-data-center-applications-with-mongodb)
 		* [MongoDB at Baidu: Multi-Tenant Cluster Storing 200+ Billion Documents across 160 Shards](https://www.mongodb.com/blog/post/mongodb-at-baidu-powering-100-apps-across-600-nodes-at-pb-scale)
