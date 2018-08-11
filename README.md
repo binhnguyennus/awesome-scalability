@@ -1,4 +1,4 @@
-# High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs
+# High Scalability, High Availability, High Stability, High Performance, and High Intelligence System Design Patterns
 
 An updated and curated list of selected readings to illustrate best practices in building High Scalability, High Availability, High Stability, High Performance, and High Intelligence back-end systems. Concepts are explained in the articles of prominent engineers and credible references. Case studies are taken from battle-tested systems that serve millions to billions of users.
 
@@ -532,6 +532,7 @@ An updated and curated list of selected readings to illustrate best practices in
 	* [Improving GIF Performance at Pinterest](https://medium.com/@Pinterest_Engineering/improving-gif-performance-on-pinterest-8dad74bf92f1)
 	* [Optimizing Video Playback Performance at Pinterest](https://medium.com/@Pinterest_Engineering/optimizing-video-playback-performance-caf55ce310d1)
 	* [Optimizing Video Stream for Low Bandwidth with Dynamic Optimizer at Netflix](https://medium.com/netflix-techblog/optimized-shot-based-encodes-now-streaming-4b9464204830)
+	* [Adaptive Video Streaming at YouTube](https://youtube-eng.googleblog.com/2018/04/making-high-quality-video-efficient.html)
 	* [Reducing Video Loading Time by Prefetching during Preroll at Dailymotion](http://engineering.dailymotion.com/reducing-video-loading-time-prefetching-video-during-preroll/)
 	* [Improving Homepage Performance at Zillow](https://www.zillow.com/engineering/improving-homepage-performance/)
 	* [The Process of Optimizing for Client Performance at Expedia](https://techblog.expedia.com/2018/03/09/go-fast-or-go-home-the-process-of-optimizing-for-client-performance/)
