@@ -335,6 +335,7 @@ An updated and curated list of selected readings to illustrate best practices in
 		* [Optimizing Redis Storage at Deliveroo](https://deliveroo.engineering/2017/01/19/optimising-membership-queries.html)		
 		* [Memory Optimization in Redis at Wattpad](http://engineering.wattpad.com/post/23244724794/store-more-stuff-memory-optimization-in-redis)
 		* [Sending an e-mail to millions of users (with Redis) at Drivy](https://drivy.engineering/sending-mass-emails/)
+		* [Redis Fleet at Heroku](https://blog.heroku.com/rolling-redis-fleet)
 * [Time Series Databases (TSDB)](https://www.influxdata.com/time-series-database/)
 	* [What is Time-Series Data & Why We Need a Time-Series Database](https://blog.timescale.com/what-the-heck-is-time-series-data-and-why-do-i-need-a-time-series-database-dcf3b1b18563)
 	* [Time Series Data: Why and How to Use a Relational Database instead of NoSQL](https://blog.timescale.com/time-series-data-why-and-how-to-use-a-relational-database-instead-of-nosql-d0cd6975e87c)
