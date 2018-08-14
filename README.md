@@ -1,4 +1,4 @@
-# High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs
+# High Scalability, High Availability, High Stability, High Performance, and High Intelligence System Design Patterns
 
 An updated and curated list of selected readings to illustrate best practices in building High Scalability, High Availability, High Stability, High Performance, and High Intelligence back-end systems. Concepts are explained in the articles of prominent engineers and credible references. Case studies are taken from battle-tested systems that serve millions to billions of users.
 
@@ -310,6 +310,7 @@ An updated and curated list of selected readings to illustrate best practices in
 		* [ClickHouse - Open Source Distributed Column Database at Yandex](https://clickhouse.yandex/)
 		* [Scaling Redshift without Scaling Costs at GIPHY](https://engineering.giphy.com/scaling-redshift-without-scaling-costs/)
 		* [Service Decomposition at Scale (with Cassandra) at Intuit QuickBooks](https://quickbooks-engineering.intuit.com/service-decomposition-at-scale-70405ac2f637)
+		* [Cassandra for Keeping Counts In Sync at SoundCloud](https://developers.soundcloud.com/blog/keeping-counts-in-sync)
 	* [Document Databases (MongoDB, SimpleDB, CouchDB)](https://msdn.microsoft.com/en-us/magazine/hh547103.aspx)
 		* [eBay: Building Mission-Critical Multi-Data Center Applications with MongoDB](https://www.mongodb.com/blog/post/ebay-building-mission-critical-multi-data-center-applications-with-mongodb)
 		* [MongoDB at Baidu: Multi-Tenant Cluster Storing 200+ Billion Documents across 160 Shards](https://www.mongodb.com/blog/post/mongodb-at-baidu-powering-100-apps-across-600-nodes-at-pb-scale)
@@ -335,6 +336,7 @@ An updated and curated list of selected readings to illustrate best practices in
 		* [Optimizing Redis Storage at Deliveroo](https://deliveroo.engineering/2017/01/19/optimising-membership-queries.html)		
 		* [Memory Optimization in Redis at Wattpad](http://engineering.wattpad.com/post/23244724794/store-more-stuff-memory-optimization-in-redis)
 		* [Sending an e-mail to millions of users (with Redis) at Drivy](https://drivy.engineering/sending-mass-emails/)
+		* [Redis Fleet at Heroku](https://blog.heroku.com/rolling-redis-fleet)
 * [Time Series Databases (TSDB)](https://www.influxdata.com/time-series-database/)
 	* [What is Time-Series Data & Why We Need a Time-Series Database](https://blog.timescale.com/what-the-heck-is-time-series-data-and-why-do-i-need-a-time-series-database-dcf3b1b18563)
 	* [Time Series Data: Why and How to Use a Relational Database instead of NoSQL](https://blog.timescale.com/time-series-data-why-and-how-to-use-a-relational-database-instead-of-nosql-d0cd6975e87c)
@@ -496,13 +498,13 @@ An updated and curated list of selected readings to illustrate best practices in
 * [Determinism (4 parts) in League of Legends Server](https://engineering.riotgames.com/news/determinism-league-legends-fixing-divergences)
 
 ## Performance
-* [Performance Optimization on Operating Systems, Databases, Network](https://stackify.com/application-performance-metrics/)
+* [Performance Optimization on OS, Storage, Database, Network](https://stackify.com/application-performance-metrics/)
 	* [Improving Performance with Background Data Prefetching at Instagram](https://engineering.instagram.com/improving-performance-with-background-data-prefetching-b191acb39898)
 	* [Compression Techniques to Solve Network I/O Bottlenecks at eBay](https://www.ebayinc.com/stories/blogs/tech/how-ebays-shopping-cart-used-compression-techniques-to-solve-network-io-bottlenecks/)
 	* [Optimizing Web Servers for High Throughput and Low Latency at Dropbox](https://blogs.dropbox.com/tech/2017/09/optimizing-web-servers-for-high-throughput-and-low-latency/)
-	* [Boosting Site Speed Using Brotli Compression at LinkedIn](https://engineering.linkedin.com/blog/2017/05/boosting-site-speed-using-brotli-compression)
 	* [Linux Performance Analysis in 60.000 Milliseconds at Netflix](https://medium.com/netflix-techblog/linux-performance-analysis-in-60-000-milliseconds-accc10403c55)
 	* [Performance Testing with SSDs (2 parts) at MailChimp](https://devs.mailchimp.com/blog/performance-testing-with-ssds-pt-2/)
+	* [Live Downsizing Google Cloud Persistent Disks (PD-SSD) at Mixpanel](https://engineering.mixpanel.com/2018/07/31/live-downsizing-google-cloud-pds-for-fun-and-profit/)
 	* [Decreasing RAM Usage by 40% Using jemalloc with Python & Celery at Zapier](https://zapier.com/engineering/celery-python-jemalloc/)
 	* [Reducing Memory Footprint at Slack](https://slack.engineering/reducing-slacks-memory-footprint-4480fec7e8eb)
 	* [Performance Improvements at Pinterest](https://medium.com/@Pinterest_Engineering/driving-user-growth-with-performance-improvements-cfc50dafadd7)
@@ -530,7 +532,9 @@ An updated and curated list of selected readings to illustrate best practices in
 	* [Improving GIF Performance at Pinterest](https://medium.com/@Pinterest_Engineering/improving-gif-performance-on-pinterest-8dad74bf92f1)
 	* [Optimizing Video Playback Performance at Pinterest](https://medium.com/@Pinterest_Engineering/optimizing-video-playback-performance-caf55ce310d1)
 	* [Optimizing Video Stream for Low Bandwidth with Dynamic Optimizer at Netflix](https://medium.com/netflix-techblog/optimized-shot-based-encodes-now-streaming-4b9464204830)
+	* [Adaptive Video Streaming at YouTube](https://youtube-eng.googleblog.com/2018/04/making-high-quality-video-efficient.html)
 	* [Reducing Video Loading Time by Prefetching during Preroll at Dailymotion](http://engineering.dailymotion.com/reducing-video-loading-time-prefetching-video-during-preroll/)
+	* [Boosting Site Speed Using Brotli Compression at LinkedIn](https://engineering.linkedin.com/blog/2017/05/boosting-site-speed-using-brotli-compression)
 	* [Improving Homepage Performance at Zillow](https://www.zillow.com/engineering/improving-homepage-performance/)
 	* [The Process of Optimizing for Client Performance at Expedia](https://techblog.expedia.com/2018/03/09/go-fast-or-go-home-the-process-of-optimizing-for-client-performance/)
 
