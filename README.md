@@ -559,6 +559,7 @@ An updated and curated list of selected readings to illustrate best practices in
 	* [Gimel: Analytics Data Processing Platform at PayPal](https://www.paypal-engineering.com/2018/04/17/gimel/)
 	* [AthenaX: Streaming Analytics Platform at Uber](https://eng.uber.com/athenax/)
 	* [Databook: Turning Big Data into Knowledge with Metadata at Uber](https://eng.uber.com/databook/)
+	* [Maze: Funnel Visualization Platform at Uber](https://eng.uber.com/maze/)
 	* [Metacat: Making Big Data Discoverable and Meaningful at Netflix](https://medium.com/netflix-techblog/metacat-making-big-data-discoverable-and-meaningful-at-netflix-56fb36a53520)
 	* [TensorFlowOnSpark: Distributed Deep Learning on Big Data Clusters at Yahoo](https://yahooeng.tumblr.com/post/157196488076/open-sourcing-tensorflowonspark-distributed-deep)
 	* [CaffeOnSpark: Distributed Deep Learning on Big Data Clusters at Yahoo](https://yahooeng.tumblr.com/post/139916828451/caffeonspark-open-sourced-for-distributed-deep)
