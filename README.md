@@ -387,6 +387,7 @@ An updated and curated list of selected readings to illustrate best practices in
 	* [Autoscaling Applications at PayPal](https://www.paypal-engineering.com/2017/08/16/autoscaling-applications-paypal/)
 	* [Autoscaling Jenkins at Trivago](http://tech.trivago.com/2017/02/17/your-definite-guide-for-autoscaling-jenkins/)
 	* [Scryer: Predictive Auto Scaling Engine at Netflix](https://medium.com/netflix-techblog/scryer-netflixs-predictive-auto-scaling-engine-a3f8fc922270)
+	* [Automated Infrastructure Cost Optimization at Scale with AWS EC2 RI at Quora](https://engineering.quora.com/Automated-Infrastructure-Cost-Optimization-at-Scale-with-AWS-EC2-Reserved-Instances)
 * [Concurrency](http://joeduffyblog.com/2016/11/30/15-years-of-concurrency/)
 	* [Message-Passing Concurrency](https://link.springer.com/chapter/10.1007/978-3-642-35170-9_11)
 	* [Software Transactional Memory](https://dl.acm.org/citation.cfm?id=3037750)
