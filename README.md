@@ -605,6 +605,7 @@ An updated and curated list of selected readings to illustrate best practices in
 	* [Financial Forecasting at Uber](https://eng.uber.com/transforming-financial-forecasting-machine-learning/)
 	* [Productionizing ML with Workflows at Twitter](https://blog.twitter.com/engineering/en_us/topics/insights/2018/ml-workflows.html)
 	* [GUI Testing Powered by Deep Learning at eBay](https://www.ebayinc.com/stories/blogs/tech/gui-testing-powered-by-deep-learning/)
+	* [Scaling Machine Learning to Recommend Driving Routes at Pivotal](http://engineering.pivotal.io/post/scaling-machine-learning-to-recommend-driving-routes/)
 
 ## Architecture
 * [Systems We Make](https://systemswemake.com/)
