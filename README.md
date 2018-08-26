@@ -491,6 +491,7 @@ An updated and curated list of selected readings to illustrate best practices in
 	* [Protector: Circuit Breaker for Time Series Databases at Trivago](http://tech.trivago.com/2016/02/23/protector/)
 	* [Improved Production Stability with Circuit Breakers at Heroku](https://blog.heroku.com/improved-production-stability-with-circuit-breakers)
 	* [Circuit Breakers at Zendesk](https://medium.com/zendesk-engineering/the-joys-of-circuit-breaking-ee6584acd687)
+	* [Circuit Breakers at Traveloka](https://medium.com/traveloka-engineering/circuit-breakers-dont-let-your-dependencies-bring-you-down-5ba1c5cf1eec)
 * [Always Use Timeouts If Possible](https://www.javaworld.com/article/2824163/application-performance/stability-patterns-applied-in-a-restful-architecture.html)
 * [Crash Early: Better Error Now Than Response Tomorrow](http://odino.org/better-performance-the-case-for-timeouts/)
 * [Fault Tolerance (Timeouts and Retries, Thread Separation, Semaphores, Circuit Breakers) at Neflix](https://medium.com/netflix-techblog/fault-tolerance-in-a-high-volume-distributed-system-91ab4faae74a)
