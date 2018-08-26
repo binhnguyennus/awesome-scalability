@@ -221,6 +221,7 @@ An updated and curated list of readings to illustrate best practices and pattern
 	* [Search at Slack](https://slack.engineering/search-at-slack-431f8c80619e)
 	* [Search and Recommendations at DoorDash](https://blog.doordash.com/powering-search-recommendations-at-doordash-8310c5cfd88c)
 	* [Search Service at Twitter (2014)](https://blog.twitter.com/engineering/en_us/a/2014/building-a-complete-tweet-index.html)
+	* [Autocomplete Search (2 parts) at Traveloka](https://medium.com/traveloka-engineering/high-quality-autocomplete-search-part-2-d5b15bb0dadf)
 	* [Nautilus: Travel Search Engine of Expedia](http://blog.expedia.com/expedias-nautilus-travel-search-engine-overview-and-applications/)
 	* [Galene: Search Architecture of LinkedIn](https://engineering.linkedin.com/search/did-you-mean-galene)
 	* [Manas: High Performing Customized Search System at Pinterest](https://medium.com/@Pinterest_Engineering/manas-a-high-performing-customized-search-system-cf189f6ca40f)
