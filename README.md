@@ -217,6 +217,7 @@ An updated and curated list of readings to illustrate best practices and pattern
 	* [Search Architecture of Instagram](https://engineering.instagram.com/search-architecture-eeb34a936d3a)
 	* [Search Architecture of eBay](http://www.cs.otago.ac.nz/homepages/andrew/papers/2017-8.pdf)
 	* [Improving Search Engine Efficiency by over 25% at eBay](https://www.ebayinc.com/stories/blogs/tech/making-e-commerce-search-faster/)	
+	* [Indexing and Querying Telemetry Logs with Lucene at Palantir](https://medium.com/palantir/indexing-and-querying-telemetry-logs-with-lucene-234c5ce3e5f3)
 	* [Search Federation Architecture at LinkedIn (2018)](https://engineering.linkedin.com/blog/2018/03/search-federation-architecture-at-linkedin)
 	* [Search at Slack](https://slack.engineering/search-at-slack-431f8c80619e)
 	* [Search and Recommendations at DoorDash](https://blog.doordash.com/powering-search-recommendations-at-doordash-8310c5cfd88c)
