@@ -1,20 +1,20 @@
 # High Scalability, High Availability, High Stability, High Performance, and High Intelligence System Design Patterns
 
-An updated and curated list of selected readings to illustrate best practices in building High Scalability, High Availability, High Stability, High Performance, and High Intelligence back-end systems. Concepts are explained in the articles of prominent engineers and credible references. Case studies are taken from battle-tested systems that serve millions to billions of users.
+An updated and curated list of selected readings to illustrate best practices in building high scalability, high availability, high stability, high performance, and high intelligence large-scale systems. Concepts are explained in the articles of prominent engineers and credible references. Case studies are taken from battle-tested systems that serve millions to billions of users.
 
-#### If your back-end went slow :traffic_light:
+#### If your system goes slow :traffic_light:
 > Understand your problems: scalability problem (fast for a single user but slow under heavy load) or performance problem (slow for a single user) by reviewing some [design principles](#principle) and checking how [scalability](#scalability) and [performance](#performance) problems are solved at tech companies. The section of [intelligence](#intelligence) are created for those who work with data and machine learning at big (data) and deep (learning) scale.
 
-#### If your back-end went down :construction:
-> "Even if you lose all one day, you can build all over again if you retain your calm!" - Thuan Pham, Vietnamese refugee, CTO of Uber Technologies Inc. So, keep calm and mind the [availability](#availability) and [stability](#stability) matters! 
+#### If your system goes down :construction:
+> "Even if you lose all one day, you can build all over again if you retain your calm!" - Thuan Pham, CTO of Uber. So, keep calm and mind the [availability](#availability) and [stability](#stability) matters! 
 
-#### If you have an incomming System Design interview :ocean:
+#### If you are having a system design interview :ocean:
 > Look at some [interview notes](#interview) and [real-world architectures with completed diagrams](#architecture) to get a comprehensive view before designing your system on whiteboard. You can check some [talks](#talk) of engineers from tech giants to know how they build, scale, and optimize their systems. There are some selected [books](#book) for you (most of them are free)! Good luck :four_leaf_clover:
 
 #### If you are building your dream team :ferris_wheel:
 > The goal of scaling team is not growing team size but increasing team output and value. You can find out how tech companies reach that goal in various aspects: hiring, management, organization, culture, and communication in the [organization](#organization) section.
 
-#### Community Power :mountain_cableway::aerial_tramway::mountain_cableway:
+#### Community power :mountain_cableway::aerial_tramway::mountain_cableway:
 
 > Contributions are greatly welcome! You may want to take a look at the [contribution guidelines](CONTRIBUTING.md).
 
@@ -184,6 +184,7 @@ An updated and curated list of selected readings to illustrate best practices in
 	* [Security Development Lifecycle (SDL) at Slack](https://slack.engineering/moving-fast-and-securing-things-540e6c5ae58a)
 	* [Unprivileged Container Builds at Kinvolk](https://kinvolk.io/blog/2018/04/towards-unprivileged-container-builds/)
 	* [Diffy: Differencing Engine for Digital Forensics in the Cloud at Netflix](https://medium.com/netflix-techblog/netflix-sirt-releases-diffy-a-differencing-engine-for-digital-forensics-in-the-cloud-37b71abd2698)
+	* [Detecting Credential Compromise in AWS at Netflix](https://medium.com/netflix-techblog/netflix-cloud-security-detecting-credential-compromise-in-aws-9493d6fd373a)
 * [Distributed Messaging, Queuing, and Event Streaming](https://arxiv.org/pdf/1704.00411.pdf)
 	* [Samza: Stream Processing System for Latency Insighs at LinkedIn](https://engineering.linkedin.com/blog/2018/04/samza-aeon--latency-insights-for-asynchronous-one-way-flows)
 	* [Delaying Asynchronous Message Processing with RabbitMQ at Indeed](http://engineering.indeedblog.com/blog/2017/06/delaying-messages/)	
@@ -387,6 +388,7 @@ An updated and curated list of selected readings to illustrate best practices in
 	* [Autoscaling Applications at PayPal](https://www.paypal-engineering.com/2017/08/16/autoscaling-applications-paypal/)
 	* [Autoscaling Jenkins at Trivago](http://tech.trivago.com/2017/02/17/your-definite-guide-for-autoscaling-jenkins/)
 	* [Scryer: Predictive Auto Scaling Engine at Netflix](https://medium.com/netflix-techblog/scryer-netflixs-predictive-auto-scaling-engine-a3f8fc922270)
+	* [Automated Infrastructure Cost Optimization at Scale with AWS EC2 RI at Quora](https://engineering.quora.com/Automated-Infrastructure-Cost-Optimization-at-Scale-with-AWS-EC2-Reserved-Instances)
 * [Concurrency](http://joeduffyblog.com/2016/11/30/15-years-of-concurrency/)
 	* [Message-Passing Concurrency](https://link.springer.com/chapter/10.1007/978-3-642-35170-9_11)
 	* [Software Transactional Memory](https://dl.acm.org/citation.cfm?id=3037750)
@@ -488,6 +490,8 @@ An updated and curated list of selected readings to illustrate best practices in
 	* [Circuit Breaker for Scaling Containers](https://f5.com/about-us/blog/articles/the-art-of-scaling-containers-circuit-breakers-28919)
 	* [Protector: Circuit Breaker for Time Series Databases at Trivago](http://tech.trivago.com/2016/02/23/protector/)
 	* [Improved Production Stability with Circuit Breakers at Heroku](https://blog.heroku.com/improved-production-stability-with-circuit-breakers)
+	* [Circuit Breakers at Zendesk](https://medium.com/zendesk-engineering/the-joys-of-circuit-breaking-ee6584acd687)
+	* [Circuit Breakers at Traveloka](https://medium.com/traveloka-engineering/circuit-breakers-dont-let-your-dependencies-bring-you-down-5ba1c5cf1eec)
 * [Always Use Timeouts If Possible](https://www.javaworld.com/article/2824163/application-performance/stability-patterns-applied-in-a-restful-architecture.html)
 * [Crash Early: Better Error Now Than Response Tomorrow](http://odino.org/better-performance-the-case-for-timeouts/)
 * [Fault Tolerance (Timeouts and Retries, Thread Separation, Semaphores, Circuit Breakers) at Neflix](https://medium.com/netflix-techblog/fault-tolerance-in-a-high-volume-distributed-system-91ab4faae74a)
@@ -558,7 +562,10 @@ An updated and curated list of selected readings to illustrate best practices in
 	* [RBEA: Real-time Analytics Platform at King](https://techblog.king.com/rbea-scalable-real-time-analytics-king/)
 	* [Gimel: Analytics Data Processing Platform at PayPal](https://www.paypal-engineering.com/2018/04/17/gimel/)
 	* [AthenaX: Streaming Analytics Platform at Uber](https://eng.uber.com/athenax/)
+	* [Databook: Turning Big Data into Knowledge with Metadata at Uber](https://eng.uber.com/databook/)
+	* [Maze: Funnel Visualization Platform at Uber](https://eng.uber.com/maze/)
 	* [Metacat: Making Big Data Discoverable and Meaningful at Netflix](https://medium.com/netflix-techblog/metacat-making-big-data-discoverable-and-meaningful-at-netflix-56fb36a53520)
+	* [SpinalTap: Change Data Capture System at Airbnb](https://medium.com/airbnb-engineering/capturing-data-evolution-in-a-service-oriented-architecture-72f7c643ee6f)
 	* [TensorFlowOnSpark: Distributed Deep Learning on Big Data Clusters at Yahoo](https://yahooeng.tumblr.com/post/157196488076/open-sourcing-tensorflowonspark-distributed-deep)
 	* [CaffeOnSpark: Distributed Deep Learning on Big Data Clusters at Yahoo](https://yahooeng.tumblr.com/post/139916828451/caffeonspark-open-sourced-for-distributed-deep)
 	* [Experimentation Platform at Airbnb](https://medium.com/airbnb-engineering/https-medium-com-jonathan-parks-scaling-erf-23fd17c91166)
@@ -602,6 +609,7 @@ An updated and curated list of selected readings to illustrate best practices in
 	* [Financial Forecasting at Uber](https://eng.uber.com/transforming-financial-forecasting-machine-learning/)
 	* [Productionizing ML with Workflows at Twitter](https://blog.twitter.com/engineering/en_us/topics/insights/2018/ml-workflows.html)
 	* [GUI Testing Powered by Deep Learning at eBay](https://www.ebayinc.com/stories/blogs/tech/gui-testing-powered-by-deep-learning/)
+	* [Scaling Machine Learning to Recommend Driving Routes at Pivotal](http://engineering.pivotal.io/post/scaling-machine-learning-to-recommend-driving-routes/)
 
 ## Architecture
 * [Systems We Make](https://systemswemake.com/)
@@ -727,4 +735,4 @@ An updated and curated list of selected readings to illustrate best practices in
 
 [![CC-BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-This repo is created and maintained by [Binh Nguyen](http://binhnguyennus.com/). Feel free to use it at your convenience! Thanks and Happy Coding :heart: 
+This repo is created and maintained by [Binh Nguyen](http://binhnguyennus.com/). Feel free to use it at your convenience! Thank you & Happy coding :heart: 
