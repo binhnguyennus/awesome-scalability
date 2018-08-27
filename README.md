@@ -1,6 +1,6 @@
-# High Scalability, High Availability, High Stability, High Performance, and High Intelligence System Design Patterns
+# Scalable, Available, Stable, Performant, and Intelligent System Design Patterns
 
-An updated and curated list of selected readings to illustrate best practices in building high scalability, high availability, high stability, high performance, and high intelligence large-scale systems. Concepts are explained in the articles of prominent engineers and credible references. Case studies are taken from battle-tested systems that serve millions to billions of users.
+An updated and curated list of readings to illustrate best practices and patterns in building scalable, available, stable, performant, and intelligent large-scale systems. Concepts are explained in the articles of prominent engineers and credible references. Case studies are taken from battle-tested systems that serve millions to billions of users.
 
 #### If your system goes slow :traffic_light:
 > Understand your problems: scalability problem (fast for a single user but slow under heavy load) or performance problem (slow for a single user) by reviewing some [design principles](#principle) and checking how [scalability](#scalability) and [performance](#performance) problems are solved at tech companies. The section of [intelligence](#intelligence) are created for those who work with data and machine learning at big (data) and deep (learning) scale.
@@ -217,10 +217,12 @@ An updated and curated list of selected readings to illustrate best practices in
 	* [Search Architecture of Instagram](https://engineering.instagram.com/search-architecture-eeb34a936d3a)
 	* [Search Architecture of eBay](http://www.cs.otago.ac.nz/homepages/andrew/papers/2017-8.pdf)
 	* [Improving Search Engine Efficiency by over 25% at eBay](https://www.ebayinc.com/stories/blogs/tech/making-e-commerce-search-faster/)	
+	* [Indexing and Querying Telemetry Logs with Lucene at Palantir](https://medium.com/palantir/indexing-and-querying-telemetry-logs-with-lucene-234c5ce3e5f3)
 	* [Search Federation Architecture at LinkedIn (2018)](https://engineering.linkedin.com/blog/2018/03/search-federation-architecture-at-linkedin)
 	* [Search at Slack](https://slack.engineering/search-at-slack-431f8c80619e)
 	* [Search and Recommendations at DoorDash](https://blog.doordash.com/powering-search-recommendations-at-doordash-8310c5cfd88c)
 	* [Search Service at Twitter (2014)](https://blog.twitter.com/engineering/en_us/a/2014/building-a-complete-tweet-index.html)
+	* [Autocomplete Search (2 parts) at Traveloka](https://medium.com/traveloka-engineering/high-quality-autocomplete-search-part-2-d5b15bb0dadf)
 	* [Nautilus: Travel Search Engine of Expedia](http://blog.expedia.com/expedias-nautilus-travel-search-engine-overview-and-applications/)
 	* [Galene: Search Architecture of LinkedIn](https://engineering.linkedin.com/search/did-you-mean-galene)
 	* [Manas: High Performing Customized Search System at Pinterest](https://medium.com/@Pinterest_Engineering/manas-a-high-performing-customized-search-system-cf189f6ca40f)
