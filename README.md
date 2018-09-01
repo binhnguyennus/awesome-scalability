@@ -614,6 +614,7 @@ An updated and curated list of readings to illustrate best practices and pattern
 	* [GUI Testing Powered by Deep Learning at eBay](https://www.ebayinc.com/stories/blogs/tech/gui-testing-powered-by-deep-learning/)
 	* [Scaling Machine Learning to Recommend Driving Routes at Pivotal](http://engineering.pivotal.io/post/scaling-machine-learning-to-recommend-driving-routes/)
 	* [Real-Time Predictions at DoorDash](https://www.infoq.com/presentations/doordash-real-time-predictions)
+	* [Real-Time News Alerting at Bloomberg](https://www.infoq.com/presentations/news-alerting-bloomberg)
 
 ## Architecture
 * [Systems We Make](https://systemswemake.com/)
