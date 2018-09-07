@@ -140,6 +140,7 @@ An updated and curated list of readings to illustrate best practices and pattern
 	* [Caching (with Hashing) at Zenefits](https://engineering.zenefits.com/2016/02/basic-infrastructure-patterns/)
 	* [Distributed Cache (Akka, Kubernetes) at Zalando](https://jobs.zalando.com/tech/blog/distributed-cache-akka-kubernetes/)
 	* [Application Data Caching from RAM to SSD at NetFlix](https://medium.com/netflix-techblog/evolution-of-application-data-caching-from-ram-to-ssd-a33d6fa7a690)
+	* [Tradeoffs of Replicated Cache at Skyscanner](https://medium.com/@SkyscannerEng/the-tradeoffs-of-a-replicated-cache-b6680c722f58)
 * [Distributed Tracking and Tracing](https://www.oreilly.com/ideas/understanding-the-value-of-distributed-tracing)
 	* [Zipkin: Distributed Systems Tracing at Twitter](https://blog.twitter.com/engineering/en_us/a/2012/distributed-systems-tracing-with-zipkin.html)
 	* [Canopy: Scalable Distributed Tracing & Analysis at Facebook](https://www.infoq.com/presentations/canopy-scalable-tracing-analytics-facebook)
