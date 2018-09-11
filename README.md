@@ -624,6 +624,7 @@ An updated and curated list of readings to illustrate best practices and pattern
 * [Systems We Make](https://systemswemake.com/)
 * [Tech Stack (2 parts) at Uber](https://eng.uber.com/tech-stack-part-two/)
 * [Tech Stack at Medium](https://medium.engineering/the-stack-that-helped-medium-drive-2-6-millennia-of-reading-time-e56801f7c492)
+* [Tech Stack at Shopify](https://engineering.shopify.com/blogs/engineering/e-commerce-at-scale-inside-shopifys-tech-stack)
 * [Services (2 parts) at Airbnb](https://medium.com/airbnb-engineering/building-services-at-airbnb-part-2-142be1c5d506)
 * [Back-end at LinkedIn](https://engineering.linkedin.com/architecture/brief-history-scaling-linkedin)
 * [Back-end at Flickr](https://yahooeng.tumblr.com/post/157200523046/introducing-tripod-flickrs-backend-refactored)
