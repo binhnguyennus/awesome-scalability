@@ -457,6 +457,7 @@ An updated and curated list of readings to illustrate best practices and pattern
 	* [Single Repository at Google](https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext)	
 	* [Scaling Infrastructure and (Git) Workflow at Adyen](https://medium.com/adyen/from-0-100-billion-scaling-infrastructure-and-workflow-at-adyen-7b63b690dfb6)	
 	* [Dotfiles Distribution at Booking.com](https://medium.com/booking-com-infrastructure/dotfiles-distribution-dedb69c66a75)
+	* [Secret Detector: Preventing Secrets in Source Code at Yelp](https://engineeringblog.yelp.com/2018/06/yelps-secret-detector.html)
 
 ## Availability
 * [Resilience Engineering: Learning to Embrace Failure](https://queue.acm.org/detail.cfm?id=2371297)	
