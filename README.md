@@ -621,6 +621,7 @@ An updated and curated list of readings to illustrate best practices and pattern
 	* [Real-Time Predictions at DoorDash](https://www.infoq.com/presentations/doordash-real-time-predictions)
 	* [Real-Time News Alerting at Bloomberg](https://www.infoq.com/presentations/news-alerting-bloomberg)
 	* [Machine Intelligence at Dropbox](https://blogs.dropbox.com/tech/2018/09/machine-intelligence-at-dropbox-an-update-from-our-dbxi-team/)
+	* [Modeling User Journeys via Semantic Embeddings at Etsy](https://codeascraft.com/2018/07/12/modeling-user-journey-via-semantic-embeddings/)
 
 ## Architecture
 * [Systems We Make](https://systemswemake.com/)
