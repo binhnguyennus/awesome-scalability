@@ -325,6 +325,7 @@ An updated and curated list of readings to illustrate best practices and pattern
 		* [Migrating Mountains of Mongo Data at Addepar](https://medium.com/build-addepar/migrating-mountains-of-mongo-data-63e530539952)
 		* [Couchbase Ecosystem at LinkedIn](https://engineering.linkedin.com/blog/2017/12/couchbase-ecosystem-at-linkedin)
 		* [SimpleDB at Zendesk](https://medium.com/zendesk-engineering/resurrecting-amazon-simpledb-9404034ec506)
+		* [Espresso: Distributed Document Store at LinkedIn](https://engineering.linkedin.com/espresso/introducing-espresso-linkedins-hot-new-distributed-document-store)
 	* [Graph Databases](https://www.ibm.com/developerworks/library/cl-graph-database-1/index.html)
 		* [Handling Billions of Edges in a Graph Database](https://www.infoq.com/presentations/graph-database-scalability)		
 		* [Neo4j case studies with Walmart, eBay, AirBnB, NASA, etc](https://neo4j.com/customers/)
