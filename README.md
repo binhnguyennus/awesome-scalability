@@ -448,7 +448,7 @@ An updated and curated list of readings to illustrate best practices and pattern
 		* [Store-Forward](https://docs.oracle.com/cd/E13222_01/wls/docs91/saf_admin/overview.html)
 		* [Request-Reply](https://docs.tibco.com/pub/ftl/4.3.0/doc/html/GUID-A64ABED1-682E-4E1D-A94A-5590CB91B9BB.html)
 		* [Enterprise Service Bus](http://www.oracle.com/technetwork/articles/soa/ind-soa-esb-1967705.html)		
-* [Distributed Source Code and Configuration Files Management](https://betterexplained.com/articles/intro-to-distributed-version-control-illustrated/)
+* [Distributed Source Code, Dependencies, and Configurations Management](https://betterexplained.com/articles/intro-to-distributed-version-control-illustrated/)
 	* [Distributed Version Control Systems: A Not-So-Quick Guide Through](https://www.infoq.com/articles/dvcs-guide)
 	* [DGit: Distributed Git at Github](https://githubengineering.com/introducing-dgit/)
 	* [Stemma: Distributed Git Server at Palantir](https://medium.com/@palantir/stemma-distributed-git-server-70afbca0fc29)
@@ -459,6 +459,7 @@ An updated and curated list of readings to illustrate best practices and pattern
 	* [Scaling Infrastructure and (Git) Workflow at Adyen](https://medium.com/adyen/from-0-100-billion-scaling-infrastructure-and-workflow-at-adyen-7b63b690dfb6)	
 	* [Dotfiles Distribution at Booking.com](https://medium.com/booking-com-infrastructure/dotfiles-distribution-dedb69c66a75)
 	* [Secret Detector: Preventing Secrets in Source Code at Yelp](https://engineeringblog.yelp.com/2018/06/yelps-secret-detector.html)
+	* [Managing Software Dependency at Scale at LinkedIn](https://engineering.linkedin.com/blog/2018/09/managing-software-dependency-at-scale)
 
 ## Availability
 * [Resilience Engineering: Learning to Embrace Failure](https://queue.acm.org/detail.cfm?id=2371297)	
