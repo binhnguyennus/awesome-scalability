@@ -187,6 +187,7 @@ An updated and curated list of readings to illustrate best practices and pattern
 	* [Unprivileged Container Builds at Kinvolk](https://kinvolk.io/blog/2018/04/towards-unprivileged-container-builds/)
 	* [Diffy: Differencing Engine for Digital Forensics in the Cloud at Netflix](https://medium.com/netflix-techblog/netflix-sirt-releases-diffy-a-differencing-engine-for-digital-forensics-in-the-cloud-37b71abd2698)
 	* [Detecting Credential Compromise in AWS at Netflix](https://medium.com/netflix-techblog/netflix-cloud-security-detecting-credential-compromise-in-aws-9493d6fd373a)
+	* [Scalable User Privacy at Spotify](https://labs.spotify.com/2018/09/18/scalable-user-privacy/)
 * [Distributed Messaging, Queuing, and Event Streaming](https://arxiv.org/pdf/1704.00411.pdf)
 	* [Scaling Push Messaging for Millions of Devices at Netflix](https://www.infoq.com/presentations/neflix-push-messaging-scale)
 	* [Samza: Stream Processing System for Latency Insighs at LinkedIn](https://engineering.linkedin.com/blog/2018/04/samza-aeon--latency-insights-for-asynchronous-one-way-flows)
@@ -317,6 +318,7 @@ An updated and curated list of readings to illustrate best practices and pattern
 		* [Scaling Redshift without Scaling Costs at GIPHY](https://engineering.giphy.com/scaling-redshift-without-scaling-costs/)
 		* [Service Decomposition at Scale (with Cassandra) at Intuit QuickBooks](https://quickbooks-engineering.intuit.com/service-decomposition-at-scale-70405ac2f637)
 		* [Cassandra for Keeping Counts In Sync at SoundCloud](https://developers.soundcloud.com/blog/keeping-counts-in-sync)
+		* [cstar: Cassandra Orchestration Tool at Spotify](https://labs.spotify.com/2018/09/04/introducing-cstar-the-spotify-cassandra-orchestration-tool-now-open-source/)
 	* [Document Databases (MongoDB, SimpleDB, CouchDB)](https://msdn.microsoft.com/en-us/magazine/hh547103.aspx)
 		* [eBay: Building Mission-Critical Multi-Data Center Applications with MongoDB](https://www.mongodb.com/blog/post/ebay-building-mission-critical-multi-data-center-applications-with-mongodb)
 		* [MongoDB at Baidu: Multi-Tenant Cluster Storing 200+ Billion Documents across 160 Shards](https://www.mongodb.com/blog/post/mongodb-at-baidu-powering-100-apps-across-600-nodes-at-pb-scale)
@@ -679,6 +681,7 @@ An updated and curated list of readings to illustrate best practices and pattern
 	* [Monzo: How Peer-To-Peer Payments Work](https://monzo.com/blog/2018/04/05/how-monzo-to-monzo-payments-work/)
 	* [Transit and Peering: How Your Requests Reach GitHub](https://githubengineering.com/transit-and-peering-how-your-requests-reach-github/)
 	* [How Expedia Finds your Flights: A Detailed View](https://techblog.expedia.com/2016/03/07/how-expedia-finds-flights-a-detailed-view/)
+	* [How Spotify Streams Music](https://labs.spotify.com/2018/08/31/smoother-streaming-with-bbr/)
 
 ## Organization
 * [Engineering Levels at SoundCloud](https://developers.soundcloud.com/blog/engineering-levels)
