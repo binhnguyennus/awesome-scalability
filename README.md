@@ -98,6 +98,7 @@ An updated and curated list of readings to illustrate best practices and pattern
 * [Mistakes to Avoid while Creating an Internal Product at Skyscanner](https://medium.com/@SkyscannerEng/9-mistakes-to-avoid-while-creating-an-internal-product-63d579b00b1a)
 * [Learn from Mistakes at Reddit](http://highscalability.com/blog/2013/8/26/reddit-lessons-learned-from-mistakes-made-scaling-to-1-billi.html)
 * [Code Review Best Practices at Palantir](https://medium.com/@palantir/code-review-best-practices-19e02780015f)
+* [Patterns for Microservices - Sync vs. Async](https://dzone.com/articles/patterns-for-microservices-sync-vs-async)
 
 ## Scalability
 * [Microservices and Orchestration](https://hackernoon.com/microservices-are-hard-an-invaluable-guide-to-microservices-2d06bd7bcf5d)
