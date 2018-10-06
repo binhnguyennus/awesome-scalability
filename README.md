@@ -700,6 +700,7 @@ An updated and curated list of readings to illustrate best practices and pattern
 * [From 2 Founders to 1000 Employees at Transferwise](https://medium.com/transferwise-ideas/from-2-founders-to-1000-employees-how-a-small-scale-startup-grew-into-a-global-community-9f26371a551b)
 * [Lessons Learned Growing a UX Team from 10 to 170 at Adobe](https://medium.com/thinking-design/lessons-learned-growing-a-ux-team-from-10-to-170-f7b47be02262)
 * [Five Lessons from Scaling at Pinterest](https://medium.com/@sarahtavel/five-lessons-from-scaling-pinterest-6a699a889b08)
+* [Approach Engineering at Vinted](http://engineering.vinted.com/2018/09/04/how-we-approach-engineering-at-vinted/)
 
 ## Talk
 * [Distributed Systems in One Lesson - Tim Berglund, Senior Director of Developer Experience at Confluent](https://www.youtube.com/watch?v=Y6Ev8GIlbxc)
