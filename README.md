@@ -572,6 +572,7 @@ An updated and curated list of readings to illustrate best practices and pattern
 	* [Big Data Analytics and ML Techniques at LinkedIn](https://cdn.oreillystatic.com/en/assets/1/event/269/Big%20data%20analytics%20and%20machine%20learning%20techniques%20to%20drive%20and%20grow%20business%20Presentation%201.pdf)
 	* [Self-Serve Reporting Platform on Hadoop at LinkedIn](https://cdn.oreillystatic.com/en/assets/1/event/137/Building%20a%20self-serve%20real-time%20reporting%20platform%20at%20LinkedIn%20Presentation%201.pdf)
 	* [Analytics Platform for Tracking Item Availability at Walmart](https://medium.com/walmartlabs/how-we-build-a-robust-analytics-platform-using-spark-kafka-and-cassandra-lambda-architecture-70c2d1bc8981)
+	* [HALO: Hardware Analytics and Lifecycle Optimization at Facebook](https://code.fb.com/data-center-engineering/hardware-analytics-and-lifecycle-optimization-halo-at-facebook/)
 	* [RBEA: Real-time Analytics Platform at King](https://techblog.king.com/rbea-scalable-real-time-analytics-king/)
 	* [Gimel: Analytics Data Processing Platform at PayPal](https://www.paypal-engineering.com/2018/04/17/gimel/)
 	* [AthenaX: Streaming Analytics Platform at Uber](https://eng.uber.com/athenax/)
@@ -758,4 +759,4 @@ An updated and curated list of readings to illustrate best practices and pattern
 
 [![CC-BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-This repo is created and maintained by [Binh Nguyen](http://binhnguyennus.com/). Feel free to use it at your convenience! Thank you & Happy coding :heart: 
+This repo is created and maintained by [Binh Nguyen](http://binhnguyennus.com/), R&D Engineer at The Agency for Science, Technology and Research of Singapore (A*Star). I am fortunate to be a part of a small but elite Vietnamese team, working remotely on various software projects with international clients. If you want to join us, please message me directly on LinkedIn! Thank you & Happy coding :heart: 
