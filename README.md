@@ -243,6 +243,7 @@ An updated and curated list of readings to illustrate best practices and pattern
 		* [Log Parsing with Logstash and Google Protocol Buffers at Trivago](https://tech.trivago.com/2016/01/19/logstash_protobuf_codec/)
 		* [Fast Order Search using Data Pipeline and Elasticsearch at Yelp](https://engineeringblog.yelp.com/2018/06/fast-order-search.html)
 		* [Sharding out Elasticsearch at Vinted](http://engineering.vinted.com/2017/06/05/sharding-out-elasticsearch/)
+		* [Self-Ranking Search with Elasticsearch at Wattpad](http://engineering.wattpad.com/post/146216619727/self-ranking-search-with-elasticsearch-at-wattpad)
 * [Distributed Storage](http://highscalability.com/blog/2011/11/1/finding-the-right-data-solution-for-your-application-in-the.html)
 	* [In-memory Storage](https://medium.com/@denisanikin/what-an-in-memory-database-is-and-how-it-persists-data-efficiently-f43868cff4c1)
 		* [Introduction to In-memory Data - Viktor Gamov, Solutions Architect at Hazelcast](https://www.infoq.com/presentations/in-memory-data)
@@ -355,6 +356,7 @@ An updated and curated list of readings to illustrate best practices and pattern
 	* [Atlas: In-memory Dimensional Time Series Database at Netflix](https://medium.com/netflix-techblog/introducing-atlas-netflixs-primary-telemetry-platform-bd31f4d8ed9a)
 	* [Heroic: Time Series Database at Spotify](https://labs.spotify.com/2015/11/17/monitoring-at-spotify-introducing-heroic/)
 	* [Roshi: Distributed Storage System for Time-Series Event at SoundCloud](https://developers.soundcloud.com/blog/roshi-a-crdt-system-for-timestamped-events)
+	* [Goku: Time Series Database at Pinterest](https://medium.com/@Pinterest_Engineering/goku-building-a-scalable-and-high-performant-time-series-database-system-a8ff5758a181)
 	* [Building a Scalable Time Series Database on PostgreSQL](https://blog.timescale.com/when-boring-is-awesome-building-a-scalable-time-series-database-on-postgresql-2900ea453ee2)
 	* [Scaling Time Series Data Storage at Netflix](https://medium.com/netflix-techblog/scaling-time-series-data-storage-part-i-ec2b6d44ba39)
 * [HTTP Caching (Reverse Proxy, CDN)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching)
@@ -465,6 +467,7 @@ An updated and curated list of readings to illustrate best practices and pattern
 	* [Dotfiles Distribution at Booking.com](https://medium.com/booking-com-infrastructure/dotfiles-distribution-dedb69c66a75)
 	* [Secret Detector: Preventing Secrets in Source Code at Yelp](https://engineeringblog.yelp.com/2018/06/yelps-secret-detector.html)
 	* [Managing Software Dependency at Scale at LinkedIn](https://engineering.linkedin.com/blog/2018/09/managing-software-dependency-at-scale)
+	* [ZooKeeper at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2018/zookeeper-at-twitter.html)
 
 ## Availability
 * [Resilience Engineering: Learning to Embrace Failure](https://queue.acm.org/detail.cfm?id=2371297)	
@@ -652,6 +655,7 @@ An updated and curated list of readings to illustrate best practices and pattern
 * [Architecture of Sticker Services at LINE](https://www.slideshare.net/linecorp/architecture-sustaining-line-sticker-services)
 * [Stack Overflow Enterprise at Palantir](https://medium.com/@palantir/terraforming-stack-overflow-enterprise-in-aws-47ee431e6be7)
 * [Distributed Cron at Quora](https://engineering.quora.com/Quoras-Distributed-Cron-Architecture)
+* [Architecture of Following Feed, Interest Feed, and Picked For You at Pinterest](https://medium.com/@Pinterest_Engineering/building-a-dynamic-and-responsive-pinterest-7d410e99f0a9)
 * [Architectures of Finance and Banking Systems](https://www.sesameindia.com/images/core-banking-system-architecture)
 	* [Reference Architecture For The Open Banking Standard](https://hortonworks.com/blog/reference-architecture-open-banking-standard/)
 	* [Building a Modern Bank Backend at Monzo](https://monzo.com/blog/2016/09/19/building-a-modern-bank-backend/)
