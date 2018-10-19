@@ -562,9 +562,10 @@ An updated and curated list of readings to illustrate best practices and pattern
 
 ## Intelligence
 * [Big Data](https://insights.sei.cmu.edu/sei_blog/2017/05/reference-architectures-for-big-data-systems.html)	
+	* [Data Platform at Uber](https://eng.uber.com/uber-big-data-platform/)
 	* [Data Platform at Netflix](https://www.youtube.com/watch?v=CSDIThSwA7s)
 	* [Data Platform at Flipkart](https://tech.flipkart.com/overview-of-flipkart-data-platform-20c6d3e9a196)
-	* [Data Pipeline Management Platform at Khan Academy](http://engineering.khanacademy.org/posts/khanalytics.htm)
+	* [Data Platform at Khan Academy](http://engineering.khanacademy.org/posts/khanalytics.htm)
 	* [Data Infrastructure at Airbnb](https://medium.com/airbnb-engineering/data-infrastructure-at-airbnb-8adfb34f169c)
 	* [Data Infrastructure at LinkedIn](https://www.infoq.com/presentations/big-data-infrastructure-linkedin)
 	* [Data Infrastructure at GO-JEK](https://blog.gojekengineering.com/data-infrastructure-at-go-jek-cd4dc8cbd929)
