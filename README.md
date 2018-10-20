@@ -392,7 +392,6 @@ An updated and curated list of readings to illustrate best practices and pattern
 	* [Cloud Bouncer: Distributed Rate Limiting at Yahoo](https://yahooeng.tumblr.com/post/111288877956/cloud-bouncer-distributed-rate-limiting-at-yahoo)
 	* [Scaling API with Rate Limiters at Stripe](https://stripe.com/blog/rate-limiters)
 	* [Rate Limiting at Etsy](https://www.sans.org/summit-archives/file/summit-archive-1509593697.pdf)
-	* [Rate Limiter at BloomReach](http://engineering.bloomreach.com/qps-monitoring-throttling-system/)
 	* [Distributed Rate Limiting at Allegro](https://allegro.tech/2017/04/hermes-max-rate.html)
 	* [Ratequeue: Core Queueing-And-Rate-Limiting System at Twilio](https://www.twilio.com/blog/2017/11/chaos-engineering-ratequeue-ha.html)
 * [Autoscaling](https://medium.com/@BotmetricHQ/top-11-hard-won-lessons-learned-about-aws-auto-scaling-5bfe56da755f)
