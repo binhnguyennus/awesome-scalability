@@ -388,6 +388,7 @@ An updated and curated list of readings to illustrate best practices and pattern
 	* [UDP Load Balancing at 500 pixel](https://developers.500px.com/udp-load-balancing-with-keepalived-167382d7ad08)
 	* [QALM: QoS Load Management Framework at Uber](https://eng.uber.com/qalm/)	
 	* [Traffic Steering using Rum DNS at LinkedIn](https://www.usenix.org/conference/srecon17europe/program/presentation/rastogi)
+	* [Traffic Infrastructure (Edge Network) at Dropbox](https://blogs.dropbox.com/tech/2018/10/dropbox-traffic-infrastructure-edge-network/)
 * [Rate Limiting](https://www.keycdn.com/support/rate-limiting/)
 	* [Rate Limiting for Scaling to Millions of Domains at Cloudfare](https://blog.cloudflare.com/counting-things-a-lot-of-different-things/)
 	* [Cloud Bouncer: Distributed Rate Limiting at Yahoo](https://yahooeng.tumblr.com/post/111288877956/cloud-bouncer-distributed-rate-limiting-at-yahoo)
