@@ -636,6 +636,7 @@ An updated and curated list of readings to illustrate best practices and pattern
 	* [Real-Time Predictions at DoorDash](https://www.infoq.com/presentations/doordash-real-time-predictions)
 	* [Real-Time News Alerting at Bloomberg](https://www.infoq.com/presentations/news-alerting-bloomberg)
 	* [Machine Intelligence at Dropbox](https://blogs.dropbox.com/tech/2018/09/machine-intelligence-at-dropbox-an-update-from-our-dbxi-team/)
+	* [Machine Learning for Indexing Text from Billions of Images at Dropbox](https://blogs.dropbox.com/tech/2018/10/using-machine-learning-to-index-text-from-billions-of-images/)
 	* [Modeling User Journeys via Semantic Embeddings at Etsy](https://codeascraft.com/2018/07/12/modeling-user-journey-via-semantic-embeddings/)
 	* [Automated Fake Account Detection at LinkedIn](https://engineering.linkedin.com/blog/2018/09/automated-fake-account-detection-at-linkedin)
 
@@ -766,4 +767,4 @@ An updated and curated list of readings to illustrate best practices and pattern
 
 [![CC-BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-This repo is created and maintained by [Binh Nguyen](http://binhnguyennus.com/), R&D Engineer at The Agency for Science, Technology and Research of Singapore (A*Star). I am fortunate to be a part of a small but elite Vietnamese team, working remotely on various software projects with international clients. If you want to join us, please message me directly on LinkedIn! Thank You & Happy Coding! :heart: 
+This project is created and maintained by Binh Nguyen, R&D Engineer at The Agency for Science, Technology and Research of Singapore (A*Star). I am fortunate to be a part of a small but elite Vietnamese team, working remotely on various software projects with international clients. If you want to join us (especially if you are a Vietnamese student who want to gain more experience while making good money), please message me directly on [my LinkedIn](https://www.linkedin.com/in/binhnguyennus/)! Thank You & Happy Coding! :heart: 
