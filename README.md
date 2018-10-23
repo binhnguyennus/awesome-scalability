@@ -195,6 +195,7 @@ An updated and curated list of readings to illustrate best practices and pattern
 	* [Bullet: Forward-Looking Query Engine for Streaming Data at Yahoo](https://yahooeng.tumblr.com/post/161855616651/open-sourcing-bullet-yahoos-forward-looking)
 	* [EventHorizon: Tool for Watching Events Streaming at Etsy](https://codeascraft.com/2018/05/29/the-eventhorizon-saga/)
 	* [Benchmarking Streaming Computation Engines at Yahoo](https://yahooeng.tumblr.com/post/135321837876/benchmarking-streaming-computation-engines-at)
+	* [Qmessage: Distributed, Asynchronous Task Queue at Quora](https://engineering.quora.com/Qmessage-Handling-Billions-of-Tasks-Per-Day)
 	* [Cherami: Message Queue System for Transporting Async Tasks at Uber](https://eng.uber.com/cherami/)
 	* [Qyu: Distributed Task Execution System for Complex Workflows at FindHotel](http://blog.findhotel.net/2018/03/qyu-a-distributed-task-execution-system-for-complex-workflows/)
 	* [Messaging Service at Riot Games](https://engineering.riotgames.com/news/riot-messaging-service)
@@ -242,6 +243,7 @@ An updated and curated list of readings to illustrate best practices and pattern
 		* [ELK at Robinhood](https://robinhood.engineering/taming-elk-4e1349f077c3)
 		* [Log Parsing with Logstash and Google Protocol Buffers at Trivago](https://tech.trivago.com/2016/01/19/logstash_protobuf_codec/)
 		* [Fast Order Search using Data Pipeline and Elasticsearch at Yelp](https://engineeringblog.yelp.com/2018/06/fast-order-search.html)
+		* [Moving Core Business Search to Elasticsearch at Yelp](https://engineeringblog.yelp.com/2017/06/moving-yelps-core-business-search-to-elasticsearch.html)
 		* [Sharding out Elasticsearch at Vinted](http://engineering.vinted.com/2017/06/05/sharding-out-elasticsearch/)
 		* [Self-Ranking Search with Elasticsearch at Wattpad](http://engineering.wattpad.com/post/146216619727/self-ranking-search-with-elasticsearch-at-wattpad)
 * [Distributed Storage](http://highscalability.com/blog/2011/11/1/finding-the-right-data-solution-for-your-application-in-the.html)
@@ -294,9 +296,10 @@ An updated and curated list of readings to illustrate best practices and pattern
 * [NoSQL Databases](https://www.thoughtworks.com/insights/blog/nosql-databases-overview)
 	* [Key-Value Databases (DynamoDB, Voldemort, Manhattan)](http://highscalability.com/anti-rdbms-list-distributed-key-value-stores)
 		* [Scaling Mapbox infrastructure with DynamoDB Streams](https://blog.mapbox.com/scaling-mapbox-infrastructure-with-dynamodb-streams-d53eabc5e972)
-		* [Manhattan: Twitter’s distributed key-value database](https://blog.twitter.com/engineering/en_us/a/2014/manhattan-our-real-time-multi-tenant-distributed-database-for-twitter-scale.html)
-		* [Sherpa: Yahoo’s distributed NoSQL key-value store](https://yahooeng.tumblr.com/post/120730204806/sherpa-scales-new-heights)
-		* [Riak inside Chat Service Architecture at Riot Games](https://engineering.riotgames.com/news/chat-service-architecture-persistence)
+		* [Manhattan: Distributed Key-Value Database at Twitter](https://blog.twitter.com/engineering/en_us/a/2014/manhattan-our-real-time-multi-tenant-distributed-database-for-twitter-scale.html)
+		* [Sherpa: Distributed NoSQL Key-Value Store at Yahoo](https://yahooeng.tumblr.com/post/120730204806/sherpa-scales-new-heights)
+		* [HaloDB: Embedded Key-Value Storage Engine at Yahoo](https://yahooeng.tumblr.com/post/178262468576/introducing-halodb-a-fast-embedded-key-value)
+		* [Riak in Chat Service Architecture at Riot Games](https://engineering.riotgames.com/news/chat-service-architecture-persistence)
 		* [MPH: Fast and Compact Immutable Key-Value Stores at Indeed](http://engineering.indeedblog.com/blog/2018/02/indeed-mph/)
 		* [zBase: High Performance, Elastic, Distributed Key-Value Store at Zynga](https://www.zynga.com/blogs/engineering/zbase-high-performance-elastic-distributed-key-value-store-2)
 		* [Venice: Distributed Key-Value Database at Linkedin](https://engineering.linkedin.com/blog/2017/02/building-venice-with-apache-helix)
@@ -337,7 +340,7 @@ An updated and curated list of readings to illustrate best practices and pattern
 		* [JanusGraph: Scalable Graph Database backed by Google, IBM and Hortonworks](https://architecht.io/google-ibm-back-new-open-source-graph-database-project-janusgraph-1d74fb78db6b)
 		* [Amazon Neptune](https://aws.amazon.com/neptune/)
 	* [Datastructure Databases (Redis, Hazelcast)](https://db-engines.com/en/system/Hazelcast%3BMemcached%3BRedis)
-		* [Using Redis To Scale at Twitter](http://highscalability.com/blog/2014/9/8/how-twitter-uses-redis-to-scale-105tb-ram-39mm-qps-10000-ins.html)
+		* [Scaling Redis at Twitter](http://highscalability.com/blog/2014/9/8/how-twitter-uses-redis-to-scale-105tb-ram-39mm-qps-10000-ins.html)
 		* [Scaling Job Queue with Redis at Slack](https://slack.engineering/scaling-slacks-job-queue-687222e9d100)
 		* [Moving persistent data out of Redis at Github](https://githubengineering.com/moving-persistent-data-out-of-redis/)
 		* [Storing Hundreds of Millions of Simple Key-Value Pairs in Redis at Instagram](https://engineering.instagram.com/storing-hundreds-of-millions-of-simple-key-value-pairs-in-redis-1091ae80f74c)
@@ -386,12 +389,12 @@ An updated and curated list of readings to illustrate best practices and pattern
 	* [UDP Load Balancing at 500 pixel](https://developers.500px.com/udp-load-balancing-with-keepalived-167382d7ad08)
 	* [QALM: QoS Load Management Framework at Uber](https://eng.uber.com/qalm/)	
 	* [Traffic Steering using Rum DNS at LinkedIn](https://www.usenix.org/conference/srecon17europe/program/presentation/rastogi)
+	* [Traffic Infrastructure (Edge Network) at Dropbox](https://blogs.dropbox.com/tech/2018/10/dropbox-traffic-infrastructure-edge-network/)
 * [Rate Limiting](https://www.keycdn.com/support/rate-limiting/)
 	* [Rate Limiting for Scaling to Millions of Domains at Cloudfare](https://blog.cloudflare.com/counting-things-a-lot-of-different-things/)
 	* [Cloud Bouncer: Distributed Rate Limiting at Yahoo](https://yahooeng.tumblr.com/post/111288877956/cloud-bouncer-distributed-rate-limiting-at-yahoo)
 	* [Scaling API with Rate Limiters at Stripe](https://stripe.com/blog/rate-limiters)
 	* [Rate Limiting at Etsy](https://www.sans.org/summit-archives/file/summit-archive-1509593697.pdf)
-	* [Rate Limiter at BloomReach](http://engineering.bloomreach.com/qps-monitoring-throttling-system/)
 	* [Distributed Rate Limiting at Allegro](https://allegro.tech/2017/04/hermes-max-rate.html)
 	* [Ratequeue: Core Queueing-And-Rate-Limiting System at Twilio](https://www.twilio.com/blog/2017/11/chaos-engineering-ratequeue-ha.html)
 * [Autoscaling](https://medium.com/@BotmetricHQ/top-11-hard-won-lessons-learned-about-aws-auto-scaling-5bfe56da755f)
@@ -561,9 +564,10 @@ An updated and curated list of readings to illustrate best practices and pattern
 
 ## Intelligence
 * [Big Data](https://insights.sei.cmu.edu/sei_blog/2017/05/reference-architectures-for-big-data-systems.html)	
+	* [Data Platform at Uber](https://eng.uber.com/uber-big-data-platform/)
 	* [Data Platform at Netflix](https://www.youtube.com/watch?v=CSDIThSwA7s)
 	* [Data Platform at Flipkart](https://tech.flipkart.com/overview-of-flipkart-data-platform-20c6d3e9a196)
-	* [Data Pipeline Management Platform at Khan Academy](http://engineering.khanacademy.org/posts/khanalytics.htm)
+	* [Data Platform at Khan Academy](http://engineering.khanacademy.org/posts/khanalytics.htm)
 	* [Data Infrastructure at Airbnb](https://medium.com/airbnb-engineering/data-infrastructure-at-airbnb-8adfb34f169c)
 	* [Data Infrastructure at LinkedIn](https://www.infoq.com/presentations/big-data-infrastructure-linkedin)
 	* [Data Infrastructure at GO-JEK](https://blog.gojekengineering.com/data-infrastructure-at-go-jek-cd4dc8cbd929)
@@ -634,6 +638,7 @@ An updated and curated list of readings to illustrate best practices and pattern
 	* [Real-Time Predictions at DoorDash](https://www.infoq.com/presentations/doordash-real-time-predictions)
 	* [Real-Time News Alerting at Bloomberg](https://www.infoq.com/presentations/news-alerting-bloomberg)
 	* [Machine Intelligence at Dropbox](https://blogs.dropbox.com/tech/2018/09/machine-intelligence-at-dropbox-an-update-from-our-dbxi-team/)
+	* [Machine Learning for Indexing Text from Billions of Images at Dropbox](https://blogs.dropbox.com/tech/2018/10/using-machine-learning-to-index-text-from-billions-of-images/)
 	* [Modeling User Journeys via Semantic Embeddings at Etsy](https://codeascraft.com/2018/07/12/modeling-user-journey-via-semantic-embeddings/)
 	* [Automated Fake Account Detection at LinkedIn](https://engineering.linkedin.com/blog/2018/09/automated-fake-account-detection-at-linkedin)
 
@@ -764,4 +769,4 @@ An updated and curated list of readings to illustrate best practices and pattern
 
 [![CC-BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-This repo is created and maintained by [Binh Nguyen](http://binhnguyennus.com/), R&D Engineer at The Agency for Science, Technology and Research of Singapore (A*Star). I am fortunate to be a part of a small but elite Vietnamese team, working remotely on various software projects with international clients. If you want to join us, please message me directly on LinkedIn! Thank You & Happy Coding! :heart: 
+This project is created and maintained by Binh Nguyen, R&D Engineer at The Agency for Science, Technology and Research of Singapore (A*Star). I am fortunate to be a part of a small but elite Vietnamese team, working remotely on various software projects with international clients. If you want to join us (especially if you are a Vietnamese student who want to gain more experience while making good money), please message me directly on [my LinkedIn](https://www.linkedin.com/in/binhnguyennus/)! Thank You & Happy Coding! :heart: 
