@@ -713,6 +713,7 @@ An updated and curated list of readings to illustrate best practices and pattern
 * [Lessons Learned Growing a UX Team from 10 to 170 at Adobe](https://medium.com/thinking-design/lessons-learned-growing-a-ux-team-from-10-to-170-f7b47be02262)
 * [Five Lessons from Scaling at Pinterest](https://medium.com/@sarahtavel/five-lessons-from-scaling-pinterest-6a699a889b08)
 * [Approach Engineering at Vinted](http://engineering.vinted.com/2018/09/04/how-we-approach-engineering-at-vinted/)
+* [Using Metrics to Improve the Development Process (and Coach People) at Indeed](https://engineering.indeedblog.com/blog/2018/10/using-metrics-to-improve-the-development-process-and-coach-people/)
 
 ## Talk
 * [Distributed Systems in One Lesson - Tim Berglund, Senior Director of Developer Experience at Confluent](https://www.youtube.com/watch?v=Y6Ev8GIlbxc)
