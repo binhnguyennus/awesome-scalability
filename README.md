@@ -96,9 +96,7 @@ An updated and curated list of readings to illustrate best practices and pattern
 * [Design for Self-healing](https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/self-healing)
 * [Design for Scaling Out](https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/scale-out)	
 * [Design for Evolution](https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/design-for-evolution)	
-* [Mistakes to Avoid while Creating an Internal Product at Skyscanner](https://medium.com/@SkyscannerEng/9-mistakes-to-avoid-while-creating-an-internal-product-63d579b00b1a)
-* [Learn from Mistakes at Reddit](http://highscalability.com/blog/2013/8/26/reddit-lessons-learned-from-mistakes-made-scaling-to-1-billi.html)
-* [Code Review Best Practices at Palantir](https://medium.com/@palantir/code-review-best-practices-19e02780015f)
+* [Learn from Mistakes](http://highscalability.com/blog/2013/8/26/reddit-lessons-learned-from-mistakes-made-scaling-to-1-billi.html)
 
 ## Scalability
 * [Microservices and Orchestration](https://hackernoon.com/microservices-are-hard-an-invaluable-guide-to-microservices-2d06bd7bcf5d)
@@ -716,6 +714,8 @@ An updated and curated list of readings to illustrate best practices and pattern
 * [Five Lessons from Scaling at Pinterest](https://medium.com/@sarahtavel/five-lessons-from-scaling-pinterest-6a699a889b08)
 * [Approach Engineering at Vinted](http://engineering.vinted.com/2018/09/04/how-we-approach-engineering-at-vinted/)
 * [Using Metrics to Improve the Development Process (and Coach People) at Indeed](https://engineering.indeedblog.com/blog/2018/10/using-metrics-to-improve-the-development-process-and-coach-people/)
+* [Mistakes to Avoid while Creating an Internal Product at Skyscanner](https://medium.com/@SkyscannerEng/9-mistakes-to-avoid-while-creating-an-internal-product-63d579b00b1a)
+* [Code Review Best Practices at Palantir](https://medium.com/@palantir/code-review-best-practices-19e02780015f)
 
 ## Talk
 * [Distributed Systems in One Lesson - Tim Berglund, Senior Director of Developer Experience at Confluent](https://www.youtube.com/watch?v=Y6Ev8GIlbxc)
