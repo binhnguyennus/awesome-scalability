@@ -716,6 +716,7 @@ An updated and curated list of readings to illustrate best practices and pattern
 * [Mistakes to Avoid while Creating an Internal Product at Skyscanner](https://medium.com/@SkyscannerEng/9-mistakes-to-avoid-while-creating-an-internal-product-63d579b00b1a)
 * [Code Review Best Practices at Palantir](https://medium.com/@palantir/code-review-best-practices-19e02780015f)
 * [RACI (Responsible, Accountable, Consulted, Informed) at Etsy](https://codeascraft.com/2018/01/04/selecting-a-cloud-provider/)
+* [Four Pillars of Leading People (Empathy, Inspiration, Trust, Honesty) at Zalando](https://jobs.zalando.com/tech/blog/four-pillars-leadership/)
 
 ## Talk
 * [Distributed Systems in One Lesson - Tim Berglund, Senior Director of Developer Experience at Confluent](https://www.youtube.com/watch?v=Y6Ev8GIlbxc)
