@@ -683,6 +683,7 @@ An updated and curated list of readings to illustrate best practices and pattern
 	* [Top 10 Common Large-Scale Software Architectural Patterns in a Nutshell](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
 	* [Cloud Big Data Design Patterns - Lynn Langit](https://lynnlangit.com/2017/03/14/beyond-relational/)	
 	* [How NOT to design Netflix in your 45-minute System Design Interview?](https://hackernoon.com/how-not-to-design-netflix-in-your-45-minute-system-design-interview-64953391a054)
+	* [API Best Practices: Webhooks, Deprecation, and Design](https://zapier.com/engineering/api-best-practices/)
 * [Explaining Low-Level Systems (OS, Network/Protocol, Database, Storage)](https://www.palantir.com/how-to-ace-a-systems-design-interview/)	
 	* [OSI and TCP/IP Cheat Sheet](http://jaredheinrichs.com/mastering-the-osi-tcpip-models.html)
 	* [The Precise Meaning of I/O Wait Time in Linux](http://veithen.github.io/2013/11/18/iowait-linux.html)
@@ -776,4 +777,4 @@ An updated and curated list of readings to illustrate best practices and pattern
 
 [![CC-BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-This project is created and maintained by Binh Nguyen, R&D Engineer at The Agency for Science, Technology and Research of Singapore (A*Star). I am fortunate to be a part of a small but elite Vietnamese team, working remotely on various software projects with international clients. If you want to join us (especially if you are a Vietnamese student who want to gain more experience while making good money), please message me directly on [my LinkedIn](https://www.linkedin.com/in/binhnguyennus/)! Thank You & Happy Coding! :heart: 
+This project is created and maintained by [Binh Nguyen](https://www.linkedin.com/in/binhnguyennus/), R&D Engineer at The Agency for Science, Technology and Research of Singapore (A*Star). Thank You & Happy Coding! :heart: 
