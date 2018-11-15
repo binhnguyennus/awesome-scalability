@@ -544,6 +544,7 @@ An updated and curated list of readings to illustrate best practices and pattern
 	* [Profiling C++ (Part 1: Optimization, Part 2: Measurement and Analysis) at Riot Games](https://engineering.riotgames.com/news/profiling-optimisation)
 	* [Diagnosing Networking Issues in the Linux Kernel at Mixpanel](https://code.mixpanel.com/2015/03/26/diagnosing-networking-issues-in-the-linux-kernel/)
 	* [Hardware-Assisted Video Transcoding at Dailymotion](https://medium.com/dailymotion-engineering/hardware-assisted-video-transcoding-at-dailymotion-66cd2db448ae)
+	* [Cross Shard Transactions at 10 Million RPS at Dropbox](https://blogs.dropbox.com/tech/2018/11/cross-shard-transactions-at-10-million-requests-per-second/)
 * [Performance Optimization by Tuning Garbage Collection](https://confluence.atlassian.com/enterprise/garbage-collection-gc-tuning-guide-461504616.html)
 	* [Garbage Collection Optimization for High-Throughput and Low-Latency Java Applications at LinkedIn](https://engineering.linkedin.com/garbage-collection/garbage-collection-optimization-high-throughput-and-low-latency-java-applications)
 	* [Analyzing V8 Garbage Collection Logs at Alibaba](https://www.linux.com/blog/can-nodejs-scale-ask-team-alibaba)
@@ -778,4 +779,4 @@ An updated and curated list of readings to illustrate best practices and pattern
 
 [![CC-BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-This project is created and maintained by [Binh Nguyen](https://www.linkedin.com/in/binhnguyennus/), R&D Engineer at The Agency for Science, Technology and Research of Singapore (A*Star). Thank You & Happy Coding! :heart: 
+This project is created and maintained by [Binh Nguyen](https://www.linkedin.com/in/binhnguyennus/), R&D Software Engineer at The Agency for Science, Technology and Research of Singapore (A*Star). Thank You & Happy Coding :heart: 
