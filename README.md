@@ -362,7 +362,7 @@ An updated and curated list of readings to illustrate best practices and pattern
 	* [Roshi: Distributed Storage System for Time-Series Event at SoundCloud](https://developers.soundcloud.com/blog/roshi-a-crdt-system-for-timestamped-events)
 	* [Goku: Time Series Database at Pinterest](https://medium.com/@Pinterest_Engineering/goku-building-a-scalable-and-high-performant-time-series-database-system-a8ff5758a181)
 	* [Building a Scalable Time Series Database on PostgreSQL](https://blog.timescale.com/when-boring-is-awesome-building-a-scalable-time-series-database-on-postgresql-2900ea453ee2)
-	* [Scaling Time Series Data Storage at Netflix](https://medium.com/netflix-techblog/scaling-time-series-data-storage-part-i-ec2b6d44ba39)
+	* [Scaling Time Series Data Storage (2 parts) at Netflix](https://medium.com/netflix-techblog/scaling-time-series-data-storage-part-ii-d67939655586)
 * [HTTP Caching (Reverse Proxy, CDN)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching)
 	* [Reverse Proxy (Nginx, Varnish, Squid, rack-cache)](https://www.mertech.com/overview-reverse-proxying/)
 	* [Stop Worrying and Love the Proxy](https://blog.turbinelabs.io/how-we-learned-to-stop-worrying-and-love-the-proxy-89af98fabaf8)
