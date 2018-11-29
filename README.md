@@ -154,6 +154,7 @@ An updated and curated list of readings to illustrate best practices and pattern
 	* [Tracing Distributed Systems at Showmax](https://tech.showmax.com/2016/10/tracing-distributed-systems-at-showmax/)
 	* [osquery Across the Enterprise at Palantir](https://medium.com/@palantir/osquery-across-the-enterprise-3c3c9d13ec55)
 	* [StatsD at Etsy](https://codeascraft.com/2011/02/15/measure-anything-measure-everything/)
+	* [StatsD at DoorDash](https://blog.doordash.com/scaling-statsd-84d456a7cc2a)
 * [Distributed Logging](https://blog.treasuredata.com/blog/2016/08/03/distributed-logging-architecture-in-the-container-era/)
 	* [The Problem with Logging - Jeff Atwood](https://blog.codinghorror.com/the-problem-with-logging/)
 	* [The Log: What Every Software Engineer Should Know](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
