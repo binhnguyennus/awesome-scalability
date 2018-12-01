@@ -20,7 +20,7 @@ An updated and curated list of readings to illustrate best practices and pattern
 
 > If you find this project helpful, please share on your chat groups, [on Twitter](https://ctt.ec/V8B2p), or [on Weibo](http://t.cn/RnjFLCB) so more people can be helped! Power is gained by sharing knowledge, not hoarding it. Thank you! :hibiscus:
 
-## Contents
+## Content
 - [Principle](#principle)
 - [Scalability](#scalability)
 - [Availability](#availability)
@@ -142,6 +142,7 @@ An updated and curated list of readings to illustrate best practices and pattern
 	* [Avoiding Cache Stampede at DoorDash](https://blog.doordash.com/avoiding-cache-stampede-at-doordash-55bbf596d94b)
 * [Distributed Tracking, Tracing, and Measuring](https://www.oreilly.com/ideas/understanding-the-value-of-distributed-tracing)
 	* [Zipkin: Distributed Systems Tracing at Twitter](https://blog.twitter.com/engineering/en_us/a/2012/distributed-systems-tracing-with-zipkin.html)
+	* [Improve Zipkin Traces using Kubernetes Pod Metadata at SoundCloud](https://developers.soundcloud.com/blog/using-kubernetes-pod-metadata-to-improve-zipkin-traces)
 	* [Canopy: Scalable Distributed Tracing & Analysis at Facebook](https://www.infoq.com/presentations/canopy-scalable-tracing-analytics-facebook)
 	* [Pintrace: Distributed Tracing at Pinterest](https://medium.com/@Pinterest_Engineering/distributed-tracing-at-pinterest-with-new-open-source-tools-a4f8a5562f6b)
 	* [Real-time Distributed Tracing at LinkedIn](https://engineering.linkedin.com/distributed-service-call-graph/real-time-distributed-tracing-website-performance-and-efficiency)	
