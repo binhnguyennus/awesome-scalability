@@ -20,7 +20,7 @@ An updated and curated list of readings to illustrate best practices and pattern
 
 > If you find this project helpful, please share on your chat groups, [on Twitter](https://ctt.ec/V8B2p), or [on Weibo](http://t.cn/RnjFLCB) so more people can be helped! Power is gained by sharing knowledge, not hoarding it. Thank you! :hibiscus:
 
-## Contents
+## Content
 - [Principle](#principle)
 - [Scalability](#scalability)
 - [Availability](#availability)
@@ -140,8 +140,9 @@ An updated and curated list of readings to illustrate best practices and pattern
 	* [Application Data Caching from RAM to SSD at NetFlix](https://medium.com/netflix-techblog/evolution-of-application-data-caching-from-ram-to-ssd-a33d6fa7a690)
 	* [Tradeoffs of Replicated Cache at Skyscanner](https://medium.com/@SkyscannerEng/the-tradeoffs-of-a-replicated-cache-b6680c722f58)
 	* [Avoiding Cache Stampede at DoorDash](https://blog.doordash.com/avoiding-cache-stampede-at-doordash-55bbf596d94b)
-* [Distributed Tracking and Tracing](https://www.oreilly.com/ideas/understanding-the-value-of-distributed-tracing)
+* [Distributed Tracking, Tracing, and Measuring](https://www.oreilly.com/ideas/understanding-the-value-of-distributed-tracing)
 	* [Zipkin: Distributed Systems Tracing at Twitter](https://blog.twitter.com/engineering/en_us/a/2012/distributed-systems-tracing-with-zipkin.html)
+	* [Improve Zipkin Traces using Kubernetes Pod Metadata at SoundCloud](https://developers.soundcloud.com/blog/using-kubernetes-pod-metadata-to-improve-zipkin-traces)
 	* [Canopy: Scalable Distributed Tracing & Analysis at Facebook](https://www.infoq.com/presentations/canopy-scalable-tracing-analytics-facebook)
 	* [Pintrace: Distributed Tracing at Pinterest](https://medium.com/@Pinterest_Engineering/distributed-tracing-at-pinterest-with-new-open-source-tools-a4f8a5562f6b)
 	* [Real-time Distributed Tracing at LinkedIn](https://engineering.linkedin.com/distributed-service-call-graph/real-time-distributed-tracing-website-performance-and-efficiency)	
@@ -153,6 +154,8 @@ An updated and curated list of readings to illustrate best practices and pattern
 	* [Data Checking at Dropbox](https://www.usenix.org/conference/srecon17asia/program/presentation/mah)
 	* [Tracing Distributed Systems at Showmax](https://tech.showmax.com/2016/10/tracing-distributed-systems-at-showmax/)
 	* [osquery Across the Enterprise at Palantir](https://medium.com/@palantir/osquery-across-the-enterprise-3c3c9d13ec55)
+	* [StatsD at Etsy](https://codeascraft.com/2011/02/15/measure-anything-measure-everything/)
+	* [StatsD at DoorDash](https://blog.doordash.com/scaling-statsd-84d456a7cc2a)
 * [Distributed Logging](https://blog.treasuredata.com/blog/2016/08/03/distributed-logging-architecture-in-the-container-era/)
 	* [The Problem with Logging - Jeff Atwood](https://blog.codinghorror.com/the-problem-with-logging/)
 	* [The Log: What Every Software Engineer Should Know](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
@@ -174,8 +177,7 @@ An updated and curated list of readings to illustrate best practices and pattern
 	* [BinaryAlert: Real-time Serverless Malware Detection at Airbnb](https://medium.com/airbnb-engineering/binaryalert-real-time-serverless-malware-detection-ca44370c1b90)
 	* [Scalable IAM Architecture to Secure Access to 100 AWS Accounts at Segment](https://segment.com/blog/secure-access-to-100-aws-accounts/)
 	* [OAuth Audit Toolbox at Indeed](http://engineering.indeedblog.com/blog/2018/04/oaudit-toolbox/)
-	* [Active Directory Password Blacklisting at Yelp](https://engineeringblog.yelp.com/2018/04/ad-password-blacklisting.html)
-	* [Secure Infrastructure to Store Bitcoin in the Cloud at Coinbase](https://engineering.coinbase.com/how-coinbase-builds-secure-infrastructure-to-store-bitcoin-in-the-cloud-30a6504e40ba)	
+	* [Active Directory Password Blacklisting at Yelp](https://engineeringblog.yelp.com/2018/04/ad-password-blacklisting.html)	
 	* [Syscall Auditing at Scale at Slack](https://slack.engineering/syscall-auditing-at-scale-e6a3ca8ac1b8)
 	* [Athenz: Fine-Grained, Role-Based Access Control at Yahoo](https://yahooeng.tumblr.com/post/160481899076/open-sourcing-athenz-fine-grained-role-based)
 	* [WebAuthn Support for Secure Sign In at Dropbox](https://blogs.dropbox.com/tech/2018/05/introducing-webauthn-support-for-secure-dropbox-sign-in/)
@@ -260,6 +262,7 @@ An updated and curated list of readings to illustrate best practices and pattern
 		* [Quantcast File System on Amazon S3](https://www.quantcast.com/blog/quantcast-file-system-on-amazon-s3/)
 		* [Data Sink with S3 at Deliveroo](https://deliveroo.engineering/2017/06/15/data-sink.html)
 		* [Using S3 in Netflix Chukwa](https://medium.com/netflix-techblog/evolution-of-the-netflix-data-pipeline-da246ca36905)	
+		* [Image Recovery at Scale Using S3 Versioning at Trivago](https://tech.trivago.com/2018/09/03/efficient-image-recovery-at-scale-using-amazon-s3-versioning/)
 		* [Yahoo Cloud Object Store - Object Storage at Exabyte Scale](https://yahooeng.tumblr.com/post/116391291701/yahoo-cloud-object-store-object-storage-at)
 		* [Ambry: Distributed Immutable Object Store at LinkedIn](https://www.usenix.org/conference/srecon17americas/program/presentation/shenoy)
 		* [Hammerspace: Persistent, Concurrent, Off-heap Storage at Airbnb](https://medium.com/airbnb-engineering/hammerspace-persistent-concurrent-off-heap-storage-3db39bb04472)	
@@ -362,7 +365,7 @@ An updated and curated list of readings to illustrate best practices and pattern
 	* [Roshi: Distributed Storage System for Time-Series Event at SoundCloud](https://developers.soundcloud.com/blog/roshi-a-crdt-system-for-timestamped-events)
 	* [Goku: Time Series Database at Pinterest](https://medium.com/@Pinterest_Engineering/goku-building-a-scalable-and-high-performant-time-series-database-system-a8ff5758a181)
 	* [Building a Scalable Time Series Database on PostgreSQL](https://blog.timescale.com/when-boring-is-awesome-building-a-scalable-time-series-database-on-postgresql-2900ea453ee2)
-	* [Scaling Time Series Data Storage at Netflix](https://medium.com/netflix-techblog/scaling-time-series-data-storage-part-i-ec2b6d44ba39)
+	* [Scaling Time Series Data Storage (2 parts) at Netflix](https://medium.com/netflix-techblog/scaling-time-series-data-storage-part-ii-d67939655586)
 * [HTTP Caching (Reverse Proxy, CDN)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching)
 	* [Reverse Proxy (Nginx, Varnish, Squid, rack-cache)](https://www.mertech.com/overview-reverse-proxying/)
 	* [Stop Worrying and Love the Proxy](https://blog.turbinelabs.io/how-we-learned-to-stop-worrying-and-love-the-proxy-89af98fabaf8)
@@ -580,6 +583,7 @@ An updated and curated list of readings to illustrate best practices and pattern
 	* [Big Data Processing (2 parts) at Spotify](https://labs.spotify.com/2017/10/23/big-data-processing-at-spotify-the-road-to-scio-part-2/)
 	* [Big Data Processing at Uber](https://cdn.oreillystatic.com/en/assets/1/event/160/Big%20data%20processing%20with%20Hadoop%20and%20Spark%2C%20the%20Uber%20way%20Presentation.pdf)
 	* [Analytics Pipeline at Lyft](https://cdn.oreillystatic.com/en/assets/1/event/269/Lyft_s%20analytics%20pipeline_%20From%20Redshift%20to%20Apache%20Hive%20and%20Presto%20Presentation.pdf)
+	* [Analytics Pipeline at Grammarly](https://tech.grammarly.com/blog/building-a-versatile-analytics-pipeline-on-top-of-apache-spark)
 	* [ML Data Pipelines for Real-Time Fraud Prevention at PayPal](https://www.infoq.com/presentations/paypal-ml-fraud-prevention-2018)
 	* [Big Data Analytics and ML Techniques at LinkedIn](https://cdn.oreillystatic.com/en/assets/1/event/269/Big%20data%20analytics%20and%20machine%20learning%20techniques%20to%20drive%20and%20grow%20business%20Presentation%201.pdf)
 	* [Self-Serve Reporting Platform on Hadoop at LinkedIn](https://cdn.oreillystatic.com/en/assets/1/event/137/Building%20a%20self-serve%20real-time%20reporting%20platform%20at%20LinkedIn%20Presentation%201.pdf)
@@ -619,7 +623,8 @@ An updated and curated list of readings to illustrate best practices and pattern
 	* [Machine Learning Applications In The E-commerce Domain (4 parts) at Rakuten](https://techblog.rakuten.co.jp/2017/07/12/machine-learning-applications-in-the-e-commerce-domain-4/)
 	* [Mapping the World of Music Using Machine Learning (2 parts) at iHeartRadio](https://tech.iheart.com/mapping-the-world-of-music-using-machine-learning-part-2-aa50b6a0304c)
 	* [Venue Rating System at Foursquare](https://engineering.foursquare.com/finding-the-perfect-10-how-we-developed-the-foursquare-venue-rating-system-c76b08f7b9b3)
-	* [Using Machine Learning to Improve Streaming Quality at Netflix](https://medium.com/netflix-techblog/using-machine-learning-to-improve-streaming-quality-at-netflix-9651263ef09f)
+	* [Machine Learning to Improve Streaming Quality at Netflix](https://medium.com/netflix-techblog/using-machine-learning-to-improve-streaming-quality-at-netflix-9651263ef09f)
+	* [Machine Learning to Match Drivers & Riders at GO-JEK](https://blog.gojekengineering.com/how-we-use-machine-learning-to-match-drivers-riders-b06d617b9e5)
 	* [Improving Video Thumbnails with Deep Neural Nets at YouTube](https://youtube-eng.googleblog.com/2015/10/improving-youtube-video-thumbnails-with_8.html)
 	* [Quantile Regression for Delivering On Time at Instacart](https://tech.instacart.com/how-instacart-delivers-on-time-using-quantile-regression-2383e2e03edb)
 	* [Cross-Lingual End-to-End Product Search with Deep Learning at Zalando](https://jobs.zalando.com/tech/blog/search-deep-neural-network/)
@@ -780,4 +785,4 @@ An updated and curated list of readings to illustrate best practices and pattern
 
 [![CC-BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-This project is created and maintained by [Binh Nguyen](https://www.linkedin.com/in/binhnguyennus/), R&D Software Engineer at The Agency for Science, Technology and Research of Singapore (A*Star). Thank You & Happy Coding :heart: 
+This project is created and maintained by [Quoc-Binh Nguyen](https://www.linkedin.com/in/binhnguyennus/), R&D Software Engineer at The Agency for Science, Technology and Research of Singapore (A*Star). Thank You & Happy Coding :heart: 
