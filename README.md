@@ -141,6 +141,7 @@ An updated and curated list of readings to illustrate best practices and pattern
 	* [Application Data Caching from RAM to SSD at NetFlix](https://medium.com/netflix-techblog/evolution-of-application-data-caching-from-ram-to-ssd-a33d6fa7a690)
 	* [Tradeoffs of Replicated Cache at Skyscanner](https://medium.com/@SkyscannerEng/the-tradeoffs-of-a-replicated-cache-b6680c722f58)
 	* [Avoiding Cache Stampede at DoorDash](https://blog.doordash.com/avoiding-cache-stampede-at-doordash-55bbf596d94b)
+	* [Location Caching with Quadtrees at Yext](http://engblog.yext.com/post/geolocation-caching)
 * [Distributed Tracking, Tracing, and Measuring](https://www.oreilly.com/ideas/understanding-the-value-of-distributed-tracing)
 	* [Zipkin: Distributed Systems Tracing at Twitter](https://blog.twitter.com/engineering/en_us/a/2012/distributed-systems-tracing-with-zipkin.html)
 	* [Improve Zipkin Traces using Kubernetes Pod Metadata at SoundCloud](https://developers.soundcloud.com/blog/using-kubernetes-pod-metadata-to-improve-zipkin-traces)
