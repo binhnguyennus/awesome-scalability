@@ -122,6 +122,7 @@ An updated and curated list of readings to illustrate best practices and pattern
 	* [K8Guard: Auditing System for Kubernetes Clusters at Target.com](http://target.github.io/infrastructure/k8guard-the-guardian-angel-for-kuberentes)
 	* [Deconstructing Monolithic Applications into (Kafka-driven) Services at Heroku](https://blog.heroku.com/monolithic-applications-into-services)
 	* [Docker Containers that Power Over 100.000 Online Shops at Shopify](https://shopifyengineering.myshopify.com/blogs/engineering/docker-at-shopify-how-we-built-containers-that-power-over-100-000-online-shops)
+	* [Microservice Architecture at Medium](https://medium.engineering/microservice-architecture-at-medium-9c33805eb74f)
 * [Distributed Caching](https://www.wix.engineering/single-post/scaling-to-100m-to-cache-or-not-to-cache)
 	* [Read-Through, Write-Through, Write-Behind, and Refresh-Ahead Caching](https://docs.oracle.com/cd/E15357_01/coh.360/e15723/cache_rtwtwbra.htm#COHDG5177)
 	* [Eviction Policy and Expiration Policy](http://highscalability.com/blog/2016/1/25/design-of-a-modern-cache.html)
@@ -665,6 +666,7 @@ An updated and curated list of readings to illustrate best practices and pattern
 * [Services (2 parts) at Airbnb](https://medium.com/airbnb-engineering/building-services-at-airbnb-part-2-142be1c5d506)
 * [Back-end at LinkedIn](https://engineering.linkedin.com/architecture/brief-history-scaling-linkedin)
 * [Back-end at Flickr](https://yahooeng.tumblr.com/post/157200523046/introducing-tripod-flickrs-backend-refactored)
+* [Cloud Infrastructure at Grubhub](https://bytes.grubhub.com/cloud-infrastructure-at-grubhub-94db998a898a)
 * [Real-time Presence Platform at LinkedIn](https://engineering.linkedin.com/blog/2018/01/now-you-see-me--now-you-dont--linkedins-real-time-presence-platf)
 * [Real-time User Action Counting System for Ads at Pinterest](https://medium.com/@Pinterest_Engineering/building-a-real-time-user-action-counting-system-for-ads-88a60d9c9a)
 * [API Platform at Riot Games](https://engineering.riotgames.com/news/riot-games-api-deep-dive)
@@ -792,4 +794,4 @@ An updated and curated list of readings to illustrate best practices and pattern
 
 [![CC-BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-This project is created and maintained by [Quoc-Binh Nguyen](https://www.linkedin.com/in/binhnguyennus/), R&D Software Engineer at The Agency for Science, Technology and Research of Singapore (A*Star). Thank You & Happy Coding :heart: 
+This project is created and maintained by [Quoc-Binh Nguyen](https://www.linkedin.com/in/binhnguyennus/), R&D Software Engineer at Agency for Science, Technology and Research of Singapore. Thank You & Happy Coding :heart: 
