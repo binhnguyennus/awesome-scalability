@@ -177,6 +177,7 @@ An updated and curated list of readings to illustrate best practices and pattern
     * [Airflow - Workflow Management Platform at Airbnb](https://medium.com/airbnb-engineering/airflow-a-workflow-management-platform-46318b977fd8)
 		* [Airflow at Pandora](https://engineering.pandora.com/apache-airflow-at-pandora-1d7a844d68ee)
         * [Airflow at Robinhood](https://robinhood.engineering/why-robinhood-uses-airflow-aed13a9a90c8)
+        * [Airflow At Lyft](https://eng.lyft.com/running-apache-airflow-at-lyft-6e53bb8fccff)
         * [MaaT: DAG-based Distributed Task Scheduler at Alibaba](https://hackernoon.com/meet-maat-alibabas-dag-based-distributed-task-scheduler-7c9cf0c83438)
         * [boundary-layer: Declarative Airflow Workflows at Etsy](https://codeascraft.com/2018/11/14/boundary-layer%e2%80%89-declarative-airflow-workflows/)    
 * [Distributed Logging](https://blog.treasuredata.com/blog/2016/08/03/distributed-logging-architecture-in-the-container-era/)
