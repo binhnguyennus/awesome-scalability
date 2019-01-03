@@ -543,7 +543,7 @@ An updated and curated list of readings to illustrate best practices and pattern
     * [Reducing Video Loading Time at Dailymotion](https://medium.com/dailymotion/reducing-video-loading-time-fa9c997a2294)
 	* [Boosting Site Speed Using Brotli Compression at LinkedIn](https://engineering.linkedin.com/blog/2017/05/boosting-site-speed-using-brotli-compression)
 	* [Improving Homepage Performance at Zillow](https://www.zillow.com/engineering/improving-homepage-performance/)
-	* [The Process of Optimizing for Client Performance at Expedia](https://techblog.expedia.com/2018/03/09/go-fast-or-go-home-the-process-of-optimizing-for-client-performance/)
+	* [The Process of Optimizing for Client Performance at Expedia](https://medium.com/expedia-engineering/go-fast-or-go-home-the-process-of-optimizing-for-client-performance-57bb497402e)
 * [Concurrency](http://joeduffyblog.com/2016/11/30/15-years-of-concurrency/)
 	* [Message-Passing Concurrency](https://link.springer.com/chapter/10.1007/978-3-642-35170-9_11)
 	* [Software Transactional Memory](https://dl.acm.org/citation.cfm?id=3037750)
