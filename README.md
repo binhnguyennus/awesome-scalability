@@ -335,6 +335,7 @@ An updated and curated list of readings to illustrate best practices and pattern
 		* [Sharding MySQL at MailChimp](https://devs.mailchimp.com/blog/using-shards-to-accommodate-millions-of-users/)
 		* [Sharding MySQL at Twilio](https://www.twilio.com/engineering/2014/06/26/how-we-replaced-our-data-pipeline-with-zero-downtime)
 		* [Sharding MySQL (3 parts) at Evernote](https://blog.evernote.com/tech/2015/10/08/the-great-shard-migration-part-ii/)
+        * [Sharding MySQL at Square](https://medium.com/square-corner-blog/sharding-cash-10280fa3ef3b)
 		* [Sharding Layer of Schemaless Datastore at Uber](https://eng.uber.com/schemaless-rewrite/)
 		* [Sharding & IDs at Instagram](https://instagram-engineering.com/sharding-ids-at-instagram-1cf5a71e5a5c)
 		* [Solr: Improving Performance for Batch Indexing at Box](https://blog.box.com/blog/solr-improving-performance-batch-indexing/)	
