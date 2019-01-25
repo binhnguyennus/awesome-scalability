@@ -778,4 +778,4 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 
 [![CC-BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-This project is created and maintained by [Binh Nguyen](https://www.linkedin.com/in/binhnguyennus/), R&D Software Engineer at Agency for Science, Technology and Research of Singapore. Thank You & Happy Coding :heart: 
+Created and maintained by [Binh Nguyen](https://www.linkedin.com/in/binhnguyennus/) (Agency for Science, Technology and Research of Singapore; previously at NEC's Global Safety Division). Thank You & Happy Coding :heart: 
