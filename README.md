@@ -1,6 +1,6 @@
-# Scalable, Available, Stable, Performant, and Intelligent System Design Patterns
+# The Patterns Behind Scalable, Reliable, and Performant Large-Scale Systems
 
-An updated and curated list of readings to illustrate best practices and patterns in building scalable, available, stable, performant, and intelligent large-scale systems. Concepts are explained in the articles of prominent engineers and credible references. Case studies are taken from battle-tested systems that serve millions to billions of users.
+An organized reading list for illustrating the patterns behind scalable, reliable, and performant large-scale systems. Concepts are explained in the articles of prominent engineers and credible references. Case studies are taken from battle-tested systems that serve millions to billions of users.
 
 #### If your system goes slow :traffic_light:
 > Understand your problems: scalability problem (fast for a single user but slow under heavy load) or performance problem (slow for a single user) by reviewing some [design principles](#principle) and checking how [scalability](#scalability) and [performance](#performance) problems are solved at tech companies. The section of [intelligence](#intelligence) are created for those who work with data and machine learning at big (data) and deep (learning) scale.
@@ -774,4 +774,4 @@ An updated and curated list of readings to illustrate best practices and pattern
 
 [![CC-BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-This project is created and maintained by [Quoc-Binh Nguyen](https://www.linkedin.com/in/binhnguyennus/), R&D Software Engineer at Agency for Science, Technology and Research of Singapore. Thank You & Happy Coding :heart: 
+This project is created and maintained by [Binh Nguyen](https://www.linkedin.com/in/binhnguyennus/), R&D Software Engineer at Agency for Science, Technology and Research of Singapore. Thank You & Happy Coding :heart: 
