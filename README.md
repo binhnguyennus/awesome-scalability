@@ -664,6 +664,7 @@ An updated and curated list of readings to illustrate best practices and pattern
 * [Tech Stack at Shopify](https://engineering.shopify.com/blogs/engineering/e-commerce-at-scale-inside-shopifys-tech-stack)
 * [Services (2 parts) at Airbnb](https://medium.com/airbnb-engineering/building-services-at-airbnb-part-2-142be1c5d506)
 * [Architecture of Evernote](https://evernote.com/blog/a-digest-of-evernotes-architecture/)
+* [Architecture of Chat Service (3 Parts) at Riot Games](https://engineering.riotgames.com/news/chat-service-architecture-persistence)
 * [Back-end at LinkedIn](https://engineering.linkedin.com/architecture/brief-history-scaling-linkedin)
 * [Back-end at Flickr](https://yahooeng.tumblr.com/post/157200523046/introducing-tripod-flickrs-backend-refactored)
 * [Cloud Infrastructure at Grubhub](https://bytes.grubhub.com/cloud-infrastructure-at-grubhub-94db998a898a)
