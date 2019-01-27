@@ -430,6 +430,7 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 	* [Dotfiles Distribution at Booking.com](https://medium.com/booking-com-infrastructure/dotfiles-distribution-dedb69c66a75)
 	* [Secret Detector: Preventing Secrets in Source Code at Yelp](https://engineeringblog.yelp.com/2018/06/yelps-secret-detector.html)
 	* [Managing Software Dependency at Scale at LinkedIn](https://engineering.linkedin.com/blog/2018/09/managing-software-dependency-at-scale)
+	* [Dynamic Configuration at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2018/dynamic-configuration-at-twitter.html)
 * [Scaling Continuous Integration and Continuous Delivery](https://www.synopsys.com/blogs/software-security/agile-cicd-devops-glossary/)
 	* [Continuous Integration Stack at Facebook](https://code.fb.com/web/rapid-release-at-massive-scale/)
 	* [Continuous Integration with Distributed Repositories and Dependencies at Netflix](https://medium.com/netflix-techblog/towards-true-continuous-integration-distributed-repositories-and-dependencies-2a2e3108c051)
@@ -778,4 +779,4 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 
 [![CC-BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-Created and maintained by [Binh Nguyen](https://www.linkedin.com/in/binhnguyennus/) (Agency for Science, Technology and Research of Singapore; previously at NEC's Global Safety Division). Thank You & Happy Coding :heart: 
+Created and maintained by [Binh Nguyen](https://www.linkedin.com/in/binhnguyennus/) (Agency for Science, Technology and Research of Singapore). Thank You & Happy Coding :shipit: 
