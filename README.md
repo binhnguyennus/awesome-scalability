@@ -322,7 +322,6 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 * [Relational Databases (MySQL, MSSQL, PostgreSQL)](https://www.mysql.com/products/cluster/scalability.html)
 	* [MySQL for schema-less data at FriendFeed (Bret Taylor)](https://backchannel.org/blog/friendfeed-schemaless-mysql)
 	* [MySQL at Pinterest](https://medium.com/@Pinterest_Engineering/learn-to-stop-using-shiny-new-things-and-love-mysql-3e1613c2ce14)
-	* [MySQL System Design at Booking.com](https://www.percona.com/live/mysql-conference-2015/sessions/bookingcom-evolution-mysql-system-design)
 	* [PostgreSQL at Twitch](https://blog.twitch.tv/how-twitch-uses-postgresql-c34aa9e56f58)
 	* [Scaling MySQL-based Financial Reporting System at Airbnb](https://medium.com/airbnb-engineering/tracking-the-money-scaling-financial-reporting-at-airbnb-6d742b80f040)
 	* [Scaling MySQL at Wix](https://www.wix.engineering/single-post/scaling-to-100m-mysql-is-a-better-nosql)
