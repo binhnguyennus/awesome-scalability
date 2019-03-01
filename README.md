@@ -779,4 +779,4 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 
 [![CC-BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-Created and maintained by [Binh Nguyen](https://www.linkedin.com/in/binhnguyennus/) (Agency for Science, Technology and Research of Singapore). Thank You & Happy Coding :shipit: 
+Created and maintained by [Binh Nguyen](https://www.linkedin.com/in/binhnguyennus/) (Agency for Science, Technology and Research of Singapore). Also checking [TopSDE: System Designs Everyday for Software Development Engineers](https://twitter.com/top_sde). Thank You & Happy Coding :heart: 
