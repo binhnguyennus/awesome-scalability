@@ -20,7 +20,7 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 
 > If you find this project helpful, please share on your chat groups, [on Twitter](https://ctt.ec/V8B2p), or [on Weibo](http://t.cn/RnjFLCB) so more people can be helped! Power is gained by sharing knowledge, not hoarding it. Thank you! :hibiscus:
 
-> Update on March 2019: As the content is growing, I created [topsde.com - System Designs Everyday for Software Development Engineers](http://topsde.com) so that you can be updated with new videos about System Design daily! Please check and Happy learning :star2:
+> Update on March 2019: As the content is growing, I created [topsde.com - System Designs Everyday for Software Development Engineers](http://topsde.com) so that you can be updated with new videos about System Design daily! Happy Learning :star2:
 
 ## Content
 - [Principle](#principle)
@@ -781,4 +781,4 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 
 [![CC-BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-Created and maintained by [Binh Nguyen](https://www.linkedin.com/in/binhnguyennus/) (Agency for Science, Technology and Research of Singapore). Thank You & Happy Coding :heart: 
+By [Binh Nguyen](https://www.linkedin.com/in/binhnguyennus/), For You! Thank You & Happy Coding :heart: 
