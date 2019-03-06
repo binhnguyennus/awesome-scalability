@@ -20,8 +20,6 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 
 > If you find this project helpful, please share on your chat groups, [on Twitter](https://ctt.ec/V8B2p), or [on Weibo](http://t.cn/RnjFLCB) so more people can be helped! Power is gained by sharing knowledge, not hoarding it. Thank you! :hibiscus:
 
-> Update on March 2019: As the content is growing, I created [topsde.com - System Designs Everyday for Software Development Engineers](http://topsde.com) so that you can be updated with new videos about System Design daily! Happy Learning :star2:
-
 ## Content
 - [Principle](#principle)
 - [Scalability](#scalability)
