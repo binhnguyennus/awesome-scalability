@@ -187,6 +187,7 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
         * [Airflow at Robinhood](https://robinhood.engineering/why-robinhood-uses-airflow-aed13a9a90c8)
         * [Airflow at Lyft](https://eng.lyft.com/running-apache-airflow-at-lyft-6e53bb8fccff)
         * [Airflow at Drivy](https://drivy.engineering/airflow-architecture/)
+		* [Airflow at Grab](https://engineering.grab.com/experimentation-platform-data-pipeline)
         * [Auditing Airflow Job Runs at Walmart](https://medium.com/walmartlabs/auditing-airflow-batch-jobs-73b45100045)
         * [MaaT: DAG-based Distributed Task Scheduler at Alibaba](https://hackernoon.com/meet-maat-alibabas-dag-based-distributed-task-scheduler-7c9cf0c83438)
         * [boundary-layer: Declarative Airflow Workflows at Etsy](https://codeascraft.com/2018/11/14/boundary-layer%e2%80%89-declarative-airflow-workflows/)
@@ -672,9 +673,9 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 * [Media Database at Netflix](https://medium.com/netflix-techblog/implementing-the-netflix-media-database-53b5a840b42a)
 * [Architectures of Finance and Banking Systems](https://www.sesameindia.com/images/core-banking-system-architecture)
 	* [Reference Architecture For The Open Banking Standard](https://hortonworks.com/blog/reference-architecture-open-banking-standard/)
-	* [Building a Modern Bank Backend at Monzo](https://monzo.com/blog/2016/09/19/building-a-modern-bank-backend/)
-	* [Reinventing the Trading Platform for Scale at Wealthsimple](https://medium.com/@Wealthsimple/engineering-at-wealthsimple-reinventing-our-trading-platform-for-scale-17e332241b6c)
-	* [Architecture for Core Banking System at Margo Bank](https://medium.com/margobank/choosing-an-architecture-85750e1e5a03)
+	* [Bank Backend at Monzo](https://monzo.com/blog/2016/09/19/building-a-modern-bank-backend/)
+	* [Trading Platform for Scale at Wealthsimple](https://medium.com/@Wealthsimple/engineering-at-wealthsimple-reinventing-our-trading-platform-for-scale-17e332241b6c)
+	* [Core Banking System at Margo Bank](https://medium.com/margobank/choosing-an-architecture-85750e1e5a03)
 	* [Architecture of Nubank](https://www.infoq.com/presentations/nubank-architecture)
 	* [Tech Stack at TransferWise](http://tech.transferwise.com/the-transferwise-stack-heartbeat-of-our-little-revolution/)
 	* [Tech Stack at Addepar](https://medium.com/build-addepar/our-tech-stack-a4f55dab4b0d)
@@ -781,4 +782,4 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 
 [![CC-BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-By [Binh Nguyen](https://www.linkedin.com/in/binhnguyennus/), Happy Coding :heart: 
+By [O(range)](https://www.linkedin.com/in/binhnguyennus/), an :tangerine: is growing in linear time :checkered_flag: 
