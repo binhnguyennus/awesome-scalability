@@ -188,6 +188,7 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
         * [Airflow at Lyft](https://eng.lyft.com/running-apache-airflow-at-lyft-6e53bb8fccff)
         * [Airflow at Drivy](https://drivy.engineering/airflow-architecture/)
 		* [Airflow at Grab](https://engineering.grab.com/experimentation-platform-data-pipeline)
+		* [Airflow at Adobe](https://medium.com/adobetech/adobe-experience-platform-orchestration-service-with-apache-airflow-952203723c0b)
         * [Auditing Airflow Job Runs at Walmart](https://medium.com/walmartlabs/auditing-airflow-batch-jobs-73b45100045)
         * [MaaT: DAG-based Distributed Task Scheduler at Alibaba](https://hackernoon.com/meet-maat-alibabas-dag-based-distributed-task-scheduler-7c9cf0c83438)
         * [boundary-layer: Declarative Airflow Workflows at Etsy](https://codeascraft.com/2018/11/14/boundary-layer%e2%80%89-declarative-airflow-workflows/)
