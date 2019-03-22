@@ -780,6 +780,4 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 
 ## License
 
-[![CC-BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](https://creativecommons.org/licenses/by/4.0/)
-
 By [O(range)](https://www.linkedin.com/in/binhnguyennus/), an :tangerine: is growing in linear time :checkered_flag: 
