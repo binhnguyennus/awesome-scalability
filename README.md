@@ -458,6 +458,7 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 	* [High-availability SaaS Infrastructure at FreeAgent](http://engineering.freeagent.com/2017/02/06/ha-infrastructure-without-breaking-the-bank/)	
 * [Load Balancing](https://blog.vivekpanyam.com/scaling-a-web-service-load-balancing/)
 	* [Introduction to Modern Network Load Balancing and Proxying](https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236)
+	* [Top Five (Load Balancing) Scalability Patterns](https://www.f5.com/company/blog/top-five-scalability-patterns)
 	* [Load Balancing infrastructure to support more than 1.3 billion users at Facebook](https://www.usenix.org/conference/srecon15europe/program/presentation/shuff)
 	* [DHCPLB: DHCP Load Balancer at Facebook](https://code.facebook.com/posts/1734309626831603/dhcplb-an-open-source-load-balancer/)
 	* [Katran: Scalable Network Load Balancer at Facebook](https://code.facebook.com/posts/1906146702752923/open-sourcing-katran-a-scalable-network-load-balancer/)
