@@ -389,12 +389,9 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 		* [Couchbase Ecosystem at LinkedIn](https://engineering.linkedin.com/blog/2017/12/couchbase-ecosystem-at-linkedin)
 		* [SimpleDB at Zendesk](https://medium.com/zendesk-engineering/resurrecting-amazon-simpledb-9404034ec506)
 		* [Espresso: Distributed Document Store at LinkedIn](https://engineering.linkedin.com/espresso/introducing-espresso-linkedins-hot-new-distributed-document-store)
-	* [Graph Databases](https://www.ibm.com/developerworks/library/cl-graph-database-1/index.html)
-		* [Handling Billions of Edges in a Graph Database](https://www.infoq.com/presentations/graph-database-scalability)
-		* [Neo4j case studies with Walmart, eBay, AirBnB, NASA, etc](https://neo4j.com/customers/)
-		* [FlockDB: Distributed Graph Database for Storing Adjancency Lists at Twitter](https://blog.twitter.com/engineering/en_us/a/2010/introducing-flockdb.html)
-		* [JanusGraph: Scalable Graph Database backed by Google, IBM and Hortonworks](https://architecht.io/google-ibm-back-new-open-source-graph-database-project-janusgraph-1d74fb78db6b)
-		* [Amazon Neptune](https://aws.amazon.com/neptune/)
+	* [Graph Databases](https://www.eecs.harvard.edu/margo/papers/systor13-bench/)
+		* [FlockDB: Distributed Graph Database at Twitter](https://blog.twitter.com/engineering/en_us/a/2010/introducing-flockdb.html)
+		* [TAO: Distributed Data Store for the Social Graph at Facebook](https://www.cs.cmu.edu/~pavlo/courses/fall2013/static/papers/11730-atc13-bronson.pdf)
 	* [Datastructure Databases (Redis, Hazelcast)](https://db-engines.com/en/system/Hazelcast%3BMemcached%3BRedis)
 		* [Scaling Redis at Twitter](http://highscalability.com/blog/2014/9/8/how-twitter-uses-redis-to-scale-105tb-ram-39mm-qps-10000-ins.html)
 		* [Scaling Job Queue with Redis at Slack](https://slack.engineering/scaling-slacks-job-queue-687222e9d100)
@@ -458,6 +455,7 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 	* [High-availability SaaS Infrastructure at FreeAgent](http://engineering.freeagent.com/2017/02/06/ha-infrastructure-without-breaking-the-bank/)	
 * [Load Balancing](https://blog.vivekpanyam.com/scaling-a-web-service-load-balancing/)
 	* [Introduction to Modern Network Load Balancing and Proxying](https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236)
+	* [Top Five (Load Balancing) Scalability Patterns](https://www.f5.com/company/blog/top-five-scalability-patterns)
 	* [Load Balancing infrastructure to support more than 1.3 billion users at Facebook](https://www.usenix.org/conference/srecon15europe/program/presentation/shuff)
 	* [DHCPLB: DHCP Load Balancer at Facebook](https://code.facebook.com/posts/1734309626831603/dhcplb-an-open-source-load-balancer/)
 	* [Katran: Scalable Network Load Balancer at Facebook](https://code.facebook.com/posts/1906146702752923/open-sourcing-katran-a-scalable-network-load-balancer/)
@@ -779,7 +777,5 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 * [Scalability Rules: 50 Principles for Scaling Web Sites](http://scalabilityrules.com/)
 
 ## License
-
-[![CC-BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 By [O(range)](https://www.linkedin.com/in/binhnguyennus/), an :tangerine: is growing in linear time :checkered_flag: 
