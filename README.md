@@ -541,6 +541,7 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 	* [Cross Shard Transactions at 10 Million RPS at Dropbox](https://blogs.dropbox.com/tech/2018/11/cross-shard-transactions-at-10-million-requests-per-second/)
 	* [API Profiling at Pinterest](https://medium.com/@Pinterest_Engineering/api-profiling-at-pinterest-6fa9333b4961)
 	* [Pagelets Parallelize Server-side Processing at Yelp](https://engineeringblog.yelp.com/2017/07/generating-web-pages-in-parallel-with-pagelets.html)
+	* [Improving key expiration in Redis at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/improving-key-expiration-in-redis.html)
 * [Performance Optimization by Tuning Garbage Collection](https://confluence.atlassian.com/enterprise/garbage-collection-gc-tuning-guide-461504616.html)
 	* [Garbage Collection in Java Applications at LinkedIn](https://engineering.linkedin.com/garbage-collection/garbage-collection-optimization-high-throughput-and-low-latency-java-applications)
 	* [Garbage Collection in Redux Applications at SoundCloud](https://developers.soundcloud.com/blog/garbage-collection-in-redux-applications)
