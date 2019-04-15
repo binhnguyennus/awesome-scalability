@@ -541,6 +541,7 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 	* [Cross Shard Transactions at 10 Million RPS at Dropbox](https://blogs.dropbox.com/tech/2018/11/cross-shard-transactions-at-10-million-requests-per-second/)
 	* [API Profiling at Pinterest](https://medium.com/@Pinterest_Engineering/api-profiling-at-pinterest-6fa9333b4961)
 	* [Pagelets Parallelize Server-side Processing at Yelp](https://engineeringblog.yelp.com/2017/07/generating-web-pages-in-parallel-with-pagelets.html)
+	* [Improving key expiration in Redis at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/improving-key-expiration-in-redis.html)
 * [Performance Optimization by Tuning Garbage Collection](https://confluence.atlassian.com/enterprise/garbage-collection-gc-tuning-guide-461504616.html)
 	* [Garbage Collection in Java Applications at LinkedIn](https://engineering.linkedin.com/garbage-collection/garbage-collection-optimization-high-throughput-and-low-latency-java-applications)
 	* [Garbage Collection in Redux Applications at SoundCloud](https://developers.soundcloud.com/blog/garbage-collection-in-redux-applications)
@@ -580,6 +581,7 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 	* [ML Data Pipelines for Real-Time Fraud Prevention at PayPal](https://www.infoq.com/presentations/paypal-ml-fraud-prevention-2018)
 	* [Big Data Analytics and ML Techniques at LinkedIn](https://cdn.oreillystatic.com/en/assets/1/event/269/Big%20data%20analytics%20and%20machine%20learning%20techniques%20to%20drive%20and%20grow%20business%20Presentation%201.pdf)
 	* [Self-Serve Reporting Platform on Hadoop at LinkedIn](https://cdn.oreillystatic.com/en/assets/1/event/137/Building%20a%20self-serve%20real-time%20reporting%20platform%20at%20LinkedIn%20Presentation%201.pdf)
+	* [Privacy-Preserving Analytics and Reporting at LinkedIn](https://engineering.linkedin.com/blog/2019/04/privacy-preserving-analytics-and-reporting-at-linkedin)
 	* [Analytics Platform for Tracking Item Availability at Walmart](https://medium.com/walmartlabs/how-we-build-a-robust-analytics-platform-using-spark-kafka-and-cassandra-lambda-architecture-70c2d1bc8981)
 	* [HALO: Hardware Analytics and Lifecycle Optimization at Facebook](https://code.fb.com/data-center-engineering/hardware-analytics-and-lifecycle-optimization-halo-at-facebook/)
 	* [RBEA: Real-time Analytics Platform at King](https://techblog.king.com/rbea-scalable-real-time-analytics-king/)
@@ -587,6 +589,7 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 	* [AthenaX: Streaming Analytics Platform at Uber](https://eng.uber.com/athenax/)
 	* [Keystone: Real-time Stream Processing Platform at Netflix](https://medium.com/netflix-techblog/keystone-real-time-stream-processing-platform-a3ee651812a)
 	* [Databook: Turning Big Data into Knowledge with Metadata at Uber](https://eng.uber.com/databook/)
+	* [Amundsen: Data Discovery & Metadata Engine at Lyft](https://eng.lyft.com/amundsen-lyfts-data-discovery-metadata-engine-62d27254fbb9)
 	* [Maze: Funnel Visualization Platform at Uber](https://eng.uber.com/maze/)
 	* [Metacat: Making Big Data Discoverable and Meaningful at Netflix](https://medium.com/netflix-techblog/metacat-making-big-data-discoverable-and-meaningful-at-netflix-56fb36a53520)
 	* [SpinalTap: Change Data Capture System at Airbnb](https://medium.com/airbnb-engineering/capturing-data-evolution-in-a-service-oriented-architecture-72f7c643ee6f)
@@ -778,4 +781,4 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 
 ## License
 
-By [O(range)](https://www.linkedin.com/in/binhnguyennus/), an :tangerine: is growing in linear time :checkered_flag: 
+By [O(range)](https://www.linkedin.com/in/binhnguyennus/), an :tangerine: grows in linear time :checkered_flag: 
