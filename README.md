@@ -601,6 +601,7 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 	* [Smart Product Platform at Zalando](https://jobs.zalando.com/tech/blog/zalando-smart-product-platform/?gh_src=4n3gxh1)
 	* [Log Analysis Platform at LINE](https://www.slideshare.net/wyukawa/strata2017-sg)
 	* [Data Visualisation Platform at Myntra](https://medium.com/myntra-engineering/universal-dashboarding-platform-udp-data-visualisation-platform-at-myntra-5f2522fcf72d)
+	* [Building and Scaling Data Lineage at Netflix](https://medium.com/netflix-techblog/building-and-scaling-data-lineage-at-netflix-to-improve-data-infrastructure-reliability-and-1a52526a7977)
 * [Distributed Machine Learning](https://www.csie.ntu.edu.tw/~cjlin/talks/bigdata-bilbao.pdf)
 	* [Michelangelo: Machine Learning Platform at Uber](https://eng.uber.com/michelangelo/)
 	* [Horovod: Open Source Distributed Deep Learning Framework for TensorFlow at Uber](https://eng.uber.com/horovod/)
@@ -648,6 +649,7 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 	* [Machine Learning for Indexing Text from Billions of Images at Dropbox](https://blogs.dropbox.com/tech/2018/10/using-machine-learning-to-index-text-from-billions-of-images/)
 	* [Modeling User Journeys via Semantic Embeddings at Etsy](https://codeascraft.com/2018/07/12/modeling-user-journey-via-semantic-embeddings/)
 	* [Automated Fake Account Detection at LinkedIn](https://engineering.linkedin.com/blog/2018/09/automated-fake-account-detection-at-linkedin)
+	* [Contextualizing Airbnb by Building Knowledge Graph](https://medium.com/airbnb-engineering/contextualizing-airbnb-by-building-knowledge-graph-b7077e268d5a)
 
 ## Architecture
 * [Systems We Make](https://systemswemake.com/)
