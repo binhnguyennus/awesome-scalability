@@ -215,6 +215,7 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
     * [Distributed Security Alerting at Slack](https://slack.engineering/distributed-security-alerting-c89414c992d6)
     * [Real-Time News Alerting at Bloomberg](https://www.infoq.com/presentations/news-alerting-bloomberg)
 	* [Unicorn: Remediation System at eBay](https://www.ebayinc.com/stories/blogs/tech/unicorn-rheos-remediation-center/)
+	* [Optimising M3 at Uber](https://eng.uber.com/optimizing-m3/)
 * [Distributed Security](https://msdn.microsoft.com/en-us/library/cc767123.aspx)
 	* [Approach to Security at Scale at Dropbox](https://blogs.dropbox.com/tech/2018/02/security-at-scale-the-dropbox-approach/)
 	* [Aardvark and Repokid: AWS Least Privilege for Distributed, High-Velocity Development at Netflix](https://medium.com/netflix-techblog/introducing-aardvark-and-repokid-53b081bf3a7e)	
