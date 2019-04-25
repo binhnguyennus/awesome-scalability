@@ -125,8 +125,7 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 	* [Deconstructing Monolithic Applications into (Kafka-driven) Services at Heroku](https://blog.heroku.com/monolithic-applications-into-services)
 	* [Docker Containers that Power Over 100.000 Online Shops at Shopify](https://shopifyengineering.myshopify.com/blogs/engineering/docker-at-shopify-how-we-built-containers-that-power-over-100-000-online-shops)
 	* [Microservice Architecture at Medium](https://medium.engineering/microservice-architecture-at-medium-9c33805eb74f)
-	* [From bare-metal to Kubernetes](https://boxunix.com/post/bare_metal_to_kube/)
-	
+	* [From bare-metal to Kubernetes at Betabrand](https://boxunix.com/post/bare_metal_to_kube/)	
 * [Distributed Caching](https://www.wix.engineering/single-post/scaling-to-100m-to-cache-or-not-to-cache)
 	* [Read-Through, Write-Through, Write-Behind, and Refresh-Ahead Caching](https://docs.oracle.com/cd/E15357_01/coh.360/e15723/cache_rtwtwbra.htm#COHDG5177)
 	* [Eviction Policy and Expiration Policy](http://highscalability.com/blog/2016/1/25/design-of-a-modern-cache.html)
@@ -652,7 +651,7 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 	* [Machine Learning for Indexing Text from Billions of Images at Dropbox](https://blogs.dropbox.com/tech/2018/10/using-machine-learning-to-index-text-from-billions-of-images/)
 	* [Modeling User Journeys via Semantic Embeddings at Etsy](https://codeascraft.com/2018/07/12/modeling-user-journey-via-semantic-embeddings/)
 	* [Automated Fake Account Detection at LinkedIn](https://engineering.linkedin.com/blog/2018/09/automated-fake-account-detection-at-linkedin)
-	* [Contextualizing Airbnb by Building Knowledge Graph](https://medium.com/airbnb-engineering/contextualizing-airbnb-by-building-knowledge-graph-b7077e268d5a)
+	* [Building Knowledge Graph at Airbnb](https://medium.com/airbnb-engineering/contextualizing-airbnb-by-building-knowledge-graph-b7077e268d5a)
 
 ## Architecture
 * [Systems We Make](https://systemswemake.com/)
