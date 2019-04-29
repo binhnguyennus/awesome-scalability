@@ -125,6 +125,7 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 	* [Deconstructing Monolithic Applications into (Kafka-driven) Services at Heroku](https://blog.heroku.com/monolithic-applications-into-services)
 	* [Docker Containers that Power Over 100.000 Online Shops at Shopify](https://shopifyengineering.myshopify.com/blogs/engineering/docker-at-shopify-how-we-built-containers-that-power-over-100-000-online-shops)
 	* [Microservice Architecture at Medium](https://medium.engineering/microservice-architecture-at-medium-9c33805eb74f)
+	* [From bare-metal to Kubernetes at Betabrand](https://boxunix.com/post/bare_metal_to_kube/)	
 * [Distributed Caching](https://www.wix.engineering/single-post/scaling-to-100m-to-cache-or-not-to-cache)
 	* [Read-Through, Write-Through, Write-Behind, and Refresh-Ahead Caching](https://docs.oracle.com/cd/E15357_01/coh.360/e15723/cache_rtwtwbra.htm#COHDG5177)
 	* [Eviction Policy and Expiration Policy](http://highscalability.com/blog/2016/1/25/design-of-a-modern-cache.html)
@@ -215,6 +216,7 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
     * [Distributed Security Alerting at Slack](https://slack.engineering/distributed-security-alerting-c89414c992d6)
     * [Real-Time News Alerting at Bloomberg](https://www.infoq.com/presentations/news-alerting-bloomberg)
 	* [Unicorn: Remediation System at eBay](https://www.ebayinc.com/stories/blogs/tech/unicorn-rheos-remediation-center/)
+	* [Optimising M3 at Uber](https://eng.uber.com/optimizing-m3/)
 * [Distributed Security](https://msdn.microsoft.com/en-us/library/cc767123.aspx)
 	* [Approach to Security at Scale at Dropbox](https://blogs.dropbox.com/tech/2018/02/security-at-scale-the-dropbox-approach/)
 	* [Aardvark and Repokid: AWS Least Privilege for Distributed, High-Velocity Development at Netflix](https://medium.com/netflix-techblog/introducing-aardvark-and-repokid-53b081bf3a7e)	
@@ -601,6 +603,7 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 	* [Smart Product Platform at Zalando](https://jobs.zalando.com/tech/blog/zalando-smart-product-platform/?gh_src=4n3gxh1)
 	* [Log Analysis Platform at LINE](https://www.slideshare.net/wyukawa/strata2017-sg)
 	* [Data Visualisation Platform at Myntra](https://medium.com/myntra-engineering/universal-dashboarding-platform-udp-data-visualisation-platform-at-myntra-5f2522fcf72d)
+	* [Building and Scaling Data Lineage at Netflix](https://medium.com/netflix-techblog/building-and-scaling-data-lineage-at-netflix-to-improve-data-infrastructure-reliability-and-1a52526a7977)
 * [Distributed Machine Learning](https://www.csie.ntu.edu.tw/~cjlin/talks/bigdata-bilbao.pdf)
 	* [Michelangelo: Machine Learning Platform at Uber](https://eng.uber.com/michelangelo/)
 	* [Horovod: Open Source Distributed Deep Learning Framework for TensorFlow at Uber](https://eng.uber.com/horovod/)
@@ -648,6 +651,7 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 	* [Machine Learning for Indexing Text from Billions of Images at Dropbox](https://blogs.dropbox.com/tech/2018/10/using-machine-learning-to-index-text-from-billions-of-images/)
 	* [Modeling User Journeys via Semantic Embeddings at Etsy](https://codeascraft.com/2018/07/12/modeling-user-journey-via-semantic-embeddings/)
 	* [Automated Fake Account Detection at LinkedIn](https://engineering.linkedin.com/blog/2018/09/automated-fake-account-detection-at-linkedin)
+	* [Building Knowledge Graph at Airbnb](https://medium.com/airbnb-engineering/contextualizing-airbnb-by-building-knowledge-graph-b7077e268d5a)
 
 ## Architecture
 * [Systems We Make](https://systemswemake.com/)
