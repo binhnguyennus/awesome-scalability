@@ -735,6 +735,7 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 * [Four Pillars of Leading People (Empathy, Inspiration, Trust, Honesty) at Zalando](https://jobs.zalando.com/tech/blog/four-pillars-leadership/)
 * [Code Review at Palantir](https://medium.com/@palantir/code-review-best-practices-19e02780015f)
 * [Code Review at LINE](https://engineering.linecorp.com/en/blog/effective-code-review/)
+* [Python at Netflix](https://medium.com/netflix-techblog/python-at-netflix-bba45dae649e)
 
 ## Talk
 * [Distributed Systems in One Lesson - Tim Berglund, Senior Director of Developer Experience at Confluent](https://www.youtube.com/watch?v=Y6Ev8GIlbxc)
