@@ -605,6 +605,7 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 	* [Log Analysis Platform at LINE](https://www.slideshare.net/wyukawa/strata2017-sg)
 	* [Data Visualisation Platform at Myntra](https://medium.com/myntra-engineering/universal-dashboarding-platform-udp-data-visualisation-platform-at-myntra-5f2522fcf72d)
 	* [Building and Scaling Data Lineage at Netflix](https://medium.com/netflix-techblog/building-and-scaling-data-lineage-at-netflix-to-improve-data-infrastructure-reliability-and-1a52526a7977)
+	* [Give meaning to 100 billion analytics events a day](https://medium.com/teads-engineering/give-meaning-to-100-billion-analytics-events-a-day-d6ba09aa8f44)
 * [Distributed Machine Learning](https://www.csie.ntu.edu.tw/~cjlin/talks/bigdata-bilbao.pdf)
 	* [Michelangelo: Machine Learning Platform at Uber](https://eng.uber.com/michelangelo/)
 	* [Scaling Michelangelo](https://eng.uber.com/scaling-michelangelo/)
