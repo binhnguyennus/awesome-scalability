@@ -606,6 +606,7 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 	* [Building and Scaling Data Lineage at Netflix](https://medium.com/netflix-techblog/building-and-scaling-data-lineage-at-netflix-to-improve-data-infrastructure-reliability-and-1a52526a7977)
 * [Distributed Machine Learning](https://www.csie.ntu.edu.tw/~cjlin/talks/bigdata-bilbao.pdf)
 	* [Michelangelo: Machine Learning Platform at Uber](https://eng.uber.com/michelangelo/)
+	* [Scaling Michelangelo](https://eng.uber.com/scaling-michelangelo/)
 	* [Horovod: Open Source Distributed Deep Learning Framework for TensorFlow at Uber](https://eng.uber.com/horovod/)
 	* [COTA: Improving Customer Care with NLP & Machine Learning at Uber](https://eng.uber.com/cota/)
 	* [Manifold: Model-Agnostic Visual Debugging Tool for Machine Learning at Uber](https://eng.uber.com/manifold/)	
@@ -733,6 +734,7 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 * [Four Pillars of Leading People (Empathy, Inspiration, Trust, Honesty) at Zalando](https://jobs.zalando.com/tech/blog/four-pillars-leadership/)
 * [Code Review at Palantir](https://medium.com/@palantir/code-review-best-practices-19e02780015f)
 * [Code Review at LINE](https://engineering.linecorp.com/en/blog/effective-code-review/)
+* [Python at Netflix](https://medium.com/netflix-techblog/python-at-netflix-bba45dae649e)
 
 ## Talk
 * [Distributed Systems in One Lesson - Tim Berglund, Senior Director of Developer Experience at Confluent](https://www.youtube.com/watch?v=Y6Ev8GIlbxc)
