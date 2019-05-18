@@ -146,7 +146,7 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 	* [Tradeoffs of Replicated Cache at Skyscanner](https://medium.com/@SkyscannerEng/the-tradeoffs-of-a-replicated-cache-b6680c722f58)
 	* [Avoiding Cache Stampede at DoorDash](https://blog.doordash.com/avoiding-cache-stampede-at-doordash-55bbf596d94b)
 	* [Location Caching with Quadtrees at Yext](http://engblog.yext.com/post/geolocation-caching)
-	* [Lightning fast in process caching with Pycache at Quora](https://engineering.quora.com/Pycache-lightning-fast-in-process-caching)
+	* [Pycache: In-process Caching at Quora](https://engineering.quora.com/Pycache-lightning-fast-in-process-caching)
     * [HTTP Caching](https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching)
         * [Caching 404s Saved 66% On Server Time at The Onion](http://highscalability.com/blog/2010/3/26/strategy-caching-404s-saved-the-onion-66-on-server-time.html)
         * [Zynga Geo Proxy: Reducing Mobile Game Latency at Zynga](https://www.zynga.com/blogs/engineering/zynga-geo-proxy-reducing-mobile-game-latency)
