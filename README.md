@@ -540,6 +540,7 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 	* [Optimizing CAL Report Hadoop MapReduce Jobs at eBay](https://www.ebayinc.com/stories/blogs/tech/optimization-of-cal-report-hadoop-mapreduce-job/)
 	* [Performance Tuning on Quartz Scheduler at eBay](https://www.ebayinc.com/stories/blogs/tech/performance-tuning-on-quartz-scheduler/)
 	* [Profiling C++ (Part 1: Optimization, Part 2: Measurement and Analysis) at Riot Games](https://engineering.riotgames.com/news/profiling-optimisation)
+	* [Profiling React Server-Side Rendering at HomeAway](https://medium.com/homeaway-tech-blog/profiling-react-server-side-rendering-to-free-the-node-js-event-loop-7f0fe455a901)
 	* [Diagnosing Networking Issues in the Linux Kernel at Mixpanel](https://code.mixpanel.com/2015/03/26/diagnosing-networking-issues-in-the-linux-kernel/)
 	* [Hardware-Assisted Video Transcoding at Dailymotion](https://medium.com/dailymotion-engineering/hardware-assisted-video-transcoding-at-dailymotion-66cd2db448ae)
 	* [Cross Shard Transactions at 10 Million RPS at Dropbox](https://blogs.dropbox.com/tech/2018/11/cross-shard-transactions-at-10-million-requests-per-second/)
@@ -776,7 +777,6 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 * [Scaling Counting Infrastructure at Quora - Chun-Ho Hung and Nikhil Gar, SEs at Quora](https://www.infoq.com/presentations/quora-analytics)
 * [Scaling Git at Microsoft - Saeed Noursalehi, Principal Program Manager at Microsoft](https://www.youtube.com/watch?v=g_MPGU_m01s)
 * [Scaling Multitenant Architecture Across Multiple Data Centres at Shopify - Weingarten, Engineering Lead at Shopify](https://www.youtube.com/watch?v=F-f0-k46WVk)
-* 
 
 ## Book
 * [Big Data, Web Ops & DevOps Ebooks - O'Reilly (Online - Free)](http://www.oreilly.com/webops/free/)
