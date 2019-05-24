@@ -657,6 +657,7 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 	* [Modeling User Journeys via Semantic Embeddings at Etsy](https://codeascraft.com/2018/07/12/modeling-user-journey-via-semantic-embeddings/)
 	* [Automated Fake Account Detection at LinkedIn](https://engineering.linkedin.com/blog/2018/09/automated-fake-account-detection-at-linkedin)
 	* [Contextualizing Airbnb by Building Knowledge Graph](https://medium.com/airbnb-engineering/contextualizing-airbnb-by-building-knowledge-graph-b7077e268d5a)
+	* [Using NLP to help LinkedIn members get support](https://engineering.linkedin.com/blog/2019/04/how-natural-language-processing-help-support)
 
 ## Architecture
 * [Systems We Make](https://systemswemake.com/)
