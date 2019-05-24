@@ -295,6 +295,7 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 	* [Manas: High Performing Customized Search System at Pinterest](https://medium.com/@Pinterest_Engineering/manas-a-high-performing-customized-search-system-cf189f6ca40f)
 	* [Sherlock: Near Real Time Search Indexing at Flipkart](https://tech.flipkart.com/sherlock-near-real-time-search-indexing-95519783859d)
 	* [Nebula: Storage Platform to Build Search Backends at Airbnb](https://medium.com/airbnb-engineering/nebula-as-a-storage-platform-to-build-airbnbs-search-backends-ecc577b05f06)
+	* [Natural Language Semantic Code Search at Github](https://github.blog/2018-09-18-towards-natural-language-semantic-code-search/)
 	* [ELK (Elasticsearch, Logstash, Kibana) Stack](https://logz.io/blog/15-tech-companies-chose-elk-stack/)
 		* [Predictions in Real Time with ELK at Uber](https://eng.uber.com/elk/)
 		* [Scaling Elasticsearch Clusters at Uber](https://www.infoq.com/presentations/uber-elasticsearch-clusters?utm_source=presentations_about_Case_Study&utm_medium=link&utm_campaign=Case_Study)
