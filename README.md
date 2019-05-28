@@ -440,6 +440,7 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 	* [CI/CD (2 parts) at Betterment](https://betterment.engineering/ci-cd-at-betterment-part-ii-standardizing-the-interface-69a15f0735f3)
 	* [CI/CD at Brainly](https://medium.com/engineering-brainly/ci-cd-at-scale-fdfb0f49e031)
 	* [Scaling iOS CI with Anka at Shopify](https://engineering.shopify.com/blogs/engineering/scaling-ios-ci-with-anka)
+	* [Scaling Jira Server at Yelp](https://engineeringblog.yelp.com/2019/04/Scaling-Jira-Server-Administration-For-The-Enterprise.html)
 
 ## Availability
 * [Resilience Engineering: Learning to Embrace Failure](https://queue.acm.org/detail.cfm?id=2371297)	
@@ -797,4 +798,4 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 
 ## License
 
-By [O(range)](https://www.linkedin.com/in/binhnguyennus/), an :tangerine: grows in linear time :checkered_flag: 
+By [John Git](https://www.linkedin.com/in/binhnguyennus/), the twin brother of John Wick, who once killed three processes in a server with a pencil :pencil2:
