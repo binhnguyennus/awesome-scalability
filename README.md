@@ -397,6 +397,7 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 	* [Graph Databases](https://www.eecs.harvard.edu/margo/papers/systor13-bench/)
 		* [FlockDB: Distributed Graph Database at Twitter](https://blog.twitter.com/engineering/en_us/a/2010/introducing-flockdb.html)
 		* [TAO: Distributed Data Store for the Social Graph at Facebook](https://www.cs.cmu.edu/~pavlo/courses/fall2013/static/papers/11730-atc13-bronson.pdf)
+		* [Beam: Distributed Knowledge Graph Store at eBay](https://www.ebayinc.com/stories/blogs/tech/beam-a-distributed-knowledge-graph-store/)
 	* [Datastructure Databases (Redis, Hazelcast)](https://db-engines.com/en/system/Hazelcast%3BMemcached%3BRedis)
 		* [Scaling Redis at Twitter](http://highscalability.com/blog/2014/9/8/how-twitter-uses-redis-to-scale-105tb-ram-39mm-qps-10000-ins.html)
 		* [Scaling Job Queue with Redis at Slack](https://slack.engineering/scaling-slacks-job-queue-687222e9d100)
@@ -440,6 +441,7 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 	* [CI/CD (2 parts) at Betterment](https://betterment.engineering/ci-cd-at-betterment-part-ii-standardizing-the-interface-69a15f0735f3)
 	* [CI/CD at Brainly](https://medium.com/engineering-brainly/ci-cd-at-scale-fdfb0f49e031)
 	* [Scaling iOS CI with Anka at Shopify](https://engineering.shopify.com/blogs/engineering/scaling-ios-ci-with-anka)
+	* [Scaling Jira Server at Yelp](https://engineeringblog.yelp.com/2019/04/Scaling-Jira-Server-Administration-For-The-Enterprise.html)
 
 ## Availability
 * [Resilience Engineering: Learning to Embrace Failure](https://queue.acm.org/detail.cfm?id=2371297)	
@@ -474,6 +476,7 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 	* [QALM: QoS Load Management Framework at Uber](https://eng.uber.com/qalm/)	
 	* [Traffic Steering using Rum DNS at LinkedIn](https://www.usenix.org/conference/srecon17europe/program/presentation/rastogi)
 	* [Traffic Infrastructure (Edge Network) at Dropbox](https://blogs.dropbox.com/tech/2018/10/dropbox-traffic-infrastructure-edge-network/)
+	* [Monitor DNS systems at Stripe](https://stripe.com/en-sg/blog/secret-life-of-dns)
 * [Rate Limiting](https://www.keycdn.com/support/rate-limiting/)
 	* [Rate Limiting for Scaling to Millions of Domains at Cloudfare](https://blog.cloudflare.com/counting-things-a-lot-of-different-things/)
 	* [Cloud Bouncer: Distributed Rate Limiting at Yahoo](https://yahooeng.tumblr.com/post/111288877956/cloud-bouncer-distributed-rate-limiting-at-yahoo)
@@ -548,9 +551,11 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 	* [API Profiling at Pinterest](https://medium.com/@Pinterest_Engineering/api-profiling-at-pinterest-6fa9333b4961)
 	* [Pagelets Parallelize Server-side Processing at Yelp](https://engineeringblog.yelp.com/2017/07/generating-web-pages-in-parallel-with-pagelets.html)
 	* [Improving key expiration in Redis at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/improving-key-expiration-in-redis.html)
+	* [Ad Delivery Network Performance Optimization with Flame Graphs at MindGeek](https://medium.com/mindgeek-engineering-blog/ad-delivery-network-performance-optimization-with-flame-graphs-bc550cf59cf7)
 * [Performance Optimization by Tuning Garbage Collection](https://confluence.atlassian.com/enterprise/garbage-collection-gc-tuning-guide-461504616.html)
 	* [Garbage Collection in Java Applications at LinkedIn](https://engineering.linkedin.com/garbage-collection/garbage-collection-optimization-high-throughput-and-low-latency-java-applications)
 	* [Garbage Collection in Redux Applications at SoundCloud](https://developers.soundcloud.com/blog/garbage-collection-in-redux-applications)
+	* [Garbage Collection in Go Application at Twitch](https://blog.twitch.tv/go-memory-ballast-how-i-learnt-to-stop-worrying-and-love-the-heap-26c2462549a2)
 	* [Analyzing V8 Garbage Collection Logs at Alibaba](https://www.linux.com/blog/can-nodejs-scale-ask-team-alibaba)
 	* [Python Garbage Collection for Dropping 50% Memory Growth Per Request at Instagram](https://instagram-engineering.com/copy-on-write-friendly-python-garbage-collection-ad6ed5233ddf)
 	* [Performance Impact of Removing Out of Band Garbage Collector (OOBGC) at Github](https://githubengineering.com/removing-oobgc/)
@@ -743,7 +748,7 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 * [Four Pillars of Leading People (Empathy, Inspiration, Trust, Honesty) at Zalando](https://jobs.zalando.com/tech/blog/four-pillars-leadership/)
 * [Code Review at Palantir](https://medium.com/@palantir/code-review-best-practices-19e02780015f)
 * [Code Review at LINE](https://engineering.linecorp.com/en/blog/effective-code-review/)
-* [Python at Netflix](https://medium.com/netflix-techblog/python-at-netflix-bba45dae649e)
+* [Pair Programming at Shopify](https://engineering.shopify.com/blogs/engineering/pair-programming-explained)
 
 ## Talk
 * [Distributed Systems in One Lesson - Tim Berglund, Senior Director of Developer Experience at Confluent](https://www.youtube.com/watch?v=Y6Ev8GIlbxc)
@@ -796,4 +801,4 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 
 ## License
 
-By [O(range)](https://www.linkedin.com/in/binhnguyennus/), an :tangerine: grows in linear time :checkered_flag: 
+By [John Git](https://www.linkedin.com/in/binhnguyennus/), the twin brother of John Wick, who once killed three processes in a server with a pencil :pencil2:
