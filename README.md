@@ -309,6 +309,7 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 		* [Moving Core Business Search to Elasticsearch at Yelp](https://engineeringblog.yelp.com/2017/06/moving-yelps-core-business-search-to-elasticsearch.html)
 		* [Sharding out Elasticsearch at Vinted](http://engineering.vinted.com/2017/06/05/sharding-out-elasticsearch/)
 		* [Self-Ranking Search with Elasticsearch at Wattpad](http://engineering.wattpad.com/post/146216619727/self-ranking-search-with-elasticsearch-at-wattpad)
+		* [Building a scalable ELK stack at Envato](https://webuild.envato.com/blog/building-a-scalable-elk-stack/)		
 * [Distributed Storage](http://highscalability.com/blog/2011/11/1/finding-the-right-data-solution-for-your-application-in-the.html)
 	* [In-memory Storage](https://medium.com/@denisanikin/what-an-in-memory-database-is-and-how-it-persists-data-efficiently-f43868cff4c1)
 		* [Introduction to In-memory Data - Viktor Gamov, Solutions Architect at Hazelcast](https://www.infoq.com/presentations/in-memory-data)
