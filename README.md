@@ -351,7 +351,7 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 		* [Sharding Layer of Schemaless Datastore at Uber](https://eng.uber.com/schemaless-rewrite/)
 		* [Sharding & IDs at Instagram](https://instagram-engineering.com/sharding-ids-at-instagram-1cf5a71e5a5c)
 		* [Solr: Improving Performance for Batch Indexing at Box](https://blog.box.com/blog/solr-improving-performance-batch-indexing/)	
-		* [Geosharded Recommendations (3 parts) at Tinder](https://tech.gotinder.com/geosharded-recommendations-part-3-consistency/)				
+		* [Geosharded Recommendations (2 parts) at Tinder](https://medium.com/tinder-engineering/geosharded-recommendations-part-2-architecture-3396a8a7efb)				
 * [NoSQL Databases](https://www.thoughtworks.com/insights/blog/nosql-databases-overview)
 	* [Key-Value Databases (DynamoDB)](http://www.cs.ucsb.edu/~agrawal/fall2009/dynamo.pdf)
 		* [DynamoDB at Nike](https://medium.com/nikeengineering/becoming-a-nimble-giant-how-dynamo-db-serves-nike-at-scale-4cc375dbb18e)
