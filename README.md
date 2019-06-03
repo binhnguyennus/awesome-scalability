@@ -557,6 +557,7 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 	* [Ad Delivery Network Performance Optimization with Flame Graphs at MindGeek](https://medium.com/mindgeek-engineering-blog/ad-delivery-network-performance-optimization-with-flame-graphs-bc550cf59cf7)
 * [Performance Optimization by Tuning Garbage Collection](https://confluence.atlassian.com/enterprise/garbage-collection-gc-tuning-guide-461504616.html)
 	* [Garbage Collection in Java Applications at LinkedIn](https://engineering.linkedin.com/garbage-collection/garbage-collection-optimization-high-throughput-and-low-latency-java-applications)
+	* [Garbage Collection in High-Throughput, Low-Latency Machine Learning Services at Adobe](https://medium.com/adobetech/engineering-high-throughput-low-latency-machine-learning-services-7d45edac0271)
 	* [Garbage Collection in Redux Applications at SoundCloud](https://developers.soundcloud.com/blog/garbage-collection-in-redux-applications)
 	* [Garbage Collection in Go Application at Twitch](https://blog.twitch.tv/go-memory-ballast-how-i-learnt-to-stop-worrying-and-love-the-heap-26c2462549a2)
 	* [Analyzing V8 Garbage Collection Logs at Alibaba](https://www.linux.com/blog/can-nodejs-scale-ask-team-alibaba)
