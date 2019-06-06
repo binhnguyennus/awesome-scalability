@@ -807,6 +807,4 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 * [Web Scalability for Startup Engineers](https://www.goodreads.com/book/show/23615147-web-scalability-for-startup-engineers)
 * [Scalability Rules: 50 Principles for Scaling Web Sites](http://scalabilityrules.com/)
 
-## License
-
-By [John Git](https://www.linkedin.com/in/binhnguyennus/), the twin brother of John Wick, who once killed three processes in a server with a pencil :pencil2:
+#### *This project is created by [Nguyen Quoc Binh](https://www.linkedin.com/in/binhnguyennus/) in [2017 Christmas Eve](https://github.com/binhnguyennus/awesome-scalability/graphs/contributors), and is decidated to late night programmers who sacrifice their personal life at work! If you see a project or link here that is no longer maintained or is not a good fit,  please submit a pull request! Thank you and all the best :heart:*
