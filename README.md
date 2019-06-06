@@ -1,6 +1,6 @@
-# The Patterns Behind Scalable, Reliable, and Performant Large-Scale Systems
+# The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 
-An organized reading list for illustrating the patterns behind scalable, reliable, and performant large-scale systems. Concepts are explained in the articles of prominent engineers and credible references. Case studies are taken from battle-tested systems that serve millions to billions of users.
+An organized reading list for illustrating the patterns of scalable, reliable, and performant large-scale systems. Concepts are explained in the articles of prominent engineers and credible references. Case studies are taken from battle-tested systems that serve millions to billions of users.
 
 #### If your system goes slow :traffic_light:
 > Understand your problems: scalability problem (fast for a single user but slow under heavy load) or performance problem (slow for a single user) by reviewing some [design principles](#principle) and checking how [scalability](#scalability) and [performance](#performance) problems are solved at tech companies. The section of [intelligence](#intelligence) are created for those who work with data and machine learning at big (data) and deep (learning) scale.
@@ -309,7 +309,8 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 		* [Moving Core Business Search to Elasticsearch at Yelp](https://engineeringblog.yelp.com/2017/06/moving-yelps-core-business-search-to-elasticsearch.html)
 		* [Sharding out Elasticsearch at Vinted](http://engineering.vinted.com/2017/06/05/sharding-out-elasticsearch/)
 		* [Self-Ranking Search with Elasticsearch at Wattpad](http://engineering.wattpad.com/post/146216619727/self-ranking-search-with-elasticsearch-at-wattpad)
-		* [Building a scalable ELK stack at Envato](https://webuild.envato.com/blog/building-a-scalable-elk-stack/)		
+		* [Building a scalable ELK stack at Envato](https://webuild.envato.com/blog/building-a-scalable-elk-stack/)
+		* [Vulcanizer: a library for operating Elasticsearch at Github](https://github.blog/2019-03-05-vulcanizer-a-library-for-operating-elasticsearch/)	
 * [Distributed Storage](http://highscalability.com/blog/2011/11/1/finding-the-right-data-solution-for-your-application-in-the.html)
 	* [In-memory Storage](https://medium.com/@denisanikin/what-an-in-memory-database-is-and-how-it-persists-data-efficiently-f43868cff4c1)
 		* [Introduction to In-memory Data - Viktor Gamov, Solutions Architect at Hazelcast](https://www.infoq.com/presentations/in-memory-data)
@@ -808,4 +809,4 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 * [Web Scalability for Startup Engineers](https://www.goodreads.com/book/show/23615147-web-scalability-for-startup-engineers)
 * [Scalability Rules: 50 Principles for Scaling Web Sites](http://scalabilityrules.com/)
 
-#### *This project is created by [Nguyen Quoc Binh](https://www.linkedin.com/in/binhnguyennus/) in [2017 Christmas Eve](https://github.com/binhnguyennus/awesome-scalability/graphs/contributors), and is decidated to late night programmers who sacrifice their personal life at work! If you see a project or link here that is no longer maintained or is not a good fit,  please submit a pull request! Thank you and all the best :heart:*
+#### *This project is created by [Binh Nguyen](https://www.linkedin.com/in/binhnguyennus/) in [2017 Christmas Eve](https://github.com/binhnguyennus/awesome-scalability/graphs/contributors). It is decidated to late night programmers who sacrifice their personal life at work! If you see a link here that is no longer maintained or is not a good fit, please submit a pull request! Thank you and all the best :heart:*
