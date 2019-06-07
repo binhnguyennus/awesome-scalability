@@ -621,6 +621,7 @@ An organized reading list for illustrating the patterns of scalable, reliable, a
 	* [Log Analysis Platform at LINE](https://www.slideshare.net/wyukawa/strata2017-sg)
 	* [Data Visualisation Platform at Myntra](https://medium.com/myntra-engineering/universal-dashboarding-platform-udp-data-visualisation-platform-at-myntra-5f2522fcf72d)
 	* [Building and Scaling Data Lineage at Netflix](https://medium.com/netflix-techblog/building-and-scaling-data-lineage-at-netflix-to-improve-data-infrastructure-reliability-and-1a52526a7977)
+	* [Building a scalable data management system for computer vision tasks at Pinterest](https://medium.com/@Pinterest_Engineering/building-a-scalable-data-management-system-for-computer-vision-tasks-a6dee8f1c580)
 * [Distributed Machine Learning](https://www.csie.ntu.edu.tw/~cjlin/talks/bigdata-bilbao.pdf)
 	* [Aroma: Using ML for Code Recommendation at Facebook](https://code.fb.com/developer-tools/aroma/)
 	* [Michelangelo: Machine Learning Platform at Uber](https://eng.uber.com/michelangelo/)
@@ -810,4 +811,4 @@ An organized reading list for illustrating the patterns of scalable, reliable, a
 * [Web Scalability for Startup Engineers](https://www.goodreads.com/book/show/23615147-web-scalability-for-startup-engineers)
 * [Scalability Rules: 50 Principles for Scaling Web Sites](http://scalabilityrules.com/)
 
-#### *This project is created by [Binh Nguyen](https://www.linkedin.com/in/binhnguyennus/) in [2017 Christmas Eve](https://github.com/binhnguyennus/awesome-scalability/graphs/contributors). It is decidated to late night programmers who sacrifice their personal life at work! If you see a link here that is no longer maintained or is not a good fit, please submit a pull request! Thank you and all the best :heart:*
+#### *This project is created by [Binh Nguyen](https://www.linkedin.com/in/binhnguyennus/) in [2017 Christmas Eve](https://github.com/binhnguyennus/awesome-scalability/graphs/contributors). It is dedicated to late night programmers who sacrifice their personal life at work! If you see a link here that is no longer maintained or is not a good fit, please submit a pull request! Thank you and all the best :heart:*
