@@ -509,6 +509,7 @@ An organized reading list for illustrating the patterns of scalable, reliable, a
 * [High Availability at Netflix](https://medium.com/@NetflixTechBlog/tips-for-high-availability-be0472f2599c)
 * [High Availability Cloud Infrastructure at Twilio](https://www.twilio.com/engineering/2011/12/12/scaling-high-availablity-infrastructure-in-cloud)
 * [Automating Datacenter Operations at Dropbox](https://blogs.dropbox.com/tech/2019/01/automating-datacenter-operations-at-dropbox/)
+* [Globalizing Player Accounts at Riot Games](https://technology.riotgames.com/news/globalizing-player-accounts)
 
 ## Stability
 * [Circuit Breaker](https://martinfowler.com/bliki/CircuitBreaker.html)
