@@ -802,7 +802,7 @@ An organized reading list for illustrating the patterns of scalable, reliable, a
 * [Scaling Counting Infrastructure at Quora - Chun-Ho Hung and Nikhil Gar, SEs at Quora](https://www.infoq.com/presentations/quora-analytics)
 * [Scaling Git at Microsoft - Saeed Noursalehi, Principal Program Manager at Microsoft](https://www.youtube.com/watch?v=g_MPGU_m01s)
 * [Scaling Multitenant Architecture Across Multiple Data Centres at Shopify - Weingarten, Engineering Lead at Shopify](https://www.youtube.com/watch?v=F-f0-k46WVk)
-* [Scaling and Accelerated development at Pipeline using Docker Enterprise](https://www.youtube.com/watch?v=C66R2fUvZL0)
+* [Scaling and Accelerated development at Pipedrive using Docker Enterprise](https://www.youtube.com/watch?v=C66R2fUvZL0)
 
 ## Book
 * [Big Data, Web Ops & DevOps Ebooks - O'Reilly (Online - Free)](http://www.oreilly.com/webops/free/)
