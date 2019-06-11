@@ -674,6 +674,7 @@ An organized reading list for illustrating the patterns of scalable, reliable, a
 	* [Automated Fake Account Detection at LinkedIn](https://engineering.linkedin.com/blog/2018/09/automated-fake-account-detection-at-linkedin)
 	* [Building Knowledge Graph at Airbnb](https://medium.com/airbnb-engineering/contextualizing-airbnb-by-building-knowledge-graph-b7077e268d5a)
 	* [Core Modeling at Instagram](https://instagram-engineering.com/core-modeling-at-instagram-a51e0158aa48)
+	* [Neural Architecture Search (NAS) for Prohibited Item Detection at Mercari](https://tech.mercari.com/entry/2019/04/26/163000)
 
 ## Architecture
 * [Systems We Make](https://systemswemake.com/)
