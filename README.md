@@ -16,9 +16,7 @@ An organized reading list for illustrating the patterns of scalable, reliable, a
 
 #### Community power :mountain_cableway::aerial_tramway::mountain_cableway:
 
-> Contributions are greatly welcome! You may want to take a look at the [contribution guidelines](CONTRIBUTING.md).
-
-> If you find this project helpful, please share on your chat groups, [on Twitter](https://ctt.ec/V8B2p), or [on Weibo](http://t.cn/RnjFLCB) so more people can be helped! Power is gained by sharing knowledge, not hoarding it. Thank you! :hibiscus:
+> Contributions are greatly welcome! You may want to take a look at the [contribution guidelines](CONTRIBUTING.md). If you see a link here that is no longer maintained or is not a good fit, please submit a pull request!
 
 ## Content
 - [Principle](#principle)
@@ -764,6 +762,7 @@ An organized reading list for illustrating the patterns of scalable, reliable, a
 * [Code Review at LINE](https://engineering.linecorp.com/en/blog/effective-code-review/)
 * [Pair Programming at Shopify](https://engineering.shopify.com/blogs/engineering/pair-programming-explained)
 * [Distributed Responsibility at Asana](https://blog.asana.com/2017/12/distributed-responsibility-engineering-manager/)
+* [Rotating Engineers at Zalando](https://jobs.zalando.com/tech/blog/rotating-engineers-at-zalando/)
 
 ## Talk
 * [Distributed Systems in One Lesson - Tim Berglund, Senior Director of Developer Experience at Confluent](https://www.youtube.com/watch?v=Y6Ev8GIlbxc)
@@ -814,4 +813,4 @@ An organized reading list for illustrating the patterns of scalable, reliable, a
 * [Web Scalability for Startup Engineers](https://www.goodreads.com/book/show/23615147-web-scalability-for-startup-engineers)
 * [Scalability Rules: 50 Principles for Scaling Web Sites](http://scalabilityrules.com/)
 
-#### *This project is created by [Binh Nguyen](https://www.linkedin.com/in/binhnguyennus/) in [2017 Christmas Eve](https://github.com/binhnguyennus/awesome-scalability/graphs/contributors). It is dedicated to late night programmers who sacrifice their personal life at work! If you see a link here that is no longer maintained or is not a good fit, please submit a pull request! Thank you and all the best :heart:*
+#### *This project is created by [Binh Nguyen](https://www.linkedin.com/in/binhnguyennus/) in [2017 Christmas Eve](https://github.com/binhnguyennus/awesome-scalability/graphs/contributors) and is dedicated to late-night programmers who sacrifice their personal life at work! Many long hours of hard work have gone into this project. If you find it helpful, please share on Facebook, [on Twitter](https://ctt.ec/V8B2p), [on Weibo](http://t.cn/RnjFLCB), or on your chat groups! Knowledge is power, knowledge shared is power multiplied. Thank you and all the best :heart:*
