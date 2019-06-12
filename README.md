@@ -684,6 +684,7 @@ An organized reading list for illustrating the patterns of scalable, reliable, a
 * [Services (2 parts) at Airbnb](https://medium.com/airbnb-engineering/building-services-at-airbnb-part-2-142be1c5d506)
 * [Architecture of Evernote](https://evernote.com/blog/a-digest-of-evernotes-architecture/)
 * [Architecture of Chat Service (3 parts) at Riot Games](https://engineering.riotgames.com/news/chat-service-architecture-persistence)
+* [Architecture of League of Legends Client Update](https://technology.riotgames.com/news/architecture-league-client-update)
 * [Back-end at LinkedIn](https://engineering.linkedin.com/architecture/brief-history-scaling-linkedin)
 * [Back-end at Flickr](https://yahooeng.tumblr.com/post/157200523046/introducing-tripod-flickrs-backend-refactored)
 * [Cloud Infrastructure at Grubhub](https://bytes.grubhub.com/cloud-infrastructure-at-grubhub-94db998a898a)
