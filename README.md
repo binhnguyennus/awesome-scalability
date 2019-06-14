@@ -327,6 +327,7 @@ An organized reading list for illustrating the patterns of scalable, reliable, a
 		* [Dynamometer: Scale Testing HDFS on Minimal Hardware with Maximum Fidelity at LinkedIn](https://engineering.linkedin.com/blog/2018/02/dynamometer--scale-testing-hdfs-on-minimal-hardware-with-maximum)
 		* [Hammerspace: Persistent, Concurrent, Off-heap Storage at Airbnb](https://medium.com/airbnb-engineering/hammerspace-persistent-concurrent-off-heap-storage-3db39bb04472)
 		* [MezzFS: Mounting Object Storage in Media Processing Platform at Netflix](https://medium.com/netflix-techblog/mezzfs-mounting-object-storage-in-netflixs-media-processing-platform-cda01c446ba)	
+		* [Magic Pocket: In-house Multi-exabyte Storage System at Dropbox](https://blogs.dropbox.com/tech/2016/05/inside-the-magic-pocket/)
 * [Relational Databases (MySQL, MSSQL, PostgreSQL)](https://www.mysql.com/products/cluster/scalability.html)
 	* [MySQL for schema-less data at FriendFeed (Bret Taylor)](https://backchannel.org/blog/friendfeed-schemaless-mysql)
 	* [MySQL at Pinterest](https://medium.com/@Pinterest_Engineering/learn-to-stop-using-shiny-new-things-and-love-mysql-3e1613c2ce14)
