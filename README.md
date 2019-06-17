@@ -606,6 +606,7 @@ An organized reading list for illustrating the patterns of scalable, reliable, a
 	* [Analytics Platform for Tracking Item Availability at Walmart](https://medium.com/walmartlabs/how-we-build-a-robust-analytics-platform-using-spark-kafka-and-cassandra-lambda-architecture-70c2d1bc8981)
 	* [HALO: Hardware Analytics and Lifecycle Optimization at Facebook](https://code.fb.com/data-center-engineering/hardware-analytics-and-lifecycle-optimization-halo-at-facebook/)
 	* [RBEA: Real-time Analytics Platform at King](https://techblog.king.com/rbea-scalable-real-time-analytics-king/)
+	* [AresDB: GPU-Powered Real-time Analytics Engine at Uber](https://eng.uber.com/aresdb/)
 	* [Gimel: Analytics Data Processing Platform at PayPal](https://www.paypal-engineering.com/2018/04/17/gimel/)
 	* [AthenaX: Streaming Analytics Platform at Uber](https://eng.uber.com/athenax/)
 	* [Keystone: Real-time Stream Processing Platform at Netflix](https://medium.com/netflix-techblog/keystone-real-time-stream-processing-platform-a3ee651812a)
