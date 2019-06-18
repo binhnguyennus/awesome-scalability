@@ -444,7 +444,7 @@ An organized reading list for illustrating the patterns of scalable, reliable, a
 	* [Continuous Integration Stack at Facebook](https://code.fb.com/web/rapid-release-at-massive-scale/)
 	* [Continuous Integration with Distributed Repositories and Dependencies at Netflix](https://medium.com/netflix-techblog/towards-true-continuous-integration-distributed-repositories-and-dependencies-2a2e3108c051)
 	* [Screwdriver: Continuous Delivery Build System for Dynamic Infrastructure at Yahoo](https://yahooeng.tumblr.com/post/155765242061/open-sourcing-screwdriver-yahoos-continuous)
-	* [CI/CD (2 parts) at Betterment](https://betterment.engineering/ci-cd-at-betterment-part-ii-standardizing-the-interface-69a15f0735f3)
+	* [CI/CD at Betterment](https://www.betterment.com/resources/ci-cd-shortening-the-feedback-loop/)
 	* [CI/CD at Brainly](https://medium.com/engineering-brainly/ci-cd-at-scale-fdfb0f49e031)
 	* [Scaling iOS CI with Anka at Shopify](https://engineering.shopify.com/blogs/engineering/scaling-ios-ci-with-anka)
 	* [Scaling Jira Server at Yelp](https://engineeringblog.yelp.com/2019/04/Scaling-Jira-Server-Administration-For-The-Enterprise.html)
