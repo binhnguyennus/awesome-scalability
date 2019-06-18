@@ -448,6 +448,7 @@ An organized reading list for illustrating the patterns of scalable, reliable, a
 	* [CI/CD at Brainly](https://medium.com/engineering-brainly/ci-cd-at-scale-fdfb0f49e031)
 	* [Scaling iOS CI with Anka at Shopify](https://engineering.shopify.com/blogs/engineering/scaling-ios-ci-with-anka)
 	* [Scaling Jira Server at Yelp](https://engineeringblog.yelp.com/2019/04/Scaling-Jira-Server-Administration-For-The-Enterprise.html)
+	* [Auto-scaling CI/CD cluster at Flexport](https://flexport.engineering/how-flexport-halved-testing-costs-with-an-auto-scaling-ci-cd-cluster-8304297222f)
 
 ## Availability
 * [Resilience Engineering: Learning to Embrace Failure](https://queue.acm.org/detail.cfm?id=2371297)	
