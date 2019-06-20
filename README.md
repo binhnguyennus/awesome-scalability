@@ -530,6 +530,7 @@ An organized reading list for illustrating the patterns of scalable, reliable, a
 * [Timeouts](https://www.javaworld.com/article/2824163/application-performance/stability-patterns-applied-in-a-restful-architecture.html)
 	* [Fault Tolerance (Timeouts and Retries, Thread Separation, Semaphores, Circuit Breakers) at Neflix](https://medium.com/netflix-techblog/fault-tolerance-in-a-high-volume-distributed-system-91ab4faae74a)
 	* [Enforce Timeout: A Reliability Methodology at DoorDash](https://doordash.engineering/2018/12/21/enforce-timeout-a-doordash-reliability-methodology/)
+	* [Troubleshooting a Connection Timeout Issue with tcp_tw_recycle Enabled at eBay](https://www.ebayinc.com/stories/blogs/tech/a-vip-connection-timeout-issue-caused-by-snat-and-tcp-tw-recycle/)
 * [Crash-safe Replication for MySQL at Booking.com](https://medium.com/booking-com-infrastructure/better-crash-safe-replication-for-mysql-a336a69b317f)
 * [Bulkheads: Partition and Tolerate Failure in One Part](https://skife.org/architecture/fault-tolerance/2009/12/31/bulkheads.html)
 * [Steady State: Always Put Logs on Separate Disk](https://docs.microsoft.com/en-us/sql/relational-databases/policy-based-management/place-data-and-log-files-on-separate-drives)
