@@ -237,7 +237,8 @@ An organized reading list for illustrating the patterns of scalable, reliable, a
 	* [Detecting Credential Compromise in AWS at Netflix](https://medium.com/netflix-techblog/netflix-cloud-security-detecting-credential-compromise-in-aws-9493d6fd373a)
 	* [Scalable User Privacy at Spotify](https://labs.spotify.com/2018/09/18/scalable-user-privacy/)
 	* [AVA: Audit Web Applications at Indeed](https://engineering.indeedblog.com/blog/2018/09/application-scanning/)
-	* [TTL as a Service: Automatic Revocation of Stale Privileges at Yelp](https://engineeringblog.yelp.com/2018/11/ttl-as-a-service.html)	
+	* [TTL as a Service: Automatic Revocation of Stale Privileges at Yelp](https://engineeringblog.yelp.com/2018/11/ttl-as-a-service.html)
+	* [Enterprise Key Management at Slack](https://slack.engineering/engineering-dive-into-slack-enterprise-key-management-1fce471b178c)	
 * [Distributed Messaging, Queuing, and Event Streaming](https://arxiv.org/pdf/1704.00411.pdf)
 	* [Cape: Event Stream Processing Framework at Dropbox](https://blogs.dropbox.com/tech/2017/05/introducing-cape/)
 	* [Druid: Event Stream Analytics at Walmart](https://medium.com/walmartlabs/event-stream-analytics-at-walmart-with-druid-dcf1a37ceda7)	
@@ -823,4 +824,4 @@ An organized reading list for illustrating the patterns of scalable, reliable, a
 * [Web Scalability for Startup Engineers](https://www.goodreads.com/book/show/23615147-web-scalability-for-startup-engineers)
 * [Scalability Rules: 50 Principles for Scaling Web Sites](http://scalabilityrules.com/)
 
-#### *This project is created by [Binh Nguyen](https://www.linkedin.com/in/binhnguyennus/) in [2017 Christmas Eve](https://github.com/binhnguyennus/awesome-scalability/graphs/contributors) and is dedicated to late-night programmers who sacrifice their personal life at work! Many long hours of hard work have gone into this project. If you find it helpful, please share on Facebook, [on Twitter](https://ctt.ec/V8B2p), [on Weibo](http://t.cn/RnjFLCB), or on your chat groups! Knowledge is power, knowledge shared is power multiplied. Thank you and all the best :heart:*
+#### *This project is created by [Binh Nguyen](https://www.linkedin.com/in/binhnguyennus/) in [2017 Christmas Eve](https://github.com/binhnguyennus/awesome-scalability/graphs/contributors) and is dedicated to late-night programmers who sacrifice their personal life at work! Many long hours of hard work have gone into this project. If you find it helpful, please share on Facebook, [on Twitter](https://ctt.ec/V8B2p), [on Weibo](http://t.cn/RnjFLCB), or on your chat groups! Knowledge is power, knowledge shared is power multiplied. Thank you! You are awesome :heart:*
