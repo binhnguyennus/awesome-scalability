@@ -503,6 +503,7 @@ An organized reading list for illustrating the patterns of scalable, reliable, a
 	* [Autoscaling Jenkins at Trivago](http://tech.trivago.com/2017/02/17/your-definite-guide-for-autoscaling-jenkins/)
 	* [Autoscaling Pub-Sub Consumers at Spotify](https://labs.spotify.com/2017/11/20/autoscaling-pub-sub-consumers/)
 	* [Autoscaling Bigtable Clusters based on CPU Load at Spotify](https://labs.spotify.com/2018/12/18/bigtable-autoscaler-saving-money-and-time-using-managed-storage/)
+	* [Autoscaling AWS Step Functions Activities at Yelp](https://engineeringblog.yelp.com/2019/06/autoscaling-aws-step-functions-activities.html)
 	* [Scryer: Predictive Auto Scaling Engine at Netflix](https://medium.com/netflix-techblog/scryer-netflixs-predictive-auto-scaling-engine-a3f8fc922270)	
 	* [Bouncer: Simple AWS Auto Scaling Rollovers at Palantir](https://medium.com/palantir/bouncer-simple-aws-auto-scaling-rollovers-c5af601d65d4)
 	* [Clusterman: Autoscaling Mesos Clusters at Yelp](https://engineeringblog.yelp.com/2019/02/autoscaling-mesos-clusters-with-clusterman.html)
