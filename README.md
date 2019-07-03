@@ -323,6 +323,7 @@ An organized reading list for illustrating the patterns of scalable, reliable, a
 		* [Real-Time Data Warehouse with MemSQL on Cisco UCS](https://blogs.cisco.com/datacenter/memsql)
 		* [Moving to MemSQL (with Horizontally Scalable, ACID Compliant, MySQL Compatibility) at Tapjoy](http://eng.tapjoy.com/blog-list/moving-to-memsql)
 		* [MemSQL and Kinesis for Real-time Insights at Disney-ABC TV](https://conferences.oreilly.com/strata/strata-ca/public/schedule/detail/68131)
+		* [MemSQL to Query Hundreds of Billions of Rows in a Dashboard at Pandora](https://engineering.pandora.com/using-memsql-at-pandora-79a86cb09b57)
 	* [Object Storage](http://www.datacenterknowledge.com/archives/2013/10/04/object-storage-the-future-of-scale-out)
 		* [Scaling HDFS at Uber](https://eng.uber.com/scaling-hdfs/)
 		* [Reasons for Choosing S3 over HDFS at Databricks](https://databricks.com/blog/2017/05/31/top-5-reasons-for-choosing-s3-over-hdfs.html)
