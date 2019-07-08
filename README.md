@@ -280,6 +280,7 @@ An organized reading list for illustrating the patterns of scalable, reliable, a
 		* [Reprocessing and Dead Letter Queues with Kafka at Uber](https://eng.uber.com/reliable-reprocessing/)
 		* [Chaperone: Audit Kafka End-to-End at Uber](https://eng.uber.com/chaperone/)
 		* [Finding Kafka throughput limit in infrastructure at Dropbox](https://blogs.dropbox.com/tech/2019/01/finding-kafkas-throughput-limit-in-dropbox-infrastructure/)
+		* [Cost Orchestration at Walmart](https://medium.com/walmartlabs/cost-orchestration-at-walmart-f34918af67c4)
 	* [Stream Data Deduplication](https://en.wikipedia.org/wiki/Data_deduplication)
 		* [Exactly-once Semantics with Kafka](https://www.confluent.io/blog/exactly-once-semantics-are-possible-heres-how-apache-kafka-does-it/)
 		* [Real-time Deduping at Tapjoy](http://eng.tapjoy.com/blog-list/real-time-deduping-at-scale)
