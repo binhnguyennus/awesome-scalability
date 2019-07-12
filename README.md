@@ -658,7 +658,6 @@ An organized reading list for illustrating the patterns of scalable, reliable, a
 	* [Natural Language Processing and Content Analysis (2 parts) at Condé Nast](https://technology.condenast.com/story/natural-language-processing-and-content-analysis-at-conde-nast-part-2-system-architecture)
 	* [Machine Learning Applications In The E-commerce Domain (4 parts) at Rakuten](https://techblog.rakuten.co.jp/2017/07/12/machine-learning-applications-in-the-e-commerce-domain-4/)
 	* [Mapping the World of Music Using Machine Learning (2 parts) at iHeartRadio](https://tech.iheart.com/mapping-the-world-of-music-using-machine-learning-part-2-aa50b6a0304c)
-	* [Venue Rating System at Foursquare](https://engineering.foursquare.com/finding-the-perfect-10-how-we-developed-the-foursquare-venue-rating-system-c76b08f7b9b3)
 	* [Machine Learning to Improve Streaming Quality at Netflix](https://medium.com/netflix-techblog/using-machine-learning-to-improve-streaming-quality-at-netflix-9651263ef09f)
 	* [Machine Learning to Match Drivers & Riders at GO-JEK](https://blog.gojekengineering.com/how-we-use-machine-learning-to-match-drivers-riders-b06d617b9e5)
 	* [Improving Video Thumbnails with Deep Neural Nets at YouTube](https://youtube-eng.googleblog.com/2015/10/improving-youtube-video-thumbnails-with_8.html)
