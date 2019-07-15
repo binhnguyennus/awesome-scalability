@@ -212,6 +212,7 @@ An organized reading list for illustrating the patterns of scalable, reliable, a
     * [Alerting Ecosystem at Uber](https://eng.uber.com/observability-at-scale/)
 	* [Alerting on Service-Level Objectives (SLOs) at SoundCloud](https://developers.soundcloud.com/blog/alerting-on-slos)
     * [Job-based Forecasting Workflow for Observability Anomaly Detection at Uber](https://eng.uber.com/observability-anomaly-detection/)
+	* [Monitoring and Alert System using Graphite and Cabot at HackerEarth](http://engineering.hackerearth.com/2017/03/21/monitoring-and-alert-system-using-graphite-and-cabot/)
     * [Securitybot: Distributed Alerting Bot at Dropbox](https://blogs.dropbox.com/tech/2017/02/meet-securitybot-open-sourcing-automated-security-at-scale/)
     * [Observability (2 parts) at Twitter](https://blog.twitter.com/engineering/en_us/a/2016/observability-at-twitter-technical-overview-part-ii.html)
     * [Distributed Security Alerting at Slack](https://slack.engineering/distributed-security-alerting-c89414c992d6)
