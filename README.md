@@ -646,6 +646,7 @@ An organized reading list for illustrating the patterns of scalable, reliable, a
 	* [Data Visualisation Platform at Myntra](https://medium.com/myntra-engineering/universal-dashboarding-platform-udp-data-visualisation-platform-at-myntra-5f2522fcf72d)
 	* [Building and Scaling Data Lineage at Netflix](https://medium.com/netflix-techblog/building-and-scaling-data-lineage-at-netflix-to-improve-data-infrastructure-reliability-and-1a52526a7977)
 	* [Building a scalable data management system for computer vision tasks at Pinterest](https://medium.com/@Pinterest_Engineering/building-a-scalable-data-management-system-for-computer-vision-tasks-a6dee8f1c580)
+	* [Structured Data at Etsy](https://codeascraft.com/2019/07/31/an-introduction-to-structured-data-at-etsy/)
 * [Distributed Machine Learning](https://www.csie.ntu.edu.tw/~cjlin/talks/bigdata-bilbao.pdf)
 	* [Aroma: Using ML for Code Recommendation at Facebook](https://code.fb.com/developer-tools/aroma/)
 	* [Michelangelo: Machine Learning Platform at Uber](https://eng.uber.com/michelangelo/)
