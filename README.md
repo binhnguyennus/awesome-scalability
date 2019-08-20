@@ -701,6 +701,7 @@ An organized reading list for illustrating the patterns of scalable, reliable, a
 	* [Core Modeling at Instagram](https://instagram-engineering.com/core-modeling-at-instagram-a51e0158aa48)
 	* [Neural Architecture Search (NAS) for Prohibited Item Detection at Mercari](https://tech.mercari.com/entry/2019/04/26/163000)
 	* [Computer Vision at Airbnb](https://medium.com/airbnb-engineering/amenity-detection-and-beyond-new-frontiers-of-computer-vision-at-airbnb-144a4441b72e)
+	* [3D Home Backend Algorithms at Zillow](https://www.zillow.com/engineering/behind-zillow-3d-home-backend-algorithms/)
 
 ## Architecture
 * [Systems We Make](https://systemswemake.com/)
