@@ -710,7 +710,7 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 	* [Monzo: How Peer-To-Peer Payments Work](https://monzo.com/blog/2018/04/05/how-monzo-to-monzo-payments-work/)
 	* [Transit and Peering: How Your Requests Reach GitHub](https://githubengineering.com/transit-and-peering-how-your-requests-reach-github/)
 	* [How Spotify Streams Music](https://labs.spotify.com/2018/08/31/smoother-streaming-with-bbr/)
-
+        * [Data Engineering in Badoo: handling 20 billion events per day](https://skillsmatter.com/skillscasts/13983-data-engineering-in-badoo-handling-20-billion-events-per-day)
 ## Organization
 * [Engineering Levels at SoundCloud](https://developers.soundcloud.com/blog/engineering-levels)
 * [Scaling Engineering Teams at Twitter](https://www.youtube.com/watch?v=-PXi_7Ld5kU)
