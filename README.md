@@ -422,7 +422,7 @@ An organized reading list for illustrating the patterns of scalable, reliable, a
 	* [Graph Databases](https://www.eecs.harvard.edu/margo/papers/systor13-bench/)
 		* [FlockDB: Distributed Graph Database at Twitter](https://blog.twitter.com/engineering/en_us/a/2010/introducing-flockdb.html)
 		* [TAO: Distributed Data Store for the Social Graph at Facebook](https://www.cs.cmu.edu/~pavlo/courses/fall2013/static/papers/11730-atc13-bronson.pdf)
-		* [Beam: Distributed Knowledge Graph Store at eBay](https://www.ebayinc.com/stories/blogs/tech/beam-a-distributed-knowledge-graph-store/)
+		* [Akutan: Distributed Knowledge Graph Store at eBay](https://tech.ebayinc.com/engineering/akutan-a-distributed-knowledge-graph-store/)
 	* [Datastructure Databases (Redis, Hazelcast)](https://db-engines.com/en/system/Hazelcast%3BMemcached%3BRedis)
 		* [Scaling Redis at Twitter](http://highscalability.com/blog/2014/9/8/how-twitter-uses-redis-to-scale-105tb-ram-39mm-qps-10000-ins.html)
 		* [Scaling Job Queue with Redis at Slack](https://slack.engineering/scaling-slacks-job-queue-687222e9d100)
