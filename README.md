@@ -366,7 +366,7 @@ An organized reading list for illustrating the patterns of scalable, reliable, a
 		* [Sharding Layer of Schemaless Datastore at Uber](https://eng.uber.com/schemaless-rewrite/)
 		* [Sharding & IDs at Instagram](https://instagram-engineering.com/sharding-ids-at-instagram-1cf5a71e5a5c)
 		* [Solr: Improving Performance for Batch Indexing at Box](https://blog.box.com/blog/solr-improving-performance-batch-indexing/)	
-		* [Geosharded Recommendations (2 parts) at Tinder](https://medium.com/tinder-engineering/geosharded-recommendations-part-2-architecture-3396a8a7efb)
+		* [Geosharded Recommendations (3 parts) at Tinder](https://medium.com/tinder-engineering/geosharded-recommendations-part-3-consistency-2d2cb2f0594b)
 	* [Presto the Distributed SQL Query Engine](https://research.fb.com/wp-content/uploads/2019/03/Presto-SQL-on-Everything.pdf?)
 		* [Presto at Pinterest](https://medium.com/@Pinterest_Engineering/presto-at-pinterest-a8bda7515e52)
 		* [Presto at Grab](https://engineering.grab.com/scaling-like-a-boss-with-presto)
