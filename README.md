@@ -369,6 +369,7 @@ An organized reading list for illustrating the patterns of scalable, reliable, a
 		* [Geosharded Recommendations (3 parts) at Tinder](https://medium.com/tinder-engineering/geosharded-recommendations-part-3-consistency-2d2cb2f0594b)
 	* [Presto the Distributed SQL Query Engine](https://research.fb.com/wp-content/uploads/2019/03/Presto-SQL-on-Everything.pdf?)
 		* [Presto at Pinterest](https://medium.com/@Pinterest_Engineering/presto-at-pinterest-a8bda7515e52)
+		* [Presto Infrastructure at Lyft](https://eng.lyft.com/presto-infrastructure-at-lyft-b10adb9db01)
 		* [Presto at Grab](https://engineering.grab.com/scaling-like-a-boss-with-presto)
 		* [Engineering Data Analytics with Presto and Apache Parquet at Uber](https://eng.uber.com/presto/)
 		* [Data Wrangling at Slack](https://slack.engineering/data-wrangling-at-slack-f2e0ff633b69)
@@ -843,4 +844,4 @@ An organized reading list for illustrating the patterns of scalable, reliable, a
 * [Web Scalability for Startup Engineers](https://www.goodreads.com/book/show/23615147-web-scalability-for-startup-engineers)
 * [Scalability Rules: 50 Principles for Scaling Web Sites](http://scalabilityrules.com/)
 
-#### *This project is created by [Binh Nguyen](https://www.linkedin.com/in/binhnguyennus/) in [2017 Christmas Eve](https://github.com/binhnguyennus/awesome-scalability/graphs/contributors) and is dedicated to late-night programmers who sacrifice their personal life at work! Many long hours of hard work have gone into this project. If you find it helpful, please share on Facebook, [on Twitter](https://ctt.ec/V8B2p), [on Weibo](http://t.cn/RnjFLCB), or on your chat groups! Knowledge is power, knowledge shared is power multiplied. Thank you! You are awesome :heart:*
+#### *This project is created by [Nguyen Quoc Binh](https://www.linkedin.com/in/binhnguyennus/) in [2017 Christmas Eve](https://github.com/binhnguyennus/awesome-scalability/graphs/contributors) and is dedicated to late-night programmers who sacrifice their personal life at work! Many long hours of hard work have gone into this project. If you find it helpful, please share on Facebook, [on Twitter](https://ctt.ec/V8B2p), [on Weibo](http://t.cn/RnjFLCB), or on your chat groups! Knowledge is power, knowledge shared is power multiplied. Thank you! You are awesome :heart:*
