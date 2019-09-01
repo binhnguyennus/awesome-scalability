@@ -817,8 +817,6 @@ An organized reading list for illustrating the patterns of scalable, reliable, a
 * [Scaling Reliability at Dropbox - Sat Kriya Khalsa, SRE at Dropbox](https://www.youtube.com/watch?v=IhGWOaD5BYQ)
 * [Scaling with Performance at Facebook - Bill Jia, VP of Infrastructure at Facebook](https://atscaleconference.com/videos/performance-scale-2018-opening-remarks/)
 * [Scaling Live Videos to a Billion Users at Facebook - Sachin Kulkarni, Director of Engineering at Facebook](https://www.youtube.com/watch?v=IO4teCbHvZw)
-* [Scaling Low-latency Live Streams at Facebook (Latencies for Real-time Interactions) - Saral Shodhan, SDE at Facebook](https://atscaleconference.com/videos/scaling-low-latency-live-streams/)
-* [Scaling Low-latency Live Streams at Facebook (End-to-End Considerations) - Federico Larumbe, SDE at Facebook](https://atscaleconference.com/videos/scaling-low-latency-live-streams-2-of-2/)
 * [Scaling Infrastructure at Instagram - Lisa Guo, Instagram Engineering](https://www.youtube.com/watch?v=hnpzNAPiC0E)
 * [Scaling Infrastructure at Twitter - Yao Yue, Staff Software Engineer at Twitter](https://www.youtube.com/watch?v=6OvrFkLSoZ0)
 * [Scaling Infrastructure at Etsy - Bethany Macri, Engineering Manager at Etsy](https://www.youtube.com/watch?v=LfqyhM1LeIU)
