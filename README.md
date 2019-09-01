@@ -789,11 +789,14 @@ An organized reading list for illustrating the patterns of scalable, reliable, a
 * [Mistakes to Avoid while Creating an Internal Product at Skyscanner](https://medium.com/@SkyscannerEng/9-mistakes-to-avoid-while-creating-an-internal-product-63d579b00b1a)
 * [RACI (Responsible, Accountable, Consulted, Informed) at Etsy](https://codeascraft.com/2018/01/04/selecting-a-cloud-provider/)
 * [Four Pillars of Leading People (Empathy, Inspiration, Trust, Honesty) at Zalando](https://jobs.zalando.com/tech/blog/four-pillars-leadership/)
-* [Code Review at Palantir](https://medium.com/@palantir/code-review-best-practices-19e02780015f)
-* [Code Review at LINE](https://engineering.linecorp.com/en/blog/effective-code-review/)
 * [Pair Programming at Shopify](https://engineering.shopify.com/blogs/engineering/pair-programming-explained)
 * [Distributed Responsibility at Asana](https://blog.asana.com/2017/12/distributed-responsibility-engineering-manager/)
 * [Rotating Engineers at Zalando](https://jobs.zalando.com/tech/blog/rotating-engineers-at-zalando/)
+* [Code Review](https://ai.google/research/pubs/pub47025)
+	* [Code Review at Palantir](https://medium.com/@palantir/code-review-best-practices-19e02780015f)
+	* [Code Review at LINE](https://engineering.linecorp.com/en/blog/effective-code-review/)
+	* [Code Reviews at Medium](https://medium.engineering/code-reviews-at-medium-bed2c0dce13a)
+	* [Code Review at LinkedIn](https://engineering.linkedin.com/blog/2018/06/scaling-collective-code-ownership-with-code-reviews)
 
 ## Talk
 * [Distributed Systems in One Lesson - Tim Berglund, Senior Director of Developer Experience at Confluent](https://www.youtube.com/watch?v=Y6Ev8GIlbxc)
