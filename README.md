@@ -119,7 +119,6 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [PowerfulSeal: Testing Tool for Kubernetes Clusters at Bloomberg](https://www.techatbloomberg.com/blog/powerfulseal-testing-tool-kubernetes-clusters/)
 	* [Conductor: Microservices Orchestrator at Netflix](https://medium.com/netflix-techblog/netflix-conductor-a-microservices-orchestrator-2e8d4771bf40)
 	* [Making 10x Improvement in Release Times with Docker and Amazon ECS at Nextdoor](https://engblog.nextdoor.com/how-nextdoor-made-a-10x-improvement-in-release-times-with-docker-and-amazon-ecs-35aab52b726f)
-	* [K8Guard: Auditing System for Kubernetes Clusters at Target.com](http://target.github.io/infrastructure/k8guard-the-guardian-angel-for-kuberentes)
 	* [Deconstructing Monolithic Applications into (Kafka-driven) Services at Heroku](https://blog.heroku.com/monolithic-applications-into-services)
 	* [Docker Containers that Power Over 100.000 Online Shops at Shopify](https://shopifyengineering.myshopify.com/blogs/engineering/docker-at-shopify-how-we-built-containers-that-power-over-100-000-online-shops)
 	* [Microservice Architecture at Medium](https://medium.engineering/microservice-architecture-at-medium-9c33805eb74f)
