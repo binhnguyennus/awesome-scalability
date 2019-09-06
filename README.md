@@ -290,7 +290,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 		* [Deduplication at Segment](https://segment.com/blog/exactly-once-delivery/)
 		* [Deduplication at Mail.Ru](https://medium.com/@andrewsumin/efficient-storage-how-we-went-down-from-50-pb-to-32-pb-99f9c61bf6b4)	
 * [Distributed Searching](http://nwds.cs.washington.edu/files/nwds/pdf/Distributed-WR.pdf)
-	* [Search Architecture of Instagram](https://engineering.instagram.com/search-architecture-eeb34a936d3a)
+	* [Search Architecture of Instagram](https://instagram-engineering.com/search-architecture-eeb34a936d3a)
 	* [Search Architecture of eBay](http://www.cs.otago.ac.nz/homepages/andrew/papers/2017-8.pdf)
 	* [Improving Search Engine Efficiency by over 25% at eBay](https://www.ebayinc.com/stories/blogs/tech/making-e-commerce-search-faster/)	
 	* [Indexing and Querying Telemetry Logs with Lucene at Palantir](https://medium.com/palantir/indexing-and-querying-telemetry-logs-with-lucene-234c5ce3e5f3)
