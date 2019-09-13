@@ -845,8 +845,8 @@ An updated and organized reading list for illustrating the patterns of scalable,
 
 #### *This project is created by [Nguyen Quoc Binh](https://www.linkedin.com/in/binhnguyennus/) in [2017 Christmas Eve](https://github.com/binhnguyennus/awesome-scalability/graphs/contributors) and is dedicated to late-night programmers who sacrifice their personal life at work! Many long hours of hard work have gone into this project. If you find it helpful, please share on Facebook, [on Twitter](https://ctt.ec/V8B2p), [on Weibo](http://t.cn/RnjFLCB), or on your chat groups! Knowledge is power, knowledge shared is power multiplied!
 
-## Feed The Pig
+## Donation
 
-:coffee: Let's buy me some coffee :pig_nose: Thank you! You are awesome :pig:
+:doughnut: Please buy this cute pig some donuts :pig: Thank you! You are awesome :bow:
 
-[![](https://earnthatbuck.com/data/avatars/m/0/2.jpg?1524158570)](https://paypal.me/binhnguyennus)
+[![](https://i.imgur.com/WXFYdLq.png)](https://paypal.me/binhnguyennus)
