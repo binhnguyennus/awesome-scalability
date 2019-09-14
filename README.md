@@ -328,7 +328,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 		* [Optimizing Memcached Efficiency at Quora](https://engineering.quora.com/Optimizing-Memcached-Efficiency)
 		* [Real-Time Data Warehouse with MemSQL on Cisco UCS](https://blogs.cisco.com/datacenter/memsql)
 		* [Moving to MemSQL (with Horizontally Scalable, ACID Compliant, MySQL Compatibility) at Tapjoy](http://eng.tapjoy.com/blog-list/moving-to-memsql)
-		* [MemSQL and Kinesis for Real-time Insights at Disney-ABC TV](https://conferences.oreilly.com/strata/strata-ca/public/schedule/detail/68131)
+		* [MemSQL and Kinesis for Real-time Insights at Disney](https://conferences.oreilly.com/strata/strata-ca/public/schedule/detail/68131)
 		* [MemSQL to Query Hundreds of Billions of Rows in a Dashboard at Pandora](https://engineering.pandora.com/using-memsql-at-pandora-79a86cb09b57)
 	* [Object Storage](http://www.datacenterknowledge.com/archives/2013/10/04/object-storage-the-future-of-scale-out)
 		* [Scaling HDFS at Uber](https://eng.uber.com/scaling-hdfs/)
@@ -795,6 +795,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Code Review at LINE](https://engineering.linecorp.com/en/blog/effective-code-review/)
 	* [Code Reviews at Medium](https://medium.engineering/code-reviews-at-medium-bed2c0dce13a)
 	* [Code Review at LinkedIn](https://engineering.linkedin.com/blog/2018/06/scaling-collective-code-ownership-with-code-reviews)
+	* [Code Review at Disney](https://medium.com/disney-streaming/the-secret-to-better-code-reviews-c14c7884b9ac)
 
 ## Talk
 * [Distributed Systems in One Lesson - Tim Berglund, Senior Director of Developer Experience at Confluent](https://www.youtube.com/watch?v=Y6Ev8GIlbxc)
@@ -843,10 +844,12 @@ An updated and organized reading list for illustrating the patterns of scalable,
 * [Web Scalability for Startup Engineers](https://www.goodreads.com/book/show/23615147-web-scalability-for-startup-engineers)
 * [Scalability Rules: 50 Principles for Scaling Web Sites](http://scalabilityrules.com/)
 
-## Donation
+## License
 
 This project is created by [Nguyen Quoc Binh](https://www.linkedin.com/in/binhnguyennus/) in [2017 Christmas Eve](https://github.com/binhnguyennus/awesome-scalability/graphs/contributors) and is dedicated to late-night programmers who sacrifice their personal life at work.
 
-:doughnut: Please buy this cute pig some donuts :pig: Thank you! You are awesome :bow:
+## Donation
+
+:doughnut: Please click on this cute pig to buy him some donuts :pig_nose: Thank you! You are awesome :pig:
 
 [![](https://i.imgur.com/WXFYdLq.png)](https://paypal.me/binhnguyennus)
