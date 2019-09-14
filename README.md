@@ -607,6 +607,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 ## Intelligence
 * [Big Data](https://insights.sei.cmu.edu/sei_blog/2017/05/reference-architectures-for-big-data-systems.html)	
 	* [Data Platform at Uber](https://eng.uber.com/uber-big-data-platform/)
+	* [Data Platform at BMW](https://www.unibw.de/code/events-u/jt-2018-workshops/ws3_bigdata_vortrag_widmann.pdf)
 	* [Data Platform at Netflix](https://www.youtube.com/watch?v=CSDIThSwA7s)
 	* [Data Platform at Flipkart](https://tech.flipkart.com/overview-of-flipkart-data-platform-20c6d3e9a196)
 	* [Data Platform at Khan Academy](http://engineering.khanacademy.org/posts/khanalytics.htm)
@@ -848,8 +849,8 @@ An updated and organized reading list for illustrating the patterns of scalable,
 
 This project is created by [Nguyen Quoc Binh](https://www.linkedin.com/in/binhnguyennus/) in [2017 Christmas Eve](https://github.com/binhnguyennus/awesome-scalability/graphs/contributors) and is dedicated to late-night programmers who sacrifice their personal life at work.
 
-## Donation
+## Donut Donation
 
-:doughnut: Please click on this cute pig to buy him some donuts :pig_nose: Thank you! You are awesome :pig:
+:doughnut: Please click on this cute pig to feed him some donuts :pig_nose: Thank you! You are awesome :pig:
 
 [![](https://i.imgur.com/WXFYdLq.png)](https://paypal.me/binhnguyennus)
