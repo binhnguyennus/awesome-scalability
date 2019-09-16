@@ -18,6 +18,8 @@ An updated and organized reading list for illustrating the patterns of scalable,
 
 > Contributions are greatly welcome! You may want to take a look at the [contribution guidelines](CONTRIBUTING.md). If you see a link here that is no longer maintained or is not a good fit, please submit a pull request!
 
+> Many long hours of hard work have gone into this project. If you find it helpful, please share on Facebook, [on Twitter](https://ctt.ec/V8B2p), [on Weibo](http://t.cn/RnjFLCB), or on your chat groups! Knowledge is power, knowledge shared is power multiplied. Thank you!
+
 ## Content
 - [Principle](#principle)
 - [Scalability](#scalability)
@@ -660,6 +662,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Altus Care: Applying a Chatbot to Platform Engineering at eBay](https://www.ebayinc.com/stories/blogs/tech/altus-care-apply-chatbot-to-ebay-platform-engineering/)
 	* [Box Graph: Spontaneous Social Network at Box](https://blog.box.com/blog/box-graph-how-we-built-spontaneous-social-network/)
 	* [PricingNet: Pricing Modelling with Neural Networks at Skyscanner](https://hackernoon.com/pricingnet-modelling-the-global-airline-industry-with-neural-networks-833844d20ea6)
+	* [PinText: Multitask Text Embedding System at Pinterest](https://medium.com/pinterest-engineering/pintext-a-multitask-text-embedding-system-in-pinterest-b80ece364555)
 	* [Scaling Gradient Boosted Trees for Click-Through-Rate Prediction at Yelp](https://engineeringblog.yelp.com/2018/01/building-a-distributed-ml-pipeline-part1.html)	
 	* [Learning with Privacy at Scale at Apple](https://machinelearning.apple.com/2017/12/06/learning-with-privacy-at-scale.html)
 	* [Deep Learning for Image Classification Experiment at Mercari](https://medium.com/mercari-engineering/mercaris-image-classification-experiment-using-deep-learning-9b4e994a18ec)
