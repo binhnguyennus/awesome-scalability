@@ -765,6 +765,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Monzo: How Peer-To-Peer Payments Work](https://monzo.com/blog/2018/04/05/how-monzo-to-monzo-payments-work/)
 	* [Transit and Peering: How Your Requests Reach GitHub](https://githubengineering.com/transit-and-peering-how-your-requests-reach-github/)
 	* [How Spotify Streams Music](https://labs.spotify.com/2018/08/31/smoother-streaming-with-bbr/)
+	* [What happens when I type kubectl run?](https://github.com/jamiehannaford/what-happens-when-k8s)
 
 ## Organization
 * [Engineering Levels at SoundCloud](https://developers.soundcloud.com/blog/engineering-levels)
