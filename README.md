@@ -852,8 +852,8 @@ An updated and organized reading list for illustrating the patterns of scalable,
 
 This project is created by [Nguyen Quoc Binh](https://www.linkedin.com/in/binhnguyennus/) in [2017 Christmas Eve](https://github.com/binhnguyennus/awesome-scalability/graphs/contributors) and is dedicated to late-night programmers who sacrifice their personal life at work.
 
-## Donut Donation
+## Donation
 
-:doughnut: Please click on this cute pig to feed him some donuts :pig_nose: Thank you! You are awesome :pig:
+Buy me a coffee, please? Thank you! It means a lot :heart:
 
-[![](https://i.imgur.com/WXFYdLq.png)](https://paypal.me/binhnguyennus)
+[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/binhnguyennus)
