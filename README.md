@@ -1,4 +1,4 @@
-[![Logo](/logo.png)](http://backendhub.com/)
+[![Logo](/logo.png)](https://binhnguyennus.github.io/awesome-scalability/)
 
 An updated and organized reading list for illustrating the patterns of scalable, reliable, and performant large-scale systems. Concepts are explained in the articles of prominent engineers and credible references. Case studies are taken from battle-tested systems that serve millions to billions of users.
 
@@ -707,6 +707,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Neural Architecture Search (NAS) for Prohibited Item Detection at Mercari](https://tech.mercari.com/entry/2019/04/26/163000)
 	* [Computer Vision at Airbnb](https://medium.com/airbnb-engineering/amenity-detection-and-beyond-new-frontiers-of-computer-vision-at-airbnb-144a4441b72e)
 	* [3D Home Backend Algorithms at Zillow](https://www.zillow.com/engineering/behind-zillow-3d-home-backend-algorithms/)
+	* [Long-term Forecasts at Lyft](https://eng.lyft.com/making-long-term-forecasts-at-lyft-fac475b3ba52)
 
 ## Architecture
 * [Systems We Make](https://systemswemake.com/)
