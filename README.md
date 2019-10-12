@@ -693,6 +693,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Computer Vision at Airbnb](https://medium.com/airbnb-engineering/amenity-detection-and-beyond-new-frontiers-of-computer-vision-at-airbnb-144a4441b72e)
 	* [3D Home Backend Algorithms at Zillow](https://www.zillow.com/engineering/behind-zillow-3d-home-backend-algorithms/)
 	* [Long-term Forecasts at Lyft](https://eng.lyft.com/making-long-term-forecasts-at-lyft-fac475b3ba52)
+	* [Discovering Popular Dishes with Deep Learning at Yelp](https://engineeringblog.yelp.com/2019/10/discovering-popular-dishes-with-deep-learning.html)
 
 ## Architecture
 * [Systems We Make](https://systemswemake.com/)
