@@ -145,7 +145,8 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Redis at Trivago](http://tech.trivago.com/2017/01/25/learn-redis-the-hard-way-in-production/)
 	* [Optimizing Redis Storage at Deliveroo](https://deliveroo.engineering/2017/01/19/optimising-membership-queries.html)
 	* [Memory Optimization in Redis at Wattpad](http://engineering.wattpad.com/post/23244724794/store-more-stuff-memory-optimization-in-redis)
-	* [Redis Fleet at Heroku](https://blog.heroku.com/rolling-redis-fleet)	
+	* [Redis Fleet at Heroku](https://blog.heroku.com/rolling-redis-fleet)
+	* [Solving Remote Build Cache Misses (2 parts) at SoundCloud](https://developers.soundcloud.com/blog/gradle-remote-build-cache-misses-part-2)
     * [HTTP Caching and CDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching)
         * [Zynga Geo Proxy: Reducing Mobile Game Latency at Zynga](https://www.zynga.com/blogs/engineering/zynga-geo-proxy-reducing-mobile-game-latency)
         * [Google AMP at Condé Nast](https://technology.condenast.com/story/the-why-and-how-of-google-amp-at-conde-nast)
@@ -843,12 +844,8 @@ An updated and organized reading list for illustrating the patterns of scalable,
 * [Web Scalability for Startup Engineers](https://www.goodreads.com/book/show/23615147-web-scalability-for-startup-engineers)
 * [Scalability Rules: 50 Principles for Scaling Web Sites](http://scalabilityrules.com/)
 
-## License
-
-This project is created by [Nguyen Quoc Binh](https://www.linkedin.com/in/binhnguyennus/) in [2017 Christmas Eve](https://github.com/binhnguyennus/awesome-scalability/graphs/contributors) and is dedicated to late-night programmers who sacrifice their personal life at work.
-
 ## Donation
 
-Buy me a coffee, please? Thank you! It means a lot :heart:
+This project is created by [Nguyen Quoc Binh](https://www.linkedin.com/in/binhnguyennus/) in [a lonely Christmas](https://github.com/binhnguyennus/awesome-scalability/graphs/contributors). Buy me a coffee, please? Thank you! It means a lot :heart:
 
 [![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/binhnguyennus)
