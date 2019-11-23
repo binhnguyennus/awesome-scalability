@@ -262,6 +262,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 		* [Pulsar: Pub-Sub Messaging at Scale at Yahoo](https://yahooeng.tumblr.com/post/150078336821/open-sourcing-pulsar-pub-sub-messaging-at-scale)
 		* [Wormhole: Pub-Sub System at Facebook](https://code.facebook.com/posts/188966771280871/wormhole-pub-sub-system-moving-data-through-space-and-time/)
 		* [Pub-Sub in Chatting Architecture at LINE](https://engineering.linecorp.com/en/blog/detail/85)
+		* [Pub-Sub in Microservices at Netflix](https://medium.com/netflix-techblog/how-netflix-microservices-tackle-dataset-pub-sub-4a068adcc9a)
 	* [Kafka the Message Broker](https://martin.kleppmann.com/papers/kafka-debull15.pdf)	
 		* [Kafka at LinkedIn](https://engineering.linkedin.com/kafka/running-kafka-scale)
 		* [Kafka at Pinterest](https://medium.com/pinterest-engineering/how-pinterest-runs-kafka-at-scale-ff9c6f735be)
