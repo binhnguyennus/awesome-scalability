@@ -154,6 +154,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
         * [HAProxy with Kubernetes for User-facing Traffic at SoundCloud](https://developers.soundcloud.com/blog/how-soundcloud-uses-haproxy-with-kubernetes-for-user-facing-traffic)
         * [Bandaid: Service Proxy at Dropbox](https://blogs.dropbox.com/tech/2018/03/meet-bandaid-the-dropbox-service-proxy/)
         * [CDN in LIVE's Encoder Layer at LINE](https://engineering.linecorp.com/en/blog/detail/230)
+		* [Service Workers at Slack](https://slack.engineering/service-workers-at-slack-our-quest-for-faster-boot-times-and-offline-support-3492cf79c88)
 * [Distributed Locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
 	* [Chubby: Lock Service for Loosely Coupled Distributed Systems at Google](https://blog.acolyer.org/2015/02/13/the-chubby-lock-service-for-loosely-coupled-distributed-systems/)
 	* [Distributed Locking at Uber](https://www.youtube.com/watch?v=MDuagr729aU)
@@ -223,7 +224,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Syscall Auditing at Scale at Slack](https://slack.engineering/syscall-auditing-at-scale-e6a3ca8ac1b8)
 	* [Athenz: Fine-Grained, Role-Based Access Control at Yahoo](https://yahooeng.tumblr.com/post/160481899076/open-sourcing-athenz-fine-grained-role-based)
 	* [WebAuthn Support for Secure Sign In at Dropbox](https://blogs.dropbox.com/tech/2018/05/introducing-webauthn-support-for-secure-dropbox-sign-in/)
-	* [Security Development Lifecycle (SDL) at Slack](https://slack.engineering/moving-fast-and-securing-things-540e6c5ae58a)
+	* [Security Development Lifecycle at Slack](https://slack.engineering/moving-fast-and-securing-things-540e6c5ae58a)
 	* [Unprivileged Container Builds at Kinvolk](https://kinvolk.io/blog/2018/04/towards-unprivileged-container-builds/)
 	* [Diffy: Differencing Engine for Digital Forensics in the Cloud at Netflix](https://medium.com/netflix-techblog/netflix-sirt-releases-diffy-a-differencing-engine-for-digital-forensics-in-the-cloud-37b71abd2698)
 	* [Detecting Credential Compromise in AWS at Netflix](https://medium.com/netflix-techblog/netflix-cloud-security-detecting-credential-compromise-in-aws-9493d6fd373a)
@@ -845,6 +846,6 @@ An updated and organized reading list for illustrating the patterns of scalable,
 * [Web Scalability for Startup Engineers](https://www.goodreads.com/book/show/23615147-web-scalability-for-startup-engineers)
 * [Scalability Rules: 50 Principles for Scaling Web Sites](http://scalabilityrules.com/)
 
-## Faith in Humanity
+## An Act Of Kindness
 
-[Buy me a coffee](https://paypal.me/binhnguyennus), please? Thank you! You are awesome :heart:
+[Buy me a coffee](https://paypal.me/binhnguyennus), please? Thank you! You are the awesome one :thumbsup:
