@@ -844,8 +844,6 @@ An updated and organized reading list for illustrating the patterns of scalable,
 * [Web Scalability for Startup Engineers](https://www.goodreads.com/book/show/23615147-web-scalability-for-startup-engineers)
 * [Scalability Rules: 50 Principles for Scaling Web Sites](http://scalabilityrules.com/)
 
-## Donation
+## Faith in Humanity
 
-This project is created by [Nguyen Quoc Binh](https://www.linkedin.com/in/binhnguyennus/) in [a lonely Christmas](https://github.com/binhnguyennus/awesome-scalability/graphs/contributors). Buy me a coffee, please? Thank you! It means a lot :heart:
-
-[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/binhnguyennus)
+[Buy me a coffee](https://paypal.me/binhnguyennus), please? Thank you! You are awesome :heart:
