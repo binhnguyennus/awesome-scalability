@@ -209,6 +209,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Unicorn: Remediation System at eBay](https://www.ebayinc.com/stories/blogs/tech/unicorn-rheos-remediation-center/)
 	* [M3: Metrics and Monitoring Platform at Uber](https://eng.uber.com/optimizing-m3/)
 	* [Athena: Automated Build Health Management System at Dropbox](https://blogs.dropbox.com/tech/2019/05/athena-our-automated-build-health-management-system/)
+	* [Vortex: Monitoring Server Applications at Dropbox](https://blogs.dropbox.com/tech/2019/11/monitoring-server-applications-with-vortex/)	
 	* [Nuage: Cloud Management Service at LinkedIn](https://engineering.linkedin.com/blog/2019/solving-manageability-challenges-with-nuage)
 	* [ThirdEye: Monitoring Platform at LinkedIn](https://engineering.linkedin.com/blog/2019/06/smart-alerts-in-thirdeye--linkedins-real-time-monitoring-platfor)
 	* [Data Pipeline Monitoring System at LinkedIn](https://engineering.linkedin.com/blog/2019/an-inside-look-at-linkedins-data-pipeline-monitoring-system-)
@@ -848,4 +849,4 @@ An updated and organized reading list for illustrating the patterns of scalable,
 
 ## An Act Of Kindness
 
-[Buy me a coffee](https://paypal.me/binhnguyennus), please? Thank you! You are the awesome one :thumbsup:
+If you like this project, [click here to treat me a beer](https://paypal.me/binhnguyennus) :beer: Thank you! You are the awesome one :thumbsup:
