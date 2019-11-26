@@ -1,4 +1,4 @@
-[![Logo](/logo.png)](https://binhnguyennus.github.io/awesome-scalability/)
+[![Logo](/logo.png)](https://paypal.me/binhnguyennus)
 
 An updated and organized reading list for illustrating the patterns of scalable, reliable, and performant large-scale systems. Concepts are explained in the articles of prominent engineers and credible references. Case studies are taken from battle-tested systems that serve millions to billions of users.
 
@@ -704,6 +704,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [3D Home Backend Algorithms at Zillow](https://www.zillow.com/engineering/behind-zillow-3d-home-backend-algorithms/)
 	* [Long-term Forecasts at Lyft](https://eng.lyft.com/making-long-term-forecasts-at-lyft-fac475b3ba52)
 	* [Discovering Popular Dishes with Deep Learning at Yelp](https://engineeringblog.yelp.com/2019/10/discovering-popular-dishes-with-deep-learning.html)
+	* [SplitNet Architecture for Ad Candidate Ranking at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/splitnet-architecture-for-ad-candidate-ranking.html)
 
 ## Architecture
 * [Systems We Make](https://systemswemake.com/)
@@ -847,6 +848,6 @@ An updated and organized reading list for illustrating the patterns of scalable,
 * [Web Scalability for Startup Engineers](https://www.goodreads.com/book/show/23615147-web-scalability-for-startup-engineers)
 * [Scalability Rules: 50 Principles for Scaling Web Sites](http://scalabilityrules.com/)
 
-## An Act Of Kindness
+## Donation
 
-If you like this project, [click here to treat me a beer](https://paypal.me/binhnguyennus) :beer: Thank you! You are the awesome one :thumbsup:
+[Click here to treat me a cake](https://paypal.me/binhnguyennus) if this project is helpful to you :cake: Thank you! You are the awesome one :thumbsup:
