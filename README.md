@@ -706,6 +706,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Long-term Forecasts at Lyft](https://eng.lyft.com/making-long-term-forecasts-at-lyft-fac475b3ba52)
 	* [Discovering Popular Dishes with Deep Learning at Yelp](https://engineeringblog.yelp.com/2019/10/discovering-popular-dishes-with-deep-learning.html)
 	* [SplitNet Architecture for Ad Candidate Ranking at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/splitnet-architecture-for-ad-candidate-ranking.html)
+	* [Jobs Filter at Indeed](https://engineering.indeedblog.com/blog/2019/09/jobs-filter/)
 
 ## Architecture
 * [Systems We Make](https://systemswemake.com/)
