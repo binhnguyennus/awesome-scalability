@@ -200,6 +200,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
     * [Monitoring System at Alibaba](https://www.usenix.org/conference/srecon18asia/presentation/xinchi)
     * [Real User Monitoring at Dailymotion](https://medium.com/dailymotion/real-user-monitoring-1948375f8be5)
     * [Alerting Ecosystem at Uber](https://eng.uber.com/observability-at-scale/)
+	* [Alerting Framework at Airbnb](https://medium.com/airbnb-engineering/alerting-framework-at-airbnb-35ba48df894f)
 	* [Alerting on Service-Level Objectives (SLOs) at SoundCloud](https://developers.soundcloud.com/blog/alerting-on-slos)
     * [Job-based Forecasting Workflow for Observability Anomaly Detection at Uber](https://eng.uber.com/observability-anomaly-detection/)
 	* [Monitoring and Alert System using Graphite and Cabot at HackerEarth](http://engineering.hackerearth.com/2017/03/21/monitoring-and-alert-system-using-graphite-and-cabot/)
