@@ -244,6 +244,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [EventHorizon: Tool for Watching Events Streaming at Etsy](https://codeascraft.com/2018/05/29/the-eventhorizon-saga/)
 	* [Qmessage: Distributed, Asynchronous Task Queue at Quora](https://engineering.quora.com/Qmessage-Handling-Billions-of-Tasks-Per-Day)
 	* [Cherami: Message Queue System for Transporting Async Tasks at Uber](https://eng.uber.com/cherami/)
+	* [Dynein: Distributed Delayed Job Queueing System at Airbnb](https://medium.com/airbnb-engineering/dynein-building-a-distributed-delayed-job-queueing-system-93ab10f05f99)
 	* [Messaging Service at Riot Games](https://engineering.riotgames.com/news/riot-messaging-service)
 	* [Debugging Production with Event Logging at Zillow](https://www.zillow.com/engineering/debugging-production-event-logging/)
 	* [Cross-platform In-app Messaging Orchestration Service at Netflix](https://medium.com/netflix-techblog/building-a-cross-platform-in-app-messaging-orchestration-service-86ba614f92d8)
