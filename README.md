@@ -118,6 +118,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Microservice Architecture at Medium](https://medium.engineering/microservice-architecture-at-medium-9c33805eb74f)
 	* [From bare-metal to Kubernetes at Betabrand](https://boxunix.com/post/bare_metal_to_kube/)
 	* [Kubernetes at Tinder](https://medium.com/tinder-engineering/tinders-move-to-kubernetes-cda2a6372f44)
+	* [Kubernetes at Quora](https://www.quora.com/q/quoraengineering/Adopting-Kubernetes-at-Quora)	
 	* [Kubernetes Platform at Pinterest](https://medium.com/pinterest-engineering/building-a-kubernetes-platform-at-pinterest-fb3d9571c948)
 	* [Microservices at Nubank](https://medium.com/building-nubank/microservices-at-nubank-an-overview-2ebcb336c64d)
 	* [GRIT: Protocol for Distributed Transactions across Microservices at eBay](https://tech.ebayinc.com/engineering/grit-a-protocol-for-distributed-transactions-across-microservices/)
@@ -856,4 +857,4 @@ An updated and organized reading list for illustrating the patterns of scalable,
 
 ## Donation
 
-[Click here to treat me a cake](https://paypal.me/binhnguyennus) if this project is helpful to you :cake: Thank you! You are the awesome one :thumbsup:
+[Click here to treat me a cake](https://paypal.me/binhnguyennus) :cake: Thank you! You are awesome :thumbsup:
