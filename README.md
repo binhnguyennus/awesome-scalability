@@ -289,6 +289,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 		* [Real-time Deduping at Tapjoy](http://eng.tapjoy.com/blog-list/real-time-deduping-at-scale)
 		* [Deduplication at Segment](https://segment.com/blog/exactly-once-delivery/)
 		* [Deduplication at Mail.Ru](https://medium.com/@andrewsumin/efficient-storage-how-we-went-down-from-50-pb-to-32-pb-99f9c61bf6b4)
+		* [Petabyte Scale Data Deduplication at Mixpanel](https://medium.com/mixpaneleng/petabyte-scale-data-deduplication-mixpanel-engineering-e808c70c99f8)
 * [Distributed Logging](https://blog.codinghorror.com/the-problem-with-logging/)
 	* [Logging at LinkedIn](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 	* [Scalable and Reliable Log Ingestion at Pinterest](https://medium.com/@Pinterest_Engineering/scalable-and-reliable-data-ingestion-at-pinterest-b921c2ee8754)
