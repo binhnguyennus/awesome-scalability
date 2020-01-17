@@ -713,6 +713,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [SplitNet Architecture for Ad Candidate Ranking at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/splitnet-architecture-for-ad-candidate-ranking.html)
 	* [Jobs Filter at Indeed](https://engineering.indeedblog.com/blog/2019/09/jobs-filter/)
 	* [Architecting Restaurant Wait Time Predictions at Yelp](https://engineeringblog.yelp.com/2019/12/architecting-wait-time-estimations.html)
+	* [Music Personalization at Spotify](https://labs.spotify.com/2016/08/07/commodity-music-ml-services/)
 
 ## Architecture
 * [Systems We Make](https://systemswemake.com/)
