@@ -859,4 +859,4 @@ An updated and organized reading list for illustrating the patterns of scalable,
 
 ## Cake4Cat
 
-[Binh Nguyen](https://sg.linkedin.com/in/binhnguyennus) creates and maintaines this project. [Click here to treat his cat a cake](https://paypal.me/binhnguyennus) :cake: Thank you! You are awesome :thumbsup:
+[Binh Nguyen](https://sg.linkedin.com/in/binhnguyennus) creates and maintains this project. [Could you treat his cat a cake?](https://paypal.me/binhnguyennus) :cake:
