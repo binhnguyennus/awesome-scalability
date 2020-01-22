@@ -506,6 +506,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [QALM: QoS Load Management Framework at Uber](https://eng.uber.com/qalm/)	
 	* [Traffic Steering using Rum DNS at LinkedIn](https://www.usenix.org/conference/srecon17europe/program/presentation/rastogi)
 	* [Traffic Infrastructure (Edge Network) at Dropbox](https://blogs.dropbox.com/tech/2018/10/dropbox-traffic-infrastructure-edge-network/)
+	* [Intelligent DNS based load balancing at Dropbox](https://blogs.dropbox.com/tech/2020/01/intelligent-dns-based-load-balancing-at-dropbox/)
 	* [Monitor DNS systems at Stripe](https://stripe.com/en-sg/blog/secret-life-of-dns)
 * [Rate Limiting](https://www.keycdn.com/support/rate-limiting/)
 	* [Rate Limiting for Scaling to Millions of Domains at Cloudfare](https://blog.cloudflare.com/counting-things-a-lot-of-different-things/)
