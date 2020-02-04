@@ -509,6 +509,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Traffic Infrastructure (Edge Network) at Dropbox](https://blogs.dropbox.com/tech/2018/10/dropbox-traffic-infrastructure-edge-network/)
 	* [Intelligent DNS based load balancing at Dropbox](https://blogs.dropbox.com/tech/2020/01/intelligent-dns-based-load-balancing-at-dropbox/)
 	* [Monitor DNS systems at Stripe](https://stripe.com/en-sg/blog/secret-life-of-dns)
+	* [Multi-DNS Architecture (3 parts) at Monday](https://medium.com/monday-engineering/how-and-why-we-migrated-our-dns-from-cloudflare-to-a-multi-dns-architecture-part-3-584a470f4062)
 * [Rate Limiting](https://www.keycdn.com/support/rate-limiting/)
 	* [Rate Limiting for Scaling to Millions of Domains at Cloudfare](https://blog.cloudflare.com/counting-things-a-lot-of-different-things/)
 	* [Cloud Bouncer: Distributed Rate Limiting at Yahoo](https://yahooeng.tumblr.com/post/111288877956/cloud-bouncer-distributed-rate-limiting-at-yahoo)
