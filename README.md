@@ -610,6 +610,11 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Boosting Site Speed Using Brotli Compression at LinkedIn](https://engineering.linkedin.com/blog/2017/05/boosting-site-speed-using-brotli-compression)
 	* [Improving Homepage Performance at Zillow](https://www.zillow.com/engineering/improving-homepage-performance/)
 	* [The Process of Optimizing for Client Performance at Expedia](https://medium.com/expedia-engineering/go-fast-or-go-home-the-process-of-optimizing-for-client-performance-57bb497402e)
+* [Performance Optimization on Languages and Frameworks](https://www.techempower.com/benchmarks/)
+	* [Python at Netflix](https://netflixtechblog.com/python-at-netflix-bba45dae649e)
+	* [PHP at Slack](https://slack.engineering/taking-php-seriously-cf7a60065329)
+	* [Ruby on Rails at GitLab](https://medium.com/gitlab-magazine/why-we-use-ruby-on-rails-to-build-gitlab-601dce4a7a38)
+	* [Choosing a Language Stack at WeWork](https://engineering.wework.com/choosing-a-language-stack-cac3726928f6)	
     
 ## Intelligence
 * [Big Data](https://insights.sei.cmu.edu/sei_blog/2017/05/reference-architectures-for-big-data-systems.html)	
