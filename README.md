@@ -674,6 +674,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Repo-Topix: Topic Extraction Framework at Github](https://githubengineering.com/topics/)
 	* [Concourse: Generating Personalized Content Notifications in Near-Real-Time at LinkedIn](https://engineering.linkedin.com/blog/2018/05/concourse--generating-personalized-content-notifications-in-near)
 	* [Altus Care: Applying a Chatbot to Platform Engineering at eBay](https://www.ebayinc.com/stories/blogs/tech/altus-care-apply-chatbot-to-ebay-platform-engineering/)
+	* [PyKrylov: Accelerating Machine Learning Research at eBay](https://tech.ebayinc.com/engineering/pykrylov-accelerating-machine-learning-research-at-ebay/)
 	* [Box Graph: Spontaneous Social Network at Box](https://blog.box.com/blog/box-graph-how-we-built-spontaneous-social-network/)
 	* [PricingNet: Pricing Modelling with Neural Networks at Skyscanner](https://hackernoon.com/pricingnet-modelling-the-global-airline-industry-with-neural-networks-833844d20ea6)
 	* [PinText: Multitask Text Embedding System at Pinterest](https://medium.com/pinterest-engineering/pintext-a-multitask-text-embedding-system-in-pinterest-b80ece364555)
