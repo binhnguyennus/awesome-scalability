@@ -336,7 +336,6 @@ An updated and organized reading list for illustrating the patterns of scalable,
 		* [Moving Core Business Search to Elasticsearch at Yelp](https://engineeringblog.yelp.com/2017/06/moving-yelps-core-business-search-to-elasticsearch.html)
 		* [Sharding out Elasticsearch at Vinted](http://engineering.vinted.com/2017/06/05/sharding-out-elasticsearch/)
 		* [Self-Ranking Search with Elasticsearch at Wattpad](http://engineering.wattpad.com/post/146216619727/self-ranking-search-with-elasticsearch-at-wattpad)
-		* [Upgrading Elasticsearch (3 parts) at Redmart](http://geeks.redmart.com/2018/12/11/upgrading-elasticsearch-at-redmart-pt-3-testing-customer-reactions/)
 		* [Vulcanizer: a library for operating Elasticsearch at Github](https://github.blog/2019-03-05-vulcanizer-a-library-for-operating-elasticsearch/)	
 * [Distributed Storage](http://highscalability.com/blog/2011/11/1/finding-the-right-data-solution-for-your-application-in-the.html)
 	* [In-memory Storage](https://medium.com/@denisanikin/what-an-in-memory-database-is-and-how-it-persists-data-efficiently-f43868cff4c1)
@@ -872,4 +871,4 @@ An updated and organized reading list for illustrating the patterns of scalable,
 
 ## Donation
 
-[Binh Nguyen](https://sg.linkedin.com/in/binhnguyennus) creates and maintains this project. [Could you treat his cat a cake?](https://paypal.me/binhnguyennus) :cake:
+[Binh Nguyen](https://sg.linkedin.com/in/binhnguyennus) creates and maintains this project. [Could you treat him a cake?](https://paypal.me/binhnguyennus) :cake: Thank you :heart::four_leaf_clover:
