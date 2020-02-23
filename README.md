@@ -180,6 +180,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [StatsD at Etsy](https://codeascraft.com/2011/02/15/measure-anything-measure-everything/)
 	* [StatsD at DoorDash](https://blog.doordash.com/scaling-statsd-84d456a7cc2a)
 * [Distributed Scheduling](https://www.csee.umbc.edu/courses/graduate/CMSC621/fall02/lectures/ch11.pdf)
+	* [Distributed Task Scheduling (3 parts) at PagerDuty](https://www.pagerduty.com/eng/distributed-task-scheduling-3/)
     * [Building Cron at Google](https://landing.google.com/sre/sre-book/chapters/distributed-periodic-scheduling/)
     * [Distributed Cron Architecture at Quora](https://engineering.quora.com/Quoras-Distributed-Cron-Architecture)
     * [Chronos: A Replacement for Cron at Airbnb](https://medium.com/airbnb-engineering/chronos-a-replacement-for-cron-f05d7d986a9d)
