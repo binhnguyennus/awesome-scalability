@@ -728,6 +728,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Jobs Filter at Indeed](https://engineering.indeedblog.com/blog/2019/09/jobs-filter/)
 	* [Architecting Restaurant Wait Time Predictions at Yelp](https://engineeringblog.yelp.com/2019/12/architecting-wait-time-estimations.html)
 	* [Music Personalization at Spotify](https://labs.spotify.com/2016/08/07/commodity-music-ml-services/)
+	* [Deep Learning for Domain Name Valuation at GoDaddy](https://sg.godaddy.com/engineering/2019/07/26/domain-name-valuation/)
 
 ## Architecture
 * [Systems We Make](https://systemswemake.com/)
