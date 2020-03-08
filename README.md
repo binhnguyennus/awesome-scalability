@@ -601,6 +601,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Performance Impact of Removing Out of Band Garbage Collector (OOBGC) at Github](https://githubengineering.com/removing-oobgc/)
 	* [Debugging Java Memory Leaks at Allegro](https://allegro.tech/2018/05/a-comedy-of-errors-debugging-java-memory-leaks.html)
 	* [Optimizing JVM at Alibaba](https://www.youtube.com/watch?v=X4tmr3nhZRg)
+	* [Tuning JVM Memory for Large-scale Services at Uber](https://eng.uber.com/jvm-tuning-garbage-collection/)
 * [Performance Optimization on Image, Video, Page Load](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
 	* [Optimizing 360 Photos at Scale at Facebook](https://code.facebook.com/posts/129055711052260/optimizing-360-photos-at-scale/)
 	* [Reducing Image File Size in the Photos Infrastructure at Etsy](https://codeascraft.com/2017/05/30/reducing-image-file-size-at-etsy/)
