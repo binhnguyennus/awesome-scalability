@@ -869,7 +869,6 @@ An updated and organized reading list for illustrating the patterns of scalable,
 * [Beyond the Twelve-Factor App - Exploring the DNA of Highly Scalable, Resilient Cloud Applications (Free)](http://www.oreilly.com/webops-perf/free/beyond-the-twelve-factor-app.csp)
 * [Chaos Engineering - Building Confidence in System Behavior through Experiments (Free)](http://www.oreilly.com/webops-perf/free/chaos-engineering.csp?intcmp=il-webops-free-product-na_new_site_chaos_engineering_text_cta)
 * [The Art of Scalability](http://theartofscalability.com/)
-* [Designing Data-Intensive Applications](https://dataintensive.net/)
 * [Web Scalability for Startup Engineers](https://www.goodreads.com/book/show/23615147-web-scalability-for-startup-engineers)
 * [Scalability Rules: 50 Principles for Scaling Web Sites](http://scalabilityrules.com/)
 
