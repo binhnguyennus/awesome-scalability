@@ -819,6 +819,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 * [Pair Programming at Shopify](https://engineering.shopify.com/blogs/engineering/pair-programming-explained)
 * [Distributed Responsibility at Asana](https://blog.asana.com/2017/12/distributed-responsibility-engineering-manager/)
 * [Rotating Engineers at Zalando](https://jobs.zalando.com/tech/blog/rotating-engineers-at-zalando/)
+* [Experiment Idea Review at Pinterest](https://medium.com/pinterest-engineering/how-pinterest-supercharged-its-growth-team-with-experiment-idea-review-fd6571a02fb8)
 * [Code Review](https://ai.google/research/pubs/pub47025)
 	* [Code Review at Palantir](https://medium.com/@palantir/code-review-best-practices-19e02780015f)
 	* [Code Review at LINE](https://engineering.linecorp.com/en/blog/effective-code-review/)
