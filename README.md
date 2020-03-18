@@ -826,6 +826,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Code Reviews at Medium](https://medium.engineering/code-reviews-at-medium-bed2c0dce13a)
 	* [Code Review at LinkedIn](https://engineering.linkedin.com/blog/2018/06/scaling-collective-code-ownership-with-code-reviews)
 	* [Code Review at Disney](https://medium.com/disney-streaming/the-secret-to-better-code-reviews-c14c7884b9ac)
+	* [Code Review at Netlify](https://www.netlify.com/blog/2020/03/05/feedback-ladders-how-we-encode-code-reviews-at-netlify/)
 
 ## Talk
 * [Distributed Systems in One Lesson - Tim Berglund, Senior Director of Developer Experience at Confluent](https://www.youtube.com/watch?v=Y6Ev8GIlbxc)
