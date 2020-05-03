@@ -503,6 +503,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Load Balancing infrastructure to support more than 1.3 billion users at Facebook](https://www.usenix.org/conference/srecon15europe/program/presentation/shuff)
 	* [DHCPLB: DHCP Load Balancer at Facebook](https://code.facebook.com/posts/1734309626831603/dhcplb-an-open-source-load-balancer/)
 	* [Katran: Scalable Network Load Balancer at Facebook](https://code.facebook.com/posts/1906146702752923/open-sourcing-katran-a-scalable-network-load-balancer/)
+	* [Deterministic Aperture: A Distributed, Load Balancing Algorithm at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/daperture-load-balancer.html)	
 	* [Load Balancing with Eureka at Netflix](https://medium.com/netflix-techblog/netflix-shares-cloud-load-balancing-and-failover-tool-eureka-c10647ef95e5)
 	* [Edge Load Balancing at Netflix](https://medium.com/netflix-techblog/netflix-edge-load-balancing-695308b5548c)
 	* [Zuul 2: Cloud Gateway at Netflix](https://medium.com/netflix-techblog/open-sourcing-zuul-2-82ea476cb2b3)
