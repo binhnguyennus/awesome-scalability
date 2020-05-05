@@ -518,7 +518,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Monitor DNS systems at Stripe](https://stripe.com/en-sg/blog/secret-life-of-dns)
 	* [Multi-DNS Architecture (3 parts) at Monday](https://medium.com/monday-engineering/how-and-why-we-migrated-our-dns-from-cloudflare-to-a-multi-dns-architecture-part-3-584a470f4062)
 * [Rate Limiting](https://www.keycdn.com/support/rate-limiting/)
-	* [Rate Limiting for Scaling to Millions of Domains at Cloudfare](https://blog.cloudflare.com/counting-things-a-lot-of-different-things/)
+	* [Rate Limiting for Scaling to Millions of Domains at Cloudflare](https://blog.cloudflare.com/counting-things-a-lot-of-different-things/)
 	* [Cloud Bouncer: Distributed Rate Limiting at Yahoo](https://yahooeng.tumblr.com/post/111288877956/cloud-bouncer-distributed-rate-limiting-at-yahoo)
 	* [Scaling API with Rate Limiters at Stripe](https://stripe.com/blog/rate-limiters)
 	* [Rate Limiting at Etsy](https://www.sans.org/summit-archives/file/summit-archive-1509593697.pdf)
