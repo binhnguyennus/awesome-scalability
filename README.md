@@ -488,6 +488,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Ensuring Resilience to Disaster at Quora](https://engineering.quora.com/Ensuring-Quoras-Resilience-to-Disaster)
 	* [Resilience at Shopify](https://scaleyourcode.com/blog/article/23)
 	* [Site Resiliency at Expedia](https://www.infoq.com/presentations/expedia-website-resiliency?utm_source=presentations_about_Case_Study&utm_medium=link&utm_campaign=Case_Study)
+	* [Resiliency and Disaster Recovery with Kafka at eBay](https://tech.ebayinc.com/engineering/resiliency-and-disaster-recovery-with-kafka/)
 * [Failover](http://cloudpatterns.org/mechanisms/failover_system)
 	* [The Evolution of Global Traffic Routing and Failover](https://www.usenix.org/conference/srecon16/program/presentation/heady)
 	* [Testing for Disaster Recovery Failover Testing](https://www.usenix.org/conference/srecon17asia/program/presentation/liu_zehua)
