@@ -781,6 +781,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Tech Stack at TransferWise](http://tech.transferwise.com/the-transferwise-stack-heartbeat-of-our-little-revolution/)
 	* [Tech Stack at Addepar](https://medium.com/build-addepar/our-tech-stack-a4f55dab4b0d)
 	* [Avoiding Double Payments in a Distributed Payments System at Airbnb](https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb)
+	* [Risk Detection Infrastructure at Postmates](https://blog.postmates.com/risk-detection-infrastructure-postmates-ce79660850b9?gi=861c2a3a5657)
 
 ## Interview
 * [Designing Large-Scale Systems](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
