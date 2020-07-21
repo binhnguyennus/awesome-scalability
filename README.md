@@ -891,4 +891,4 @@ An updated and organized reading list for illustrating the patterns of scalable,
 
 ## Donation
 
-[Binh Nguyen](https://sg.linkedin.com/in/binhnguyennus) creates and maintains this project. [Could you treat him a cake?](https://paypal.me/binhnguyennus) :cake: Thank you :heart::four_leaf_clover:
+Roses are red :rose: Shells are gray :shell: [Binh Nguyen](https://sg.linkedin.com/in/binhnguyennus) needs to eat :yum: [Treat him a cake!](https://paypal.me/binhnguyennus) :cake:
