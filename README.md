@@ -682,6 +682,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Flyte: Cloud Native Machine Learning and Data Processing Platform at Lyft](https://eng.lyft.com/introducing-flyte-cloud-native-machine-learning-and-data-processing-platform-fb2bb3046a59)
 	* [Michelangelo: Machine Learning Platform at Uber](https://eng.uber.com/michelangelo/)
 	* [Scaling Michelangelo](https://eng.uber.com/scaling-michelangelo/)
+	* [Machine Learning Platform at Yelp](https://engineeringblog.yelp.com/2020/07/ML-platform-overview.html)
 	* [Horovod: Open Source Distributed Deep Learning Framework for TensorFlow at Uber](https://eng.uber.com/horovod/)
 	* [COTA: Improving Customer Care with NLP & Machine Learning at Uber](https://eng.uber.com/cota/)
 	* [Manifold: Model-Agnostic Visual Debugging Tool for Machine Learning at Uber](https://eng.uber.com/manifold/)	
@@ -891,4 +892,4 @@ An updated and organized reading list for illustrating the patterns of scalable,
 
 ## Donation
 
-Roses are red :rose: Shells are gray :shell: [Binh Nguyen](https://sg.linkedin.com/in/binhnguyennus) needs to eat :yum: [Treat him a cake!](https://paypal.me/binhnguyennus) :cake:
+Roses are red. Violets are blue. [Binh Nguyen](https://sg.linkedin.com/in/binhnguyennus) likes sweet. [Treat him a tiramisu?](https://paypal.me/binhnguyennus) :cake:
