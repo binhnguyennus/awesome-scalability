@@ -6,7 +6,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 > Understand your problems: scalability problem (fast for a single user but slow under heavy load) or performance problem (slow for a single user) by reviewing some [design principles](#principle) and checking how [scalability](#scalability) and [performance](#performance) problems are solved at tech companies. The section of [intelligence](#intelligence) are created for those who work with data and machine learning at big (data) and deep (learning) scale.
 
 #### If your system goes down
-> "Even if you lose all one day, you can build all over again if you retain your calm!" - Thuan Pham, CTO of Uber. So, keep calm and mind the [availability](#availability) and [stability](#stability) matters! 
+> "Even if you lose all one day, you can build all over again if you retain your calm!" - Thuan Pham, former CTO of Uber. So, keep calm and mind the [availability](#availability) and [stability](#stability) matters! 
 
 #### If you are having a system design interview
 > Look at some [interview notes](#interview) and [real-world architectures with completed diagrams](#architecture) to get a comprehensive view before designing your system on whiteboard. You can check some [talks](#talk) of engineers from tech giants to know how they build, scale, and optimize their systems. There are some selected [books](#book) for you (most of them are free)! Good luck!
@@ -473,6 +473,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Continuous Integration Stack at Facebook](https://code.fb.com/web/rapid-release-at-massive-scale/)
 	* [Continuous Integration with Distributed Repositories and Dependencies at Netflix](https://medium.com/netflix-techblog/towards-true-continuous-integration-distributed-repositories-and-dependencies-2a2e3108c051)
 	* [Continuous Integration and Deployment with Bazel at Dropbox](https://blogs.dropbox.com/tech/2019/12/continuous-integration-and-deployment-with-bazel/)
+	* [Continuous Deployments at BuzzFeed](https://tech.buzzfeed.com/continuous-deployments-at-buzzfeed-d171f76c1ac4)
 	* [Screwdriver: Continuous Delivery Build System for Dynamic Infrastructure at Yahoo](https://yahooeng.tumblr.com/post/155765242061/open-sourcing-screwdriver-yahoos-continuous)
 	* [CI/CD at Betterment](https://www.betterment.com/resources/ci-cd-shortening-the-feedback-loop/)
 	* [CI/CD at Brainly](https://medium.com/engineering-brainly/ci-cd-at-scale-fdfb0f49e031)
