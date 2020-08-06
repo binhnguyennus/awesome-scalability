@@ -744,6 +744,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Architecting Restaurant Wait Time Predictions at Yelp](https://engineeringblog.yelp.com/2019/12/architecting-wait-time-estimations.html)
 	* [Music Personalization at Spotify](https://labs.spotify.com/2016/08/07/commodity-music-ml-services/)
 	* [Deep Learning for Domain Name Valuation at GoDaddy](https://sg.godaddy.com/engineering/2019/07/26/domain-name-valuation/)
+	* [Similarity Clustering to Catch Fraud Rings at Stripe](https://stripe.com/blog/similarity-clustering)
 
 ## Architecture
 * [Systems We Make](https://systemswemake.com/)
@@ -893,4 +894,4 @@ An updated and organized reading list for illustrating the patterns of scalable,
 
 ## Donation
 
-Roses are red. Violets are blue. [Binh Nguyen](https://sg.linkedin.com/in/binhnguyennus) likes sweet. [Treat him a tiramisu?](https://paypal.me/binhnguyennus) :cake:
+Roses are red. Violets are blue. [Binh](https://nguyenquocbinh.org/) likes sweet. [Treat him a tiramisu?](https://paypal.me/binhnguyennus) :cake:
