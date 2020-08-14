@@ -807,6 +807,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Paxos Made Live – An Engineering Perspective](https://research.google.com/archive/paxos_made_live.html)
 	* [How to do Distributed Locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
 	* [SQL Transaction Isolation Levels Explained](http://elliot.land/post/sql-transaction-isolation-levels-explained)
+	* [What every developer should know about TCP](https://robertovitillo.com/what-every-developer-should-know-about-tcp/)
 * ["What Happens When... and How" Questions](https://www.glassdoor.com/Interview/What-happens-when-you-type-www-google-com-in-your-browser-QTN_56396.htm)
 	* [Netflix: What Happens When You Press Play?](http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html)
 	* [Monzo: How Peer-To-Peer Payments Work](https://monzo.com/blog/2018/04/05/how-monzo-to-monzo-payments-work/)
