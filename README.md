@@ -894,6 +894,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 * [The Art of Scalability](http://theartofscalability.com/)
 * [Web Scalability for Startup Engineers](https://www.goodreads.com/book/show/23615147-web-scalability-for-startup-engineers)
 * [Scalability Rules: 50 Principles for Scaling Web Sites](http://scalabilityrules.com/)
+* [Five Lines of Code](https://www.manning.com/books/five-lines-of-code/)
 
 ## Donation
 
