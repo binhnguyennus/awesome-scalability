@@ -627,6 +627,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [The Process of Optimizing for Client Performance at Expedia](https://medium.com/expedia-engineering/go-fast-or-go-home-the-process-of-optimizing-for-client-performance-57bb497402e)
 * [Performance Optimization on Languages and Frameworks](https://www.techempower.com/benchmarks/)
 	* [Python at Netflix](https://netflixtechblog.com/python-at-netflix-bba45dae649e)
+	* [Python at scale (3 parts) at Instagram](https://instagram-engineering.com/python-at-scale-strict-modules-c0bb9245c834)
 	* [PHP at Slack](https://slack.engineering/taking-php-seriously-cf7a60065329)
 	* [Ruby on Rails at GitLab](https://medium.com/gitlab-magazine/why-we-use-ruby-on-rails-to-build-gitlab-601dce4a7a38)
 	* [Choosing a Language Stack at WeWork](https://engineering.wework.com/choosing-a-language-stack-cac3726928f6)
@@ -897,4 +898,4 @@ An updated and organized reading list for illustrating the patterns of scalable,
 
 ## Donation
 
-Roses are red. Violets are blue. [Binh](https://nguyenquocbinh.org/) likes sweet. [Treat him a tiramisu?](https://paypal.me/binhnguyennus) :cake:
+Roses are red. Violets are blue. [I](https://nguyenquocbinh.org/) likes sweet. [Treat me a tiramisu?](https://paypal.me/binhnguyennus) :cake:
