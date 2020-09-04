@@ -334,6 +334,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 		* [ELK at Robinhood](https://robinhood.engineering/taming-elk-4e1349f077c3)
 		* [Scaling Elasticsearch Clusters at Uber](https://www.infoq.com/presentations/uber-elasticsearch-clusters?utm_source=presentations_about_Case_Study&utm_medium=link&utm_campaign=Case_Study)
 		* [Elasticsearch Performance Tuning Practice at eBay](https://www.ebayinc.com/stories/blogs/tech/elasticsearch-performance-tuning-practice-at-ebay/)
+		* [Improve Performance using Elasticsearch Plugins (2 parts) at Tinder](https://medium.com/tinder-engineering/how-we-improved-our-performance-using-elasticsearch-plugins-part-2-b051da2ee85b)
 		* [Elasticsearch at Kickstarter](https://kickstarter.engineering/elasticsearch-at-kickstarter-db3c487887fc)
 		* [Elasticsearch at Target](https://tech.target.com/2017/05/25/elasticsearch-cloud.html)
 		* [Log Parsing with Logstash and Google Protocol Buffers at Trivago](https://tech.trivago.com/2016/01/19/logstash_protobuf_codec/)
@@ -898,4 +899,4 @@ An updated and organized reading list for illustrating the patterns of scalable,
 
 ## Donation
 
-Roses are red. Violets are blue. [I](https://nguyenquocbinh.org/) likes sweet. [Treat me a tiramisu?](https://paypal.me/binhnguyennus) :cake:
+Roses are red. Violets are blue. [I](https://nguyenquocbinh.org/) like sweet. [Treat me a tiramisu?](https://paypal.me/binhnguyennus) :cake:
