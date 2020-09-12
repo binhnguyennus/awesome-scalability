@@ -48,7 +48,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 * [CAP Theorem and Trade-offs](http://robertgreiner.com/2014/08/cap-theorem-revisited/)
 * [CP Databases and AP Databases](https://blog.andyet.com/2014/10/01/right-database)
 * [Stateless vs Stateful Scalability](http://ithare.com/scaling-stateful-objects/)	
-* [Scale Up vs Scale Out](https://www.brianjgraf.com/2013/05/17/scalability-scale-up-scale-out-care/)
+* [Scale Up vs Scale Out](https://www.brianjgraf.com/scalability-scale-up-scale-out-care/)
 * [Scale Up vs Scale Out: Hidden Costs](https://blog.codinghorror.com/scaling-up-vs-scaling-out-hidden-costs/)
 * [Best Practices for Scaling Out](https://blog.openshift.com/best-practices-for-horizontal-application-scaling/)
 * [Best Practices for Continuous Delivery](https://techblog.rakuten.co.jp/2018/02/06/cd-the-best-practice/)
