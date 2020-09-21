@@ -398,7 +398,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 		* [Presto in Big Data Platform on AWS at Netflix](https://medium.com/netflix-techblog/using-presto-in-our-big-data-platform-on-aws-938035909fd4)
 		* [Presto Auto Scaling at Eventbrite](https://www.eventbrite.com/engineering/big-data-workloads-presto-auto-scaling/)
 * [NoSQL Databases](https://www.thoughtworks.com/insights/blog/nosql-databases-overview)
-	* [Key-Value Databases](http://www.cs.ucsb.edu/~agrawal/fall2009/dynamo.pdf)
+	* [Key-Value Databases](https://docs.google.com/viewer?a=v&pid=sites&srcid=Y3MudXNmY2EuZWR1fHVzZmNzfGd4OjI4OGIyYmQ3ZmQzZmJiY2M)
 		* [DynamoDB at Nike](https://medium.com/nikeengineering/becoming-a-nimble-giant-how-dynamo-db-serves-nike-at-scale-4cc375dbb18e)
 		* [DynamoDB at Segment](https://segment.com/blog/the-million-dollar-eng-problem/)
 		* [DynamoDB at Mapbox](https://blog.mapbox.com/scaling-mapbox-infrastructure-with-dynamodb-streams-d53eabc5e972)
