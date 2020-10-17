@@ -205,6 +205,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Athena: Automated Build Health Management System at Dropbox](https://blogs.dropbox.com/tech/2019/05/athena-our-automated-build-health-management-system/)
 	* [Vortex: Monitoring Server Applications at Dropbox](https://blogs.dropbox.com/tech/2019/11/monitoring-server-applications-with-vortex/)	
 	* [Nuage: Cloud Management Service at LinkedIn](https://engineering.linkedin.com/blog/2019/solving-manageability-challenges-with-nuage)
+	* [Telltale: Application Monitoring at Netflix](https://netflixtechblog.com/telltale-netflix-application-monitoring-simplified-5c08bfa780ba)
 	* [ThirdEye: Monitoring Platform at LinkedIn](https://engineering.linkedin.com/blog/2019/06/smart-alerts-in-thirdeye--linkedins-real-time-monitoring-platfor)
 	* [Periskop: Exception Monitoring Service at SoundCloud](https://developers.soundcloud.com/blog/periskop-exception-monitoring-service)
     * [Securitybot: Distributed Alerting Bot at Dropbox](https://blogs.dropbox.com/tech/2017/02/meet-securitybot-open-sourcing-automated-security-at-scale/)	
