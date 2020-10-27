@@ -314,6 +314,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Search Architecture at Instagram](https://instagram-engineering.com/search-architecture-eeb34a936d3a)
 	* [Search Architecture at eBay](http://www.cs.otago.ac.nz/homepages/andrew/papers/2017-8.pdf)
 	* [Search Architecture at Box](https://medium.com/box-tech-blog/scaling-box-search-using-lumos-22d9e0cb4175)
+	* [Search Discovery Indexing Platform at Coupang](https://medium.com/coupang-tech/the-evolution-of-search-discovery-indexing-platform-fa43e41305f9)
 	* [Universal Search System at Pinterest](https://medium.com/pinterest-engineering/building-a-universal-search-system-for-pinterest-e4cb03a898d4)
 	* [Improving Search Engine Efficiency by over 25% at eBay](https://www.ebayinc.com/stories/blogs/tech/making-e-commerce-search-faster/)	
 	* [Indexing and Querying Telemetry Logs with Lucene at Palantir](https://medium.com/palantir/indexing-and-querying-telemetry-logs-with-lucene-234c5ce3e5f3)
