@@ -325,6 +325,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Search Service at Twitter (2014)](https://blog.twitter.com/engineering/en_us/a/2014/building-a-complete-tweet-index.html)
 	* [Autocomplete Search (2 parts) at Traveloka](https://medium.com/traveloka-engineering/high-quality-autocomplete-search-part-2-d5b15bb0dadf)
 	* [Data-Driven Autocorrection System at Canva](https://product.canva.com/building-a-data-driven-autocorrection-system/)
+	* [Adapting Search to Indian Phonetics at Flipkart](https://tech.flipkart.com/adapting-search-to-indian-phonetics-cdbe65259686)
 	* [Nautilus: Search Engine at Dropbox](https://blogs.dropbox.com/tech/2018/09/architecture-of-nautilus-the-new-dropbox-search-engine/)
 	* [Galene: Search Architecture of LinkedIn](https://engineering.linkedin.com/search/did-you-mean-galene)
 	* [Manas: High Performing Customized Search System at Pinterest](https://medium.com/@Pinterest_Engineering/manas-a-high-performing-customized-search-system-cf189f6ca40f)
