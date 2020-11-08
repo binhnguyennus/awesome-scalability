@@ -630,6 +630,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Python at Netflix](https://netflixtechblog.com/python-at-netflix-bba45dae649e)
 	* [Python at scale (3 parts) at Instagram](https://instagram-engineering.com/python-at-scale-strict-modules-c0bb9245c834)
 	* [PHP at Slack](https://slack.engineering/taking-php-seriously-cf7a60065329)
+	* [Go at Trivago](https://tech.trivago.com/2020/03/02/why-we-chose-go/)
 	* [Ruby on Rails at GitLab](https://medium.com/gitlab-magazine/why-we-use-ruby-on-rails-to-build-gitlab-601dce4a7a38)
 	* [Choosing a Language Stack at WeWork](https://engineering.wework.com/choosing-a-language-stack-cac3726928f6)
 	* [Switching from Go to Rust at Discord](https://blog.discord.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f)	
