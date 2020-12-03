@@ -751,6 +751,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Music Personalization at Spotify](https://labs.spotify.com/2016/08/07/commodity-music-ml-services/)
 	* [Deep Learning for Domain Name Valuation at GoDaddy](https://sg.godaddy.com/engineering/2019/07/26/domain-name-valuation/)
 	* [Similarity Clustering to Catch Fraud Rings at Stripe](https://stripe.com/blog/similarity-clustering)
+	* [Personalized Search at Etsy](https://codeascraft.com/2020/10/29/bringing-personalized-search-to-etsy/)
 
 ## Architecture
 * [Systems We Make](https://systemswemake.com/)
