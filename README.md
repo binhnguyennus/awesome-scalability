@@ -759,7 +759,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 * [Tech Stack (2 parts) at Uber](https://eng.uber.com/tech-stack-part-two/)
 * [Tech Stack at Medium](https://medium.engineering/the-stack-that-helped-medium-drive-2-6-millennia-of-reading-time-e56801f7c492)
 * [Tech Stack at Shopify](https://engineering.shopify.com/blogs/engineering/e-commerce-at-scale-inside-shopifys-tech-stack)
-* [Services (2 parts) at Airbnb](https://medium.com/airbnb-engineering/building-services-at-airbnb-part-2-142be1c5d506)
+* [Building Services (4 parts) at Airbnb](https://medium.com/airbnb-engineering/building-services-at-airbnb-part-4-23c95e428064)
 * [Architecture of Evernote](https://evernote.com/blog/a-digest-of-evernotes-architecture/)
 * [Architecture of Chat Service (3 parts) at Riot Games](https://engineering.riotgames.com/news/chat-service-architecture-persistence)
 * [Architecture of League of Legends Client Update](https://technology.riotgames.com/news/architecture-league-client-update)
@@ -902,4 +902,4 @@ An updated and organized reading list for illustrating the patterns of scalable,
 * [Scalability Rules: 50 Principles for Scaling Web Sites](http://scalabilityrules.com/)
 
 ## Donation
-Roses are red. Violets are blue. [I](https://nguyenquocbinh.org/) like sweet. [Treat me a tiramisu?](https://paypal.me/binhnguyennus) :cake:
+Roses are red. Violets are blue. [Binh](https://nguyenquocbinh.org/) like sweet. [Treat Binh a tiramisu?](https://paypal.me/binhnguyennus) :cake:
