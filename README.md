@@ -676,6 +676,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [TensorFlowOnSpark: Distributed Deep Learning on Big Data Clusters at Yahoo](https://yahooeng.tumblr.com/post/157196488076/open-sourcing-tensorflowonspark-distributed-deep)
 	* [CaffeOnSpark: Distributed Deep Learning on Big Data Clusters at Yahoo](https://yahooeng.tumblr.com/post/139916828451/caffeonspark-open-sourced-for-distributed-deep)
 	* [Spark on Scala: Analytics Reference Architecture at Adobe](https://medium.com/adobetech/spark-on-scala-adobe-analytics-reference-architecture-7457f5614b4c)
+	* [Experimentation Platform (2 parts) at Spotify](https://engineering.atspotify.com/2020/11/02/spotifys-new-experimentation-platform-part-2/)
 	* [Experimentation Platform at Airbnb](https://medium.com/airbnb-engineering/https-medium-com-jonathan-parks-scaling-erf-23fd17c91166)
 	* [Smart Product Platform at Zalando](https://jobs.zalando.com/tech/blog/zalando-smart-product-platform/?gh_src=4n3gxh1)
 	* [Log Analysis Platform at LINE](https://www.slideshare.net/wyukawa/strata2017-sg)
