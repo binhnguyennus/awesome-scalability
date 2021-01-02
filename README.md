@@ -796,6 +796,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Tech Stack at TransferWise](http://tech.transferwise.com/the-transferwise-stack-heartbeat-of-our-little-revolution/)
 	* [Tech Stack at Addepar](https://medium.com/build-addepar/our-tech-stack-a4f55dab4b0d)
 	* [Avoiding Double Payments in a Distributed Payments System at Airbnb](https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb)
+* [YouTube Architecture – How Does It Serve High-Quality Videos With Low Latency](https://www.8bitmen.com/youtube-architecture-how-does-it-serve-high-quality-videos-with-low-latency/)
 
 ## Interview
 * [Designing Large-Scale Systems](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
