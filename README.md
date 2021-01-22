@@ -627,6 +627,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Boosting Site Speed Using Brotli Compression at LinkedIn](https://engineering.linkedin.com/blog/2017/05/boosting-site-speed-using-brotli-compression)
 	* [Improving Homepage Performance at Zillow](https://www.zillow.com/engineering/improving-homepage-performance/)
 	* [The Process of Optimizing for Client Performance at Expedia](https://medium.com/expedia-engineering/go-fast-or-go-home-the-process-of-optimizing-for-client-performance-57bb497402e)
+	* [Web Performance at BBC](https://medium.com/bbc-design-engineering/bbc-world-service-web-performance-26b08f7abfcc)
 * [Performance Optimization on Languages and Frameworks](https://www.techempower.com/benchmarks/)
 	* [Python at Netflix](https://netflixtechblog.com/python-at-netflix-bba45dae649e)
 	* [Python at scale (3 parts) at Instagram](https://instagram-engineering.com/python-at-scale-strict-modules-c0bb9245c834)
