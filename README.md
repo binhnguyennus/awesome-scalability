@@ -169,6 +169,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Improve Zipkin Traces using Kubernetes Pod Metadata at SoundCloud](https://developers.soundcloud.com/blog/using-kubernetes-pod-metadata-to-improve-zipkin-traces)
 	* [Canopy: Scalable Distributed Tracing & Analysis at Facebook](https://www.infoq.com/presentations/canopy-scalable-tracing-analytics-facebook)
 	* [Pintrace: Distributed Tracing at Pinterest](https://medium.com/@Pinterest_Engineering/distributed-tracing-at-pinterest-with-new-open-source-tools-a4f8a5562f6b)
+	* [XCMetrics: All-in-One Tool for Tracking Xcode Build Metrics at Spotify](https://engineering.atspotify.com/2021/01/20/introducing-xcmetrics-our-all-in-one-tool-for-tracking-xcode-build-metrics/)
 	* [Real-time Distributed Tracing at LinkedIn](https://engineering.linkedin.com/distributed-service-call-graph/real-time-distributed-tracing-website-performance-and-efficiency)	
 	* [Tracking Service Infrastructure at Scale at Shopify](https://www.usenix.org/conference/srecon17americas/program/presentation/arthorne)	
 	* [Distributed Tracing at HelloFresh](https://engineering.hellofresh.com/scaling-hellofresh-distributed-tracing-7b182928247d)
