@@ -269,7 +269,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
         * [Scaling Event Sourcing for Netflix Downloads](https://www.infoq.com/presentations/netflix-scale-event-sourcing)
         * [Scaling Event-Sourcing at Jet.com](https://medium.com/@eulerfx/scaling-event-sourcing-at-jet-9c873cac33b8)
         * [Event Sourcing (2 parts) at eBay](https://www.ebayinc.com/stories/blogs/tech/event-sourcing-in-action-with-ebays-continuous-delivery-team/)
-		* [Event Sourcing at mytaxi](https://inside.mytaxi.com/event-sourcing-an-evolutionary-perspective-31e7387aa6f1)
+		* [Event Sourcing at FREE NOW](https://medium.com/inside-freenow/event-sourcing-an-evolutionary-perspective-31e7387aa6f1)
 		* [Scalable content feed using Event Sourcing and CQRS patterns at Brainly](https://medium.com/engineering-brainly/scalable-content-feed-using-event-sourcing-and-cqrs-patterns-e09df98bf977)
     * [Pub-Sub Messaging](https://aws.amazon.com/pub-sub-messaging/)
 		* [Pulsar: Pub-Sub Messaging at Scale at Yahoo](https://yahooeng.tumblr.com/post/150078336821/open-sourcing-pulsar-pub-sub-messaging-at-scale)
