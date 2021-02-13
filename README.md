@@ -221,6 +221,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
     * [Distributed Security Alerting at Slack](https://slack.engineering/distributed-security-alerting-c89414c992d6)
     * [Real-Time News Alerting at Bloomberg](https://www.infoq.com/presentations/news-alerting-bloomberg)
 	* [Data Pipeline Monitoring System at LinkedIn](https://engineering.linkedin.com/blog/2019/an-inside-look-at-linkedins-data-pipeline-monitoring-system-)
+	* [Monitoring and Observability at Picnic](https://blog.picnic.nl/monitoring-and-observability-at-picnic-684cefd845c4)
 * [Distributed Security](https://msdn.microsoft.com/en-us/library/cc767123.aspx)
 	* [Approach to Security at Scale at Dropbox](https://blogs.dropbox.com/tech/2018/02/security-at-scale-the-dropbox-approach/)
 	* [Aardvark and Repokid: AWS Least Privilege for Distributed, High-Velocity Development at Netflix](https://medium.com/netflix-techblog/introducing-aardvark-and-repokid-53b081bf3a7e)	
