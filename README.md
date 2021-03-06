@@ -107,6 +107,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Docker in Production at Treehouse](https://medium.com/treehouse-engineering/lessons-learned-running-docker-in-production-5dce99ece770)
 	* [Microservice at SoundCloud](https://developers.soundcloud.com/blog/inside-a-soundcloud-microservice)
 	* [Operate Kubernetes Reliably at Stripe](https://stripe.com/blog/operating-kubernetes)
+	* [Cross-Cluster Traffic Mirroring with Istio at Trivago](https://tech.trivago.com/2020/06/10/cross-cluster-traffic-mirroring-with-istio/)
 	* [Kubernetes Traffic Routing (2 parts) at Rakuten](https://techblog.rakuten.co.jp/2017/09/28/k8s-routing2/)
 	* [Agrarian-Scale Kubernetes (3 parts) at New York Times](https://open.nytimes.com/agrarian-scale-kubernetes-part-3-ee459887ed7e)
 	* [Nanoservices at BBC](https://medium.com/bbc-design-engineering/powering-bbc-online-with-nanoservices-727840ba015b)
