@@ -71,7 +71,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 * [Latency Numbers Every Programmer Should Know](http://norvig.com/21-days.html#answers)
 * [The Calculus of Service Availability](https://queue.acm.org/detail.cfm?id=3096459&__s=dnkxuaws9pogqdnxmx8i)
 * [Architecture Issues When Scaling Web Applications: Bottlenecks, Database, CPU, IO](http://highscalability.com/blog/2014/5/12/4-architecture-issues-when-scaling-web-applications-bottlene.html)	
-* [Common Bottlenecks](http://highscalability.com/blog/2012/5/16/big-list-of-20-common-bottlenecks.html)
+* [~~Common Bottlenecks~~](http://highscalability.com/blog/2012/5/16/big-list-of-20-common-bottlenecks.html)
 * [Life Beyond Distributed Transactions](https://queue.acm.org/detail.cfm?id=3025012)
 * [Relying on Software to Redirect Traffic Reliably at Various Layers](https://www.usenix.org/conference/srecon15/program/presentation/taveira)
 * [Breaking Things on Purpose](https://www.usenix.org/conference/srecon17americas/program/presentation/andrus)
