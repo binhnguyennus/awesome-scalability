@@ -768,6 +768,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Similarity Clustering to Catch Fraud Rings at Stripe](https://stripe.com/blog/similarity-clustering)
 	* [Personalized Search at Etsy](https://codeascraft.com/2020/10/29/bringing-personalized-search-to-etsy/)
 	* [ML Feature Serving Infrastructure at Lyft](https://eng.lyft.com/ml-feature-serving-infrastructure-at-lyft-d30bf2d3c32a)
+	* [Context-Specific Bidding System at Etsy](https://codeascraft.com/2021/03/23/how-we-built-a-context-specific-bidding-system-for-etsy-ads/)
 
 ## Architecture
 * [Systems We Make](https://systemswemake.com/)
