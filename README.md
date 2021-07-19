@@ -509,6 +509,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Failover with Redis Sentinel at Vinted](http://engineering.vinted.com/2015/09/03/failover-with-redis-sentinel/)
 	* [High-availability SaaS Infrastructure at FreeAgent](http://engineering.freeagent.com/2017/02/06/ha-infrastructure-without-breaking-the-bank/)
 	* [MySQL High Availability at GitHub](https://github.blog/2018-06-20-mysql-high-availability-at-github/)
+	* [MySQL High Availability at Eventbrite](https://www.eventbrite.com/engineering/mysql-high-availability-at-eventbrite/)
 	* [Business Continuity & Disaster Recovery at Walmart](https://medium.com/walmartlabs/business-continuity-disaster-recovery-in-the-microservices-world-ef2adca363df)
 * [Load Balancing](https://blog.vivekpanyam.com/scaling-a-web-service-load-balancing/)
 	* [Introduction to Modern Network Load Balancing and Proxying](https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236)
