@@ -701,6 +701,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Structured Data at Etsy](https://codeascraft.com/2019/07/31/an-introduction-to-structured-data-at-etsy/)
 	* [Scaling a Mature Data Pipeline - Managing Overhead at Airbnb](https://medium.com/airbnb-engineering/scaling-a-mature-data-pipeline-managing-overhead-f34835cbc866)
 	* [Spark Partitioning Strategies at Airbnb](https://medium.com/airbnb-engineering/on-spark-hive-and-small-files-an-in-depth-look-at-spark-partitioning-strategies-a9a364f908)
+	* [Scaling the Hadoop Distributed File System at LinkedIn](https://engineering.linkedin.com/blog/2021/the-exabyte-club--linkedin-s-journey-of-scaling-the-hadoop-distr)
 * [Distributed Machine Learning](https://www.csie.ntu.edu.tw/~cjlin/talks/bigdata-bilbao.pdf)
 	* [Aroma: Using ML for Code Recommendation at Facebook](https://code.fb.com/developer-tools/aroma/)
 	* [Flyte: Cloud Native Machine Learning and Data Processing Platform at Lyft](https://eng.lyft.com/introducing-flyte-cloud-native-machine-learning-and-data-processing-platform-fb2bb3046a59)
