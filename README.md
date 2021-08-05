@@ -120,7 +120,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Microservices at Nubank](https://medium.com/building-nubank/microservices-at-nubank-an-overview-2ebcb336c64d)
 	* [GRIT: Protocol for Distributed Transactions across Microservices at eBay](https://tech.ebayinc.com/engineering/grit-a-protocol-for-distributed-transactions-across-microservices/)
 	* [Rubix: Kubernetes at Palantir](https://medium.com/palantir/introducing-rubix-kubernetes-at-palantir-ab0ce16ea42e)
-* [Distributed Caching](https://www.wix.engineering/single-post/scaling-to-100m-to-cache-or-not-to-cache)
+* [Distributed Caching](https://www.wix.engineering/post/scaling-to-100m-to-cache-or-not-to-cache)
 	* [EVCache: Distributed In-memory Caching at Netflix](https://medium.com/netflix-techblog/caching-for-a-global-netflix-7bcc457012f1)
 	* [EVCache Cache Warmer Infrastructure at Netflix](https://medium.com/netflix-techblog/cache-warming-agility-for-a-stateful-service-2d3b1da82642)
 	* [Memsniff: Robust Memcache Traffic Analyzer at Box](https://blog.box.com/blog/introducing-memsniff-robust-memcache-traffic-analyzer/)
