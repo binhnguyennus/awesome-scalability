@@ -777,49 +777,68 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Optimizing Payments with Machine Learning at Dropbox](https://dropbox.tech/machine-learning/optimizing-payments-with-machine-learning)
 
 ## Architecture
-* [Systems We Make](https://systemswemake.com/)
-* [Tech Stack (2 parts) at Uber](https://eng.uber.com/tech-stack-part-two/)
-* [Tech Stack at Medium](https://medium.engineering/the-stack-that-helped-medium-drive-2-6-millennia-of-reading-time-e56801f7c492)
-* [Tech Stack at Shopify](https://engineering.shopify.com/blogs/engineering/e-commerce-at-scale-inside-shopifys-tech-stack)
-* [Building Services (4 parts) at Airbnb](https://medium.com/airbnb-engineering/building-services-at-airbnb-part-4-23c95e428064)
-* [Architecture of Evernote](https://evernote.com/blog/a-digest-of-evernotes-architecture/)
-* [Architecture of Chat Service (3 parts) at Riot Games](https://engineering.riotgames.com/news/chat-service-architecture-persistence)
-* [Architecture of League of Legends Client Update](https://technology.riotgames.com/news/architecture-league-client-update)
-* [Architecture of Ad Platform at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/building-twitters-ad-platform-architecture-for-the-future.html)
+
+### 2021
 * [Architecture of API Gateway at Uber](https://eng.uber.com/architecture-api-gateway/)
+
+### 2020
+* [Building Services (4 parts) at Airbnb](https://medium.com/airbnb-engineering/building-services-at-airbnb-part-4-23c95e428064)
+* [Architecture of Ad Platform at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/building-twitters-ad-platform-architecture-for-the-future.html)
 * [Basic Architecture of Slack](https://slack.engineering/how-slack-built-shared-channels-8d42c895b19f)
-* [Back-end at LinkedIn](https://engineering.linkedin.com/architecture/brief-history-scaling-linkedin)
-* [Back-end at Flickr](https://yahooeng.tumblr.com/post/157200523046/introducing-tripod-flickrs-backend-refactored)
-* [Infrastructure (3 parts) at Zendesk](https://medium.com/zendesk-engineering/the-history-of-infrastructure-at-zendesk-part-3-foundation-team-forming-and-evolving-9859e40f5390)
-* [Cloud Infrastructure at Grubhub](https://bytes.grubhub.com/cloud-infrastructure-at-grubhub-94db998a898a)
-* [Real-time Presence Platform at LinkedIn](https://engineering.linkedin.com/blog/2018/01/now-you-see-me--now-you-dont--linkedins-real-time-presence-platf)
-* [Settings Platform at LinkedIn](https://engineering.linkedin.com/blog/2019/05/building-member-trust-through-a-centralized-and-scalable-setting)
 * [Nearline System for Scale and Performance (2 parts) at Glassdoor](https://medium.com/glassdoor-engineering/building-a-nearline-system-for-scale-and-performance-part-ii-9e01bf51b23d)
-* [Real-time User Action Counting System for Ads at Pinterest](https://medium.com/@Pinterest_Engineering/building-a-real-time-user-action-counting-system-for-ads-88a60d9c9a)
-* [API Platform at Riot Games](https://engineering.riotgames.com/news/riot-games-api-deep-dive)
-* [Games Platform at The New York Times](https://open.nytimes.com/play-by-play-moving-the-nyt-games-platform-to-gcp-with-zero-downtime-cf425898d569)
-* [Kabootar: Communication Platform at Swiggy](https://bytes.swiggy.com/kabootar-swiggys-communication-platform-e5a43cc25629)
-* [Simone: Distributed Simulation Service at Netflix](https://medium.com/netflix-techblog/https-medium-com-netflix-techblog-simone-a-distributed-simulation-service-b2c85131ca1b)
-* [Seagull: Distributed System that Helps Running > 20 Million Tests Per Day at Yelp](https://engineeringblog.yelp.com/2017/04/how-yelp-runs-millions-of-tests-every-day.html)
 * [PriceAggregator: Intelligent System for Hotel Price Fetching (3 parts) at Agoda](https://medium.com/agoda-engineering/priceaggregator-an-intelligent-system-for-hotel-price-fetching-part-3-52acfc705081)
 * [Phoenix: Testing Platform (3 parts) at Tinder](https://medium.com/tinder-engineering/phoenix-tinders-testing-platform-part-iii-520728b9537)
 * [Hexagonal Architecture at Netflix](https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749)
-* [Architecture of Play API Service at Netflix](https://qconsf.com/system/files/presentation-slides/qcon_netflix_play_api.pdf)
+* [Sync Engine (2 parts) at Dropbox](https://dropbox.tech/infrastructure/-testing-our-new-sync-engine)
+* (banking) [Architectures of Finance and Banking Systems](https://www.sesameindia.com/images/core-banking-system-architecture)
+
+### 2019
+* [Infrastructure (3 parts) at Zendesk](https://medium.com/zendesk-engineering/the-history-of-infrastructure-at-zendesk-part-3-foundation-team-forming-and-evolving-9859e40f5390)
+* [Settings Platform at LinkedIn](https://engineering.linkedin.com/blog/2019/05/building-member-trust-through-a-centralized-and-scalable-setting)
+* [Member Transaction History Architecture at Walmart](https://medium.com/walmartlabs/member-transaction-history-architecture-8b6e34b87c21)
+* (banking) [Avoiding Double Payments in a Distributed Payments System at Airbnb](https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb)
+
+### 2018
+* [Tech Stack at Medium](https://medium.engineering/the-stack-that-helped-medium-drive-2-6-millennia-of-reading-time-e56801f7c492)
+* [Tech Stack at Shopify](https://engineering.shopify.com/blogs/engineering/e-commerce-at-scale-inside-shopifys-tech-stack)
+* [Cloud Infrastructure at Grubhub](https://bytes.grubhub.com/cloud-infrastructure-at-grubhub-94db998a898a)
+* [Real-time Presence Platform at LinkedIn](https://engineering.linkedin.com/blog/2018/01/now-you-see-me--now-you-dont--linkedins-real-time-presence-platf)
+* [Real-time User Action Counting System for Ads at Pinterest](https://medium.com/@Pinterest_Engineering/building-a-real-time-user-action-counting-system-for-ads-88a60d9c9a)
 * [Architecture of Sticker Services at LINE](https://www.slideshare.net/linecorp/architecture-sustaining-line-sticker-services)
 * [Stack Overflow Enterprise at Palantir](https://medium.com/@palantir/terraforming-stack-overflow-enterprise-in-aws-47ee431e6be7)
 * [Architecture of Following Feed, Interest Feed, and Picked For You at Pinterest](https://medium.com/@Pinterest_Engineering/building-a-dynamic-and-responsive-pinterest-7d410e99f0a9)
 * [API Specification Workflow at WeWork](https://engineering.wework.com/our-api-specification-workflow-9337448d6ee6)
 * [Media Database at Netflix](https://medium.com/netflix-techblog/implementing-the-netflix-media-database-53b5a840b42a)
-* [Member Transaction History Architecture at Walmart](https://medium.com/walmartlabs/member-transaction-history-architecture-8b6e34b87c21)
-* [Sync Engine (2 parts) at Dropbox](https://dropbox.tech/infrastructure/-testing-our-new-sync-engine)
-* [Architectures of Finance and Banking Systems](https://www.sesameindia.com/images/core-banking-system-architecture)
-	* [Bank Backend at Monzo](https://monzo.com/blog/2016/09/19/building-a-modern-bank-backend/)
-	* [Trading Platform for Scale at Wealthsimple](https://medium.com/@Wealthsimple/engineering-at-wealthsimple-reinventing-our-trading-platform-for-scale-17e332241b6c)
-	* [Core Banking System at Margo Bank](https://medium.com/margobank/choosing-an-architecture-85750e1e5a03)
-	* [Architecture of Nubank](https://www.infoq.com/presentations/nubank-architecture)
-	* [Tech Stack at TransferWise](http://tech.transferwise.com/the-transferwise-stack-heartbeat-of-our-little-revolution/)
-	* [Tech Stack at Addepar](https://medium.com/build-addepar/our-tech-stack-a4f55dab4b0d)
-	* [Avoiding Double Payments in a Distributed Payments System at Airbnb](https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb)
+
+### 2017
+* [Back-end at Flickr](https://yahooeng.tumblr.com/post/157200523046/introducing-tripod-flickrs-backend-refactored)
+* [Games Platform at The New York Times](https://open.nytimes.com/play-by-play-moving-the-nyt-games-platform-to-gcp-with-zero-downtime-cf425898d569)
+* [Kabootar: Communication Platform at Swiggy](https://bytes.swiggy.com/kabootar-swiggys-communication-platform-e5a43cc25629)
+* [Simone: Distributed Simulation Service at Netflix](https://medium.com/netflix-techblog/https-medium-com-netflix-techblog-simone-a-distributed-simulation-service-b2c85131ca1b)
+* [Seagull: Distributed System that Helps Running > 20 Million Tests Per Day at Yelp](https://engineeringblog.yelp.com/2017/04/how-yelp-runs-millions-of-tests-every-day.html)
+* [Architecture of Play API Service at Netflix](https://qconsf.com/system/files/presentation-slides/qcon_netflix_play_api.pdf)
+* (banking) [Trading Platform for Scale at Wealthsimple](https://medium.com/@Wealthsimple/engineering-at-wealthsimple-reinventing-our-trading-platform-for-scale-17e332241b6c)
+* (banking) [Core Banking System at Margo Bank](https://medium.com/margobank/choosing-an-architecture-85750e1e5a03)
+* (banking) [Architecture of Nubank](https://www.infoq.com/presentations/nubank-architecture)
+* (banking) [Tech Stack at Addepar](https://medium.com/build-addepar/our-tech-stack-a4f55dab4b0d)
+
+### 2016
+* [Tech Stack (2 parts) at Uber](https://eng.uber.com/tech-stack-part-two/)
+* [Architecture of Chat Service (3 parts) at Riot Games](https://engineering.riotgames.com/news/chat-service-architecture-persistence)
+* [Architecture of League of Legends Client Update](https://technology.riotgames.com/news/architecture-league-client-update)
+* [API Platform at Riot Games](https://engineering.riotgames.com/news/riot-games-api-deep-dive)
+* (banking) [Bank Backend at Monzo](https://monzo.com/blog/2016/09/19/building-a-modern-bank-backend/)
+* (banking) [Tech Stack at TransferWise](http://tech.transferwise.com/the-transferwise-stack-heartbeat-of-our-little-revolution/)
+
+### 2015 
+* [Tech Stack at Medium](https://medium.engineering/the-stack-that-helped-medium-drive-2-6-millennia-of-reading-time-e56801f7c492)
+* [Back-end at LinkedIn](https://engineering.linkedin.com/architecture/brief-history-scaling-linkedin)
+
+### 2011
+* [Architecture of Evernote](https://evernote.com/blog/a-digest-of-evernotes-architecture/)
+
+### Other
+* [Systems We Make](https://systemswemake.com/)
 
 ## Interview
 * [Designing Large-Scale Systems](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
