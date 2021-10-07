@@ -394,6 +394,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 		* [Sharding MySQL at Quora](https://www.quora.com/q/quoraengineering/MySQL-sharding-at-Quora)
 		* [Sharding Layer of Schemaless Datastore at Uber](https://eng.uber.com/schemaless-rewrite/)
 		* [Sharding & IDs at Instagram](https://instagram-engineering.com/sharding-ids-at-instagram-1cf5a71e5a5c)
+		* [Sharding Postgres at notion](https://www.notion.so/blog/sharding-postgres-at-notion)
 		* [Solr: Improving Performance for Batch Indexing at Box](https://blog.box.com/blog/solr-improving-performance-batch-indexing/)	
 		* [Geosharded Recommendations (3 parts) at Tinder](https://medium.com/tinder-engineering/geosharded-recommendations-part-3-consistency-2d2cb2f0594b)
 		* [Scaling Services with Shard Manager at Facebook](https://engineering.fb.com/production-engineering/scaling-services-with-shard-manager/)
