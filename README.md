@@ -649,6 +649,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 * [Performance Optimization on Languages and Frameworks](https://www.techempower.com/benchmarks/)
 	* [Python at Netflix](https://netflixtechblog.com/python-at-netflix-bba45dae649e)
 	* [Python at scale (3 parts) at Instagram](https://instagram-engineering.com/python-at-scale-strict-modules-c0bb9245c834)
+	* [OCaml best practices (2 parts) at Issuu](https://engineering.issuu.com/2018/12/10/our-current-ocaml-best-practices-part-2)
 	* [PHP at Slack](https://slack.engineering/taking-php-seriously-cf7a60065329)
 	* [Go at Trivago](https://tech.trivago.com/2020/03/02/why-we-chose-go/)
 	* [BPF and Go at Bumble](https://medium.com/bumble-tech/bpf-and-go-modern-forms-of-introspection-in-linux-6b9802682223)
