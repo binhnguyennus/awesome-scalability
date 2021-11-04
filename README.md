@@ -613,6 +613,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Improving key expiration in Redis at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/improving-key-expiration-in-redis.html)
 	* [Ad Delivery Network Performance Optimization with Flame Graphs at MindGeek](https://medium.com/mindgeek-engineering-blog/ad-delivery-network-performance-optimization-with-flame-graphs-bc550cf59cf7)
 	* [Predictive CPU isolation of containers at Netflix](https://medium.com/netflix-techblog/predictive-cpu-isolation-of-containers-at-netflix-91f014d856c7)
+	* [Improving HDFS I/O Utilization for Efficiency at Uber](https://eng.uber.com/improving-hdfs-i-o-utilization-for-efficiency/)
 	* [Cloud Jewels: Estimating kWh in the Cloud at Etsy](https://codeascraft.com/2020/04/23/cloud-jewels-estimating-kwh-in-the-cloud/)
 	* [Unthrottled: Fixing CPU Limits in the Cloud (2 parts) at Indeed](https://engineering.indeedblog.com/blog/2019/12/unthrottled-fixing-cpu-limits-in-the-cloud/)
 * [Performance Optimization by Tuning Garbage Collection](https://confluence.atlassian.com/enterprise/garbage-collection-gc-tuning-guide-461504616.html)
