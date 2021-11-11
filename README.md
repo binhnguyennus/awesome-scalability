@@ -936,6 +936,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 * [Web Scalability for Startup Engineers](https://www.goodreads.com/book/show/23615147-web-scalability-for-startup-engineers)
 * [Scalability Rules: 50 Principles for Scaling Web Sites](http://scalabilityrules.com/)
 * [Five Lines of Code: How and when to refactor](https://www.manning.com/books/five-lines-of-code)
+* [Cloud Native Spring in Action](https://www.manning.com/books/cloud-native-spring-in-action)
 
 ## Donation
 Roses are red. Violets are blue. [Binh](https://nguyenquocbinh.org/) likes sweet. [Treat Binh a tiramisu?](https://paypal.me/binhnguyennus) :cake:
