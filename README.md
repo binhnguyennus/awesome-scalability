@@ -653,6 +653,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [OCaml best practices (2 parts) at Issuu](https://engineering.issuu.com/2018/12/10/our-current-ocaml-best-practices-part-2)
 	* [PHP at Slack](https://slack.engineering/taking-php-seriously-cf7a60065329)
 	* [Go at Trivago](https://tech.trivago.com/2020/03/02/why-we-chose-go/)
+	* [TypeScript at Etsy](https://codeascraft.com/2021/11/08/etsys-journey-to-typescript/)
 	* [BPF and Go at Bumble](https://medium.com/bumble-tech/bpf-and-go-modern-forms-of-introspection-in-linux-6b9802682223)
 	* [Ruby on Rails at GitLab](https://medium.com/gitlab-magazine/why-we-use-ruby-on-rails-to-build-gitlab-601dce4a7a38)
 	* [Choosing a Language Stack at WeWork](https://engineering.wework.com/choosing-a-language-stack-cac3726928f6)
