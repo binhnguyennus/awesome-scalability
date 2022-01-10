@@ -149,6 +149,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Memory Optimization in Redis at Wattpad](http://engineering.wattpad.com/post/23244724794/store-more-stuff-memory-optimization-in-redis)
 	* [Redis Fleet at Heroku](https://blog.heroku.com/rolling-redis-fleet)
 	* [Solving Remote Build Cache Misses (2 parts) at SoundCloud](https://developers.soundcloud.com/blog/gradle-remote-build-cache-misses-part-2)
+	* [Ratings & Reviews (2 parts) at Flipkart](https://tech.flipkart.com/ratings-reviews-flipkart-part-2-574ab08e75cf)
 	* [Prefetch Caching of Items at eBay](https://tech.ebayinc.com/engineering/prefetch-caching-of-ebay-items/)
     * [HTTP Caching and CDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching)
         * [Zynga Geo Proxy: Reducing Mobile Game Latency at Zynga](https://www.zynga.com/blogs/engineering/zynga-geo-proxy-reducing-mobile-game-latency)
