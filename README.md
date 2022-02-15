@@ -554,6 +554,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Scryer: Predictive Auto Scaling Engine at Netflix](https://medium.com/netflix-techblog/scryer-netflixs-predictive-auto-scaling-engine-a3f8fc922270)	
 	* [Bouncer: Simple AWS Auto Scaling Rollovers at Palantir](https://medium.com/palantir/bouncer-simple-aws-auto-scaling-rollovers-c5af601d65d4)
 	* [Clusterman: Autoscaling Mesos Clusters at Yelp](https://engineeringblog.yelp.com/2019/02/autoscaling-mesos-clusters-with-clusterman.html)
+	* [PredictKube: an AI-based predictive autoscaler for Kubernetes](https://keda.sh/blog/2022-02-09-predictkube-scaler/)
 * [Availability in Globally Distributed Storage Systems at Google](http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/36737.pdf)	
 * [NodeJS High Availability at Yahoo](https://yahooeng.tumblr.com/post/68823943185/nodejs-high-availability)
 * [Operations (11 parts) at LinkedIn](https://www.linkedin.com/pulse/introduction-every-day-monday-operations-benjamin-purgason)
