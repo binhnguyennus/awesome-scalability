@@ -385,6 +385,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Scaling Database Access for 100s of Billions of Queries per Day at PayPal](https://medium.com/paypal-engineering/scaling-database-access-for-100s-of-billions-of-queries-per-day-paypal-introducing-hera-e192adacda54)
 	* [Minimizing Read-Write MySQL Downtime at Yelp](https://engineeringblog.yelp.com/2020/11/minimizing-read-write-mysql-downtime.html)
 	* [Migrating MySQL from 5.6 to 8.0 at Facebook](https://engineering.fb.com/2021/07/22/data-infrastructure/mysql/)
+	* [Migration from HBase to MyRocks at Quora](https://quoraengineering.quora.com/Migration-from-HBase-to-MyRocks-at-Quora)
 	* [Replication](https://m.alphasights.com/a-primer-on-database-replication-381b319cd032)		
 		* [MySQL Parallel Replication (4 parts) at Booking.com](https://medium.com/booking-com-infrastructure/evaluating-mysql-parallel-replication-part-4-annex-under-the-hood-eb456cf8b2fb)
 		* [Mitigating MySQL Replication Lag and Reducing Read Load at Github](https://githubengineering.com/mitigating-replication-lag-and-reducing-read-load-with-freno/)
