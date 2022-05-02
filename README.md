@@ -435,6 +435,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 			* [Benchmarking Cassandra Scalability on AWS at Netflix](https://medium.com/netflix-techblog/benchmarking-cassandra-scalability-on-aws-over-a-million-writes-per-second-39f45f066c9e)
 			* [Service Decomposition at Scale with Cassandra at Intuit QuickBooks](https://quickbooks-engineering.intuit.com/service-decomposition-at-scale-70405ac2f637)
 			* [Cassandra for Keeping Counts In Sync at SoundCloud](https://developers.soundcloud.com/blog/keeping-counts-in-sync)
+			* [Cassandra Driver Configuration for Improved Performance and Load Balancing at Glassdoor](https://medium.com/glassdoor-engineering/cassandra-driver-configuration-for-improved-performance-and-load-balancing-1b0106ce12bb)
 			* [cstar: Cassandra Orchestration Tool at Spotify](https://labs.spotify.com/2018/09/04/introducing-cstar-the-spotify-cassandra-orchestration-tool-now-open-source/)
 		* [HBase](https://hbase.apache.org/)
 			* [HBase at Salesforce](https://engineering.salesforce.com/investing-in-big-data-apache-hbase-b9d98661a66b)
