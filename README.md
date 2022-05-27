@@ -320,6 +320,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 * [Distributed Searching](http://nwds.cs.washington.edu/files/nwds/pdf/Distributed-WR.pdf)
 	* [Search Architecture at Instagram](https://instagram-engineering.com/search-architecture-eeb34a936d3a)
 	* [Search Architecture at eBay](http://www.cs.otago.ac.nz/homepages/andrew/papers/2017-8.pdf)
+	* [Search Architecture at Ozon (2022)](https://medium.com/@sergey_sw/how-we-built-o2-the-distributed-search-engine-based-on-apache-lucene-382e060a5328)
 	* [Search Architecture at Box](https://medium.com/box-tech-blog/scaling-box-search-using-lumos-22d9e0cb4175)
 	* [Search Discovery Indexing Platform at Coupang](https://medium.com/coupang-tech/the-evolution-of-search-discovery-indexing-platform-fa43e41305f9)
 	* [Universal Search System at Pinterest](https://medium.com/pinterest-engineering/building-a-universal-search-system-for-pinterest-e4cb03a898d4)
