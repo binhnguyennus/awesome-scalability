@@ -682,6 +682,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Data Infrastructure at GO-JEK](https://blog.gojekengineering.com/data-infrastructure-at-go-jek-cd4dc8cbd929)
 	* [Data Ingestion Infrastructure at Pinterest](https://medium.com/@Pinterest_Engineering/scalable-and-reliable-data-ingestion-at-pinterest-b921c2ee8754)
 	* [Data Analytics Architecture at Pinterest](https://medium.com/@Pinterest_Engineering/behind-the-pins-building-analytics-f7b508cdacab)
+	* [Data Orchestration Service at Spotify](https://engineering.atspotify.com/2022/03/why-we-switched-our-data-orchestration-service/)
 	* [Big Data Processing (2 parts) at Spotify](https://labs.spotify.com/2017/10/23/big-data-processing-at-spotify-the-road-to-scio-part-2/)
 	* [Big Data Processing at Uber](https://cdn.oreillystatic.com/en/assets/1/event/160/Big%20data%20processing%20with%20Hadoop%20and%20Spark%2C%20the%20Uber%20way%20Presentation.pdf)
 	* [Analytics Pipeline at Lyft](https://cdn.oreillystatic.com/en/assets/1/event/269/Lyft_s%20analytics%20pipeline_%20From%20Redshift%20to%20Apache%20Hive%20and%20Presto%20Presentation.pdf)
