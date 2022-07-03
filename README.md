@@ -766,7 +766,6 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Mapping Tags at Medium](https://medium.engineering/mapping-mediums-tags-1b9a78d77cf0)
 	* [Clustering with the Dirichlet Process Mixture Model in Scala at Monsanto](http://engineering.monsanto.com/2015/11/23/chinese-restaurant-process/)
 	* [Map Pins with DBSCAN & Random Forests at Foursquare](https://engineering.foursquare.com/you-are-probably-here-better-map-pins-with-dbscan-random-forests-9d51e8c1964d)
-	* [Detecting and Preventing Fraud at Uber](https://eng.uber.com/advanced-technologies-detecting-preventing-fraud-uber/)
 	* [Forecasting at Uber](https://eng.uber.com/forecasting-introduction/)
 	* [Financial Forecasting at Uber](https://eng.uber.com/transforming-financial-forecasting-machine-learning/)
 	* [Productionizing ML with Workflows at Twitter](https://blog.twitter.com/engineering/en_us/topics/insights/2018/ml-workflows.html)
