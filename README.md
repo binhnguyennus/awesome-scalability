@@ -244,7 +244,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [AVA: Audit Web Applications at Indeed](https://engineering.indeedblog.com/blog/2018/09/application-scanning/)
 	* [TTL as a Service: Automatic Revocation of Stale Privileges at Yelp](https://engineeringblog.yelp.com/2018/11/ttl-as-a-service.html)
 	* [Enterprise Key Management at Slack](https://slack.engineering/engineering-dive-into-slack-enterprise-key-management-1fce471b178c)	
-	* [Scalability and Authentication at Twitch](https://blog.twitch.tv/en/2019/03/15/how-twitch-addresses-scalability-and-authentication-718d6ed3c471/)
+	* [Scalability and Authentication at Twitch](https://blog.twitch.tv/en/2019/03/15/how-twitch-addresses-scalability-and-authentication/)
 	* [Edge Authentication and Token-Agnostic Identity Propagation at Netflix](https://netflixtechblog.com/edge-authentication-and-token-agnostic-identity-propagation-514e47e0b602)
 	* [Hardening Kubernetes Infrastructure with Cilium at Palantir](https://blog.palantir.com/hardening-palantirs-kubernetes-infrastructure-with-cilium-1c40d4c7ef0)
 	* [Improving Web Vulnerability Management through Automation at Lyft](https://eng.lyft.com/improving-web-vulnerability-management-through-automation-2631570d8415)
