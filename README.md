@@ -346,7 +346,6 @@ An updated and organized reading list for illustrating the patterns of scalable,
 		* [Elasticsearch Performance Tuning Practice at eBay](https://www.ebayinc.com/stories/blogs/tech/elasticsearch-performance-tuning-practice-at-ebay/)
 		* [Improve Performance using Elasticsearch Plugins (2 parts) at Tinder](https://medium.com/tinder-engineering/how-we-improved-our-performance-using-elasticsearch-plugins-part-2-b051da2ee85b)
 		* [Elasticsearch at Kickstarter](https://kickstarter.engineering/elasticsearch-at-kickstarter-db3c487887fc)
-		* [Elasticsearch at Target](https://tech.target.com/2017/05/25/elasticsearch-cloud.html)
 		* [Log Parsing with Logstash and Google Protocol Buffers at Trivago](https://tech.trivago.com/2016/01/19/logstash_protobuf_codec/)
 		* [Fast Order Search using Data Pipeline and Elasticsearch at Yelp](https://engineeringblog.yelp.com/2018/06/fast-order-search.html)
 		* [Moving Core Business Search to Elasticsearch at Yelp](https://engineeringblog.yelp.com/2017/06/moving-yelps-core-business-search-to-elasticsearch.html)
