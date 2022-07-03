@@ -376,7 +376,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [MySQL at Pinterest](https://medium.com/@Pinterest_Engineering/learn-to-stop-using-shiny-new-things-and-love-mysql-3e1613c2ce14)
 	* [PostgreSQL at Twitch](https://blog.twitch.tv/how-twitch-uses-postgresql-c34aa9e56f58)
 	* [Scaling MySQL-based Financial Reporting System at Airbnb](https://medium.com/airbnb-engineering/tracking-the-money-scaling-financial-reporting-at-airbnb-6d742b80f040)
-	* [Scaling MySQL at Wix](https://www.wix.engineering/single-post/scaling-to-100m-mysql-is-a-better-nosql)
+	* [Scaling MySQL at Wix](https://www.wix.engineering/post/scaling-to-100m-mysql-is-a-better-nosql)
 	* [MaxScale (MySQL) Database Proxy at Airbnb](https://medium.com/airbnb-engineering/unlocking-horizontal-scalability-in-our-web-serving-tier-d907449cdbcf)
 	* [Switching from Postgres to MySQL at Uber](https://eng.uber.com/mysql-migration/)
 	* [Handling Growth with Postgres at Instagram](https://engineering.instagram.com/handling-growth-with-postgres-5-tips-from-instagram-d5d7e7ffdfcb)
