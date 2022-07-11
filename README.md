@@ -151,6 +151,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Solving Remote Build Cache Misses (2 parts) at SoundCloud](https://developers.soundcloud.com/blog/gradle-remote-build-cache-misses-part-2)
 	* [Ratings & Reviews (2 parts) at Flipkart](https://tech.flipkart.com/ratings-reviews-flipkart-part-2-574ab08e75cf)
 	* [Prefetch Caching of Items at eBay](https://tech.ebayinc.com/engineering/prefetch-caching-of-ebay-items/)
+	* [Cross-Region Caching Library at Wix](https://www.wix.engineering/post/how-we-built-a-cross-region-caching-library)
     * [HTTP Caching and CDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching)
         * [Zynga Geo Proxy: Reducing Mobile Game Latency at Zynga](https://www.zynga.com/blogs/engineering/zynga-geo-proxy-reducing-mobile-game-latency)
         * [Google AMP at Condé Nast](https://technology.condenast.com/story/the-why-and-how-of-google-amp-at-conde-nast)
