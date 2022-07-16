@@ -337,7 +337,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Nautilus: Search Engine at Dropbox](https://blogs.dropbox.com/tech/2018/09/architecture-of-nautilus-the-new-dropbox-search-engine/)
 	* [Galene: Search Architecture of LinkedIn](https://engineering.linkedin.com/search/did-you-mean-galene)
 	* [Manas: High Performing Customized Search System at Pinterest](https://medium.com/@Pinterest_Engineering/manas-a-high-performing-customized-search-system-cf189f6ca40f)
-	* [Sherlock: Near Real Time Search Indexing at Flipkart](https://tech.flipkart.com/sherlock-near-real-time-search-indexing-95519783859d)
+	* [Sherlock: Near Real Time Search Indexing at Flipkart](https://blog.flipkart.tech/sherlock-near-real-time-search-indexing-95519783859d)
 	* [Nebula: Storage Platform to Build Search Backends at Airbnb](https://medium.com/airbnb-engineering/nebula-as-a-storage-platform-to-build-airbnbs-search-backends-ecc577b05f06)
 	* [ELK (Elasticsearch, Logstash, Kibana) Stack](https://logz.io/blog/15-tech-companies-chose-elk-stack/)
 		* [Predictions in Real Time with ELK at Uber](https://eng.uber.com/elk/)
