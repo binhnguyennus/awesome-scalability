@@ -894,6 +894,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 * [Tech Migrations at Spotify](https://engineering.atspotify.com/2020/06/25/tech-migrations-the-spotify-way/)
 * [Improving Code Ownership at Yelp](https://engineeringblog.yelp.com/2021/01/whose-code-is-it-anyway.html)
 * [Agile Code Base at eBay](https://tech.ebayinc.com/engineering/how-creating-an-agile-code-base-helped-ebay-pivot-for-apple-silicon/)
+* [Automated Incident Management through Slack at Airbnb](https://medium.com/airbnb-engineering/incident-management-ae863dc5d47f)
 * [Code Review](https://ai.google/research/pubs/pub47025)
 	* [Code Review at Palantir](https://medium.com/@palantir/code-review-best-practices-19e02780015f)
 	* [Code Review at LINE](https://engineering.linecorp.com/en/blog/effective-code-review/)
