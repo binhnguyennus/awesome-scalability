@@ -250,6 +250,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Edge Authentication and Token-Agnostic Identity Propagation at Netflix](https://netflixtechblog.com/edge-authentication-and-token-agnostic-identity-propagation-514e47e0b602)
 	* [Hardening Kubernetes Infrastructure with Cilium at Palantir](https://blog.palantir.com/hardening-palantirs-kubernetes-infrastructure-with-cilium-1c40d4c7ef0)
 	* [Improving Web Vulnerability Management through Automation at Lyft](https://eng.lyft.com/improving-web-vulnerability-management-through-automation-2631570d8415)
+	* [Clock Skew when Syncing Password Payloads at Drobbox](https://dropbox.tech/application/dropbox-passwords-clock-skew-payload-sync-merge)
 * [Distributed Messaging, Queuing, and Event Streaming](https://arxiv.org/pdf/1704.00411.pdf)
 	* [Cape: Event Stream Processing Framework at Dropbox](https://blogs.dropbox.com/tech/2017/05/introducing-cape/)
 	* [Brooklin: Distributed Service for Near Real-Time Data Streaming at LinkedIn](https://engineering.linkedin.com/blog/2019/brooklin-open-source)
