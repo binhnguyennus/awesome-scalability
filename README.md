@@ -119,6 +119,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Kubernetes Platform at Pinterest](https://medium.com/pinterest-engineering/building-a-kubernetes-platform-at-pinterest-fb3d9571c948)
 	* [Microservices at Nubank](https://medium.com/building-nubank/microservices-at-nubank-an-overview-2ebcb336c64d)
 	* [Payment Transaction Management in Microservices at Mercari](https://engineering.mercari.com/en/blog/entry/20210831-2019-06-07-155849/)
+	* [Service Mesh at Snap](https://eng.snap.com/monolith-to-multicloud-microservices-snap-service-mesh)
 	* [GRIT: Protocol for Distributed Transactions across Microservices at eBay](https://tech.ebayinc.com/engineering/grit-a-protocol-for-distributed-transactions-across-microservices/)
 	* [Rubix: Kubernetes at Palantir](https://medium.com/palantir/introducing-rubix-kubernetes-at-palantir-ab0ce16ea42e)
 	* [CRISP: Critical Path Analysis for Microservice Architectures at Uber](https://eng.uber.com/crisp-critical-path-analysis-for-microservice-architectures/)
