@@ -295,6 +295,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 		* [Kafka at Yelp](https://engineeringblog.yelp.com/2016/07/billions-of-messages-a-day-yelps-real-time-data-pipeline.html)
 		* [Kafka at Criteo](https://medium.com/criteo-labs/upgrading-kafka-on-a-large-infra-3ee99f56e970)
 		* [Kafka on Kubernetes at Shopify](https://shopifyengineering.myshopify.com/blogs/engineering/running-apache-kafka-on-kubernetes-at-shopify)
+		* [Kafka on PaaSTA: Running Kafka on Kubernetes at Yelp (2 parts)](https://engineeringblog.yelp.com/2022/03/kafka-on-paasta-part-two.html)
 		* [Migrating Kafka's Zookeeper with No Downtime at Yelp](https://engineeringblog.yelp.com/2019/01/migrating-kafkas-zookeeper-with-no-downtime.html)
 		* [Reprocessing and Dead Letter Queues with Kafka at Uber](https://eng.uber.com/reliable-reprocessing/)
 		* [Chaperone: Audit Kafka End-to-End at Uber](https://eng.uber.com/chaperone/)
