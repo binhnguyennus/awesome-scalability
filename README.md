@@ -731,6 +731,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Machine Learning Platform at Yelp](https://engineeringblog.yelp.com/2020/07/ML-platform-overview.html)
 	* [Machine Learning Platform at Etsy](https://codeascraft.com/2021/12/21/redesigning-etsys-machine-learning-platform/)
 	* [Platform for Serving Recommendations at Etsy](https://www.etsy.com/sg-en/codeascraft/building-a-platform-for-serving-recommendations-at-etsy)
+	* [Infrastructure to Run User Forecasts at Spotify](https://engineering.atspotify.com/2022/06/how-we-built-infrastructure-to-run-user-forecasts-at-spotify/)
 	* [Aroma: Using ML for Code Recommendation at Facebook](https://code.fb.com/developer-tools/aroma/)
 	* [Flyte: Cloud Native Machine Learning and Data Processing Platform at Lyft](https://eng.lyft.com/introducing-flyte-cloud-native-machine-learning-and-data-processing-platform-fb2bb3046a59)
 	* [LyftLearn: ML Model Training Infrastructure built on Kubernetes at Lyft](https://eng.lyft.com/lyftlearn-ml-model-training-infrastructure-built-on-kubernetes-aef8218842bb)
