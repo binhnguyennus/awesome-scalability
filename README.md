@@ -668,6 +668,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [TypeScript at Etsy](https://codeascraft.com/2021/11/08/etsys-journey-to-typescript/)
 	* [BPF and Go at Bumble](https://medium.com/bumble-tech/bpf-and-go-modern-forms-of-introspection-in-linux-6b9802682223)
 	* [Ruby on Rails at GitLab](https://medium.com/gitlab-magazine/why-we-use-ruby-on-rails-to-build-gitlab-601dce4a7a38)
+	* [Rust in production at Figma](https://medium.com/figma-design/rust-in-production-at-figma-e10a0ec31929)
 	* [Choosing a Language Stack at WeWork](https://engineering.wework.com/choosing-a-language-stack-cac3726928f6)
 	* [Switching from Go to Rust at Discord](https://blog.discord.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f)
 	* [ASP.NET Core Performance Optimization at Agoda](https://medium.com/agoda-engineering/happy-asp-net-core-performance-optimization-4e21a383d299)
