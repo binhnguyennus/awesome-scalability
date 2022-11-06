@@ -666,6 +666,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [PHP at Slack](https://slack.engineering/taking-php-seriously-cf7a60065329)
 	* [Go at Trivago](https://tech.trivago.com/2020/03/02/why-we-chose-go/)
 	* [TypeScript at Etsy](https://codeascraft.com/2021/11/08/etsys-journey-to-typescript/)
+	* [Kotlin for taming state at Etsy](https://www.etsy.com/sg-en/codeascraft/sealed-classes-opened-my-mind)
 	* [BPF and Go at Bumble](https://medium.com/bumble-tech/bpf-and-go-modern-forms-of-introspection-in-linux-6b9802682223)
 	* [Ruby on Rails at GitLab](https://medium.com/gitlab-magazine/why-we-use-ruby-on-rails-to-build-gitlab-601dce4a7a38)
 	* [Rust in production at Figma](https://medium.com/figma-design/rust-in-production-at-figma-e10a0ec31929)
