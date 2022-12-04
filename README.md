@@ -334,6 +334,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Search Federation Architecture at LinkedIn (2018)](https://engineering.linkedin.com/blog/2018/03/search-federation-architecture-at-linkedin)
 	* [Search at Slack](https://slack.engineering/search-at-slack-431f8c80619e)
 	* [Search and Recommendations at DoorDash](https://blog.doordash.com/powering-search-recommendations-at-doordash-8310c5cfd88c)
+	* [Stability and Scalability for Search at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2022/stability-and-scalability-for-search)
 	* [Search Service at Twitter (2014)](https://blog.twitter.com/engineering/en_us/a/2014/building-a-complete-tweet-index.html)
 	* [Autocomplete Search (2 parts) at Traveloka](https://medium.com/traveloka-engineering/high-quality-autocomplete-search-part-2-d5b15bb0dadf)
 	* [Data-Driven Autocorrection System at Canva](https://product.canva.com/building-a-data-driven-autocorrection-system/)
