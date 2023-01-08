@@ -418,6 +418,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 		* [Data Wrangling at Slack](https://slack.engineering/data-wrangling-at-slack-f2e0ff633b69)
 		* [Presto in Big Data Platform on AWS at Netflix](https://medium.com/netflix-techblog/using-presto-in-our-big-data-platform-on-aws-938035909fd4)
 		* [Presto Auto Scaling at Eventbrite](https://www.eventbrite.com/engineering/big-data-workloads-presto-auto-scaling/)
+		* [Speed Up Presto with Alluxio Local Cache at Uber](https://www.uber.com/en-MY/blog/speed-up-presto-with-alluxio-local-cache/)
 * [NoSQL Databases](https://www.thoughtworks.com/insights/blog/nosql-databases-overview)
 	* [Key-Value Databases](http://www.cs.ucsb.edu/~agrawal/fall2009/dynamo.pdf)
 		* [DynamoDB at Nike](https://medium.com/nikeengineering/becoming-a-nimble-giant-how-dynamo-db-serves-nike-at-scale-4cc375dbb18e)
