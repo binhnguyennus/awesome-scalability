@@ -807,7 +807,6 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Optimizing Payments with Machine Learning at Dropbox](https://dropbox.tech/machine-learning/optimizing-payments-with-machine-learning)
 
 ## Architecture
-* [Tech Stack (2 parts) at Uber](https://eng.uber.com/tech-stack-part-two/)
 * [Tech Stack at Medium](https://medium.engineering/the-stack-that-helped-medium-drive-2-6-millennia-of-reading-time-e56801f7c492)
 * [Tech Stack at Shopify](https://engineering.shopify.com/blogs/engineering/e-commerce-at-scale-inside-shopifys-tech-stack)
 * [Building Services (4 parts) at Airbnb](https://medium.com/airbnb-engineering/building-services-at-airbnb-part-4-23c95e428064)
@@ -815,7 +814,6 @@ An updated and organized reading list for illustrating the patterns of scalable,
 * [Architecture of Chat Service (3 parts) at Riot Games](https://engineering.riotgames.com/news/chat-service-architecture-persistence)
 * [Architecture of League of Legends Client Update](https://technology.riotgames.com/news/architecture-league-client-update)
 * [Architecture of Ad Platform at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/building-twitters-ad-platform-architecture-for-the-future.html)
-* [Architecture of API Gateway at Uber](https://eng.uber.com/architecture-api-gateway/)
 * [Basic Architecture of Slack](https://slack.engineering/how-slack-built-shared-channels-8d42c895b19f)
 * [Back-end at LinkedIn](https://engineering.linkedin.com/architecture/brief-history-scaling-linkedin)
 * [Back-end at Flickr](https://yahooeng.tumblr.com/post/157200523046/introducing-tripod-flickrs-backend-refactored)
@@ -833,7 +831,6 @@ An updated and organized reading list for illustrating the patterns of scalable,
 * [PriceAggregator: Intelligent System for Hotel Price Fetching (3 parts) at Agoda](https://medium.com/agoda-engineering/priceaggregator-an-intelligent-system-for-hotel-price-fetching-part-3-52acfc705081)
 * [Phoenix: Testing Platform (3 parts) at Tinder](https://medium.com/tinder-engineering/phoenix-tinders-testing-platform-part-iii-520728b9537)
 * [Hexagonal Architecture at Netflix](https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749)
-* [Architecture of Play API Service at Netflix](https://qconsf.com/system/files/presentation-slides/qcon_netflix_play_api.pdf)
 * [Architecture of Sticker Services at LINE](https://www.slideshare.net/linecorp/architecture-sustaining-line-sticker-services)
 * [Stack Overflow Enterprise at Palantir](https://medium.com/@palantir/terraforming-stack-overflow-enterprise-in-aws-47ee431e6be7)
 * [Architecture of Following Feed, Interest Feed, and Picked For You at Pinterest](https://medium.com/@Pinterest_Engineering/building-a-dynamic-and-responsive-pinterest-7d410e99f0a9)
