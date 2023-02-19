@@ -802,6 +802,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Context-Specific Bidding System at Etsy](https://codeascraft.com/2021/03/23/how-we-built-a-context-specific-bidding-system-for-etsy-ads/)
 	* [Moderating Promotional Spam and Inappropriate Content in Photos at Scale at Yelp](https://engineeringblog.yelp.com/2021/05/moderating-promotional-spam-and-inappropriate-content-in-photos-at-scale-at-yelp.html)
 	* [Optimizing Payments with Machine Learning at Dropbox](https://dropbox.tech/machine-learning/optimizing-payments-with-machine-learning)
+	* [Scaling Media Machine Learning at Netflix](https://netflixtechblog.com/scaling-media-machine-learning-at-netflix-f19b400243)
 
 ## Architecture
 * [Tech Stack at Medium](https://medium.engineering/the-stack-that-helped-medium-drive-2-6-millennia-of-reading-time-e56801f7c492)
