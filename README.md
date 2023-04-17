@@ -97,6 +97,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 ## Scalability
 * [Microservices and Orchestration](https://martinfowler.com/microservices/)
 	* [Domain-Oriented Microservice Architecture at Uber](https://eng.uber.com/microservice-architecture/)
+	* [Service Architecture (3 parts: Domain Gateways, Value-Added Services, BFF) at SoundCloud](https://developers.soundcloud.com/blog/service-architecture-3)
 	* [Container (8 parts) at Riot Games](https://engineering.riotgames.com/news/thinking-inside-container)
 	* [Containerization at Pinterest](https://medium.com/@Pinterest_Engineering/containerization-at-pinterest-92295347f2f3)
 	* [Evolution of Container Usage at Netflix](https://medium.com/netflix-techblog/the-evolution-of-container-usage-at-netflix-3abfc096781b)
