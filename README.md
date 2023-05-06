@@ -270,6 +270,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Benchmarking Streaming Computation Engines at Yahoo](https://yahooeng.tumblr.com/post/135321837876/benchmarking-streaming-computation-engines-at)
 	* [Improving Stream Data Quality With Protobuf Schema Validation at Deliveroo](https://deliveroo.engineering/2019/02/05/improving-stream-data-quality-with-protobuf-schema-validation.html)
 	* [Scaling Email Infrastructure at Medium](https://medium.engineering/scaling-email-infrastructure-for-medium-digest-254223c883b8)
+	* [Real-time Messaging at Slack](https://slack.engineering/real-time-messaging/)
 	* [Event Stream Database at Nike](https://medium.com/nikeengineering/moving-faster-with-aws-by-creating-an-event-stream-database-dedec8ca3eeb)
     * [Event-Driven Messaging](https://martinfowler.com/articles/201701-event-driven.html)
         * [Domain-Driven Design at Alibaba](https://medium.com/swlh/creating-coding-excellence-with-domain-driven-design-88f73d2232c3)
