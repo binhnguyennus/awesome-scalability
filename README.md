@@ -958,7 +958,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 * [Chaos Engineering - Building Confidence in System Behavior through Experiments (Free)](http://www.oreilly.com/webops-perf/free/chaos-engineering.csp?intcmp=il-webops-free-product-na_new_site_chaos_engineering_text_cta)
 * [The Art of Scalability](http://theartofscalability.com/)
 * [Web Scalability for Startup Engineers](https://www.goodreads.com/book/show/23615147-web-scalability-for-startup-engineers)
-* [Scalability Rules: 50 Principles for Scaling Web Sites](http://scalabilityrules.com/)
+* [Scalability Rules: 50 Principles for Scaling Web Sites](https://akfpartners.com/books/scalability-rules)
 
 ## Donation
 Roses are red. Violets are blue. [Binh](https://nguyenquocbinh.org/) likes sweet. [Treat Binh a tiramisu?](https://paypal.me/binhnguyennus) :cake:
