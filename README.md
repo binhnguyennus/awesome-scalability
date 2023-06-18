@@ -272,6 +272,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Scaling Email Infrastructure at Medium](https://medium.engineering/scaling-email-infrastructure-for-medium-digest-254223c883b8)
 	* [Real-time Messaging at Slack](https://slack.engineering/real-time-messaging/)
 	* [Event Stream Database at Nike](https://medium.com/nikeengineering/moving-faster-with-aws-by-creating-an-event-stream-database-dedec8ca3eeb)
+	* [Event Tracking System at Udemy](https://medium.com/udemy-engineering/designing-the-new-event-tracking-system-at-udemy-a45e502216fd)
     * [Event-Driven Messaging](https://martinfowler.com/articles/201701-event-driven.html)
         * [Domain-Driven Design at Alibaba](https://medium.com/swlh/creating-coding-excellence-with-domain-driven-design-88f73d2232c3)
         * [Domain-Driven Design at Weebly](https://medium.com/weebly-engineering/how-to-organize-your-monolith-before-breaking-it-into-services-69cbdb9248b0)
