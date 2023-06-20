@@ -154,6 +154,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Prefetch Caching of Items at eBay](https://tech.ebayinc.com/engineering/prefetch-caching-of-ebay-items/)
 	* [Cross-Region Caching Library at Wix](https://www.wix.engineering/post/how-we-built-a-cross-region-caching-library)
 	* [Improving Distributed Caching Performance and Efficiency at Pinterest](https://medium.com/pinterest-engineering/improving-distributed-caching-performance-and-efficiency-at-pinterest-92484b5fe39b)
+	* [Docker in Production - different techniques to get the most out of Docker](https://betterstack.com/community/guides/scaling-docker/)
     * [HTTP Caching and CDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching)
         * [Zynga Geo Proxy: Reducing Mobile Game Latency at Zynga](https://www.zynga.com/blogs/engineering/zynga-geo-proxy-reducing-mobile-game-latency)
         * [Google AMP at Condé Nast](https://technology.condenast.com/story/the-why-and-how-of-google-amp-at-conde-nast)
