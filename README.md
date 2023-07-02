@@ -879,6 +879,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 ## Organization
 * [Engineering Levels at SoundCloud](https://developers.soundcloud.com/blog/engineering-levels)
 * [Engineering Roles at Palantir](https://medium.com/palantir/dev-versus-delta-demystifying-engineering-roles-at-palantir-ad44c2a6e87)
+* [Engineering Career Framework at Dropbox](https://dropbox.tech/culture/our-updated-engineering-career-framework)
 * [Scaling Engineering Teams at Twitter](https://www.youtube.com/watch?v=-PXi_7Ld5kU)
 * [Scaling Decision-Making Across Teams at LinkedIn](https://engineering.linkedin.com/blog/2018/03/scaling-decision-making-across-teams-within-linkedin-engineering)
 * [Scaling Data Science Team at GOJEK](https://blog.gojekengineering.com/the-dynamics-of-scaling-an-organisation-cb96dbe8aecd)
