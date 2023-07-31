@@ -729,6 +729,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Spark Partitioning Strategies at Airbnb](https://medium.com/airbnb-engineering/on-spark-hive-and-small-files-an-in-depth-look-at-spark-partitioning-strategies-a9a364f908)
 	* [Scaling the Hadoop Distributed File System at LinkedIn](https://engineering.linkedin.com/blog/2021/the-exabyte-club--linkedin-s-journey-of-scaling-the-hadoop-distr)
 	* [Scaling Hadoop YARN cluster beyond 10,000 nodes at LinkedIn](https://engineering.linkedin.com/blog/2021/scaling-linkedin-s-hadoop-yarn-cluster-beyond-10-000-nodes)
+	* [Scaling Big Data Access Controls at Pinterest](https://medium.com/pinterest-engineering/securely-scaling-big-data-access-controls-at-pinterest-bbc3406a1695)
 * [Distributed Machine Learning](https://www.csie.ntu.edu.tw/~cjlin/talks/bigdata-bilbao.pdf)
 	* [Machine Learning Platform at Uber](https://eng.uber.com/michelangelo/)
 	* [Machine Learning Platform at Yelp](https://engineeringblog.yelp.com/2020/07/ML-platform-overview.html)
