@@ -12,7 +12,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 > Look at some [interview notes](#interview) and [real-world architectures with completed diagrams](#architecture) to get a comprehensive view before designing your system on whiteboard. You can check some [talks](#talk) of engineers from tech giants to know how they build, scale, and optimize their systems. Good luck!
 
 #### If you are building your dream team
-> The goal of scaling team is not growing team size but increasing team output and value. You can find out how tech companies reach that goal in various aspects: hiring, management, organization, culture, and communication in the [organization](#organization) section.
+> The goal of scaling the team is not growing team size but increasing team output and value. You can find out how tech companies reach that goal in various aspects: hiring, management, organization, culture, and communication in the [organization](#organization) section.
 
 #### Community power
 
