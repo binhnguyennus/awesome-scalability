@@ -47,7 +47,6 @@ An updated and organized reading list for illustrating the patterns of scalable,
 * [CAP Theorem and Trade-offs](http://robertgreiner.com/2014/08/cap-theorem-revisited/)
 * [CP Databases and AP Databases](https://blog.andyet.com/2014/10/01/right-database)
 * [Stateless vs Stateful Scalability](http://ithare.com/scaling-stateful-objects/)	
-* [Scale Up vs Scale Out](https://www.brianjgraf.com/scalability-scale-up-scale-out-care/)
 * [Scale Up vs Scale Out: Hidden Costs](https://blog.codinghorror.com/scaling-up-vs-scaling-out-hidden-costs/)
 * [ACID and BASE](https://neo4j.com/blog/acid-vs-base-consistency-models-explained/)
 * [Blocking/Non-Blocking and Sync/Async](https://blogs.msdn.microsoft.com/csliu/2009/08/27/io-concept-blockingnon-blocking-vs-syncasync/)
