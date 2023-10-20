@@ -302,6 +302,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 		* [Finding Kafka throughput limit in infrastructure at Dropbox](https://blogs.dropbox.com/tech/2019/01/finding-kafkas-throughput-limit-in-dropbox-infrastructure/)
 		* [Cost Orchestration at Walmart](https://medium.com/walmartlabs/cost-orchestration-at-walmart-f34918af67c4)
 		* [InfluxDB and Kafka to Scale to Over 1 Million Metrics a Second at Hulu](https://medium.com/hulu-tech-blog/how-hulu-uses-influxdb-and-kafka-to-scale-to-over-1-million-metrics-a-second-1721476aaff5)
+		* [Scaling Kafka to Support Data Growth at PayPal](https://medium.com/paypal-tech/scaling-kafka-to-support-paypals-data-growth-a0b4da420fab)
 	* [Stream Data Deduplication](https://en.wikipedia.org/wiki/Data_deduplication)
 		* [Exactly-once Semantics with Kafka](https://www.confluent.io/blog/exactly-once-semantics-are-possible-heres-how-apache-kafka-does-it/)
 		* [Real-time Deduping at Tapjoy](http://eng.tapjoy.com/blog-list/real-time-deduping-at-scale)
