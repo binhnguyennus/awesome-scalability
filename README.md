@@ -912,6 +912,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 * [Agile Code Base at eBay](https://tech.ebayinc.com/engineering/how-creating-an-agile-code-base-helped-ebay-pivot-for-apple-silicon/)
 * [Agile Data Engineering at Miro](https://medium.com/miro-engineering/agile-data-engineering-at-miro-ec2dcc8a3fcb)
 * [Automated Incident Management through Slack at Airbnb](https://medium.com/airbnb-engineering/incident-management-ae863dc5d47f)
+* [Refactor Organization at BBC](https://medium.com/bbc-product-technology/refactor-organisation-80e4e171d922)
 * [Code Review](https://ai.google/research/pubs/pub47025)
 	* [Code Review at Palantir](https://medium.com/@palantir/code-review-best-practices-19e02780015f)
 	* [Code Review at LINE](https://engineering.linecorp.com/en/blog/effective-code-review/)
