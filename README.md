@@ -701,6 +701,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Self-Serve Reporting Platform on Hadoop at LinkedIn](https://cdn.oreillystatic.com/en/assets/1/event/137/Building%20a%20self-serve%20real-time%20reporting%20platform%20at%20LinkedIn%20Presentation%201.pdf)
 	* [Privacy-Preserving Analytics and Reporting at LinkedIn](https://engineering.linkedin.com/blog/2019/04/privacy-preserving-analytics-and-reporting-at-linkedin)
 	* [Analytics Platform for Tracking Item Availability at Walmart](https://medium.com/walmartlabs/how-we-build-a-robust-analytics-platform-using-spark-kafka-and-cassandra-lambda-architecture-70c2d1bc8981)
+	* [Real-Time Analytics for Mobile App Crashes using Apache Pinot at Uber](https://www.uber.com/en-SG/blog/real-time-analytics-for-mobile-app-crashes/)
 	* [HALO: Hardware Analytics and Lifecycle Optimization at Facebook](https://code.fb.com/data-center-engineering/hardware-analytics-and-lifecycle-optimization-halo-at-facebook/)
 	* [RBEA: Real-time Analytics Platform at King](https://techblog.king.com/rbea-scalable-real-time-analytics-king/)
 	* [AresDB: GPU-Powered Real-time Analytics Engine at Uber](https://eng.uber.com/aresdb/)
