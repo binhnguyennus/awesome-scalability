@@ -58,6 +58,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 * [SQL vs NoSQL - Lesson Learned at Salesforce](https://engineering.salesforce.com/sql-or-nosql-9eaf1d92545b)
 * [NoSQL Databases: Survey and Decision Guidance](https://medium.baqend.com/nosql-databases-a-survey-and-decision-guidance-ea7823a822d)
 * [How Sharding Works](https://medium.com/@jeeyoungk/how-sharding-works-b4dec46b3f6)
+* [Everything You Need to Know About Consistent Hashing](https://newsletter.systemdesign.one/p/what-is-consistent-hashing)
 * [Consistent Hashing](http://www.tom-e-white.com/2007/11/consistent-hashing.html)
 * [Consistent Hashing: Algorithmic Tradeoffs](https://medium.com/@dgryski/consistent-hashing-algorithmic-tradeoffs-ef6b8e2fcae8)
 * [Don’t be tricked by the Hashing Trick](https://booking.ai/dont-be-tricked-by-the-hashing-trick-192a6aae3087)
@@ -95,6 +96,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 
 ## Scalability
 * [Microservices and Orchestration](https://martinfowler.com/microservices/)
+	* [Microservices Lessons From Netflix](https://newsletter.systemdesign.one/p/netflix-microservices)
 	* [Domain-Oriented Microservice Architecture at Uber](https://eng.uber.com/microservice-architecture/)
 	* [Service Architecture (3 parts: Domain Gateways, Value-Added Services, BFF) at SoundCloud](https://developers.soundcloud.com/blog/service-architecture-3)
 	* [Container (8 parts) at Riot Games](https://engineering.riotgames.com/news/thinking-inside-container)
@@ -876,6 +878,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [How to do Distributed Locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
 	* [SQL Transaction Isolation Levels Explained](http://elliot.land/post/sql-transaction-isolation-levels-explained)
 * ["What Happens When... and How" Questions](https://www.glassdoor.com/Interview/What-happens-when-you-type-www-google-com-in-your-browser-QTN_56396.htm)
+        * [What Happens When You Type Google.com in the Browser?](https://newsletter.systemdesign.one/p/what-happens-when-you-type-google-com-in-browser)
 	* [Netflix: What Happens When You Press Play?](http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html)
 	* [Monzo: How Peer-To-Peer Payments Work](https://monzo.com/blog/2018/04/05/how-monzo-to-monzo-payments-work/)
 	* [Transit and Peering: How Your Requests Reach GitHub](https://githubengineering.com/transit-and-peering-how-your-requests-reach-github/)
