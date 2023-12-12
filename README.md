@@ -857,6 +857,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Avoiding Double Payments in a Distributed Payments System at Airbnb](https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb)
 	* [Scaling Payments (3 parts) at Etsy](https://www.etsy.com/sg-en/codeascraft/scaling-etsy-payments-with-vitess-part-3--reducing-cutover-risk)
 	* [Handles Millions of Digital Transactions Safely Everyday at Paytm](https://paytm.com/blog/engineering/how-paytm-handles-millions-of-digital-transactions-safely-everyday/)
+	* [Billing and Payment Platform at Grammarly](https://www.grammarly.com/blog/engineering/billing-and-payments-platform/)
 
 ## Interview
 * [Designing Large-Scale Systems](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
