@@ -735,6 +735,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Machine Learning Platform at Uber](https://eng.uber.com/michelangelo/)
 	* [Machine Learning Platform at Yelp](https://engineeringblog.yelp.com/2020/07/ML-platform-overview.html)
 	* [Machine Learning Platform at Etsy](https://codeascraft.com/2021/12/21/redesigning-etsys-machine-learning-platform/)
+	* [Machine Learning Platform at Zalando](https://engineering.zalando.com/posts/2022/04/zalando-machine-learning-platform.html)
 	* [Recommendation System at Lyft](https://eng.lyft.com/the-recommendation-system-at-lyft-67bc9dcc1793)
 	* [Platform for Serving Recommendations at Etsy](https://www.etsy.com/sg-en/codeascraft/building-a-platform-for-serving-recommendations-at-etsy)
 	* [Infrastructure to Run User Forecasts at Spotify](https://engineering.atspotify.com/2022/06/how-we-built-infrastructure-to-run-user-forecasts-at-spotify/)
