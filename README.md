@@ -380,6 +380,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 		* [MezzFS: Mounting Object Storage in Media Processing Platform at Netflix](https://medium.com/netflix-techblog/mezzfs-mounting-object-storage-in-netflixs-media-processing-platform-cda01c446ba)	
 		* [Magic Pocket: In-house Multi-exabyte Storage System at Dropbox](https://blogs.dropbox.com/tech/2016/05/inside-the-magic-pocket/)
 * [Relational Databases](https://www.mysql.com/products/cluster/scalability.html)
+	* [Building and Deploying MySQL Raft at Meta](https://engineering.fb.com/2023/05/16/data-infrastructure/mysql-raft-meta/)
 	* [MySQL for Schema-less Data at FriendFeed](https://backchannel.org/blog/friendfeed-schemaless-mysql)
 	* [MySQL at Pinterest](https://medium.com/@Pinterest_Engineering/learn-to-stop-using-shiny-new-things-and-love-mysql-3e1613c2ce14)
 	* [PostgreSQL at Twitch](https://blog.twitch.tv/how-twitch-uses-postgresql-c34aa9e56f58)
