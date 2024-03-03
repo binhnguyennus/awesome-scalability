@@ -708,6 +708,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [RBEA: Real-time Analytics Platform at King](https://techblog.king.com/rbea-scalable-real-time-analytics-king/)
 	* [AresDB: GPU-Powered Real-time Analytics Engine at Uber](https://eng.uber.com/aresdb/)
 	* [AthenaX: Streaming Analytics Platform at Uber](https://eng.uber.com/athenax/)
+	* [Jupiter: Config Driven Adtech Batch Ingestion Platform at Uber](https://www.uber.com/en-SG/blog/jupiter-batch-ingestion-platform/)
 	* [Delta: Data Synchronization and Enrichment Platform at Netflix](https://medium.com/netflix-techblog/delta-a-data-synchronization-and-enrichment-platform-e82c36a79aee)
 	* [Keystone: Real-time Stream Processing Platform at Netflix](https://medium.com/netflix-techblog/keystone-real-time-stream-processing-platform-a3ee651812a)
 	* [Databook: Turning Big Data into Knowledge with Metadata at Uber](https://eng.uber.com/databook/)
