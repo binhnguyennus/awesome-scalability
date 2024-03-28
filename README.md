@@ -762,6 +762,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Deep Learning for Image Classification Experiment at Mercari](https://medium.com/mercari-engineering/mercaris-image-classification-experiment-using-deep-learning-9b4e994a18ec)
 	* [Deep Learning for Frame Detection in Product Images at Allegro](https://allegro.tech/2016/12/deep-learning-for-frame-detection.html)
 	* [Content-based Video Relevance Prediction at Hulu](https://medium.com/hulu-tech-blog/content-based-video-relevance-prediction-b2c448e14752)
+	* [Moderating Inappropriate Video Content at Yelp](https://engineeringblog.yelp.com/2024/03/moderating-inappropriate-video-content-at-yelp.html)
 	* [Improving Photo Selection With Deep Learning at TripAdvisor](http://engineering.tripadvisor.com/improving-tripadvisor-photo-selection-deep-learning/)
 	* [Personalized Recommendations for Experiences Using Deep Learning at TripAdvisor](https://www.tripadvisor.com/engineering/personalized-recommendations-for-experiences-using-deep-learning/)
 	* [Personalised Recommender Systems at BBC](https://medium.com/bbc-design-engineering/developing-personalised-recommender-systems-at-the-bbc-e26c5e0c4216)
