@@ -735,10 +735,10 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Scaling Hadoop YARN cluster beyond 10,000 nodes at LinkedIn](https://engineering.linkedin.com/blog/2021/scaling-linkedin-s-hadoop-yarn-cluster-beyond-10-000-nodes)
 	* [Scaling Big Data Access Controls at Pinterest](https://medium.com/pinterest-engineering/securely-scaling-big-data-access-controls-at-pinterest-bbc3406a1695)
 * [Distributed Machine Learning](https://www.csie.ntu.edu.tw/~cjlin/talks/bigdata-bilbao.pdf)
-	* [Machine Learning Platform at Uber](https://eng.uber.com/michelangelo/)
 	* [Machine Learning Platform at Yelp](https://engineeringblog.yelp.com/2020/07/ML-platform-overview.html)
 	* [Machine Learning Platform at Etsy](https://codeascraft.com/2021/12/21/redesigning-etsys-machine-learning-platform/)
 	* [Machine Learning Platform at Zalando](https://engineering.zalando.com/posts/2022/04/zalando-machine-learning-platform.html)
+	* [Scaling AI/ML Infrastructure at Uber](https://www.uber.com/en-SG/blog/scaling-ai-ml-infrastructure-at-uber/)
 	* [Recommendation System at Lyft](https://eng.lyft.com/the-recommendation-system-at-lyft-67bc9dcc1793)
 	* [Platform for Serving Recommendations at Etsy](https://www.etsy.com/sg-en/codeascraft/building-a-platform-for-serving-recommendations-at-etsy)
 	* [Infrastructure to Run User Forecasts at Spotify](https://engineering.atspotify.com/2022/06/how-we-built-infrastructure-to-run-user-forecasts-at-spotify/)
@@ -963,5 +963,5 @@ An updated and organized reading list for illustrating the patterns of scalable,
 * [Scaling Git at Microsoft - Saeed Noursalehi, Principal Program Manager at Microsoft](https://www.youtube.com/watch?v=g_MPGU_m01s)
 * [Scaling Multitenant Architecture Across Multiple Data Centres at Shopify - Weingarten, Engineering Lead at Shopify](https://www.youtube.com/watch?v=F-f0-k46WVk)
 
-## Donation
-Roses are red. Violets are blue. [Binh](https://nguyenquocbinh.org/) likes sweet. [Treat Binh a tiramisu?](https://paypal.me/binhnguyennus) :cake:
+## A Piece of Cake
+Roses are red. Violets are blue. [Ben](https://nguyenquocbinh.org/) likes sweet. [Treat Ben a tiramisu?](https://paypal.me/binhnguyennus) :cake:
