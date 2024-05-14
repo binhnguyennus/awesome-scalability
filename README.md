@@ -740,6 +740,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Machine Learning Platform at Zalando](https://engineering.zalando.com/posts/2022/04/zalando-machine-learning-platform.html)
 	* [Scaling AI/ML Infrastructure at Uber](https://www.uber.com/en-SG/blog/scaling-ai-ml-infrastructure-at-uber/)
 	* [Recommendation System at Lyft](https://eng.lyft.com/the-recommendation-system-at-lyft-67bc9dcc1793)
+	* [Reinforcement Learning Platform at Lyft](https://eng.lyft.com/lyfts-reinforcement-learning-platform-670f77ff46ec)
 	* [Platform for Serving Recommendations at Etsy](https://www.etsy.com/sg-en/codeascraft/building-a-platform-for-serving-recommendations-at-etsy)
 	* [Infrastructure to Run User Forecasts at Spotify](https://engineering.atspotify.com/2022/06/how-we-built-infrastructure-to-run-user-forecasts-at-spotify/)
 	* [Aroma: Using ML for Code Recommendation at Facebook](https://code.fb.com/developer-tools/aroma/)
