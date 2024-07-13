@@ -724,7 +724,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Spark on Scala: Analytics Reference Architecture at Adobe](https://medium.com/adobetech/spark-on-scala-adobe-analytics-reference-architecture-7457f5614b4c)
 	* [Experimentation Platform (2 parts) at Spotify](https://engineering.atspotify.com/2020/11/02/spotifys-new-experimentation-platform-part-2/)
 	* [Experimentation Platform at Airbnb](https://medium.com/airbnb-engineering/https-medium-com-jonathan-parks-scaling-erf-23fd17c91166)
-	* [Smart Product Platform at Zalando](https://jobs.zalando.com/tech/blog/zalando-smart-product-platform/?gh_src=4n3gxh1)
+	* [Smart Product Platform at Zalando](https://engineering.zalando.com/posts/2017/10/zalando-smart-product-platform.html)
 	* [Log Analysis Platform at LINE](https://www.slideshare.net/wyukawa/strata2017-sg)
 	* [Data Visualisation Platform at Myntra](https://medium.com/myntra-engineering/universal-dashboarding-platform-udp-data-visualisation-platform-at-myntra-5f2522fcf72d)
 	* [Building and Scaling Data Lineage at Netflix](https://medium.com/netflix-techblog/building-and-scaling-data-lineage-at-netflix-to-improve-data-infrastructure-reliability-and-1a52526a7977)
