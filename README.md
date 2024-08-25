@@ -678,7 +678,8 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Choosing a Language Stack at WeWork](https://engineering.wework.com/choosing-a-language-stack-cac3726928f6)
 	* [Switching from Go to Rust at Discord](https://blog.discord.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f)
 	* [ASP.NET Core Performance Optimization at Agoda](https://medium.com/agoda-engineering/happy-asp-net-core-performance-optimization-4e21a383d299)
-	* [Data Race Patterns in Go at Uber](https://eng.uber.com/data-race-patterns-in-go/)	
+	* [Data Race Patterns in Go at Uber](https://eng.uber.com/data-race-patterns-in-go/)
+	* [Java 21 Virtual Threads at Netflix](https://netflixtechblog.com/java-21-virtual-threads-dude-wheres-my-lock-3052540e231d)	
     
 ## Intelligence
 * [Big Data](https://insights.sei.cmu.edu/sei_blog/2017/05/reference-architectures-for-big-data-systems.html)	
@@ -967,4 +968,4 @@ An updated and organized reading list for illustrating the patterns of scalable,
 * [Scaling Multitenant Architecture Across Multiple Data Centres at Shopify - Weingarten, Engineering Lead at Shopify](https://www.youtube.com/watch?v=F-f0-k46WVk)
 
 ## A Piece of Cake
-Roses are red. Violets are blue. [Ben](https://nguyenquocbinh.org/) likes sweet. [Treat Ben a tiramisu?](https://paypal.me/binhnguyennus) :cake:
+Roses are red. Violets are blue. [Binh](https://nguyenquocbinh.org/) likes sweet. [Treat Binh a tiramisu?](https://paypal.me/binhnguyennus) :cake:
