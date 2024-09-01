@@ -559,7 +559,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Distributed Rate Limiting at Allegro](https://allegro.tech/2017/04/hermes-max-rate.html)
 	* [Ratequeue: Core Queueing-And-Rate-Limiting System at Twilio](https://www.twilio.com/blog/2017/11/chaos-engineering-ratequeue-ha.html)
 	* [Quotas Service at Grab](https://engineering.grab.com/quotas-service)
- 	* [Rate limiting at Figma](https://medium.com/figma-design/an-alternative-approach-to-rate-limiting-f8a06cf7c94c)	
+	* [Rate Limiting at Figma](https://medium.com/figma-design/an-alternative-approach-to-rate-limiting-f8a06cf7c94c)	
 * [Autoscaling](https://medium.com/@BotmetricHQ/top-11-hard-won-lessons-learned-about-aws-auto-scaling-5bfe56da755f)
 	* [Autoscaling Pinterest](https://medium.com/@Pinterest_Engineering/auto-scaling-pinterest-df1d2beb4d64)
 	* [Autoscaling Based on Request Queuing at Square](https://medium.com/square-corner-blog/autoscaling-based-on-request-queuing-c4c0f57f860f)
@@ -819,6 +819,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Optimizing Payments with Machine Learning at Dropbox](https://dropbox.tech/machine-learning/optimizing-payments-with-machine-learning)
 	* [Scaling Media Machine Learning at Netflix](https://netflixtechblog.com/scaling-media-machine-learning-at-netflix-f19b400243)
 	* [Similarity Engine at eBay](https://tech.ebayinc.com/engineering/ebays-blazingly-fast-billion-scale-vector-similarity-engine/)
+	* [Machine Learning in Content Moderation at Etsy](https://www.etsy.com/codeascraft/machine-learning-in-content-moderation-at-etsy)
 
 ## Architecture
 * [Tech Stack at Medium](https://medium.engineering/the-stack-that-helped-medium-drive-2-6-millennia-of-reading-time-e56801f7c492)
