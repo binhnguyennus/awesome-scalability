@@ -559,6 +559,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Distributed Rate Limiting at Allegro](https://allegro.tech/2017/04/hermes-max-rate.html)
 	* [Ratequeue: Core Queueing-And-Rate-Limiting System at Twilio](https://www.twilio.com/blog/2017/11/chaos-engineering-ratequeue-ha.html)
 	* [Quotas Service at Grab](https://engineering.grab.com/quotas-service)
+ 	* [Rate limiting at Figma](https://medium.com/figma-design/an-alternative-approach-to-rate-limiting-f8a06cf7c94c)	
 * [Autoscaling](https://medium.com/@BotmetricHQ/top-11-hard-won-lessons-learned-about-aws-auto-scaling-5bfe56da755f)
 	* [Autoscaling Pinterest](https://medium.com/@Pinterest_Engineering/auto-scaling-pinterest-df1d2beb4d64)
 	* [Autoscaling Based on Request Queuing at Square](https://medium.com/square-corner-blog/autoscaling-based-on-request-queuing-c4c0f57f860f)
