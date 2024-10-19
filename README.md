@@ -751,6 +751,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Flyte: Cloud Native Machine Learning and Data Processing Platform at Lyft](https://eng.lyft.com/introducing-flyte-cloud-native-machine-learning-and-data-processing-platform-fb2bb3046a59)
 	* [LyftLearn: ML Model Training Infrastructure built on Kubernetes at Lyft](https://eng.lyft.com/lyftlearn-ml-model-training-infrastructure-built-on-kubernetes-aef8218842bb)
 	* [Horovod: Open Source Distributed Deep Learning Framework for TensorFlow at Uber](https://eng.uber.com/horovod/)
+	* [Genie: Gen AI On-Call Copilot at Uber](https://www.uber.com/blog/genie-ubers-gen-ai-on-call-copilot/)
 	* [COTA: Improving Customer Care with NLP & Machine Learning at Uber](https://eng.uber.com/cota/)
 	* [Manifold: Model-Agnostic Visual Debugging Tool for Machine Learning at Uber](https://eng.uber.com/manifold/)	
 	* [Repo-Topix: Topic Extraction Framework at Github](https://githubengineering.com/topics/)
