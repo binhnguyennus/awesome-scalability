@@ -166,7 +166,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Distributed Locking at Uber](https://www.youtube.com/watch?v=MDuagr729aU)
 	* [Distributed Locks using Redis at GoSquared](https://engineering.gosquared.com/distributed-locks-using-redis)
 	* [ZooKeeper at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2018/zookeeper-at-twitter.html)
-	* [Eliminating Duplicate Queries using Distributed Locking at Chartio](https://blog.chartio.com/posts/eliminating-duplicate-queries-using-distributed-locking)
+	* [Eliminating Duplicate Queries using Distributed Locking at Chartio](https://chartio.com/blog/eliminating-duplicate-queries-using-distributed-locking/)
 * [Distributed Tracking, Tracing, and Measuring](https://www.oreilly.com/ideas/understanding-the-value-of-distributed-tracing)
 	* [Zipkin: Distributed Systems Tracing at Twitter](https://blog.twitter.com/engineering/en_us/a/2012/distributed-systems-tracing-with-zipkin.html)
 	* [Improve Zipkin Traces using Kubernetes Pod Metadata at SoundCloud](https://developers.soundcloud.com/blog/using-kubernetes-pod-metadata-to-improve-zipkin-traces)
