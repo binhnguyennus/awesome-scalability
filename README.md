@@ -382,7 +382,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Building and Deploying MySQL Raft at Meta](https://engineering.fb.com/2023/05/16/data-infrastructure/mysql-raft-meta/)
 	* [MySQL for Schema-less Data at FriendFeed](https://backchannel.org/blog/friendfeed-schemaless-mysql)
 	* [MySQL at Pinterest](https://medium.com/@Pinterest_Engineering/learn-to-stop-using-shiny-new-things-and-love-mysql-3e1613c2ce14)
-	* [PostgreSQL at Twitch](https://blog.twitch.tv/how-twitch-uses-postgresql-c34aa9e56f58)
+	* [PostgreSQL at Twitch](https://blog.twitch.tv/en/2016/10/11/how-twitch-uses-postgresql-c34aa9e56f58)
 	* [Scaling MySQL-based Financial Reporting System at Airbnb](https://medium.com/airbnb-engineering/tracking-the-money-scaling-financial-reporting-at-airbnb-6d742b80f040)
 	* [Scaling MySQL at Wix](https://www.wix.engineering/post/scaling-to-100m-mysql-is-a-better-nosql)
 	* [MaxScale (MySQL) Database Proxy at Airbnb](https://medium.com/airbnb-engineering/unlocking-horizontal-scalability-in-our-web-serving-tier-d907449cdbcf)
