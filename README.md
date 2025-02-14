@@ -386,7 +386,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Scaling MySQL-based Financial Reporting System at Airbnb](https://medium.com/airbnb-engineering/tracking-the-money-scaling-financial-reporting-at-airbnb-6d742b80f040)
 	* [Scaling MySQL at Wix](https://www.wix.engineering/post/scaling-to-100m-mysql-is-a-better-nosql)
 	* [MaxScale (MySQL) Database Proxy at Airbnb](https://medium.com/airbnb-engineering/unlocking-horizontal-scalability-in-our-web-serving-tier-d907449cdbcf)
-	* [Switching from Postgres to MySQL at Uber](https://eng.uber.com/mysql-migration/)
+	* [Switching from Postgres to MySQL at Uber](https://www.uber.com/en-NL/blog/postgres-to-mysql-migration/)
 	* [Handling Growth with Postgres at Instagram](https://engineering.instagram.com/handling-growth-with-postgres-5-tips-from-instagram-d5d7e7ffdfcb)
 	* [Scaling the Analytics Database (Postgres) at TransferWise](http://tech.transferwise.com/scaling-our-analytics-database/)
 	* [Updating a 50 Terabyte PostgreSQL Database at Adyen](https://medium.com/adyen/updating-a-50-terabyte-postgresql-database-f64384b799e7)
