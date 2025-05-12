@@ -261,6 +261,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Dynein: Distributed Delayed Job Queueing System at Airbnb](https://medium.com/airbnb-engineering/dynein-building-a-distributed-delayed-job-queueing-system-93ab10f05f99)
 	* [Timestone: Queueing System for Non-Parallelizable Workloads at Netflix](https://netflixtechblog.com/timestone-netflixs-high-throughput-low-latency-priority-queueing-system-with-built-in-support-1abf249ba95f)
 	* [Messaging Service at Riot Games](https://engineering.riotgames.com/news/riot-messaging-service)
+	* [Messaging System Model at Dropbox](https://dropbox.tech/infrastructure/infrastructure-messaging-system-model-async-platform-evolution)
 	* [Debugging Production with Event Logging at Zillow](https://www.zillow.com/engineering/debugging-production-event-logging/)
 	* [Cross-platform In-app Messaging Orchestration Service at Netflix](https://medium.com/netflix-techblog/building-a-cross-platform-in-app-messaging-orchestration-service-86ba614f92d8)
 	* [Video Gatekeeper at Netflix](https://medium.com/netflix-techblog/re-architecting-the-video-gatekeeper-f7b0ac2f6b00)
