@@ -498,6 +498,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Dynamic Configuration at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2018/dynamic-configuration-at-twitter.html)
 	* [Dynamic Configuration at Mixpanel](https://medium.com/mixpaneleng/dynamic-configuration-at-mixpanel-94bfcf97d6b8)
 	* [Dynamic Configuration at GoDaddy](https://sg.godaddy.com/engineering/2019/03/06/dynamic-configuration-for-nodejs/)
+	* [Fleet Management (3 parts) at Spotify](https://engineering.atspotify.com/2023/5/fleet-management-at-spotify-part-3-fleet-wide-refactoring)
 * [Scaling Continuous Integration and Continuous Delivery](https://www.synopsys.com/blogs/software-security/agile-cicd-devops-glossary/)
 	* [Continuous Integration Stack at Facebook](https://code.fb.com/web/rapid-release-at-massive-scale/)
 	* [Continuous Integration with Distributed Repositories and Dependencies at Netflix](https://medium.com/netflix-techblog/towards-true-continuous-integration-distributed-repositories-and-dependencies-2a2e3108c051)
