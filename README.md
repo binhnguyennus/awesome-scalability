@@ -921,6 +921,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 * [Four Pillars of Leading People (Empathy, Inspiration, Trust, Honesty) at Zalando](https://jobs.zalando.com/tech/blog/four-pillars-leadership/)
 * [Pair Programming at Shopify](https://engineering.shopify.com/blogs/engineering/pair-programming-explained)
 * [Distributed Responsibility at Asana](https://blog.asana.com/2017/12/distributed-responsibility-engineering-manager/)
+* [Designing WhatsApp](http://highscalability.com/blog/2022/1/3/designing-whatsapp.html)
 * [Rotating Engineers at Zalando](https://jobs.zalando.com/tech/blog/rotating-engineers-at-zalando/)
 * [Experiment Idea Review at Pinterest](https://medium.com/pinterest-engineering/how-pinterest-supercharged-its-growth-team-with-experiment-idea-review-fd6571a02fb8)
 * [Tech Migrations at Spotify](https://engineering.atspotify.com/2020/06/25/tech-migrations-the-spotify-way/)
