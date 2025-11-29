@@ -977,7 +977,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 * [Scaling Multitenant Architecture Across Multiple Data Centres at Shopify - Weingarten, Engineering Lead at Shopify](https://www.youtube.com/watch?v=F-f0-k46WVk)
 
 ## Interactive Learning
-- [System Designer](https://systemdesigner.io) - Free AI-powered system design learning platform with interactive lessons, custom learning plans, and collaborative whiteboards. Chat with AI to explore 200+ topics, practice, and build projects. Covers fundamentals, GenAI, ML systems, and 67+ technologies.
+- [System Designer](https://systemdesigner.net) - Free AI-powered system design learning platform with interactive lessons, custom learning plans, and collaborative whiteboards. Chat with AI to explore 200+ topics, practice, and build projects. Covers fundamentals, GenAI, ML systems, and 67+ technologies.
 
 ## A Piece of Cake
 Roses are red. Violets are blue. [Binh](https://nguyenquocbinh.org/) likes sweet. [Treat Binh a tiramisu?](https://paypal.me/binhnguyennus) :cake:
