@@ -31,6 +31,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 - [Interview](#interview)
 - [Organization](#organization)
 - [Talk](#talk)
+- [Interactive Learning](#interactive-learning) 
 - [Book](#book)
 
 ## Principle
@@ -974,6 +975,9 @@ An updated and organized reading list for illustrating the patterns of scalable,
 * [Scaling Counting Infrastructure at Quora - Chun-Ho Hung and Nikhil Gar, SEs at Quora](https://www.infoq.com/presentations/quora-analytics)
 * [Scaling Git at Microsoft - Saeed Noursalehi, Principal Program Manager at Microsoft](https://www.youtube.com/watch?v=g_MPGU_m01s)
 * [Scaling Multitenant Architecture Across Multiple Data Centres at Shopify - Weingarten, Engineering Lead at Shopify](https://www.youtube.com/watch?v=F-f0-k46WVk)
+
+## Interactive Learning
+- [System Designer](https://systemdesigner.io) - Free AI-powered system design learning platform with interactive lessons, custom learning plans, and collaborative whiteboards. Chat with AI to explore 200+ topics, practice, and build projects. Covers fundamentals, GenAI, ML systems, and 67+ technologies.
 
 ## A Piece of Cake
 Roses are red. Violets are blue. [Binh](https://nguyenquocbinh.org/) likes sweet. [Treat Binh a tiramisu?](https://paypal.me/binhnguyennus) :cake:
