@@ -581,7 +581,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 * [High Availability at Netflix](https://medium.com/@NetflixTechBlog/tips-for-high-availability-be0472f2599c)
 * [High Availability Cloud Infrastructure at Twilio](https://www.twilio.com/engineering/2011/12/12/scaling-high-availablity-infrastructure-in-cloud)
 * [High Availability with Distributed DB on Kubernetes at Airbnb](https://airbnb.tech/infrastructure/achieving-high-availability-with-distributed-database-on-kubernetes-at-airbnb/)
-* [Automating Datacenter Operations at Dropbox](https://blogs.dropbox.com/tech/2019/01/automating-datacenter-operations-at-dropbox/)
+* [Automating Datacenter Operations at Dropbox](https://dropbox.tech/infrastructure/automating-datacenter-operations-at-dropbox)
 * [Globalizing Player Accounts at Riot Games](https://technology.riotgames.com/news/globalizing-player-accounts)
 
 ## Stability
@@ -610,7 +610,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Improving Performance with Background Data Prefetching at Instagram](https://engineering.instagram.com/improving-performance-with-background-data-prefetching-b191acb39898)
 	* [Fixing Linux filesystem performance regressions at LinkedIn](https://engineering.linkedin.com/blog/2020/fixing-linux-filesystem-performance-regressions)
 	* [Compression Techniques to Solve Network I/O Bottlenecks at eBay](https://www.ebayinc.com/stories/blogs/tech/how-ebays-shopping-cart-used-compression-techniques-to-solve-network-io-bottlenecks/)
-	* [Optimizing Web Servers for High Throughput and Low Latency at Dropbox](https://blogs.dropbox.com/tech/2017/09/optimizing-web-servers-for-high-throughput-and-low-latency/)
+	* [Optimizing Web Servers for High Throughput and Low Latency at Dropbox](https://dropbox.tech/infrastructure/optimizing-web-servers-for-high-throughput-and-low-latency)
 	* [Linux Performance Analysis in 60.000 Milliseconds at Netflix](https://medium.com/netflix-techblog/linux-performance-analysis-in-60-000-milliseconds-accc10403c55)
 	* [Live Downsizing Google Cloud Persistent Disks (PD-SSD) at Mixpanel](https://engineering.mixpanel.com/2018/07/31/live-downsizing-google-cloud-pds-for-fun-and-profit/)
 	* [Decreasing RAM Usage by 40% Using jemalloc with Python & Celery at Zapier](https://zapier.com/engineering/celery-python-jemalloc/)
@@ -627,7 +627,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Profiling C++ (Part 1: Optimization, Part 2: Measurement and Analysis) at Riot Games](https://engineering.riotgames.com/news/profiling-optimisation)
 	* [Profiling React Server-Side Rendering at HomeAway](https://medium.com/homeaway-tech-blog/profiling-react-server-side-rendering-to-free-the-node-js-event-loop-7f0fe455a901)
 	* [Hardware-Assisted Video Transcoding at Dailymotion](https://medium.com/dailymotion-engineering/hardware-assisted-video-transcoding-at-dailymotion-66cd2db448ae)
-	* [Cross Shard Transactions at 10 Million RPS at Dropbox](https://blogs.dropbox.com/tech/2018/11/cross-shard-transactions-at-10-million-requests-per-second/)
+	* [Cross Shard Transactions at 10 Million RPS at Dropbox](https://dropbox.tech/infrastructure/cross-shard-transactions-at-10-million-requests-per-second)
 	* [API Profiling at Pinterest](https://medium.com/@Pinterest_Engineering/api-profiling-at-pinterest-6fa9333b4961)
 	* [Pagelets Parallelize Server-side Processing at Yelp](https://engineeringblog.yelp.com/2017/07/generating-web-pages-in-parallel-with-pagelets.html)
 	* [Improving key expiration in Redis at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/improving-key-expiration-in-redis.html)
