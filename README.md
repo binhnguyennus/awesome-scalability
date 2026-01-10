@@ -266,6 +266,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Video Gatekeeper at Netflix](https://medium.com/netflix-techblog/re-architecting-the-video-gatekeeper-f7b0ac2f6b00)
 	* [Scaling Push Messaging for Millions of Devices at Netflix](https://www.infoq.com/presentations/neflix-push-messaging-scale)
 	* [Delaying Asynchronous Message Processing with RabbitMQ at Indeed](http://engineering.indeedblog.com/blog/2017/06/delaying-messages/)	
+	* [Exponential (Message) Backoff in RabbitMQ](https://www.brianstorti.com/rabbitmq-exponential-backoff/)
 	* [Benchmarking Streaming Computation Engines at Yahoo](https://yahooeng.tumblr.com/post/135321837876/benchmarking-streaming-computation-engines-at)
 	* [Improving Stream Data Quality With Protobuf Schema Validation at Deliveroo](https://deliveroo.engineering/2019/02/05/improving-stream-data-quality-with-protobuf-schema-validation.html)
 	* [Scaling Email Infrastructure at Medium](https://medium.engineering/scaling-email-infrastructure-for-medium-digest-254223c883b8)
