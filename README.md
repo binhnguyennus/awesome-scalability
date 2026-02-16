@@ -606,6 +606,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 * [Determinism (4 parts) in League of Legends Server](https://engineering.riotgames.com/news/determinism-league-legends-fixing-divergences)
 
 ## Performance
+* [Awesome Performance Engineering: Observability & Performance Testing Tools](https://github.com/be-next/awesome-performance-engineering)
 * [Performance Optimization on OS, Storage, Database, Network](https://stackify.com/application-performance-metrics/)
 	* [Improving Performance with Background Data Prefetching at Instagram](https://engineering.instagram.com/improving-performance-with-background-data-prefetching-b191acb39898)
 	* [Fixing Linux filesystem performance regressions at LinkedIn](https://engineering.linkedin.com/blog/2020/fixing-linux-filesystem-performance-regressions)
