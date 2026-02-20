@@ -604,6 +604,8 @@ An updated and organized reading list for illustrating the patterns of scalable,
 * [Throttling: Maintain a Steady Pace](http://www.sosp.org/2001/papers/welsh.pdf)
 * [Multi-Clustering: Improving Resiliency and Stability of a Large-scale Monolithic API Service at LinkedIn](https://engineering.linkedin.com/blog/2017/11/improving-resiliency-and-stability-of-a-large-scale-api)
 * [Determinism (4 parts) in League of Legends Server](https://engineering.riotgames.com/news/determinism-league-legends-fixing-divergences)
+* [Agent-Hypervisor: Runtime Supervisor for Multi-Agent Systems with Execution Rings, Saga Orchestration, and Circuit Breakers](https://github.com/imran-siddique/agent-hypervisor) - Provides fault tolerance patterns (circuit breakers, saga compensation, ring-based isolation) for AI agent systems at scale
+* [Agent-SRE: AI-Native Site Reliability Engineering Framework with SLOs, Chaos Testing, and Canary Deployments](https://github.com/imran-siddique/agent-sre) - SRE discipline for AI agent systems including error budgets, automated incident response, and progressive rollouts
 
 ## Performance
 * [Performance Optimization on OS, Storage, Database, Network](https://stackify.com/application-performance-metrics/)
