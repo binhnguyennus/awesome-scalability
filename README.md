@@ -226,6 +226,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
     * [Real-Time News Alerting at Bloomberg](https://www.infoq.com/presentations/news-alerting-bloomberg)
 	* [Data Pipeline Monitoring System at LinkedIn](https://engineering.linkedin.com/blog/2019/an-inside-look-at-linkedins-data-pipeline-monitoring-system-)
 	* [Monitoring and Observability at Picnic](https://blog.picnic.nl/monitoring-and-observability-at-picnic-684cefd845c4)
+	* [GPU Incident Response in 60 Seconds: An SRE's Guide to eBPF-Based GPU Observability](https://ingero.io/gpu-incident-response-in-60-seconds-an-sres-guide-to-ebpf-based-gpu-observability/)
 * [Distributed Security](https://msdn.microsoft.com/en-us/library/cc767123.aspx)
 	* [Aardvark and Repokid: AWS Least Privilege for Distributed, High-Velocity Development at Netflix](https://medium.com/netflix-techblog/introducing-aardvark-and-repokid-53b081bf3a7e)	
 	* [LISA: Distributed Firewall at LinkedIn](https://www.slideshare.net/MikeSvoboda/2017-lisa-linkedins-distributed-firewall-dfw)
