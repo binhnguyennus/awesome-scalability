@@ -205,6 +205,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
         * [MaaT: DAG-based Distributed Task Scheduler at Alibaba](https://hackernoon.com/meet-maat-alibabas-dag-based-distributed-task-scheduler-7c9cf0c83438)
         * [boundary-layer: Declarative Airflow Workflows at Etsy](https://www.etsy.com/codeascraft/boundary-layer-declarative-airflow-workflows)
 * [Distributed Monitoring and Alerting](https://www.oreilly.com/ideas/monitoring-distributed-systems)
+- [Glitch](https://github.com/Ankitajainkuniya/glitch-widget) - AI bug reporting with uptime monitoring and error alerting
 	* [Unicorn: Remediation System at eBay](https://www.ebayinc.com/stories/blogs/tech/unicorn-rheos-remediation-center/)
 	* [M3: Metrics and Monitoring Platform at Uber](https://eng.uber.com/optimizing-m3/)
 	* [Athena: Automated Build Health Management System at Dropbox](https://dropbox.tech/infrastructure/athena-our-automated-build-health-management-system)
