@@ -5,6 +5,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 #### If your system goes slow
 > Understand your problems: scalability problem (fast for a single user but slow under heavy load) or performance problem (slow for a single user) by reviewing some [design principles](#principle) and checking how [scalability](#scalability) and [performance](#performance) problems are solved at tech companies. The section of [intelligence](#intelligence) are created for those who work with data and machine learning at big (data) and deep (learning) scale.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for scalable multi-agent orchestration with task delegation, load balancing, health monitoring, and quality gates. MIT licensed.
 #### If your system goes down
 > "Even if you lose all one day, you can build all over again if you retain your calm!" - Thuan Pham, former CTO of Uber. So, keep calm and mind the [availability](#availability) and [stability](#stability) matters! 
 
