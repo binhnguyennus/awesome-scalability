@@ -92,6 +92,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 * [Design for Scaling Out](https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/scale-out)	
 * [Design for Evolution](https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/design-for-evolution)
 * [Learn from Mistakes](http://highscalability.com/blog/2013/8/26/reddit-lessons-learned-from-mistakes-made-scaling-to-1-billi.html)
+* [Thundering Herd: Why One Expired Key Takes Down a Database](https://vilearn.absolutedevs.in/learn/thundering-herd)
 
 ## Scalability
 * [Microservices and Orchestration](https://martinfowler.com/microservices/)
