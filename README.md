@@ -837,7 +837,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 * [Architecture of API Gateway at Tinder](https://medium.com/tinder/how-we-built-the-tinder-api-gateway-831c6ca5ceca)
 * [Basic Architecture of Slack](https://slack.engineering/how-slack-built-shared-channels-8d42c895b19f)
 * [Lightweight Distributed Architecture to Handle Thousands of Library Releases at eBay](https://tech.ebayinc.com/engineering/a-lightweight-distributed-architecture-to-handle-thousands-of-library-releases-at-ebay/)
-* [Back-end at LinkedIn](https://engineering.linkedin.com/architecture/brief-history-scaling-linkedin)
+* [Back-end at LinkedIn](https://www.linkedin.com/blog/engineering/architecture/brief-history-scaling-linkedin)
 * [Back-end at Flickr](https://yahooeng.tumblr.com/post/157200523046/introducing-tripod-flickrs-backend-refactored)
 * [Infrastructure (3 parts) at Zendesk](https://medium.com/zendesk-engineering/the-history-of-infrastructure-at-zendesk-part-3-foundation-team-forming-and-evolving-9859e40f5390)
 * [Cloud Infrastructure at Grubhub](https://bytes.grubhub.com/cloud-infrastructure-at-grubhub-94db998a898a)
