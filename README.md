@@ -886,6 +886,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Cloud Big Data Design Patterns - Lynn Langit](https://lynnlangit.com/2017/03/14/beyond-relational/)	
 	* [How NOT to design Netflix in your 45-minute System Design Interview?](https://hackernoon.com/how-not-to-design-netflix-in-your-45-minute-system-design-interview-64953391a054)
 	* [API Best Practices: Webhooks, Deprecation, and Design](https://zapier.com/engineering/api-best-practices/)
+	* [How System Design Interviews Are Actually Scored](https://medium.com/@itsaurelius/how-system-design-interviews-are-actually-scored-c032135b6924)
 * [Explaining Low-Level Systems (OS, Network/Protocol, Database, Storage)](https://www.cse.wustl.edu/~jain/cse567-06/ftp/os_monitors/index.html)
 	* [The Precise Meaning of I/O Wait Time in Linux](http://veithen.github.io/2013/11/18/iowait-linux.html)
 	* [Paxos Made Live – An Engineering Perspective](https://research.google.com/archive/paxos_made_live.html)
